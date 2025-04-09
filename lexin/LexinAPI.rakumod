@@ -7,13 +7,18 @@ module Lexin::Språk { ... }
 
 proto sub MAIN(|) is export {*}
 
-#! Under utv: indata = stdin, utdata = stdout, bara swe_swe-uppslag (dvs. lang = swe_swe)
+#! bara swe_swe-uppslag (dvs. lang = swe_swe)
+#| Ex: "$ echo babblar | raku LexinAPI.rakumod";
+#| Ex: "$ cat <FIL M RADVISA SV ORD> | raku LexinAPI.rakumod"
 multi sub MAIN() {
     say to-json Lexin::API::Klient.new(:lang("swe_swe")).uppslag($*IN.lines), :sorted-keys;
 }
 
-#! Under utv: indata = stdin, utdata = stdout, bara swe_swe-uppslag (dvs. lang = swe_swe)
-multi sub MAIN( :$raw! ) {
+#! bara swe_swe-uppslag (dvs. lang = swe_swe)
+#| Ex: "$ echo babblar | raku LexinAPI.rakumod" --raw;
+multi sub MAIN(
+    Bool :$raw!, #= matar ut inkommande rå json
+) {
     for Lexin::API::Klient.new(:lang("swe_swe"), :$raw).uppslag($*IN.lines) {
 	say $_[0];
 	say '-----';
@@ -22,8 +27,12 @@ multi sub MAIN( :$raw! ) {
     }
 }
 
-multi sub MAIN($ord, :$lang!) {
-    say to-json Lexin::API::Klient.new(| Lexin::Språk::lang($lang)).uppslag($ord), :sorted-keys;
+#| Ex: "$ raku LexinAPI.rakumod --lang='swe>fin' babbla cyklade"
+multi sub MAIN(
+    Str :$lang!, #= KÄLLSPRÅK>MÅLSPRÅL, ex "swe>fin"
+    *@ord,       #= ett eller flera källspråksord, ex. "babblar cyklade"
+) {
+    say to-json Lexin::API::Klient.new(| Lexin::Språk::lang($lang)).uppslag(@ord), :sorted-keys;
 #    say $ord;
 #    say Lexin::Språk::lang($lang);
 }
@@ -32,7 +41,9 @@ multi sub MAIN( Bool :$zzz! ) {
     say Lexin::Språk::zzz();
 }
 
-multi sub MAIN( Bool :$json-rader! ) {
+multi sub MAIN(
+    Bool :$json-rader!, #= mata ut resultatet som separata jsonrader (istf jsonarray)
+) {
     Lexin::API::Klient.new(:lang("swe_swe")).uppslag($*IN.lines).map: { say to-json( $_, :sorted-keys, :!pretty ) };
 }
 
