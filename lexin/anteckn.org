@@ -1,0 +1,17 @@
+* <2025-04-09 Wed> GE                                                :frågor:
+
+1. Behöver det färdiga lexikonet verkligen passera genom transtool och
+   därmmed vara beroende av de begränsningar som ordbasen där ger? Eller
+   kan man kanske helt enkelt bara köra in det som finns i indata?
+  Förmodligen inte ...
+
+2. Vad händer om sv-material i indata inte (helt) överensstämmer med
+   ordbasen? Finns ddet nåt sätt attt få med översättningarna ändå
+   eller är sådant maaterial bara att dumpa? Det kan gälla:
+   - definition
+   - sammansätttning
+   - exempel
+   - idiom
+   - annat?
+
+     
