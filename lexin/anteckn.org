@@ -7,11 +7,51 @@
 
 2. Vad händer om sv-material i indata inte (helt) överensstämmer med
    ordbasen? Finns ddet nåt sätt attt få med översättningarna ändå
-   eller är sådant maaterial bara att dumpa? Det kan gälla:
+   eller är sådant material bara att dumpa? Det kan gälla:
    - definition
    - sammansätttning
    - exempel
    - idiom
    - annat?
-
      
+* <2025-04-17 Thu> GE
+Lite kollar på täckningen för aktuell lexin sv-uppslag (unnder S) i
+kelderashdaata:
+
+#+begin_src bash
+time grep '#01' s.txt | cut -f2- -d' ' | sed 's/\~//g' | raku api2.raku --status | grep '"Wordbase"' | sunis
+#+end_src
+
+: 1563       "Wordbase": "LSL4",
+: 1439       "Wordbase": "LSL4"
+: 
+: real	2m12.952s
+: user	0m57.943s
+: sys 	0m4.713s
+
+#+begin_src bash
+time grep '#01' s.txt | cut -f2- -d' ' | sed 's/\~//g' | raku api2.raku --status > status_S.json
+#+end_src
+
+: real	2m16.439s
+: user	0m58.635s
+: sys 	0m4.699s
+
+#+begin_src bash
+grep '#01' s.txt | wc -l
+#+end_src
+
+:    3039
+
+#+begin_src bash
+grep '"Status"' status_S.json | sunis
+#+end_src
+
+: 1389       "Status": "found"
+: 1369       "Status": "found",
+:  147       "Status": "no unique matching",
+:   52       "Status": "no unique matching"
+:   37       "Status": "no matching"
+:   31       "Status": "corrected",
+:   14       "Status": "corrected"
+
