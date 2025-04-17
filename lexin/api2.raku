@@ -32,6 +32,22 @@ if $response.is-success {
 }
 )
 
+#| Ex: "$ echo babblar | raku XXX";
+#| Ex: "$ cat <FIL M RADVISA SV ORD> | raku XXX"
+multi sub MAIN() {
+    say to-json Lexin::API::Klient.new(:lang("swe_swe")).uppslag($*IN.lines), :sorted-keys;
+}
+
+#| Ex: "$ echo babblar | raku XXX  --status";
+#| Ex: "$ cat <FIL M RADVISA SV ORD> | raku XXX --status"
+multi sub MAIN(
+    Bool :$status!,   #= matar bara ut Corrections, Status och Wordbase
+) {
+    my @svar = Lexin::API::Klient.new(:lang("swe_swe")).uppslag($*IN.lines);
+    say to-json [ @svar[0][0], @svar[0][1].pairs.grep( *.key ∈ <Corrections Status Wordbase> ).Hash ], :sorted-keys;
+}
+
+
 multi sub MAIN(
     Str :$lang!, #= KÄLLSPRÅK>MÅLSPRÅL, ex "swe>fin"
     *@ord,       #= ett eller flera källspråksord, ex. "babblar cyklade"
@@ -48,7 +64,7 @@ class Lexin::API::Klient {
     has Str    $tjänst           = 'http://lexin.nada.kth.se/lexin/';
     has FromTo $.riktn           = 'to';
     has Str    $.lang is required;
-    has        $ua               = LWP::UserAgent.new( agent => 'Lexin-API-klient/0.1 ' );
+    #has        $ua               = LWP::UserAgent.new( agent => 'Lexin-API-klient/0.1 ' );
     has Bool   $.raw             = False; #= Om True matas jsonformatet från API:et ut
 
     method uppslag (*@ord --> Seq) {
