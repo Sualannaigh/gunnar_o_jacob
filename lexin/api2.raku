@@ -1,9 +1,8 @@
 use HTTP::UserAgent;
 use JSON::Fast; # <sorted-keys>;
-
+use URI::Encode;
 class  Lexin::API::Klient { ... }
 #module Lexin::Språk { ... }
-
 
 #`(
 my $tjänst          = 'http://lexin.nada.kth.se/lexin/';
@@ -44,6 +43,9 @@ multi sub MAIN(
     Bool :$status!,   #= matar bara ut Corrections, Status och Wordbase
 ) {
     my @svar = Lexin::API::Klient.new(:lang("swe_swe")).uppslag($*IN.lines);
+    # varför fungerar inte detta ----------------------->       ^^^^^^^^^^
+    # för
+    # grep '#01' s.txt | head | cut -f2- -d' ' | sed 's/\~//g' | raku api2.raku --status
     say to-json [ @svar[0][0], @svar[0][1].pairs.grep( *.key ∈ <Corrections Status Wordbase> ).Hash ], :sorted-keys;
 }
 
@@ -77,11 +79,11 @@ class Lexin::API::Klient {
  	    #$req.content('query=libwww-perl&mode=dist');
 	    #my $res = $ua.request($req);
 
-	    my $res = $ua.get( self.url($ord.trim));
-	    
-	    if    ! $!raw and $res.is-success { take [ $ord.trim, from-json $res.content ] }
-	    elsif   $!raw and $res.is-success { take [ $ord.trim,           $res.content ] }
-	    else                              { note $res.status-line }
+	    my $res = $ua.get( self.url($ord.trim.&uri_encode) );
+
+	    if    ! $!raw and $res.is-success { note 111; take [ $ord.trim, from-json $res.content ] }
+	    elsif   $!raw and $res.is-success { note 222; take [ $ord.trim,           $res.content ] }
+	    else                              { note 333; note $res.status-line }
 	}
     }
 
