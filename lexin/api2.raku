@@ -2,34 +2,8 @@ use HTTP::UserAgent;
 use JSON::Fast; # <sorted-keys>;
 use URI::Encode;
 class  Lexin::API::Klient { ... }
-#module Lexin::Språk { ... }
+module Lexin::Språk { ... }
 
-#`(
-my $tjänst          = 'http://lexin.nada.kth.se/lexin/';
-my $riktn           = 'to';
-my $lang            = "swe_swe";
-my $ord             = 'babbladde';
-my $url = sprintf( "%sservice?searchinfo=%s,%s,%s&output=JSON",
-	            #                    #  #  #
-	            #                    #  #  #
-	            $tjänst,             $riktn,
-	                                    #  #
-	                                    $lang,
-                                               #
-	                                       $ord);
-
-
-my $ua = HTTP::UserAgent.new
-$ua.timeout = 10;
-
-my $response = $ua.get($url);
-
-if $response.is-success {
-    say $response.content;
-} else {
-    die $response.status-line;
-}
-)
 
 #| Ex: "$ echo babblar | raku XXX";
 #| Ex: "$ cat <FIL M RADVISA SV ORD> | raku XXX"
@@ -52,8 +26,6 @@ multi sub MAIN(
     *@ord,       #= ett eller flera källspråksord, ex. "babblar cyklade"
 ) {
     say to-json Lexin::API::Klient.new(| Lexin::Språk::lang($lang)).uppslag(@ord), :sorted-keys;
-#    say $ord;
-#    say Lexin::Språk::lang($lang);
 }
 
 
@@ -67,15 +39,9 @@ class Lexin::API::Klient {
     has Bool   $.raw             = False; #= Om True matas jsonformatet från API:et ut
 
     method uppslag (*@ord --> Seq) {
-	# <-- Seq
-
 	my $ua = HTTP::UserAgent.new( timeout => 10 );
 	
 	gather for @ord.hyper -> $ord {
-	    #my $req = HTTP::Request.new( GET => self.url($ord.trim) );
- 	    #$req.content('query=libwww-perl&mode=dist');
-	    #my $res = $ua.request($req);
-
 	    my $res = $ua.get( self.url($ord.trim.&uri_encode) );
 
 	    if    ! $!raw and $res.is-success { take [ $ord.trim, from-json $res.content ] }
@@ -92,5 +58,38 @@ class Lexin::API::Klient {
 	                                   $!lang,
                                               #
 	                                      $ord);
+    }
+}
+
+module Lexin::Språk {
+    my @språkpar = <
+       	  swe_alb swe_amh swe_ara swe_azj swe_bos swe_eng swe_fin
+	  swe_gre swe_hrv swe_kmr swe_per swe_pus swe_rom swe_rus
+	  swe_sdh swe_som swe_spa swe_srp swe_srp_cyrillic
+	  swe_tha swe_tir swe_tur swe_ukr
+    >; #  swe_swe
+
+    our @språk =  @språkpar.map({ | .split: '_', 2 }).unique;
+    
+    our @språkpar-med-riktning = @språk
+                                  .grep( * ne 'swe')
+				  .map({ | ('swe>' ~ $_, $_ ~ '>swe')})
+				  .unique
+				  .Array;
+
+    our proto sub lang (Str --> Hash) {*}
+
+    multi sub lang ($ where * ~~ 'swe' | 'swe>swe' ) {
+	%(lang => 'swe_swe', riktn => 'to');
+    }
+
+    multi sub lang (Str $lang-riktn where * ∈  @språkpar-med-riktning) {
+	my (Str $l1, Str $l2) = $lang-riktn.split: '>';
+
+	my $riktn = 'to';
+	my $språk = $l1 ~ '_' ~ $l2;
+	{ $riktn = 'from'; $språk = $l2 ~ '_' ~ $l1 } if $l2 ~~ 'swe';
+
+	%(lang => $språk, riktn => $riktn);
     }
 }
