@@ -1,0 +1,147 @@
+#01 zenit
+#31 o maškar ando čeri
+#02 subst.
+#32 substantivo
+#04 högsta punkten på himlen
+#07 solen står i zenit
+#37 
+#47 12039
+#14 sE:nit
+#15 oböjligt
+#45 
+#98 19181
+#99 21298
+#54 
+#01 zigenare
+#31 rom
+#02 subst.
+#32 substantivo
+#04 medlem av en folkgrupp (ursprungligen från Indien) som finns spridd över världen
+#05 numera oftast ersatt av romer
+#35 akana bušonpe rom
+#12 zigenar(e)n zigenare zigenarna
+#14 2sijE:nare (el. 2sig-)
+#98 19182
+#99 21299
+#54 
+#01 zigensk
+#31 romani, romano
+#02 adj.
+#32 adjektivo
+#04 som avser zigenare
+#12 zigenskt zigenska
+#14 sijE:nsk (el. sig-)
+#98 19183
+#99 21300
+#54 
+#01 zink
+#31 zinko
+#02 subst.
+#32 substantivo
+#04 ett metalliskt grundämne (Zn)
+#12 zinken
+#14 si@:k
+#98 19184
+#99 21301
+#54 
+#97 mini
+#01 zombie
+#31 zombio (fg:zombi)
+#02 subst.
+#32 substantivo
+#04 slö och ointresserad person
+#12 zombien zombier (el. zombies)
+#14 sÅm:bi
+#98 19185
+#99 21302
+#54 
+#01 zon
+#31 gor, rig
+#02 subst.
+#32 substantivo
+#04 område, bälte
+#07 internationell zon
+#37 internationalnio rig
+#47 12040
+#11 taxezon
+#41 
+#51 7953
+#11 zon~gräns -en
+#41 
+#51 7954
+#12 zonen zoner
+#14 so:n
+#98 19186
+#99 21303
+#54 
+#97 mini
+#01 zoo
+#31 žigenongi parka, zoo (fg:žigenjengo parko)
+#02 subst.
+#32 substantivo
+#04 zoologisk trädgård, djurpark
+#07 gå på zoo
+#37 ža ka zoo
+#47 12041
+#12 zoot zoon zoona
+#14 so:
+#98 19187
+#99 21304
+#54 
+#97 mini
+#01 zoologi
+#31 zoologia
+#02 subst.
+#32 substantivo
+#04 vetenskapen om djuren
+#12 zoologi(e)n
+#14 s(o:)olågI:
+#98 19188
+#99 21305
+#54 
+#01 zoologisk
+#31 zologisko
+#02 adj.
+#32 adjektivo
+#04 som avser zoologi, djur-
+#07 zoologisk trädgård
+#37 
+#47 12042
+#07 zoologiskt intresserad
+#37 
+#47 12043
+#12 zoologiskt zoologiska
+#14 solÅ:gisk
+#98 19189
+#99 21306
+#54 
+#01 zoom
+#31 zumo
+#02 subst.
+#32 substantivo
+#04 zoomobjektiv
+#12 zoomen
+#14 sO:m
+#98 19190
+#99 21307
+#54 
+#01 zoom~objektiv
+#31 zumo kai e kamera
+#02 subst.
+#32 substantivo
+#04 kameraobjektiv vars brännvidd lätt ändras
+#12 -objektivet -objektiv -objektiven
+#14 2sO:måbjekti:v
+#98 19191
+#99 21308
+#54 
+#01 zucchini
+#31 krestevecia  (fg:krestevetci)
+#02 subst.
+#32 substantivo
+#04 gurkliknande grönsak, squash
+#12 zucchinin zucchinier
+#14 (t)sokI:ni
+#98 19192
+#99 21309
+#54 jekh fialo sorto anda krestevetci 

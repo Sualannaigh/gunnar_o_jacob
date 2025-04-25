@@ -1,0 +1,199 @@
+#01 walk over
+#31 walk over, šudel pe avri
+#02 subst.
+#32 substantivo
+#04 det att inte ställa upp i en tävling när det har varit planerat
+#05 engelska
+#35 
+#07 vinna på walk over
+#37 neril ando walk over
+#47 12007
+#12 "eng.uttal"
+#14 wå:kÅ+over
+#98 19116
+#99 21231
+#54 
+#01 walkie talkie
+#31 walkie talkie, vastesko telefono
+#02 subst.
+#32 substantivo
+#04 bärbar kommunikationsradio
+#05 engelska
+#35 
+#12 walkie talkien walkie talkier
+#14 wå:kitÅ:ki
+#98 19117
+#99 21232
+#54 
+#01 watt
+#31 efekto, zor
+#02 subst.
+#32 substantivo
+#04 enhet för effekt
+#09 bild 31:62
+#39 
+#11 40 watts~lampa  n
+#41 40 zorako lampo
+#51 7941
+#12 watten watt watten
+#14 vat:
+#98 19118
+#99 21233
+#54 
+#97 mini
+#01 wc
+#31 wc, kekestaria/budara
+#02 subst.
+#32 substantivo
+#04 vattenklosett, toalett
+#09 bild 11:23
+#39 
+#12 wc:n
+#14 2vE:se:
+#98 19119
+#99 21234
+#54 
+#97 mini
+#01 webb~adress
+#31 web adresa
+#02 subst.
+#32 substantivo
+#04 adress inom World Wide Web, normalt till en webbsida
+#06 Det är webbadressen som syns överst i webbläsarfönstret och som ofta inleds med http: eller ftp:.
+#36 E web adresa si kai dičol opral ande internetoski patrin ai kai butivar lelpe jekhe http: vai ftp:.
+#07 webbadressen till Svenska datatermgruppens ingångssida är http://www.nada.kth.se/dataterm
+#37 web adresa kai le Švedoski dataski vorbengi grupa si http://www.nada.kth.se/dataterm
+#47 
+#12  adressen  adresser
+#14 2vEb:adres:
+#99 212341
+#54 internetoski rig
+#01 webb~läsare
+#31 web žinitori
+#02 subst.
+#32 substantivo
+#04 datorprogram för hämtning och visning av information via World Wide Web
+#06 Netscape är ett exempel på en webbläsare.
+#36 Netscape si jekh eksemplo pe jekh web žinitori.
+#12  läsaren  läsare  läsarna
+#14 2vEb:lä:sare
+#99 212342
+#54 
+#01 webb~mästare
+#31 web birevo/maistro
+#02 subst.
+#32 substantivo
+#04 person som har det övergripande ansvaret för en webbplats
+#05 om datorer
+#35 
+#06 Kan även kallas ^webbansvarig^.
+#36 Šaj vi bušol webosko responsablo
+#12  mästaren  mästare  mästarna
+#14 2vEb:mes:tare
+#99 212343
+#54 
+#01 webb~plats
+#31 web than
+#02 subst.
+#32 substantivo
+#04 en sammanhållen mängd webbsidor
+#05 om datorer
+#35 
+#06 Många webbplatser innehåller en stor mängd olika webbdokument som man når via länkar.
+#36 But web thana si len but diferenti web dokumentura kai šaj arakhenpe de pa le internetoske riga.
+#12  platsen  platser
+#14 2vEb:plat:s
+#99 212344
+#54 
+#01 webb~redaktör
+#31 web redaktoro
+#02 subst.
+#32 substantivo
+#04 den person som ansvarar för den information som publiceras på en webbplats
+#05 om datorer
+#35 
+#12  redaktören  redaktörer
+#14 2vEb:redaktö:r
+#99 212345
+#54 
+#01 webb~sida
+#31 web patrin, weboski rig
+#02 subst.
+#32 substantivo
+#04 den text  el. bildmängd på en webbplats man kan se på skärmen samtidigt el. genom att rulla bilden
+#05 om datorer
+#35 
+#07 det finns många webbsidor på vår webbplats
+#37 but web riga si pe amaro web than
+#47 
+#12  sidan  sidor
+#14 2vEb:si:da
+#99 212346
+#54 
+#01 webb~tekniker
+#31 webosko teknikari, internetosko teknikari
+#02 subst.
+#32 substantivo
+#04 den person som ansvarar för det tekniska på en webbplats
+#05 om datorer
+#35 
+#12  teknikern  tekniker  teknikerna
+#14 2vEb:tek:niker
+#99 212347
+#54 
+#01 whisky
+#31 whisky, rečia, loli rečia
+#02 subst.
+#32 substantivo
+#04 en spritdryck
+#12 whiskyn
+#14 vIs:ky (el.  i)
+#98 19120
+#99 21235
+#54 
+#01 wiener~bröd
+#31 wiener manro, gugli pirožna
+#02 subst.
+#32 substantivo
+#04 ett slags kaffebröd
+#12 brödet bröd  bröden
+#14 2vI:nerbrö:d
+#98 19121
+#99 21236
+#54 kafako manroro, kafaki pirošna
+#97 mini
+#01 wiener~korv
+#31 wiener goj, brišla
+#02 subst.
+#32 substantivo
+#04 en sorts lång smal korv (som grillas el. kokas)
+#12  korven  korvar
+#14 2vi:nerkår:v
+#98 19122
+#99 21237
+#54 
+#01 work out
+#31 work out
+#02 subst.
+#32 substantivo
+#04 ett slags modern gymnastik utan redskap
+#05 engelska
+#35 
+#14 wö:(r)kA+ot
+#98 19123
+#99 21238
+#54 
+#01 World Wide Web
+#31 World Wide Web
+#02 subst.
+#32 substantivo
+#04 funktion på Internet el. på ett intranät som medger att man enkelt kan hämta sammanlänkad information i form av text, bild och ljud
+#05 vardaglig form ^webben^
+#35 
+#06 Ofta förkortat ^www^.
+#36 
+#07 han letar information på webben
+#37 vo rodel informatsia pe web rig
+#47 
+#99 212381
+#54 
