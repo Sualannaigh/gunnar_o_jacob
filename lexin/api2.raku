@@ -11,12 +11,24 @@ multi sub MAIN() {
     say to-json Lexin::API::Klient.new(:lang("swe_swe")).uppslag($*IN.lines), :sorted-keys;
 }
 
+#| Ex: "$ echo raku XXX babblar tonsill [ ... ]";
+multi sub MAIN(
+    :$raw = False,
+    *@ord,
+) {
+    my @resultat = Lexin::API::Klient.new(:raw($raw), :lang("swe_swe")).uppslag(@ord);
+    if $raw { say @resultat }
+    else    { say to-json @resultat, :sorted-keys }
+}
+
 #| Ex: "$ echo babblar | raku XXX  --status";
 #| Ex: "$ cat <FIL M RADVISA SV ORD> | raku XXX --status"
 multi sub MAIN(
-    Bool :$status!,   #= matar bara ut Corrections, Status och Wordbase
+    Bool :$status!,         #= matar bara ut Corrections, Status och Wordbase
+    Str :$lang = 'swe>swe', #= KÄLLSPRÅK>MÅLSPRÅL, ex "swe>fin"
+    
 ) {
-    my @svar = Lexin::API::Klient.new(:lang("swe_swe")).uppslag($*IN.lines);
+    my @svar = Lexin::API::Klient.new(| Lexin::Språk::lang($lang)).uppslag($*IN.lines);
     say to-json @svar.map: { [ .[0], .[1].pairs.grep( *.key ∈ <Corrections Status Wordbase> ).Hash ] }, :sorted-keys;
 }
 
@@ -42,12 +54,14 @@ class Lexin::API::Klient {
 	my $ua = HTTP::UserAgent.new( timeout => 10 );
 	
 	gather for @ord.hyper -> $ord {
+	    note $ord;
 	    my $res = $ua.get( self.url($ord.trim.&uri_encode) );
 
 	    if    ! $!raw and $res.is-success { take [ $ord.trim, from-json $res.content ] }
 	    elsif   $!raw and $res.is-success { take [ $ord.trim,           $res.content ] }
 	    else                              { note $res.status-line }
 	}
+	note "KLAR";
     }
 
     method url (Str $ord --> Str) {
