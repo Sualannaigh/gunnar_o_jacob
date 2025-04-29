@@ -11,7 +11,7 @@ multi sub MAIN() {
     say to-json Lexin::API::Klient.new(:lang("swe_swe")).uppslag($*IN.lines), :sorted-keys;
 }
 
-#| Ex: "$ echo raku XXX babblar tonsill [ ... ]";
+#| Ex: "$ raku XXX babblar tonsill [ ... ]";
 multi sub MAIN(
     :$raw = False,
     *@ord,
@@ -29,15 +29,18 @@ multi sub MAIN(
     
 ) {
     my @svar = Lexin::API::Klient.new(| Lexin::Språk::lang($lang)).uppslag($*IN.lines);
-    say to-json @svar.map: { [ .[0], .[1].pairs.grep( *.key ∈ <Corrections Status Wordbase> ).Hash ] }, :sorted-keys;
+    say to-json @svar.map: { [ .[0], .[1].pairs.grep( *.key ∈ <Corrections Status Variant Wordbase> ).Hash ] }, :sorted-keys;
 }
 
 
 multi sub MAIN(
-    Str :$lang!, #= KÄLLSPRÅK>MÅLSPRÅL, ex "swe>fin"
-    *@ord,       #= ett eller flera källspråksord, ex. "babblar cyklade"
+    Bool :$raw = False,  #= Om True matas "originaljson" från servern ut
+    Str  :$lang!,        #= KÄLLSPRÅK>MÅLSPRÅL, ex "swe>fin"
+    *@ord,               #= ett eller flera källspråksord, ex. "babblar cyklade"
 ) {
-    say to-json Lexin::API::Klient.new(| Lexin::Språk::lang($lang)).uppslag(@ord), :sorted-keys;
+    my @resultat = Lexin::API::Klient.new( :raw($raw), | Lexin::Språk::lang($lang)).uppslag(@ord);
+    if $raw { say @resultat }
+    else    { say to-json @resultat, :sorted-keys }
 }
 
 
@@ -47,21 +50,18 @@ class Lexin::API::Klient {
     has Str    $tjänst           = 'http://lexin.nada.kth.se/lexin/';
     has FromTo $.riktn           = 'to';
     has Str    $.lang is required;
-    #has        $ua               = LWP::UserAgent.new( agent => 'Lexin-API-klient/0.1 ' );
+    has        $ua               = HTTP::UserAgent.new( timeout => 10, agent => 'Lexin-API-klient/0.8' );
     has Bool   $.raw             = False; #= Om True matas jsonformatet från API:et ut
-
+    
     method uppslag (*@ord --> Seq) {
-	my $ua = HTTP::UserAgent.new( timeout => 10 );
-	
 	gather for @ord.hyper -> $ord {
-	    note $ord;
 	    my $res = $ua.get( self.url($ord.trim.&uri_encode) );
 
-	    if    ! $!raw and $res.is-success { take [ $ord.trim, from-json $res.content ] }
+	    if    ! $!raw and $res.is-success { take [ $ord.trim, from-json &tmp-viggo-fix( $res.content )] }
+	    #if    ! $!raw and $res.is-success { take [ $ord.trim, from-json $res.content ] }
 	    elsif   $!raw and $res.is-success { take [ $ord.trim,           $res.content ] }
 	    else                              { note $res.status-line }
 	}
-	note "KLAR";
     }
 
     method url (Str $ord --> Str) {
@@ -72,6 +72,10 @@ class Lexin::API::Klient {
 	                                   $!lang,
                                               #
 	                                      $ord);
+    }
+
+    sub tmp-viggo-fix (Str $viggo-json) {
+	$viggo-json.subst: Q<"Meaning": "tecknet \",>, Q<"Meaning": "tecknet \\",>;
     }
 }
 

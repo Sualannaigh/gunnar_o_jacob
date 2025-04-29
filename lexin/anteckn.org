@@ -55,3 +55,74 @@ grep '"Status"' status_S.json | sunis
 :   31       "Status": "corrected",
 :   14       "Status": "corrected"
 
+<2025-04-26 Sat>
+(Förhoppningsvis) samma körningssresultat med ny form för indata:
+
+#+begin_src bash
+   time cat ../kelderasch_filer/s.json | raku -MJSON::Fast -e '$*IN.slurp.&from-json.map: *.<#01>.subst("~", "|",:g).say' | raku api2.raku --status > status_swe-swe_S.json 
+#+end_src
+
+<2025-04-29 Tue>
+
+Också för swe_fin (dvs. "Wordbase": "LSL3"):
+#+begin_src bash
+  time cat ../kelderasch_filer/s.json | raku -MJSON::Fast -e '$*IN.slurp.&from-json.map: *.<#01>.subst("~", "|",:g).say' | raku api2.raku --lang='swe>fin' --status > status_swe-fin_S.json 
+#+end_src
+
+Med statistik (för S):
+#+begin_src bash
+  cat  status_swe-fin_S.json | grep Status | raku -ne 'say .subst(/","\h*$/, "")' | sunis
+
+  cat  status_swe-fin_S.json | grep ':' | raku -ne 'say .subst(/","\h*$/, "")' | sunis
+#+end_src
+
+: 2196       "Status": "found"
+:  662       "Status": "corrected"
+:  172       "Status": "no unique matching"
+:    9       "Status": "no matching"
+
+: 3030       "Wordbase": "LSL3"
+: 2196       "Status": "found"
+:  662       "Status": "corrected"
+:  172       "Status": "no unique matching"
+:    9       "Status": "no matching"
+
+swe_swe (igen):
+: 2994       "Wordbase": "LSL4"
+: 2162       "Status": "found"
+:  832       "Corrections": [
+:  632       "Status": "corrected"
+:  200       "Status": "no unique matching"
+:   45       "Status": "no matching"
+
+: 2162       "Status": "found"
+:  632       "Status": "corrected"
+:  200       "Status": "no unique matching"
+:   45       "Status": "no matching"
+
+* <2025-04-29 Tue>╭                                              :viggo_json:
+Jag hade probllem med att få körning mot =LSL3= dvs. =swe_fin= att gå
+igenom. Efter ganska mycket letande hittade jag det i brister i den
+json som produceras av lexins (json)-API.
+
+Enda fallet (under boksatven S) som ställer till problem är:
+#+begin_src
+"Value": "omv\u00e4nt snedstreck",
+"Type": "subst.",
+"VariantID": "12445",
+[ ... ]
+"Meaning": "tecknet \", 
+#+end_src
+
+där alltså sekvensen '\"' är ett specialtecken för inbäddade
+dubbelfnuttar och vad saknas för att få giltig json är escapning av
+'\': 
+#+begin_src 
+"Meaning": "tecknet \\", 
+#+end_src
+
+Jag har löst det temporärt genom att skrivaom just den strängen till
+dden escapade motsvarigheten, men ska kontakta Viggo i ärendet,
+fler kan ju få problem, exempelvis =lexin.se= som vad jag förstår
+använder json-apiet ....
+
