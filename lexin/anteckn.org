@@ -121,8 +121,8 @@ dubbelfnuttar och vad saknas för att få giltig json är escapning av
 "Meaning": "tecknet \\", 
 #+end_src
 
-Jag har löst det temporärt genom att skrivaom just den strängen till
-dden escapade motsvarigheten, men ska kontakta Viggo i ärendet,
+Jag har löst det temporärt genom att skriva om just den strängen till
+den escapade motsvarigheten, men ska kontakta Viggo i ärendet,
 fler kan ju få problem, exempelvis =lexin.se= som vad jag förstår
 använder json-apiet ....
 
