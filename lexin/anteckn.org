@@ -126,3 +126,26 @@ den escapade motsvarigheten, men ska kontakta Viggo i ärendet,
 fler kan ju få problem, exempelvis =lexin.se= som vad jag förstår
 använder json-apiet ....
 
+* COMMENT <2025-05-07 Wed>
+Jag hittar allt fler fall där sökningar på det svenska uppslaget inte
+ger det svar (beträffande ID och VariantID) som på nåt
+tillfredställande sätt motsvarar informationen i
+kelderashmaterialet. I vissa fall ID-värdena överenstämma men den
+svenska diefinitionen eller nåt (svenskt) exempel skiljer sig åt. Även
+då är det svårt att mappa samman dem ... Eller?
+
+Jag borde sammanställa en liten hög med enxempel.
+
+Jag kollade också lite på hur många oöversatta poster det finns i
+materialet:
+
+#+begin_src bash
+cat ../kelderasch_filer/s.json | raku -MJSON::Fast -e 'for $*IN.slurp.&from-json { next if .<#31>; next if .<#02> ~~ /^"se "/; next if .<#54>; say .<#01> }' | wc -l
+     156
+#+end_src
+
+#+begin_src bash
+for f in  ../kelderasch_filer/*.json; do  cat $f | raku -MJSON::Fast -e 'for $*IN.slurp.&from-json { next if .<#31>; next if .<#02> ~~ /^"se "/; next if .<#54>; say .<#01> }'; done | wc -l
+   2407
+#+end_src
+
