@@ -101,7 +101,7 @@ swe_swe (igen):
 :   45       "Status": "no matching"
 
 * <2025-04-29 Tue>╭                                              :viggo_json:
-Jag hade probllem med att få körning mot =LSL3= dvs. =swe_fin= att gå
+Jag hade problem med att få körning mot =LSL3= dvs. =swe_fin= att gå
 igenom. Efter ganska mycket letande hittade jag det i brister i den
 json som produceras av lexins (json)-API.
 
@@ -126,7 +126,7 @@ den escapade motsvarigheten, men ska kontakta Viggo i ärendet,
 fler kan ju få problem, exempelvis =lexin.se= som vad jag förstår
 använder json-apiet ....
 
-* COMMENT <2025-05-07 Wed>
+* <2025-05-07 Wed>
 Jag hittar allt fler fall där sökningar på det svenska uppslaget inte
 ger det svar (beträffande ID och VariantID) som på nåt
 tillfredställande sätt motsvarar informationen i
@@ -149,3 +149,24 @@ for f in  ../kelderasch_filer/*.json; do  cat $f | raku -MJSON::Fast -e 'for $*I
    2407
 #+end_src
 
+* <2025-05-14 Wed> GE                                                 :Viggo:
+
+Viggo berättade att haan redan gjort en parser för "radformatet" och
+producerat en xmlfil. Dock hittade han då ett antal fel i indata:
+
+- en lista med "felstavningar"
+- c:a 300 ord ssom bara saknas.
+
+de saknade orden:
+| 16320 | <Word ID="14758" MatchingID="18880" Type="subst." Value="slipover" Variant="" VariantID="16320"> |
+|   ... | <saknade ord>                                                                                    |
+| 16687 | <Word ID="15094" MatchingID="19302" Type="verb" Value="snusar" Variant="" VariantID="16687">     |
+
+#+begin_src emacs-lisp
+(- 16687 16320)
+#+end_src
+
+#+RESULTS:
+: 367
+
+Alltså 367 ord.
