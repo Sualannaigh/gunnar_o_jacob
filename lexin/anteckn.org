@@ -155,12 +155,16 @@ Viggo berättade att haan redan gjort en parser för "radformatet" och
 producerat en xmlfil. Dock hittade han då ett antal fel i indata:
 
 - en lista med "felstavningar"
-- c:a 300 ord ssom bara saknas.
+- c:a 300 ord som bara saknas.
 
 de saknade orden:
-| 16320 | <Word ID="14758" MatchingID="18880" Type="subst." Value="slipover" Variant="" VariantID="16320"> |
-|   ... | <saknade ord>                                                                                    |
-| 16687 | <Word ID="15094" MatchingID="19302" Type="verb" Value="snusar" Variant="" VariantID="16687">     |
+| löpnr | swe_fin                                                                                                |
+|-------+--------------------------------------------------------------------------------------------------------|
+| 16320 | <Word ID="14758" MatchingID="18880" Type="subst." Value="slipover" Variant="" VariantID="16320">       |
+| 16321 | <saknas> <Word ID="14759" MatchingID="18881" Type="verb" Value="slipper" Variant="" VariantID="16321"> |
+|   ... | <flera saknade ord>                                                                                    |
+| 16686 | <saknas> <Word ID="15093" MatchingID="19301" Type="subst." Value="snus" Variant="" VariantID="16686">  |
+| 16687 | <Word ID="15094" MatchingID="19302" Type="verb" Value="snusar" Variant="" VariantID="16687">           |
 
 #+begin_src emacs-lisp
 (- 16687 16320)
@@ -170,3 +174,77 @@ de saknade orden:
 : 367
 
 Alltså 367 ord.
+
+* <2025-05-15 Thu> GE
+Jag har diffat lite impressionistiskt på Viggos fil
+=lexinextra/dictionaries/swe_kal.txt= och våra/Bakis filer och tycker
+mig se skilllnader åt båda håll. Alltså "våra" verkar bättre/nyare
+ibland och ibland tvärtom. Vi behöver nog få (nån slags uppskattning
+om) redigeringsdatum av både Baki och Viggo.
+
+Om vi i slutändan ska göra nån slags egen diff på avsiktliga och
+ovsiktliga skillnder måste visortera materialet ett sätt som
+överensstämmer med Viggos sorteringsordning. Det borde ju vara en
+trivial sak via unicodes =colllation order=, men det klarar varken
+python (säger Magnus) eller raku (vet jag av egen bister
+erfarenhet). Så nu började jag skissa på en rudimentär och pinsamt
+förskoleliknade lösning:
+
+#+begin_src raku
+  my %swe is default(29) = <å 30 ä 31 ö 32>;
+  sub swe ($a, $b) {
+   if $a, $b ⊂ %swe.keys { # delmängd är förstås fel!
+       %swe{$a.lc} cmp %swe{$b.lc} 
+   } else { $a coll $b }
+  } 
+#+end_src
+
+Nja,ovanstående funkar fast på fel grunder:
+#+begin_src 
+[16] > swe "Z","Ä"
+Less
+[17] > swe "B","b"
+Same
+[18] > swe "Ö","b"
+More
+[19] > swe "Ö","ä"
+More
+[20] > swe "å","ä"
+Less
+[21] > swe "Å","Ä"
+Less
+[22] > swe "Ä","Å"
+More
+[23] > %swe<A>
+29
+[24] > %swe<Ö>
+29
+[25] > %swe<ö>
+32
+[26] > <Ö A> (<) %swe.keys 
+False
+[27] > <ö a> (<) %swe.keys 
+False
+[28] > %swe.keys 
+(ö ä å)
+[29] > <ö a> (<) <a b c>
+False
+[30] > <ö ä> (<) <a b c>
+False
+[31] > <ö ä> (<) <a b c>.Set
+False
+[32] > <ö ä> (<) <a b c ö ä>
+True
+[33] > <ö ä> (<) <a b c ö>
+False
+[34] > <ö ä>.collate
+(ä ö)
+[35] > <ö ä å>.collate
+(å ä ö)
+[36] > <Å o O a ö ä m Ö n g å>.collate
+(a å Å ä g m n o O ö Ö)
+[37] > <ö ä å>.sort
+(ä å ö)
+[38] > 
+
+#+end_src

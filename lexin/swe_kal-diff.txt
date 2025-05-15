@@ -1,0 +1,940 @@
+1070c1070
+< #14aiÖ:
+---
+> #14 aiÖ:
+1934c1934
+< #01 ai
+---
+> #01 aj
+1946c1946
+< #01 aiournerar
+---
+> #01 ajournerar
+1955c1955
+< #11aiournering -en
+---
+> #11 aiournering -en
+1958c1958
+< #12aiourneradeaiournerataiournera(!)
+---
+> #12 aiourneradeaiournerataiournera(!)
+1964c1964
+< #01 aiö
+---
+> #01 ajö
+2713c2713
+< #99 Â 
+---
+> #99 Â 
+2724c2724
+< #99 Â 178
+---
+> #99 Â 178
+2735c2735
+< #99 Â 
+---
+> #99 Â 
+2746c2746
+< #99 Â 
+---
+> #99 Â 
+6438c6438
+< #02 adj., subst.
+---
+> #02 subst.
+16790c16790
+< #31aiatola
+---
+> #31 aiatola
+16798c16798
+< #54aiatola, si jekh baro ai ašundo politikanto islamisko rašaj maškar le muslimori
+---
+> #54 aiatola, si jekh baro ai ašundo politikanto islamisko rašaj maškar le muslimori
+19860c19860
+< #01 basäng
+---
+> #01 bassäng
+25210c25210
+< #01 bestrjffar
+---
+> #01 bestraffar
+28247c28247
+< #11 läsa av (verb)
+---
+> #11 läsa av
+29139c29139
+< #02 adj., adv.
+---
+> #02 adv.
+33281c33281
+< #07 borgerlig maioritet
+---
+> #07 borgerlig majoritet
+33816c33816
+< #99 Â 
+---
+> #99 Â 
+33929c33929
+< #01 bostadsanpassnings~bidrag
+---
+> #01 bostads~anpassnings~bidrag
+35011c35011
+< #48 181
+---
+> #48 181
+37903c37903
+< #01 bud~kavle el.budkavel
+---
+> #01 bud~kavle
+40364c40364
+< #07 de fick böja sig för maioriteten
+---
+> #07 de fick böja sig för majoriteten
+40905d40904
+< 
+42096c42095
+< #02 subst. plural
+---
+> #02 subst.
+42944c42943
+< #01 crÃªpe
+---
+> #01 crêpe
+44508c44507
+< #01 dator~utrustning, hård~vara, maskin~vara
+---
+> #01 dator~utrustning
+44514,44515c44513,44514
+< #12 -utrustningen -utrustningar -varan -varor
+< #14 2dA:toru:trus:tni@, 2hÅ:r+dva:ra, 2ma$I:nva:ra
+---
+> #12 -utrustningen -utrustningar
+> #14 2dA:toru:trus:tni@
+44698c44697
+< #11 datumosko zemno
+---
+> #11 datummärkning
+48781c48780
+< #01 distriktssköterske~barnmorska
+---
+> #01 distrikts~sköterske~barnmorska
+48998c48997
+< #01 džungel
+---
+> #01 djungel
+49005c49004
+< #07 džungelns lag
+---
+> #07 djungelns lag
+49940,49941c49939,49940
+< #07 Volvo dominerar (på) den svenska bilmarknaden
+< #37 o Volvo domineril pe le svediska matori
+---
+> #07 xxxx dominerar (på) den svenska bilmarknaden
+> #37 o xxxx domineril pe le svediska matori
+52942c52941
+< #11 dubbel~LP:n
+---
+> #11 dubbel-~LP:n
+55161c55160
+< #01 död(s)-
+---
+> #01 döds-
+57798c57797
+< #31jagako foro
+---
+> #31 jagako foro
+59078c59077
+< #99 Â 
+---
+> #99 Â 
+60001c60000
+< #11 e-posta (verb)
+---
+> #11 e-posta
+60741c60740
+< #31ai mai dur
+---
+> #31 ai mai dur
+62191c62190
+< #14ai:lajner
+---
+> #14 ai:lajner
+67178c67177
+< #99 Â 
+---
+> #99 Â 
+68701c68700
+< #04 maioritet; många, åtskilliga
+---
+> #04 majoritet; många, åtskilliga
+75504d75502
+< 
+88843c88841
+< #01 gad
+---
+> #01 gadd
+89041c89039
+< #48 423 
+---
+> #48 423
+91869c91867
+< #01 gille(s)~stuga
+---
+> #01 gille~stuga
+94331c94329
+< #02 verb.
+---
+> #02 verb
+94521c94519
+< #07 1000 gram är ett kilo
+---
+> #07 1 000 gram är ett kilo
+95149c95147
+< #99 Â 
+---
+> #99 Â 
+95160c95158
+< #99 Â 
+---
+> #99 Â 
+95162a95161,95171
+> #01 Grekland
+> #31 Greklanto/Gretcia
+> #02 namn
+> #32 nam
+> #04 ett land i Europa
+> #12 grekland
+> #14 grE:kland
+> #98 
+> #99 
+> #54 jekh them ande Europa
+> 
+95180,95190d95188
+< #01 Grekland
+< #31 Greklanto/Gretcia
+< #02 namn
+< #32 nam
+< #04 ett land i Europa
+< #12 grekland
+< #14 grE:kland
+< #98 
+< #99 
+< #54 jekh them ande Europa
+< 
+95192d95189
+< 
+101105,101111d101101
+< #01 hemsida
+< #31 
+< #02 se ingångssida, startsida, webbsida och webbplats
+< #32 
+< #14 2hEm:si:da
+< #54 
+< 
+102382c102372
+< #37 100 metri opral e mare
+---
+> #37 100 metri opral e mare
+102625c102615
+< #01 heders~ ord
+---
+> #01 heders~ord
+103798,103809d103787
+< #01 hem~samarit
+< #31 samaritana
+< #02 subst.
+< #32 substantivo
+< #04 person som är anställd av kommunen för att hjälpa handikappade, långvarigt sjuka och äldre i deras hem
+< #12 -samariten -samariter
+< #14 2hEm:samari:t
+< #98 6188
+< #99 6821
+< #54 
+< #97 mini
+< 
+104122c104100
+< #37 100 metri muršale
+---
+> #37 100 metri muršale
+105493c105471
+< #11 elektronhjärna
+---
+> #11 elektron~hjärna
+105631c105609
+< #11 barnahjärta
+---
+> #11 barna~hjärta
+105634c105612
+< #11 stenhjärta
+---
+> #11 sten~hjärta
+105637c105615
+< #11 fadershjärta
+---
+> #11 faders~hjärta
+107000c106978
+< #01 hund~ öra
+---
+> #01 hund~öra
+111186c111164
+< #31ai akana
+---
+> #31 ai akana
+114108c114086
+< #01 illamående 1
+---
+> #01 illa~mående 1
+116865c116843
+< #01 inlagd 1
+---
+> #01 in~lagd 1
+120187c120165
+< #99 Â 
+---
+> #99 Â 
+120199c120177
+< #99 Â 
+---
+> #99 Â 
+139728c139706
+< #99 Â 
+---
+> #99 Â 
+139739c139717
+< #99 Â 
+---
+> #99 Â 
+139750c139728
+< #99 Â 
+---
+> #99 Â 
+143761c143739
+< #01 kvälls~kvist(en)
+---
+> #01 kvälls~kvist
+147611,147612c147589
+< #02 namn
+< #32 nam
+---
+> #02 se
+157018c156995
+< #01 länsarbets~nämnd
+---
+> #01 läns~arbetsnämnd
+162529c162506
+< #37 100 koroni kerel o maibut
+---
+> #37 100 koroni kerel o maibut
+164118c164095
+< #48 968
+---
+> #48 968
+180923c180900
+< #11 fisknät
+---
+> #11 fisk~nät
+181012c180989
+< #01 nätetikett
+---
+> #01 nät~etikett
+186356c186333
+< #01 omisskänn(e)lig
+---
+> #01 omisskännelig
+191721c191698
+< #01 oövervinn(e)lig
+---
+> #01 oövervinnelig
+195831c195808
+< #07 200 man har permitterats på Volvo
+---
+> #07 200 man har permitterats på xxxx
+195990c195967
+< #99 Â 
+---
+> #99 Â 
+196130c196107
+< #01 personel
+---
+> #01 personell
+197053c197030
+< #02 subst
+---
+> #02 subst.
+197064c197041
+< #02 subst
+---
+> #02 subst.
+199185c199162
+< #01 Plusgiro
+---
+> #01 Plus~giro
+202706c202683
+< #02 subst. plural
+---
+> #02 subst.
+206753c206730
+< #02 subst. plur
+---
+> #02 subst.
+210716c210693
+< #01 rapping
+---
+> #01 rappning
+215349c215326
+< #07 reservdelar till Volvo är dyra
+---
+> #07 reservdelar till xxxx är dyra
+219047c219024
+< #99 Â 
+---
+> #99 Â 
+219204c219181
+< #99 Â 
+---
+> #99 Â 
+222193c222170
+< #99 Â 
+---
+> #99 Â 
+223778c223755
+< #01 rätlinjig el. -linig
+---
+> #01 rätlinjig
+225917,225929d225893
+< #01 SAF
+< #31 SAF
+< #02 förk.
+< #32 
+< #04 Svenska Arbetsgivareföreningen
+< #06 Den största organisationen för privata arbetsgivare i Sverige.
+< #36 E majbari organizacija pe privatni bučake dinitora ando Švedo.
+< #14 saf:
+< #98 13431
+< #99 14891
+< #54 
+< #97 mini
+< 
+226017c225981
+< #37pheje paramiča pa Lole dikheski!
+---
+> #37 pheje paramiča pa Lole dikheski!
+226853a226818,226819
+> #01 Sameland
+> 
+227043a227010,227011
+> #01 samiska
+> 
+228371c228339
+< #38 te delpe puške ando apadipe ("te del tele, o paraxodo vaj o bero
+---
+> #38 te delpe puške ando apadipe ("te del tele, o paraxodo vaj o bero")
+228376c228344
+< #54")
+---
+> #54 
+228787c228755
+< #11 satellit-TV
+---
+> #11 satellit-~TV
+229102a229071,229072
+> #01 SCB
+> 
+229608c229578
+< #11 second hand~affär second hand~affären
+---
+> #11 second handaffär
+229611c229581
+< #11 second hand~kläder second hand~kläderna
+---
+> #11 second handkläder
+230981c230951
+< #01 sensitivet
+---
+> #01 sensitivitet
+231226a231197,231198
+> #01 Serbien
+> 
+231238,231247c231210
+< #01 serbo~kroatisk
+< #31 serbokroaticko
+< #02 adj.
+< #32 
+< #04 som avser serbokroatiskan
+< #12 -kroatiskt -kroatiska
+< #14 2sÄr:bokroa:tisk
+< #98 13769
+< #99 15253
+< #54 
+---
+> #01 serbiska
+231249,231258c231212
+< #01 serbo~kroatiska
+< #31 serbokroaticka
+< #02 subst.
+< #32 
+< #04 serbernas och kroaternas språk i f.d Jugoslavien
+< #12 -kroatiskan
+< #14 2sÄrbokroa:tiska
+< #98 13770
+< #99 15254
+< #54 
+---
+> #01 serbiska
+233397c233351
+< #02 subst.
+---
+> #02 förk.
+233825,233835c233779
+< #01 SIV
+< #31 
+< #02 se Statens Invandrarverk
+< #32 
+< #14 esi:vE:
+< #98 13910
+< #99 15419
+< #54 
+< #97 mini
+< 
+< #01 SJ
+---
+> #01 SJ AB
+234111,234126d234054
+< #01 sjuk~bidrag
+< #31 nasvalengo žutipe
+< #02 subst.
+< #32 
+< #04 en tidsbegränsad förmån inom pensionsförsäkringen för den som är mellan 16 och 65 år
+< #06 Man kan få sjukbidrag om förmågan att arbeta är nedsatt med minst hälften och nedsättningen ser ut att bestå en längre tid (minst ett år men inte varaktigt).
+< #36 
+< #09 jfr ^förtidspension^
+< #39 
+< #12 -bidraget -bidrag -bidragen
+< #14 2$U:kbi:dra:g
+< #98 13928
+< #99 15438
+< #54 
+< #97 mini
+< 
+234791c234719
+< #01 själ lös
+---
+> #01 själlös
+237034a236963,236964
+> #01 Skatteverket
+> 
+242426,242439d242355
+< #01 skydds~konsulent
+< #31 
+< #02 subst.
+< #32 
+< #04 tjänsteman som har hand om frivården inom kriminalvården
+< #06 Skyddskonsulenter finns på de flesta större orter och de har stor hjälp av frivilliga övervakare.
+< #36 
+< #12 -konsulenten -konsulenter
+< #14 2$Yd:skånsulen:t
+< #98 14446
+< #99 16004
+< #54 
+< #97 mini
+< 
+245582a245499,245501
+> 
+> #01 snusar
+> 
+246514a246434,246435
+> #01 Socialdepartementet
+> 
+247508a247430,247439
+> #01 Somalia
+> 
+> #01 somalier
+> 
+> #01 somalisk
+> 
+> #01 somaliska
+> 
+> #01 somaliska
+> 
+248196c248127
+< #01 SOS
+---
+> #01 SOS Alarm AB
+248621a248553,248554
+> #01 Spanien
+> 
+248632a248566,248567
+> #01 spanjorska
+> 
+249488c249423
+< #01 spekulrar
+---
+> #01 spekulerar
+250677,250678c250612,250613
+< #07 verksamheten sponsras av Volvo
+< #37 o inkeripe sponsoril o Volvo
+---
+> #07 verksamheten sponsras av xxxx
+> #37 o inkeripe sponsoril o xxxx
+250891,250892d250825
+< #38 čungar ai prasape,
+< #48 1459
+252404c252337
+< #47 965
+---
+> #47 965
+252678,252690d252610
+< #01 SR-koncernen
+< #31 SR-koncerno
+< #02 förk.
+< #32 
+< #04 Sveriges Radio-koncernen
+< #06 I denna koncern ingår Sveriges Television AB, Sveriges Riksradio AB, Sveriges Lokalradio AB, Sveriges Utbildningsradio AB.
+< #36 
+< #14 2Es:är:
+< #98 15415
+< #99 17063
+< #54 Svedosko Radionosko khetanipe
+< #97 mini
+< 
+253881,253893d253800
+< #01 Statens invandrarverk (SIV)
+< #31 Themeski migraciako than,  
+< #02 namn
+< #32 
+< #04 central förvaltningsmyndighet för utlännings-, invandrar- och medborgarskapsfrågor
+< #06 Statens invandrarverk (SIV) prövar ansökningar om visum, uppehålls- och arbetstillstånd samt medborgarskap.
+< #36 
+< #14 stA:tens 2In:vandrarvär:k
+< #98 15481
+< #99 17141
+< #54 
+< #97 mini
+< 
+253902a253810,253811
+> #01 Statens livsmedelsverk (SLV)
+> 
+253915,253926d253823
+< #01 Statens vägverk
+< #31 Themesko dromesko than
+< #02 namn
+< #32 
+< #06 Ett statligt ämbetsverk som har ansvar för vägar.
+< #36 
+< #14 stA:tens 2vÄ:gvär:k
+< #98 15484
+< #99 17144
+< #54 
+< #97 mini
+< 
+254707a254605,254606
+> 
+> #01 stencil
+254718c254617
+< #31 duplazil, dujazil
+---
+> #31 duplazinl, dujazil
+255761c255660
+< #11 stipendie~u elning -en
+---
+> #11 stipendie~utdelning
+256941c256840
+< #07 ett tvåårigt straff u ömdes
+---
+> #07 ett tvåårigt straff utdömdes
+260816a260716,260717
+> 
+> #01 ståtar
+262872c262773
+< #02 verb
+---
+> #02 subst.
+264565c264466
+< #37phejja
+---
+> #37 phejja
+264987c264888,264890
+< #01 Svenska akademien
+---
+> #01 svenska
+> 
+> #01 Svenska Akademien
+265000,265008d264902
+< #01 Svenska Arbetsgivareföreningen
+< #31 
+< #02 se SAF
+< #32 
+< #14 2svEn:ska 2Ar:be:tsji:var(e)före:ni@en
+< #98 16121
+< #99 17878
+< #54 
+< 
+265031a264926,264927
+> #01 Svenskt Näringsliv
+> 
+265122a265019,265024
+> #01 Sverige
+> 
+> #01 Sveriges Radio AB
+> 
+> #01 Sveriges Television AB
+> 
+268755c268657
+< #37 100 ženen avri šudepe
+---
+> #37 100 ženen avri šudepe
+273509c273411
+< #01 T bana
+---
+> #01 T-bana
+273516c273418
+< #12 T banan T banor
+---
+> #12 T-banan T-banor
+274033c273935
+< #01 tele 
+---
+> #01 tele-
+275382c275284
+< #01 text TV
+---
+> #01 text-TV
+275498c275400
+< #01 tijara
+---
+> #01 tiara
+278920,278929d278821
+< #01 Tips~tjänst AB
+< #31 
+< #02 namn
+< #32 
+< #04 statligt aktiebolag som anordnar vadhållning i samband med idrottstävlingar, främst fotbollsmatcher, samt arrangerar nummerdragningar (Lotto)
+< #14 2tIp:scen:st
+< #98 16950
+< #99 18813
+< #54 
+< 
+279455c279347
+< #01 tjugon(de)dag Knut
+---
+> #01 tjugondag Knut
+279603c279495
+< #01 tjuv 
+---
+> #01 tjuv-
+279666c279558
+< #01 tjyv 
+---
+> #01 tjyv-
+279668c279560
+< #02 se tjuv 
+---
+> #02 se tjuv-
+280052c279944
+< #11 toalett~stol  en
+---
+> #11 toalett~stol
+280785c280677
+< #01  tonnare
+---
+> #01 -tonnare
+280921c280813
+< #01 topp 
+---
+> #01 topp-
+280963c280855
+< #11 toppen~jobb  et
+---
+> #11 toppen~jobb
+282792c282684
+< #08 tredje världen ("u länderna")
+---
+> #08 tredje världen ("u-länderna")
+285617c285509
+< #01 T shirt
+---
+> #01 T-shirt
+286608c286500
+< #99 Â 
+---
+> #99 Â 
+286630c286522
+< #99 Â 
+---
+> #99 Â 
+286641c286533
+< #99 Â 
+---
+> #99 Â 
+286928c286820
+< #01 tv avgift
+---
+> #01 tv-avgift
+286942c286834
+< #01 tve 
+---
+> #01 tve-
+287264c287156
+< #01 TV licens
+---
+> #01 TV-licens
+297107c296999
+< #01 ut efter
+---
+> #01 utefter
+297112c297004
+< #07 ut efter kusten
+---
+> #07 utefter kusten
+301715c301607
+< #01 van
+---
+> #01 van-
+304052c303944
+< #11 vecko~lön en
+---
+> #11 vecko~lön
+305061c304953
+< #11 verksamhets~berättelse n
+---
+> #11 verksamhets~berättelse
+305807c305699
+< #07 anställd vid Volvo
+---
+> #07 anställd vid xxxx
+311921c311813
+< #01 väl
+---
+> #01 väl-
+312255c312147
+< #01 välkomst
+---
+> #01 välkomst-
+312811c312703
+< #01 vänlig
+---
+> #01 -vänlig
+312909,312910c312801
+< #02 namn
+< #32 nam
+---
+> #02 se
+312933c312824,312825
+< #02 ažukerel
+---
+> #31 ažukerel
+> #02 verb
+313495c313387
+< #11 världs~karta n
+---
+> #11 världs~karta
+314036c313928
+< #01 väsen
+---
+> #01 -väsen
+314897c314789
+< #01 walkie talkie
+---
+> #01 walkie-talkie
+315070c314962
+< #01 work out
+---
+> #01 work-out
+316526c316418
+< #07 barn i åldern 6  8 år
+---
+> #07 barn i åldern 6--8 år
+316538c316430
+< #11 ålders~grupp  en
+---
+> #11 ålders~grupp
+316541c316433
+< #11 ålders~pension  en
+---
+> #11 ålders~pension
+316978c316870
+< #01 åretrunt 
+---
+> #01 åretrunt-
+317033,317034c316925
+< #02 subst.
+< #32 substantivo
+---
+> #02 se
+317836c317727
+< #07 han är återförsäljare för Volvo
+---
+> #07 han är återförsäljare för xxxx
+318305c318196
+< #07 han anlände till Wien åtföljd av sin 80 årige far
+---
+> #07 han anlände till Wien åtföljd av sin 80-årige far
+318578c318469
+< #11 åttatimmars~dag  en
+---
+> #11 åttatimmars~dag
+318581c318472
+< #11 åtta~årig  t
+---
+> #11 åtta~årig
+318802c318693
+< #11 ägande~rätt  en
+---
+> #11 ägande~rätt
+319013c318904
+< #01 äkt 
+---
+> #01 äkt-
+319249c319140
+< #01 älsklings 
+---
+> #01 älsklings-
+319256c319147
+< #11 älsklings~rätt  en
+---
+> #11 älsklings~rätt
+319259c319150
+< #11 älsklings~blomma  n
+---
+> #11 älsklings~blomma
+319789c319680
+< #11 ängs~blomma  n
+---
+> #11 ängs~blomma
+319809c319700
+< #11 ängla~lik  t
+---
+> #11 ängla~lik
+319970c319861
+< #11 äppel~träd  et
+---
+> #11 äppel~träd
+320081c319972
+< #01 ära
+---
+> #01 ärad
+320221c320112
+< #01 ärke 
+---
+> #01 ärke-
+320254c320145
+< #11 ärlighet  en
+---
+> #11 ärlighet
+321156c321047
+< #11 öl~flaska  n
+---
+> #11 öl~flaska
+321873c321764
+< #01  öring
+---
+> #01 -öring
+321898c321789
+< #01 örlogs 
+---
+> #01 örlogs-
+323346c323237
+< #01 överljuds 
+---
+> #01 överljuds-
