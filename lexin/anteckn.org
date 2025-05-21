@@ -197,6 +197,8 @@ förskoleliknade lösning:
        %swe{$a.lc} cmp %swe{$b.lc} 
    } else { $a coll $b }
   } 
+
+
 #+end_src
 
 Nja,ovanstående funkar fast på fel grunder:
@@ -248,3 +250,60 @@ False
 [38] > 
 
 #+end_src
+
+#+begin_src raku :results output 
+      sub swe ($a, $b) {
+          my @in = ($a, $b)».lc; 
+          my $swe = <å ä>.Set; 
+          #say @in ~~ $swe; 
+          
+
+      #    given ($a, $b)».lc {
+      #        when * ⊂ $swe and{ say "swe: "  }
+      #        default { say "coll"  }
+      #    }
+    }
+
+  swe "Ä", "Ä"; 
+#+end_src 
+
+#+RESULTS:
+: False
+
+#+begin_src raku :results output 
+  subset Å   of Str where * ∈ <å Å>; 
+  subset Ä   of Str where * ∈ <ä Ä>; 
+  subset nÅÄ of Str where * ∉ <ä Ä å Å>; 
+
+  multi swe (Å $a, Ä $b) { note 111; Less }
+  multi swe (Ä $a, Å $b) { note 222; More }
+  multi swe ($a, nÅÄ $b) { note 333; $a coll $b }
+  multi swe (nÅÄ $a, $b) { note 444; $a coll $b }
+
+
+
+
+       #my @in = ($a, $b)».lc; 
+            #my $swe = <å ä>.Set; 
+            #say @in ~~ $swe; 
+
+
+        #    given ($a, $b)».lc {
+        #        when * ⊂ $swe and{ say "swe: "  }
+        #        default { say "coll"  }
+        #    }
+      #}
+
+  say swe "ä", "å"; 
+  say "ä" coll "å"; 
+
+  say swe "ö", "o"; 
+  say "ö" coll "o"; 
+#+end_src 
+
+#+RESULTS:
+: More
+: More
+: More
+: More
+
