@@ -58,8 +58,7 @@ class Lexin::API::Klient {
 	gather for @ord.hyper -> $ord {
 	    my $res = $ua.get( self.url($ord.trim.&uri_encode) );
 
-	    if    ! $!raw and $res.is-success { take [ $ord.trim, from-json &tmp-viggo-fix( $res.content )] }
-	    #if    ! $!raw and $res.is-success { take [ $ord.trim, from-json $res.content ] }
+	    if    ! $!raw and $res.is-success { take [ $ord.trim, from-json $res.content ] }
 	    elsif   $!raw and $res.is-success { take [ $ord.trim,           $res.content ] }
 	    else                              { note $res.status-line }
 	}
@@ -75,9 +74,11 @@ class Lexin::API::Klient {
 	                                      $ord);
     }
 
-    sub tmp-viggo-fix (Str $viggo-json) {
-	$viggo-json.subst: Q<"Meaning": "tecknet \",>, Q<"Meaning": "tecknet \\",>;
-    }
+#	    if    ! $!raw and $res.is-success { take [ $ord.trim, from-json &tmp-viggo-fix( $res.content )] }
+
+#    sub tmp-viggo-fix (Str $viggo-json) {
+#	$viggo-json.subst: Q<"Meaning": "tecknet \",>, Q<"Meaning": "tecknet \\",>;
+#    }
 }
 
 module Lexin::Språk {
