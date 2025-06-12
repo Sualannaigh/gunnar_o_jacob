@@ -310,5 +310,13 @@ False
 * <2025-05-28 Wed> GE                                                 :Viggo:
 Lite mer konversation med Viggo:
 
+* <2025-06-12 Thu>
+småstartat diffning genmot Viggos sww_kal.txt:
+#+begin_src bash
+cat swe_kal.txt | head -100 | raku -e '$*IN.slurp.subst( "\n\n\n", "\n\n").split(/^^\h*$$/).map: { ; my %h = do for .split(/\h*\n\h*/, :skip-empty) -> $r {  my ($k, $v) = $r.split: /\h+/, 2; $k => $v }; dd %h}'
+#+end_src
+
+Det osäkra är =.subst( "\n\n\n", "\n\n").=. Av nån anledning funkar
+inte motsvarande säkrare regex ...
 
 
