@@ -73,13 +73,6 @@ class Lexin::API::Klient {
                                               #
 	                                      $ord);
     }
-
-#if    ! $!raw and $res.is-success { take [ $ord.trim, from-json &tmp-viggo-fix( $res.content )] }
-
-#    sub tmp-viggo-fix (Str $viggo-json) {
-#	$viggo-json.subst: Q<"Meaning": "tecknet \",>, Q<"Meaning": "tecknet \\",>;
-#    }
-
 }
 
 module Lexin::Språk {
