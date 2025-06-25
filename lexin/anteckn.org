@@ -317,4 +317,94 @@ swe_kal.txt | head -100 | raku -e '$*IN.slurp.split(/^^[\h*\n]+/).map: { my %h =
 #+end_src
 
 
+* <2025-06-25 Wed>
+Viggo:
 
+Här är den beskrivning av formatet som jag hittade. Förmodligen används inte alla koder i det aktuella lexikonet.
+| #01 | uppslagsord, ev. följt av nummer (= xxx)                       |
+| #02 | ordklassbeteckning                                             |
+| #04 | ordförklaring                                                  |
+| #05 | stilkommentar                                                  |
+| #06 | sakupplysning                                                  |
+| #07 | satsexempel; löpnummer i 47                                    |
+| #08 | idiomexempel; löpnummer i 48                                   |
+| #09 | referens till bild eller annat uttryck                         |
+| #10 | syntaxmarkering, t ex "x & y"                                  |
+| #11 | sammansättningsexempel; löpnummer i 51                         |
+| #12 | ordböjning, hela ord eller inlett med "-" om 10 innehåller "~" |
+| #13 | stavningsvariant                                               |
+| #14 | uttal                                                          |
+| #15 | grammatikkommentar                                             |
+| #31 | övers. av #01                                                  |
+| #32 | övers. av #02                                                  |
+| #35 | övers. av #05                                                  |
+| #36 | övers. av #06                                                  |
+| #37 | övers. av #07                                                  |
+| #38 | övers. av #08                                                  |
+| #39 | övers. av #09                                                  |
+| #41 | övers. av #11                                                  |
+| #45 | övers. av #15                                                  |
+| #54 | övers. av #04                                                  |
+| #47 | löpnummer för exempel                                          |
+| #48 | löpnummer för idiom                                            |
+| #51 | löpnummer för sammansättning                                   |
+| #98 | löpnummer för olika uppslagsord                                |
+| #99 | löpnummer för uppslagsord (inkl varianter)                     |
+ 
+
+Fortsaatt och committat viggoprepareringen i
+=viggo-swe_kal2json.raku=. Men sammtidigt hittat strukturproblem: en
+del enklaare är jag ändrat för hand i =swe_kal-red.txt=. Andra är
+svårare: multipla källfält med motsv överssättningsfält. Problemen är
+gemensamma för Baki- och Viggomaterialen:
+
+#+begin_src json
+    "#01": "övning",
+    "#31": "zumavel",
+    "#02": "subst.",
+    "#32": "substantivo",
+    "#04": "det att öva, träning",
+    "#05": "även om den uppgift som övas",
+    "#35": "",
+    "#07": "övning ger färdighet",
+    "#37": "",
+    "#47": "12459",
+    "#11": "övnings~uppgift  en",
+    "#41": "",
+    "#51": "8136",
+    "#12": "övningen övningar",
+    "#14": "2Ö:vni@",
+    "#98": "19706",
+    "#99": "21876",
+    "#54": "zumavel",
+    "#97": "mini"
+  },
+#+end_src
+
+#+begin_example
+#01 övning
+#31 zumavel
+#02 subst.
+#32 substantivo
+#04 det att öva, träning
+#05 även om den uppgift som övas
+#35 
+#07 övning ger färdighet
+#37 
+#47 12459
+#11 skrivövning
+#41 
+#51 8134
+#11 militärövning
+#41 
+#51 8135
+#11 övnings~uppgift  en
+#41 
+#51 8136
+#12 övningen övningar
+#14 2Ö:vni@
+#98 19706
+#99 21876
+#54 zumavel
+#97 mini
+#+end_example
