@@ -408,3 +408,35 @@ gemensamma för Baki- och Viggomaterialen:
 #54 zumavel
 #97 mini
 #+end_example
+
+#+begin_quote
+JL> Så får Baki kika på dom
+ 
+GE> Jo, fast hur väljer vi ut data så att vi säkra på vad som ska
+användas (dvs. diffningen mot Viggo)
+
+Och sen hur ska man kunna ge Baki dde verkligt relevanta skillnaderna
+när diffningen inte är klockren.
+
+Kanske bäst att helt skita i steget med jämförelse mot Viggo till
+priset av (förmodligen) sämre kvalitet?
+
+JL> Hmm 
+Du menar att man kör med "Viggo versionen"?
+
+GE> Nä, i såna fall Bakiversionen
+
+JS> Det kanske är bättre från ett "peace-of-mind" perspektiv
+tillsvidare Jag misstänker ju att om vi slänger massa diffar i bakis
+knä får vi vänta ett bra tag
+
+GE> Jo, kanske. Men poängen med diffning skulle ju vara att välja ut
+de viktiga fallen och och skona Baki från trivialdiffar av typen
+”komma el semikolon”, ”tomt el. fyllt fält”, etc
+
+Och att få Baki att hitta ssaker han inntee skulle ha hittat annars …
+
+Men i såna fall skulle mitt/vårt jobb bestå av att hitta rena
+strukturella fel (jag har några från Viggofillen) och sen leverera
+innehållet som det ser ut nu.
+#+end_quote
