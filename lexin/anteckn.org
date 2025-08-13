@@ -183,7 +183,7 @@ ibland och ibland tvärtom. Vi behöver nog få (nån slags uppskattning
 om) redigeringsdatum av både Baki och Viggo.
 
 Om vi i slutändan ska göra nån slags egen diff på avsiktliga och
-ovsiktliga skillnder måste visortera materialet ett sätt som
+ovsiktliga skillnder måste vi sortera materialet ett sätt som
 överensstämmer med Viggos sorteringsordning. Det borde ju vara en
 trivial sak via unicodes =colllation order=, men det klarar varken
 python (säger Magnus) eller raku (vet jag av egen bister
@@ -311,9 +311,9 @@ False
 Lite mer konversation med Viggo:
 
 * <2025-06-12 Thu>
-småstartat diffning genmot Viggos sww_kal.txt:
+småstartat diffning genmot Viggos swe_kal.txt:
 #+begin_src bash
-swe_kal.txt | head -100 | raku -e '$*IN.slurp.split(/^^[\h*\n]+/).map: { my %h = do for .split(/\h*\n\h*/, :skip-empty) -> $r {  my ($k, $v) = $r.split: /\h+/, 2; $k => $v }; dd %h}'
+cat swe_kal.txt | head -100 | raku -e '$*IN.slurp.split(/^^[\h*\n]+/).map: { my %h = do for .split(/\h*\n\h*/, :skip-empty) -> $r {  my ($k, $v) = $r.split: /\h+/, 2; $k => $v }; dd %h}'
 #+end_src
 
 
@@ -352,10 +352,10 @@ Här är den beskrivning av formatet som jag hittade. Förmodligen används inte
 | #99 | löpnummer för uppslagsord (inkl varianter)                     |
  
 
-Fortsaatt och committat viggoprepareringen i
+Fortsatt och committat viggoprepareringen i
 =viggo-swe_kal2json.raku=. Men sammtidigt hittat strukturproblem: en
-del enklaare är jag ändrat för hand i =swe_kal-red.txt=. Andra är
-svårare: multipla källfält med motsv överssättningsfält. Problemen är
+del enklare är jag ändrat för hand i =swe_kal-red.txt=. Andra är
+svårare: multipla källfält med motsv översättningsfält. Problemen är
 gemensamma för Baki- och Viggomaterialen:
 
 #+begin_src json
@@ -434,9 +434,69 @@ GE> Jo, kanske. Men poängen med diffning skulle ju vara att välja ut
 de viktiga fallen och och skona Baki från trivialdiffar av typen
 ”komma el semikolon”, ”tomt el. fyllt fält”, etc
 
-Och att få Baki att hitta ssaker han inntee skulle ha hittat annars …
+Och att få Baki att hitta saker han inte skulle ha hittat annars …
 
 Men i såna fall skulle mitt/vårt jobb bestå av att hitta rena
 strukturella fel (jag har några från Viggofillen) och sen leverera
 innehållet som det ser ut nu.
 #+end_quote
+
+* <2025-08-13 Wed>
+Igång igen efter sommmaren. Det verkar efter funderingar på
+ovanstående under sommaren som att det är exakt det skisserade som
+ska göras. 
+
+** DONE ny textkonvertering (med soffice)
+Detta för att alla tomrader verkar ha försvunnit i förra (pandoc-?)
+konverteringen.
+#+begin_src bash
+  cd kelderasch_filer
+  soffice --headless --convert-to txt --outdir text *.docx 
+#+end_src
+
+En ev. nackdel med sofficekonvertering är att denna lägger till en
+BOM-markör i början av varje fil, nåt som tydligen windows gillar. Men
+eftersomm Viggos resulltatfiler från förra omgången också innehåller
+såna så antar jag att det inte kommer ge honomm några problem.
+
+En liten koll:
+#+begin_src bash
+file kelderasch_filer/text/*.txt
+#+end_src
+
+#+RESULTS:
+: a.txt: Unicode text, UTF-8 (with BOM) text
+: b.txt: Unicode text, UTF-8 (with BOM) text
+: c.txt: Unicode text, UTF-8 (with BOM) text
+: d.txt: Unicode text, UTF-8 (with BOM) text, with very long lines (301)
+: e.txt: Unicode text, UTF-8 (with BOM) text
+: f.txt: Unicode text, UTF-8 (with BOM) text
+: g.txt: Unicode text, UTF-8 (with BOM) text
+: h.txt: Unicode text, UTF-8 (with BOM) text
+: i.txt: Unicode text, UTF-8 (with BOM) text
+: j.txt: Unicode text, UTF-8 (with BOM) text
+: k.txt: Unicode text, UTF-8 (with BOM) text
+: l.txt: Unicode text, UTF-8 (with BOM) text
+: m.txt: Unicode text, UTF-8 (with BOM) text
+: n.txt: Unicode text, UTF-8 (with BOM) text
+: o.txt: Unicode text, UTF-8 (with BOM) text
+: p.txt: Unicode text, UTF-8 (with BOM) text
+: q.txt: Unicode text, UTF-8 (with BOM) text
+: r.txt: Unicode text, UTF-8 (with BOM) text
+: s.txt: Unicode text, UTF-8 (with BOM) text
+: t.txt: Unicode text, UTF-8 (with BOM) text
+: u.txt: Unicode text, UTF-8 (with BOM) text
+: v.txt: Unicode text, UTF-8 (with BOM) text
+: w.txt: Unicode text, UTF-8 (with BOM) text
+: x.txt: Unicode text, UTF-8 (with BOM) text
+: y.txt: Unicode text, UTF-8 (with BOM) text
+: z.txt: Unicode text, UTF-8 (with BOM) text
+: ä.txt: Unicode text, UTF-8 (with BOM) text
+: å.txt: Unicode text, UTF-8 (with BOM) text
+: ö.txt: Unicode text, UTF-8 (with BOM) text
+
+De långa raderna i d är inget syntaaxproblem utan bara väldiigt
+babbliga förklaringar.
+
+
+
