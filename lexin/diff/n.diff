@@ -1,0 +1,360 @@
+--- ../kelderasch_filer/text/n.txt	2025-08-13 17:08:51
++++ swe_kal/n.txt	2025-08-24 21:22:58
+@@ -1 +1 @@
+-﻿#01 nackar
++#01 nackar
+@@ -7 +7 @@
+-#37 phagel jekh khajna
++#37 
+@@ -17 +17 @@
+-#31 bajo, problemo
++#31 bajo
+@@ -22 +22 @@
+-#37 ando drom varekaske
++#37 
+@@ -43 +43 @@
+-#38 miškil e čafa
++#38
+@@ -48 +48 @@
+-#41 čafako šerand
++#41 
+@@ -72 +72 @@
+-#31 anda jekh data/strazom
++#31 
+@@ -120 +120 @@
+-#41 vunžengi farba
++#41 
+@@ -154 +154 @@
+-#31 dindarel
++#31 
+@@ -193 +193 @@
+-#37 jekh nango murš
++#37 
+@@ -196 +196 @@
+-#37 jekh nango muj
++#37 
+@@ -199 +199 @@
+-#37 o nango čačimos
++#37 
+@@ -202 +202 @@
+-#41 nangimasko dikhimos
++#41 
+@@ -219 +219 @@
+-#37 o krečuno pašol
++#37 
+@@ -243 +243 @@
+-#31 riš
++#31 rice
+@@ -264 +264 @@
+-#37 jekh lista anavengi 
++#37 
+@@ -267 +267 @@
+-#37 jekh jornalisto le anavesa Blom
++#37 
+@@ -270 +270 @@
+-#41 anlguno anav
++#41 
+@@ -273 +273 @@
+-#41 paluno anav, familjako anav
++#41 
+@@ -276 +276 @@
+-#41 anavesko parujimos
++#41 
+@@ -279 +279 @@
+-#41 anavesko parujimos
++#41 
+@@ -297 +297 @@
+-#41 forosko anav
++#41 
+@@ -310 +310 @@
+-#31 markil
++#31 
+@@ -315 +315 @@
+-#35 gada
++#35 
+@@ -335 +335 @@
+-#31 anavengo čidimos
++#31 anavengo kidipe
+@@ -368 +368 @@
+-#31 anavesko ramomos
++#31 anavesko skiripe
+@@ -385,0 +386 @@
++
+@@ -405,0 +407 @@
++
+@@ -410 +412 @@
+-#41 soskaki holba
++#41 
+@@ -420 +422 @@
+-#31 astarimos
++#31 
+@@ -425 +427 @@
+-#38 atveto
++#38 
+@@ -449 +451 @@
+-#31 astarel
++#31 
+@@ -454 +456 @@
+-#35 pa maše
++#35 
+@@ -481 +483 @@
+-#41 narkomanongi špita
++#41 
+@@ -484 +486 @@
+-#41 bučako narkomano
++#41 
+@@ -509 +511 @@
+-#41 narkososko doktoro
++#41 
+@@ -524 +526 @@
+-#36 Narkotika nai slobodia.
++#36 
+@@ -532 +534 @@
+-#41 narkotikako problemo
++#41 
+@@ -535 +537 @@
+-#41 narkotikako bičinitori
++#41 
+@@ -565 +567 @@
+-#37 nakhesko glaso
++#37 
+@@ -587 +589 @@
+-#31 them
++#31 phuv
+@@ -594 +596 @@
+-#37 Le Čidine Thema
++#37 
+@@ -606 +608 @@
+-#31 studentongo čidimos
++#31 khetanenge
+@@ -611 +613 @@
+-#37 Smålandosko čidimos
++#37 
+@@ -627 +629 @@
+-#41 themesko djes
++#41 
+@@ -630 +632 @@
+-#41 themeski ekonomia
++#41 
+@@ -636 +638 @@
+-#41 Themesko museumo
++#41 
+@@ -644 +646 @@
+-#31 themesko guverno
++#31 
+@@ -666,0 +669 @@
++
+@@ -692,0 +696 @@
++
+@@ -738 +742 @@
+-#31 nacionalno
++#31 nacionllo
+@@ -762 +766 @@
+-#31 NATO
++#31 
+@@ -779 +783 @@
+-#37 ariat dikhlem suno pa tute
++#37 
+@@ -782 +786 @@
+-#37 ariat avav
++#37 
+@@ -785 +789 @@
+-#37 lašo sujimos račako
++#37 
+@@ -788 +792 @@
+-#37 sovel jekh riat
++#37 
+@@ -791 +795 @@
+-#37 ande riat
++#37 
+@@ -794 +798 @@
+-#37 vuštel ande riat
++#37 
+@@ -797 +801 @@
+-#37 e riat ka marcine
++#37 
+@@ -800 +804 @@
+-#37 buči pe riat
++#37 
+@@ -803 +807 @@
+-#38 djes ai riat
++#38 
+@@ -806 +810 @@
+-#38 laši riat
++#38 
+@@ -811 +815 @@
+-#41 maškar milajeski riat
++#41 
+@@ -1297 +1301 @@
+-#31 buriko
++#31 buburiško/buriko
+@@ -1484 +1488 @@
+-#31 činjardo
++#31 činžardo
+@@ -1645 +1649 @@
+-#31 perajimasko, peravel, negativno
++#31 perajimako, peravel, negativno
+@@ -1682 +1686 @@
+-#31 teliarel pes
++#31 telarel pes
+@@ -1687 +1691 @@
+-#37 teliardape bi atevetosko
++#37 telardape bi atevetosko
+@@ -1757 +1761 @@
+-#31 teliardo
++#31 telardo
+@@ -1768 +1772 @@
+-#31 teliardimos
++#31 telardimos
+@@ -1793 +1797 @@
+-#31 kovliardo
++#31 kovlardo
+@@ -2046 +2050 @@
+-#31 kali/kaliori
++#31 kali
+@@ -2277 +2281 @@
+-#31 nervozo
++#31 nervoso
+@@ -2366 +2370 @@
+-#31 neutralnio
++#31 neutralno
+@@ -2389 +2393 @@
+-#31 neutralnio
++#31 neutralno
+@@ -2401 +2405 @@
+-#31 neutralnio, maškaruno
++#31 neutralno, maškaruno
+@@ -2601 +2605 @@
+-#31 injakotora
++#31 injuakotora
+@@ -2814 +2818 @@
+-#31 vojarel/lošal
++#31 vojarel
+@@ -3064 +3068 @@
+-#31 phirasa kerel/phirasil
++#31 phirasa kerel
+@@ -3212 +3216 @@
+-#31 bi patjako
++#31 bi patjasko
+@@ -3357 +3361 @@
+-#31 šudrigalo/nordisko
++#31 šudrigalo
+@@ -3524 +3528 @@
+-#31 šudririg
++#31 šudrurig
+@@ -3543 +3547 @@
+-#31 Norrbotten
++#31 Norboten
+@@ -3679 +3683 @@
+-#31 khandel/sungal
++#31 kandhel/sungal
+@@ -3707 +3711 @@
+-#31 nostalgia
++#31 nostalagi
+@@ -3718 +3722 @@
+-#31 nostalgisko
++#31 nostaligansko/nostalgiko
+@@ -3984 +3988 @@
+-#32 skurtsomos
++#32 skortsomos
+@@ -4335 +4339 @@
+-#32 anglal phanari
++#32 anglalphanari
+@@ -4428 +4432 @@
+-#31 nevo kher/anzarimos/pe
++#31 nevo kher
+@@ -4450 +4454 @@
+-#31 nevi butji/buči
++#31 nevi butji
+@@ -4533 +4537 @@
+-#31 gindako
++#31 
+@@ -4564 +4568 @@
+-#31 pušimasko/kurioso
++#31 pušimasko
+@@ -4657 +4661 @@
+-#31 triazo
++#31 trazo
+@@ -4706 +4710 @@
+-#31 triazo
++#31 trazo
+@@ -4717 +4721 @@
+-#31 trazol/trezol
++#31 trazol
+@@ -4817 +4821 @@
+-#31 čidel/čupil/čuplil
++#31 čidel
+@@ -4854 +4858 @@
+-#31 fruta
++#31 
+@@ -4974 +4978 @@
+-#31 hasnako
++#31 hasnasko
+@@ -4994 +4998 @@
+-#31 hasnake/hasnako čačipe
++#31 hasnake
+@@ -5007 +5011 @@
+-#31 hasnil
++#31 hasnalhasnil
+@@ -5030 +5034 @@
+-#31 nevo berš
++#31 neve berš
+@@ -5069 +5073 @@
+-#31 mukhimos/mila/jertipe
++#31 mukhimos
+@@ -5102 +5106 @@
+-#31 merimaski dab
++#31 merimaski/dokommerimaski dab
+@@ -5694 +5698 @@
+-#31 atjontji/atunči
++#31 atjontji
+@@ -5753 +5757 @@
+-#32 anglal phanari
++#32 anglalphanari
+@@ -5853 +5857 @@
+-#31 zorako/vitaminako
++#31 zorako
+@@ -6052 +6056 @@
+-#31 maj paše
++#31 majpaše
+@@ -6104 +6108 @@
+-#31 maj but
++#31 majbuth
+@@ -6120 +6124 @@
+-#31 pašutno/niamo
++#31 pašutno
+@@ -6130 +6134 @@
+-#31 pašimasko/paše dikhimasko
++#31 pašimasko
+@@ -6187 +6191 @@
+-#31 khetane/presencia
++#31 khetane
+@@ -6366 +6370 @@
+-#31 kana godi/pašti
++#31 kana godi
+@@ -6371 +6375 @@
+-#37 pašti kana godi radujime
++#37 kana godi radujime
+@@ -6430 +6434 @@
+-#11 fisknät
++#11 fisk~nät
+@@ -6465 +6469 @@
+-#31 jakhengi sita/jakhengo gad
++#31 jakengi sita
+@@ -6479 +6483 @@
+-#31 čigno
++#31 cigno
+@@ -6519 +6523 @@
+-#01 nätetikett
++#01 nät~etikett
+@@ -6696 +6700 @@
+-#31 musaj/trubujimasko gazo
++#31 musaj
+@@ -6740 +6744 @@
+-#31 bajosko hulajimos/vulistimos/pe
++#31 bajosko vhulajimos
+@@ -6922 +6926 @@
+-#31 vojako trajo
++#31 vojasko trajo
+@@ -7067 +7070,0 @@
+-

@@ -1,0 +1,356 @@
+--- ../kelderasch_filer/text/o.txt	2025-08-13 17:08:52
++++ swe_kal/o.txt	2025-08-24 21:23:00
+@@ -1,2 +1,2 @@
+-﻿#01 o
+-#31 thaj
++#01 o
++#31 haj
+@@ -10 +10 @@
+-#37 ai maj
++#37 aj maj
+@@ -68 +68 @@
+-#31 bi-lažavardo
++#31 voruto/bi-lažavardo
+@@ -80 +80 @@
+-#31 bi responsablo
++#31 
+@@ -91 +91 @@
+-#31 bi astarimasko
++#31 
+@@ -102 +102 @@
+-#31 bi astarimasko
++#31 čavargov
+@@ -148 +148 @@
+-#31 bi ašamos
++#31 nai ašajimos
+@@ -175 +175 @@
+-#31 disiplinime
++#31 
+@@ -194 +194 @@
+-#37 le love žjan direkto ka Lolo Trušul
++#37 
+@@ -203 +203 @@
+-#31 sar godi avela
++#31 vaj sar avla
+@@ -208 +208 @@
+-#37 tut si slobodia kai špita kai kodi ando Švedo bešesa
++#37 
+@@ -216 +216 @@
+-#31 buči opral pa vriama
++#31 OB
+@@ -221 +221 @@
+-#36 Buči opral pa vriama kai si normalnio pa kudia vriama kai sas te na kerelpe buči.
++#36 
+@@ -223 +223 @@
+-#41 Buči opral pa vriama- ekstra
++#41 
+@@ -238 +238 @@
+-#37 perel ando bi balanso
++#37 
+@@ -264,0 +265 @@
++
+@@ -299 +300 @@
+-#31 bi grižako
++#31 bi grišako
+@@ -318 +319 @@
+-#37 jekh bi bešadi insla/izula
++#37 
+@@ -366 +367 @@
+-#31 či ačardjo/naj pačamos/pe
++#31 či ačardjo
+@@ -380 +381 @@
+-#31 bi granicako,desa but
++#31 bi granica,desa but
+@@ -394 +395 @@
+-#31 vuričala/vuritsimos/xaj
++#31 vuxitsejala/vuričala/vuritsimos
+@@ -450 +451 @@
+-#31 strijino
++#31 strino/strijino
+@@ -480 +481 @@
+-#31 nai mišto/komodo
++#31 nai mišto
+@@ -510 +511 @@
+-#31 konik/bi kanikasko
++#31 konik
+@@ -578 +579 @@
+-#31 bužanglo/bužanglimos
++#31 bujanglo,bujanglimos/bužanglo/bužanglimos
+@@ -734 +735 @@
+-#31 čigno/zaloga
++#31 čigno
+@@ -751 +752 @@
+-#31 nai gindo/bi gindosko
++#31 nai gindo
+@@ -767 +768 @@
+-#31 nai araklo/naj lino sama
++#31 nai araklo
+@@ -938 +939 @@
+-#31 bilažano
++#31 voruto/bilažano
+@@ -980 +981 @@
+-#31 bi sastardo/sastiarimasko
++#31 bi sastardo
+@@ -1086 +1087 @@
+-#31 dikhimos/observatorio
++#31 dikhimos
+@@ -1232 +1233 @@
+-#31 hai
++#31 thaj
+@@ -1334 +1335 @@
+-#31 zorako/ockupanto
++#31 zorako
+@@ -1509 +1510 @@
+-#31 kančesko
++#31 khantjesko/kančesko
+@@ -1531 +1532 @@
+-#31 kančesko
++#31 khantjesko,bi hasnako
+@@ -1622 +1623 @@
+-#31 nai ekonomiko
++#31 nai ekonomisko
+@@ -1667 +1668 @@
+-#31 nai pe jekh gindo/naj dakordo
++#31 nai pe jekh gindo/naj dakhordo
+@@ -1681 +1682 @@
+-#31 xoliarika
++#31 xolarika
+@@ -1788 +1789 @@
+-#31 nai došalo/bi došako
++#31 nai došalo/bidošako
+@@ -1820 +1821 @@
+-#31 xolariko/kontra
++#31 xolariko
+@@ -1893 +1894 @@
+-#31 manuš žutitori/publikako defendori
++#31 manuš jotitori/žutitori
+@@ -1906 +1907 @@
+-#31 prava
++#31 phrava
+@@ -1918 +1919 @@
+-#31 prava/publikum?/puterimos
++#31 phrava
+@@ -1982 +1983 @@
+-#31 bajo/dukhado/ando bajo
++#31 bajo
+@@ -2054 +2055 @@
+-#31 oficerikano/puterdo
++#31 oficerikano
+@@ -2122 +2123 @@
+-#31 nai slobodo/kaver rig?
++#31 nai slobodo
+@@ -2160 +2161 @@
+-#31 či mekhel i pača/či del pača
++#31 či mekhel i pača
+@@ -2323 +2324 @@
+-#31 či bisterdjol
++#31 bibistrdo/či bisterdjol
+@@ -2405 +2406 @@
+-#31 nai zor/či biril
++#31 nai zor
+@@ -2458 +2459 @@
+-#31 vuroto/bi lažavardo
++#31 vuroto
+@@ -2701 +2702 @@
+-#31 či djinžol
++#31 nai laše/či djinžol
+@@ -2729 +2730 @@
+-#31 xoxamno
++#31 čočavno/xoxamno
+@@ -2743 +2744 @@
+-#31 čar/džiko čar
++#31 čar
+@@ -2787 +2788 @@
+-#31 naj gastari
++#31 nai akharimos/naj gastari
+@@ -2897 +2898 @@
+-#31 čores bariardo
++#31 čoro barardo/čores bariardo
+@@ -2968 +2969 @@
+-#31 naštis te prinžares
++#31 či serel/naštis te prinžares
+@@ -3039 +3040 @@
+-#31 xoxamno
++#31 čočavno/xoxamno
+@@ -3564 +3565 @@
+-#31 oliva/maslina
++#31 oliva
+@@ -3613 +3614 @@
+-#31 makel ando vuloj/lel ando vuloj
++#31 oljil/makel ando vuloj
+@@ -3662 +3663 @@
+-#31 thulo pošomako spenčo
++#31 toli zpenso/thulo pošomako spenčo
+@@ -3951 +3952 @@
+-#31 nai lašo/vorta/bi malado
++#31 nai lašo/vorta
+@@ -4413 +4414 @@
+-#31 opinja
++#31 sikajimos/opinja
+@@ -4461 +4462 @@
+-#31 akana/strazom
++#31 akanaš/strazom
+@@ -4475 +4476 @@
+-#31 či kamel parujimos/zuralo šeresko
++#31 či kamel paruvel/parujimos
+@@ -4548 +4549 @@
+-#31 hasnako/barimos
++#31 hasnako
+@@ -4794 +4795 @@
+-#01 omisskänn(e)lig
++#01 omisskännelig
+@@ -4927 +4928 @@
+-#31 paše/pašti
++#31 paše
+@@ -4979 +4980 @@
+-#31 lel anglal
++#31 tradel anglal/lel anglal
+@@ -4991 +4992 @@
+-#31 phirimos/cirkulaciona
++#31 phirimos
+@@ -5142 +5143 @@
+-#31 ankolin
++#31 
+@@ -5226 +5227 @@
+-#31 nervozo
++#31 nerveso/nervozo
+@@ -5237 +5238 @@
+-#31 sičarel pes/sičol
++#31 sičarel pes
+@@ -5328 +5329 @@
+-#31 samasko kher/arakhajimasko 
++#31 samasko kher
+@@ -5394 +5395 @@
+-#31 nai vorta/diskucia?
++#31 nai vorta
+@@ -5476 +5477 @@
+-#31 nai kanči/direkto/bi vorbako
++#31 nai kanči
+@@ -5502 +5503 @@
+-#31 perdo manuš kamen les/dragosto
++#31 perdo manuš kamen les
+@@ -5635 +5636 @@
+-#31 lašo ilo
++#31 sikavel gindo/lašo ilo
+@@ -5766 +5767 @@
+-#31 parudjol
++#31 parujimos/parudjol
+@@ -5821 +5822 @@
+-#31 ande luma
++#31 nai ande luma
+@@ -5943 +5944 @@
+-#31 či žalpe/imposible
++#31 nai pačamasko, či žalpe
+@@ -5953 +5954 @@
+-#37 jekh bi pačamasko situatsia/jekh phari situatcia
++#37 jekh bi pačamasko situatsia
+@@ -6154 +6155 @@
+-#31 nai normalnio
++#31 nai normalno
+@@ -6287 +6288 @@
+-#31 mel/naj po than
++#31 mel
+@@ -6325 +6326 @@
+-#31 nai vorta/naj malado
++#31 nai vorta
+@@ -6680 +6681 @@
+-#31 jaškengo bičinitori, balamo
++#31 jaškiengo bičinitori, jaškiengo balamo
+@@ -6717 +6718 @@
+-#31 radujime, pačamasko
++#31 radujime, pačamako
+@@ -6758 +6759 @@
+-#31 tsedula, čedula
++#31 tsedula, cedula
+@@ -6805 +6806 @@
+-#31 lolo galbeno/aranžovo
++#31 lolo galbeno
+@@ -6898 +6899 @@
+-#37 jekh vorta vorbengo boldinimos/tolmačimos
++#37 jekh vorta vorbengo boldinimos
+@@ -6928 +6929 @@
+-#37 nai but te vorbil o manuš
++#37 nai but tel vorbil o manuš
+@@ -7202 +7203 @@
+-#31 čigne vorbi
++#31 cigne vorbi
+@@ -7303 +7304 @@
+-#31 normalnio
++#31 normalno
+@@ -7417 +7418 @@
+-#31 nai pečata
++#31 nai petčata
+@@ -7495 +7496 @@
+-#31 organizatsia
++#31 organisatsia
+@@ -7512 +7513 @@
+-#31 organizatisia, phanglimos, aliansa
++#31 organisatisia, phanglimos, aliansa
+@@ -7600 +7601 @@
+-#31 pianisto
++#31 pijanisto
+@@ -7758 +7759 @@
+-#31 originalo, čačo
++#31 origanalo, čačo
+@@ -7815 +7816 @@
+-#31 nai pačamasko
++#31 nai pačasko/pačamasko
+@@ -8106 +8107 @@
+-#31 than/foro/gor
++#31 than, foro
+@@ -8190 +8191 @@
+-#31 nai parujime/astardo/zurale šeresko
++#31 nai parujime
+@@ -8236 +8237 @@
+-#31 nai vorta
++#31 nai laše/vorta
+@@ -8292 +8293 @@
+-#31 xoxamno
++#31 čočavno/xoxamno
+@@ -8322 +8323 @@
+-#31 nai azbado
++#31 nai mit/azbado
+@@ -8467 +8468 @@
+-#31 khandel/thuvarel
++#31 khanglarel/khandel/thuvarel
+@@ -8564 +8565 @@
+-#31 či šinelpe/či huladjol
++#31 či šinelpes
+@@ -8670 +8671 @@
+-#31 našti neris/našti dobis
++#31 naštil neril
+@@ -8832 +8833 @@
+-#32 skurtsomos
++#32 skortsomos
+@@ -8996 +8997 @@
+-#31 nai vriama/bi vriamako
++#31 nai vriama
+@@ -9261 +9262 @@
+-#31 nai pačamos
++#31 nai pačajimos/pačamos
+@@ -9282 +9283 @@
+-#31 naštil ačarel/naj jazno
++#31 naštil atjarel(ačarel)
+@@ -9320 +9321 @@
+-#31 naj ravda
++#31 dilajvol/naj ravda
+@@ -9400 +9401 @@
+-#31 nai ašajimos/getomos
++#31 nai ašajimos
+@@ -9491 +9492 @@
+-#31 či anklel čino/či čijol
++#31 či aklel čino
+@@ -9870 +9871 @@
+-#31 či žanel vorta/naj siguro
++#31 či žanel vorta
+@@ -9959 +9960 @@
+-#31 čipimos
++#31 cipimos
+@@ -10149 +10150 @@
+-#31 bi nerime/konik či thol pe lesa
++#31 naštil arakhel les, bi nerime
+@@ -10159 +10160 @@
+-#01 oövervinn(e)lig
++#01 oövervinnelig
+@@ -10169 +10169,0 @@
+-

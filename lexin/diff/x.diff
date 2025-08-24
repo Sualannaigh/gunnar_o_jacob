@@ -1,0 +1,12 @@
+--- ../kelderasch_filer/text/x.txt	2025-08-13 17:09:09
++++ swe_kal/x.txt	2025-08-24 21:23:13
+@@ -1 +1 @@
+-﻿#01 x-krok
++#01 x-krok
+@@ -16 +16 @@
+-#31 ksilofono (FG:Silofono)
++#31 ksilofono 
+@@ -24,2 +24 @@
+-#54 dubi kai marel o manuš pe lende ande musika, kaštenge dubi
+-
++#54 dubi kai marel o manušh pe lende ande musika

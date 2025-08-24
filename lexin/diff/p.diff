@@ -1,0 +1,446 @@
+--- ../kelderasch_filer/text/p.txt	2025-08-13 17:08:55
++++ swe_kal/p.txt	2025-08-24 21:23:02
+@@ -1 +1 @@
+-﻿#01 p
++#01 p
+@@ -86 +86 @@
+-#41 šov paketo 
++#41 
+@@ -175,0 +176 @@
++
+@@ -189 +190 @@
+-#31 žamba/braška
++#31 žamba
+@@ -216 +216,0 @@
+-
+@@ -275,0 +276 @@
++
+@@ -284 +285 @@
+-#31 diloro/asamasko
++#31 diloro
+@@ -293 +293,0 @@
+-
+@@ -590 +590 @@
+-#31 purane tsali
++#31 purane tzali
+@@ -689 +689 @@
+-#31 dab/bašimos/pe
++#31 dab
+@@ -836 +836 @@
+-#31 bov
++#31 bhov
+@@ -1086 +1086 @@
+-#41 čajtongoski hertija
++#41 cajtongoski hertija
+@@ -1217 +1217 @@
+-#31 paprika/piparka
++#31 paprika
+@@ -1275 +1275 @@
+-#31 tvesko kabla/teveski antena
++#31 tvesko kabla
+@@ -1493 +1493 @@
+-#31 rajkano
++#31 rajkano, vojako
+@@ -1572 +1572 @@
+-#31 parasito
++#31 čoro, prasito
+@@ -1585 +1585 @@
+-#31 parasolla/vušalin
++#31 parasolla
+@@ -1650 +1650 @@
+-#31 parafyma,duxhi
++#31 parafyma, khandel šukar
+@@ -1777 +1777 @@
+-#41 parkeringosko strafo
++#41 parkeringo strafo
+@@ -1783 +1783 @@
+-#41 parkeringosko automato
++#41 parkeringosko počinitori/automato
+@@ -1847 +1847 @@
+-#04 styrelsesätt som innebär att riksdagens (parlamentets) oritetsparti utövar makten
++#04 styrelsesätt som innebär att riksdagens (parlamentets) majoritetsparti utövar makten
+@@ -1978 +1978 @@
+-#11 oritetsparti
++#11 majoritetsparti
+@@ -2133 +2133 @@
+-#31 khetanimasko vortako
++#31 khetanimaski vortako
+@@ -2230 +2230 @@
+-#31 čigno drom ande plajinga
++#31 cigno drom ande plajinga
+@@ -2306 +2306 @@
+-#31 žal/malavel
++#31 žal
+@@ -2501 +2501 @@
+-#31 pasivkansko/ašado
++#31 pasivkansko
+@@ -2527 +2527 @@
+-#31 pasiveril/ašajimos/pe
++#31 pasiveril
+@@ -3306 +3306 @@
+-#31 love
++#31 lovew
+@@ -3605 +3605 @@
+-#31 pensionaro/pensioneri
++#31 phurimasko, pensionaro
+@@ -3683 +3683 @@
+-#31 čigni kuxnia
++#31 čigni kuxna
+@@ -3894 +3894 @@
+-#31 nakhimaski vriama
++#31 nakhimaki vrama
+@@ -3910 +3910 @@
+-#31 perfektimos
++#31 perfekta
+@@ -3924 +3924 @@
+-#31 hunavel
++#31 
+@@ -3968 +3968 @@
+-#31 vriama, perioda
++#31 vriama
+@@ -3975 +3975 @@
+-#37 e vriama 1970-1980
++#37 
+@@ -3981 +3981 @@
+-#41 deše beršengi vriama
++#41 
+@@ -3984 +3984 @@
+-#41 andre školaki vriama
++#41 
+@@ -3987 +3987 @@
+-#41 vriamake
++#41 
+@@ -3997 +3997 @@
+-#31 lašarimaski vriama
++#31 lašarimaski vrama
+@@ -4011 +4011 @@
+-#31 vriamako žutimos
++#31 
+@@ -4032 +4032 @@
+-#37 inkerimasko kher
++#37 
+@@ -4041 +4041 @@
+-#31 forma balengi
++#31 
+@@ -4061 +4061 @@
+-#31 kerel te inkerel
++#31 kerel
+@@ -4075 +4075 @@
+-#31 avri mukimasko djesesko/mukhlo avri pe jekh djes/permisiona
++#31 avri mukimasko djesesko/mukhlo avri pe jekh djes/permissiona
+@@ -4092 +4092 @@
+-#31 šudel avri
++#31 
+@@ -4098,2 +4098,2 @@
+-#07 200 man har permitterats på Volvo
+-#37 200 manuš avri šudine katar o Volvo
++#07 200 man har permitterats på xxxx
++#37 
+@@ -4137 +4137 @@
+-#31 stansiaki vulitsa/stanciako drom
++#31 perono
+@@ -4257 +4257 @@
+-#99 Â 
++#99 Â 
+@@ -4397 +4397 @@
+-#01 personel
++#01 personell
+@@ -4920 +4920 @@
+-#31 šluga
++#31 sloga
+@@ -5036 +5036 @@
+-#31 vuruto/pusavel
++#31 vuruto
+@@ -5274 +5274 @@
+-#31 pharavel/dukhavel/činujil
++#31 pharavel
+@@ -5320 +5320 @@
+-#02 subst
++#02 subst.
+@@ -5331 +5331 @@
+-#02 subst
++#02 subst.
+@@ -5521 +5521 @@
+-#31 pionari/pionjeri
++#31 pionari
+@@ -5768 +5768 @@
+-#31 mitra
++#31 muter
+@@ -5912 +5912 @@
+-#31 dilo/žalpe
++#31 dilo
+@@ -6077 +6077 @@
+-#31 tsali
++#31 tzali
+@@ -6401 +6401 @@
+-#31 gindosa/planosa kerdo
++#31 gindo gatasko/gindosa kerdo
+@@ -6429 +6429 @@
+-#31 planta
++#31 planteril
+@@ -6460 +6460 @@
+-#31 planteril, bariarel
++#31 planteril, bararel
+@@ -6475 +6475 @@
+-#31 planteril/bariarel
++#31 planteril
+@@ -6661 +6661 @@
+-#31 than
++#31 čorimasko than
+@@ -6694 +6694 @@
+-#31 than mangimasko/mangimasko than
++#31 than mangimasko
+@@ -6723 +6723 @@
+-#31 thaneski čedula/tiketo
++#31 thanesko čedula/tiketo
+@@ -6787 +6787 @@
+-#31 sani/paljuri
++#31 sani
+@@ -6792 +6792 @@
+-#35 plastinka
++#35 
+@@ -6806 +6806 @@
+-#31 sanjarel/vortol
++#31 sanjarel
+@@ -7020 +7020 @@
+-#31 šero/gardisto
++#31 šero
+@@ -7077 +7077 @@
+-#31 šudel
++#31 šhodel/šudel
+@@ -7249 +7249 @@
+-#31 pherel/pandavel
++#31 pherel
+@@ -7268 +7268 @@
+-#31 sičol buči
++#31 sičol buči/sičol buči
+@@ -7452 +7452 @@
+-#01 Plusgiro
++#01 Plus~giro
+@@ -7560 +7560 @@
+-#31 dukhako/činujimasko
++#31 dukhasko
+@@ -7604 +7604 @@
+-#31 plastero
++#31 plasto ratesko
+@@ -7810 +7810 @@
+-#31 strazom
++#31 akanaso/strazom
+@@ -7899 +7899 @@
+-#31 podio
++#31 podimo
+@@ -8013 +8013 @@
+-#31 piramno
++#31 šhejasko šhav/piramno
+@@ -8025 +8025 @@
+-#31 copa nerimaski
++#31 nerisartorisko/copa nerimaski
+@@ -8080 +8080 @@
+-#32 skurtsomos
++#32 skortsomos
+@@ -8218 +8218 @@
+-#31 bučako programo
++#31 bučasko/bučako programo
+@@ -8380 +8380 @@
+-#31 politikari/politiko
++#31 politikari
+@@ -8409 +8409 @@
+-#31 politiko
++#31 politisko
+@@ -8522 +8522 @@
+-#31 poličisko šib
++#31 polsko šhib/poličisko šib
+@@ -8772 +8772 @@
+-#31 šorel
++#31 shorel/šorel
+@@ -9081 +9081 @@
+-#31 vorotako manuš
++#31 vorotako manuš/guardiano
+@@ -10045 +10045 @@
+-#31 zumajimaski buči
++#31 sumajimaski buči
+@@ -10047 +10047 @@
+-#32 skurtsomos
++#32 skortsomos
+@@ -10308 +10308 @@
+-#31 predikil/pričol
++#31 predikil
+@@ -10446 +10446 @@
+-#31 anglunimasko
++#31 angluimasko
+@@ -10783 +10783 @@
+-#31 bi strafosko, manai strafojime
++#31 bi strafosko, manaistrafojime
+@@ -10800 +10800 @@
+-#31 strafo tele lino
++#31 strfo tele lino
+@@ -10872 +10872 @@
+-#37 činojime tačimos
++#37 činojime tatčimos
+@@ -10890 +10890 @@
+-#37 čidino karing o zido
++#37 čidino karing o sido
+@@ -10929 +10929 @@
+-#36 La kompaniake balame kruglom o them bičinen vi cajtongori/gazeti anda kaver thema ai but kaver djeli.
++#36 La kompaniake balame kruglom o them bičinen vi cajtongori/gaseti anda kaver thema ai but kaver djeli.
+@@ -10973 +10973 @@
+-#02 subst. plural
++#02 subst.
+@@ -11073 +11073 @@
+-#31 mangimos/pretencia
++#31 mangimos
+@@ -11317 +11317 @@
+-#31 anglunimasko, jekh anda sa/svesno
++#31 anglunimasko, jekh anda sa
+@@ -11617 +11617 @@
+-#31 bariaren
++#31 bararen
+@@ -11934,17 +11933,0 @@
+-
+-#01 -procentig
+-#31 procento
+-#02 efterled
+-#32 
+-#04 som består av en viss procent
+-#07 en hundraprocentig ökning
+-#37 
+-#47 7512
+-#11 96-procentig -t
+-#41 
+-#51 5371
+-#12 procentigt procentiga
+-#14 -prosen:tig
+-#98 12136
+-#99 13427
+-#54 
+@@ -11953 +11936 @@
+-#31 procentosko
++#31 procentesko
+@@ -12030 +12013 @@
+-#31 producento
++#31 procudento
+@@ -12187 +12170 @@
+-#31 profesonalnio
++#31 profesonalno
+@@ -12210 +12193 @@
+-#07 professor i transportteknik vid Chalmers
++    • #07 professor i transportteknik vid Chalmers
+@@ -12273 +12256 @@
+-#31 profs/profesionalnio
++#31 profs
+@@ -12294 +12277 @@
+-#31 profesionalnio
++#31 profesionalno
+@@ -12633 +12616 @@
+-#31 šudel doxura
++#31 šudel doxora
+@@ -13041 +13024 @@
+-#31 phandavel, phandel/čepo
++#31 phandavel, phandel
+@@ -13237 +13220 @@
+-#31 rašajengo titelo
++#31 rašajengi titelo
+@@ -13343 +13326 @@
+-#31 protesa/xoxamno statosko kotor
++#31 protesta, xoxamno statosko kotor
+@@ -13348 +13331 @@
+-#41 xoxamno/postiso dand
++#41 xoxamno dand
+@@ -13351 +13334 @@
+-#41 xoxamno/postiso punro
++#41 xoxamno punro
+@@ -13460 +13443 @@
+-#31 zumajimos
++#31 sumajimos
+@@ -13502 +13485 @@
+-#31 zumajimos
++#31 sumajimos
+@@ -13523 +13506 @@
+-#31 zumavel
++#31 sumavel
+@@ -13542 +13525 @@
+-#31 zumajimaski soba
++#31 sumajimaski soba
+@@ -13702 +13685 @@
+-#31 telarel e tsena, trugujilpe
++#31 telarel e sena, trugujilpe
+@@ -13736 +13719 @@
+-#31 riljazil
++#31 rilžaril
+@@ -13752 +13735 @@
+-#32 skurtsomos
++#32 skortsomos
+@@ -14147 +14130 @@
+-#31 zumajimasko
++#31 sumajimasko
+@@ -14173 +14156 @@
+-#31 zumavel
++#31 sumavel
+@@ -14209 +14192 @@
+-#31 zumajimos
++#31 sumajimos
+@@ -14225 +14208 @@
+-#32 skurtsomos
++#32 skortsomos
+@@ -14965 +14948 @@
+-#31 pumpo/pompa
++#31 pumpo
+@@ -15020 +15003 @@
+-#02 subst. plur
++#02 subst.
+@@ -15224 +15207 @@
+-#31 vriamako
++#31 vramako
+@@ -15303 +15286 @@
+-#31 čačo/vužo
++#31 čačo
+@@ -15724 +15707 @@
+-#31 čigno šhav
++#31 cigno šhav
+@@ -16436 +16419 @@
+-#31 stilbo
++#31 stolpo/stilbo
+@@ -16578 +16561 @@
+-#31 vuštado
++#31 vužtato/vuštado
+@@ -16772 +16755 @@
+-#31 lašarel/gribil
++#31 lašarel
+@@ -17029 +17012 @@
+-#31 povo/papa
++#31 povo
+@@ -17104 +17087 @@
+-#31 mai but
++#31 
+@@ -17123 +17106 @@
+-#37 jekh kuči bunda
++#37 
+@@ -17141 +17124 @@
+-#31 gemo, žemo, bax, (meržalia)
++#31 
+@@ -17148 +17131 @@
+-#37 čače bax
++#37 
+@@ -17151 +17134 @@
+-#37 muri romni si jekh čačo bax
++#37 
+@@ -17154 +17137 @@
+-#41 vojagago bax
++#41 
+@@ -17253 +17236 @@
+-#31 balta pejeski
++#31 pajesko kidimos/balta pejeski
+@@ -17258 +17241 @@
+-#41 pajeski balta
++#41 
+@@ -17272 +17255 @@
+-#36 Kado xabe si normalno ando Norrland
++#36 
+@@ -17291 +17274 @@
+-#37 vo gelo kothe ai phurdelas
++#37 
+@@ -17308 +17291 @@
+-#37 phurdine kaltsi
++#37 
+@@ -17318 +17300,0 @@
+-

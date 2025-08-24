@@ -1,0 +1,365 @@
+--- ../kelderasch_filer/text/j.txt	2025-08-13 17:08:44
++++ swe_kal/j.txt	2025-08-24 21:22:53
+@@ -1 +1 @@
+-﻿#01 ja
++#01 ja
+@@ -30 +30 @@
+-#37 Jo, apo žjavtar me!
++#37 Jo, apo žavtar me!
+@@ -70 +70 @@
+-#35 vi pa e raxhami le kalcenge
++#35 
+@@ -74 +74 @@
+-#41 morčani raxhami
++#41 morčikani/morčani raxami
+@@ -77 +77 @@
+-#41 lungo raxhami
++#41 
+@@ -106 +106 @@
+-#14 jej:d el. 2ja:de
++#14 jej:d el.2ja:de
+@@ -121 +121 @@
+-#37 so mej žanav
++#37 so mej zjanav
+@@ -135 +135 @@
+-#31 me 
++#31 me korkoro
+@@ -150 +150 @@
+-#31 astarel
++#31 rodel
+@@ -160 +160 @@
+-#37 le rajbare roden la bankako čor
++#37 le rajbare roden le bankosko čores
+@@ -227 +227 @@
+-#37 jo sar atveto
++#37 
+@@ -261 +261 @@
+-#41 čerbosko rodimos
++#41 
+@@ -287 +287 @@
+-#31 astarimasko lil, rodimasko lil
++#31 astarimasko lil
+@@ -292 +292 @@
+-#36 Savore kai roden te astaren musai te počinen jekh beršesko počin te šaj len astarimasko lil.
++#36 
+@@ -301 +301 @@
+-#31 ašundjol sar jekh mutsa
++#31 ašundol sar jekh mutsa
+@@ -320 +320 @@
+-#36 Bhovesko xabe korompirensa, mašesa ai puromesa.
++#36 
+@@ -339 +339 @@
+-#31 januaro, janušo
++#31 janušo
+@@ -352 +352 @@
+-#31 japano/japonezo
++#31 japano
+@@ -388 +388 @@
+-#31 jasminaki buhx
++#31 jasminaski buhx
+@@ -404 +404 @@
+-#35 jekh sikajimos kana žal divano kai sikadol te ačardolpe so phenelpe
++#35 
+@@ -417 +417 @@
+-#35 ando divano sikadol so ačardolpe
++#35 
+@@ -427 +427 @@
+-#31 jazzo
++#31 djazo
+@@ -450 +450 @@
+-#41 manšesteronge kaltsi
++#41 
+@@ -484 +484 @@
+-#41 baro jeto
++#41 
+@@ -487 +487 @@
+-#41 jetosko aviono
++#41 
+@@ -511 +511 @@
+-#32 skurtsomos
++#32 skortsomos
+@@ -554 +554 @@
+-#37 Pale tu peradan le manuši?- Jo
++#37 
+@@ -563 +563 @@
+-#31 e
++#31 ej
+@@ -569 +569 @@
+-#37 So sas  kai sas?—E, voj bisterdas le love
++#37 So sas  kai sas?—Ej, voj bisterdas le love
+@@ -572 +572 @@
+-#37 E, kadia sas te…
++#37 Ej, kadia sas te…
+@@ -689 +689 @@
+-#31 pharimasko,činimasko, čino, pharo
++#31 pharimasko,činimasko,čino
+@@ -696 +696 @@
+-#37 pharo djes sas tut adjes?
++#37 
+@@ -699 +699 @@
+-#37 jekh pharo manuš
++#37 
+@@ -737 +737 @@
+-#41 kovlo našimos
++#41 
+@@ -750,0 +751 @@
++
+@@ -795 +796 @@
+-#31 Jon Blund
++#31 
+@@ -802 +803 @@
+-#54 paramičari so kerel le glaten te soven
++#54 
+@@ -832 +833 @@
+-#37 jekh tritokotor anda lumiake manuš xajin ande bokh
++#37 
+@@ -835 +836 @@
+-#37 tradimos kruglom sa e lumia
++#37 
+@@ -838 +839 @@
+-#37 maškar čeri ai phuv
++#37 
+@@ -841 +842 @@
+-#38 le duje punrensa pe phuv
++#38 
+@@ -846 +847 @@
+-#41 lumiaki planeta
++#41 
+@@ -861 +862 @@
+-#37 hunajimos ande phuv
++#37 
+@@ -864 +865 @@
+-#37 kerdi čik
++#37 
+@@ -867 +868 @@
+-#37 porončimaski phuv
++#37 
+@@ -870 +871 @@
+-#38 perel ande laši phuv
++#38 
+@@ -873 +874 @@
+-#41 xabeneski phuv
++#41 
+@@ -876 +877 @@
+-#41 tišajeski/čišajaki phuv
++#41 
+@@ -891 +892 @@
+-#37 buči ande paveria
++#37 
+@@ -896 +897 @@
+-#41 paveriako than
++#41 
+@@ -977 +978 @@
+-#41 murengo them
++#41 
+@@ -1003 +1004 @@
+-#37 laši phuv pe laše neve ginduri
++#37 
+@@ -1051,0 +1053 @@
++
+@@ -1058 +1060 @@
+-#31 eneržia
++#31 joule
+@@ -1079 +1081 @@
+-#35 pa le bučara paša špita, rajbare, jagake kera ai mai but
++#35 
+@@ -1095 +1097 @@
+-#37 jourosko doktoro
++#37 
+@@ -1109 +1111 @@
+-#35 na primer ande jekh špita
++#35 
+@@ -1197 +1199 @@
+-#37 tehara si kai site žjastar
++#37 tehara si kai site jastar
+@@ -1217 +1219 @@
+-#37 somai žalas e riat mai zorales delas duma
++#37 somai zjalas e riat mai zorales delas duma
+@@ -1247 +1249 @@
+-#41 šele beršesko djes
++#41 
+@@ -1355 +1357 @@
+-#36 Jekh andal le kristianonge mai bare djesa, kai den pe gindo kai o arakhajimos katar o Jesus.
++#36 Jekh andal le kristianonge mai bare djesa, kai den pe gindo kai o arakhažimos katar o Jesus.
+@@ -1360 +1362 @@
+-#37 Dujte djes krečuno
++#37 Kaver djes krečuno
+@@ -1378 +1380 @@
+-#36 Kodo djes  kai vi hulavenpe avri kručuneske podarki.
++#36 Kodo djes  kai vi hulavenpe avri kručuneske potarki.(podarki)
+@@ -1430 +1432 @@
+-#31 julio, julo, eftato šon
++#31 juio, julo, eftato šon
+@@ -1443 +1445 @@
+-#31 kručoneski podarka
++#31 kručoneski potarka
+@@ -1454 +1456 @@
+-#31 kručuneski strada/štala
++#31 kručuneski strada
+@@ -1488 +1490 @@
+-#02 se tomte
++02 se tomte
+@@ -1492,0 +1495 @@
++
+@@ -1510 +1513 @@
+-#31 jumbosko aviono/airoplano
++#31 jumbosko airoplano
+@@ -1549 +1552 @@
+-#31 špenčo
++#31 špenco
+@@ -1556 +1559 @@
+-#41 thulo špenco
++#41 
+@@ -1627 +1630 @@
+-#39 boldines ”phuro”
++#39 
+@@ -1661 +1664 @@
+-#32 skurtsomos
++#32 skortsomos
+@@ -1671 +1674 @@
+-#31 krisengo žanglimos, krisenija
++#31 krisengo žanglimos
+@@ -1688 +1691 @@
+-#37 krisako poštari
++#37 
+@@ -1723 +1726 @@
+-#35 manuš so djinen vi ande kelimata ai mai but
++#35 
+@@ -1727 +1730 @@
+-#41 krisako membro
++#41 
+@@ -1772 +1775 @@
+-#35 butivar ando športo
++#35 
+@@ -1808 +1811 @@
+-#41 vortarimos
++#41 
+@@ -1840 +1843 @@
+-#31 krisengo
++#31 čačimasko
+@@ -1845 +1848 @@
+-#41 krisengo ministero
++#41 
+@@ -1874 +1877 @@
+-#31 la justitsiako representanto
++#31 la justitsako representanto
+@@ -1892 +1895 @@
+-#41 žintari
++#41 
+@@ -1944 +1947 @@
+-#41 čerbosko roditori
++#41 
+@@ -2059 +2062 @@
+-#38 xutimos le punrensa
++#38 
+@@ -2101 +2104 @@
+-#31 diferensia
++#31 paše
+@@ -2106 +2109 @@
+-#37 kerel diferensia
++#37 
+@@ -2109 +2112 @@
+-#37 o Švedo si čignoro angla Grönland
++#37 o Švedo si cignoro angla Grönland
+@@ -2129 +2132 @@
+-#31 paše cena, diferensiaki cena
++#31 paše cena
+@@ -2146 +2149 @@
+-#37 paruvel pesko gindo
++#37 
+@@ -2202 +2205 @@
+-#31 hurgojil, hujil/huhujil
++#31 hurgojil 
+@@ -2213 +2216 @@
+-#31 de vorta
++#31 vorta
+@@ -2218 +2221 @@
+-#37 jekh de vorta than
++#37 
+@@ -2233 +2236 @@
+-#37 jekh fialo distanso
++#37 
+@@ -2236 +2239 @@
+-#38 jekh fialo pasuri
++#38 
+@@ -2242 +2245 @@
+-#38 sajek publika
++#38 
+@@ -2257 +2260 @@
+-#37 jekh sajekfialo kelimos
++#37 
+@@ -2263,0 +2267 @@
++
+@@ -2267 +2271 @@
+-#31 dujares
++#31 
+@@ -2272 +2276 @@
+-#37 pa žinimata/sifri
++#37 
+@@ -2280 +2284 @@
+-#54 pa numera kai si hulades mo numero 2
++#54 pa numera kai si vhulades mo numero 2
+@@ -2307 +2311 @@
+-#41 jekhfialo phurimos
++#41 
+@@ -2310 +2314 @@
+-#41 jekhfialo thulimos
++#41 
+@@ -2333 +2337 @@
+-#31 vortarel
++#31 kerel mišto
+@@ -2338 +2342 @@
+-#37 vortarel jekh cena
++#37 
+@@ -2355 +2359 @@
+-#37 vortarel e phuv
++#37 
+@@ -2372 +2376 @@
+-#38 vortosarelpe
++#38 
+@@ -2435 +2439 @@
+-#31 paša jekh avreste
++#31 pašajekhavreste
+@@ -2440 +2444 @@
+-#37 le našajitora sas paša jekh avreste
++#37 
+@@ -2537 +2541 @@
+-#37 haidi aj beš paša mande!
++#37 hajdi aj beš paša mande!
+@@ -2541,0 +2546 @@
++
+@@ -2568 +2573 @@
+-#37 politikako jekh fialimos
++#37 
+@@ -2677 +2682 @@
+-#37 pirajimos sastrune vastesa
++#37 
+@@ -2707 +2712 @@
+-#31 e sastruni granicaki bar
++#31 e sastruni granicaki bhar
+@@ -2720 +2725 @@
+-#31 sastruni bar
++#31 sastruni bhar
+@@ -2727 +2732 @@
+-#37 le rajbare thode jekh sastruni bar kruglom o gor
++#37 le rajbare thode jekh sastruni bhar kruglom o gor
+@@ -2762 +2767 @@
+-#41 šinjengi stansia
++#41 šinengi stansia
+@@ -2775 +2780 @@
+-#31 šinjengo trušul
++#31 šinengo trušul
+@@ -2820 +2825 @@
+-#31 aro phutčarimasko, droždi
++#31 aro phutčarimasko, druždi
+@@ -2883 +2888 @@
+-#31 opral de baro/opral pa supra baro
++#31 opral de baro
+@@ -2905 +2910 @@
+-#31 partiako
++#31 čor 
+@@ -2910 +2915 @@
+-#37 jekh partiako testimonio
++#37 
+@@ -2946 +2950,0 @@
+-

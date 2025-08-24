@@ -1,0 +1,10169 @@
+#01 o
+#31 haj
+#02 förk.
+#32 skurtsomos
+#04 och
+#07 fr o m (från och med)
+#37 de katar
+#47 6601
+#07 o s v (och så vidare)
+#37 aj maj
+#47 6602
+#07 t o m (till och med)
+#37 ži kaj
+#47 6603
+#13 o.
+#14 å(k:)
+#98 10791
+#99 11961
+#54 
+
+#01 o-
+#31 na
+#02 förled
+#32 anglal phanari
+#04 inte
+#05 anger vanligen negerad motsats vid adjektiv
+#35 
+#11 o~försiktig -t
+#41 
+#51 4805
+#11 o~gift
+#41 
+#51 4806
+#11 o~tur -en
+#41 
+#51 4807
+#14 2O:-
+#98 10792
+#99 11962
+#54 
+
+#01 oanad
+#31 bi gindosko
+#02 adj.
+#32 adjektivo
+#04 som man inte trodde var möjlig
+#07 oanade konsekvenser
+#37 
+#47 6604
+#12 oanat oanade
+#14 2O:a:nad
+#98 10793
+#99 11963
+#54 
+
+#01 oansenlig
+#31 nai baro/zaloga
+#02 adj.
+#32 adjektivo
+#04 obetydlig, liten
+#12 oansenligt oansenliga
+#14 2O:anse:nlig
+#98 10794
+#99 11964
+#54 
+
+#01 oanständig
+#31 voruto/bi-lažavardo
+#02 adj.
+#32 adjektivo
+#04 inte anständig, fräck
+#12 oanständigt oanständiga
+#14 2O:ansten:dig
+#98 10795
+#99 11965
+#54 
+#97 mini
+
+#01 oansvarig
+#31 
+#02 adj.
+#32 adjektivo
+#04 lättsinnig, som inte tar sitt ansvar
+#12 oansvarigt oansvariga
+#14 2O:ansva:rig
+#98 10796
+#99 11966
+#54 
+
+#01 oantastlig
+#31 
+#02 adj.
+#32 adjektivo
+#04 som man inte kan komma åt el. kritisera
+#12 oantastligt oantastliga
+#14 2O:antas:tlig
+#98 10797
+#99 11967
+#54 
+
+#01 oanträffbar
+#31 čavargov
+#02 adj.
+#32 adjektivo
+#04 omöjlig att få tag i
+#12 oanträffbart oanträffbara
+#14 2O:antrefba:r
+#98 10798
+#99 11968
+#54 
+
+#01 oanvänd
+#31 nevo
+#02 adj.
+#32 adjektivo
+#04 inte använd, obegagnad
+#12 oanvänt oanvända
+#14 2O:anven:d
+#98 10799
+#99 11969
+#54 
+
+#01 oas
+#31 paj
+#02 subst.
+#32 substantivo
+#04 plats med vatten och växtlighet i en öken
+#05 även bildligt om skön plats för rekreation
+#35 
+#12 oasen oaser
+#14 oA:s
+#98 10800
+#99 11970
+#54 
+
+#01 oavbruten
+#31 bi ašamasko
+#02 adj.
+#32 adjektivo
+#04 som inte har avbrott, ständig, konstant
+#12 oavbrutet oavbrutna
+#14 2O:a:vbru:ten
+#98 10801
+#99 11971
+#54 
+
+#01 oavbrutet
+#31 nai ašajimos
+#02 adv.
+#32 adverbo
+#04 utan avbrott, hela tiden
+#07 oljepriserna har ökat oavbrutet
+#37 
+#47 6605
+#14 2O:a:vbru:tet
+#98 10802
+#99 11972
+#54 
+
+#01 oavgjord
+#31 nai gata
+#02 adj.
+#32 adjektivo
+#04 inte avgjord, utan någon segrare
+#07 en oavgjord fotbollsmatch
+#37 
+#47 6606
+#12 oavgjort oavgjorda
+#14 2O:a:vjo:r+d
+#98 10803
+#99 11973
+#54 
+
+#01 oavhängig
+#31 
+#02 adj.
+#32 adjektivo
+#04 självständig, oberoende
+#11 oavhängighet
+#41 
+#51 4808
+#12 oavhängigt oavhängiga
+#14 2O:a:vhe@:ig
+#98 10804
+#99 11974
+#54 
+
+#01 oavkortad
+#31 bi čirdimasko
+#02 adj.
+#32 adjektivo
+#04 utan avdrag
+#07 pengarna går oavkortat till Röda Korset
+#37 
+#47 6607
+#12 oavkortat oavkortade
+#14 2O:a:vkor+t:ad
+#98 10805
+#99 11975
+#54 
+
+#01 oavsett
+#31 vaj sar avla
+#02 prep.
+#32 prepositiono
+#04 utan hänsyn till, oberoende av
+#07 du har rätt till sjukvård oavsett var i Sverige du bor
+#37 
+#47 6608
+#14 2O:a:vset:
+#98 10806
+#99 11976
+#54 
+
+#01 OB
+#31 OB
+#02 förk.
+#32 skurtsomos
+#04 obekväm arbetstid (arbetstid som ligger utanför vanlig kontorstid)
+#06 Obekväm arbetstid avser den tid då man normalt skulle vara ledig. Denna är inte reglerad i lag.
+#36 
+#11 OB-tillägg
+#41 
+#51 4809
+#13 ob
+#14 2O:be:
+#98 10807
+#99 11977
+#54 
+#97 mini
+
+#01 obalans
+#31 nai balanso
+#02 subst.
+#32 substantivo
+#04 brist på balans
+#07 råka i obalans
+#37 
+#47 6609
+#12 obalansen
+#14 2O:balan:s
+#98 10808
+#99 11978
+#54 
+
+#01 obalanserad
+#31 bi balansosko
+#02 adj.
+#32 adjektivo
+#04 ur jämvikt, obehärskad
+#07 ett obalanserat uppträdande
+#37 
+#47 6610
+#12 obalanserat obalanserade
+#14 2O:balanse:rad
+#98 10809
+#99 11979
+#54 
+
+#01 obarmhärtig
+#31 bi ilesko
+#02 adj.
+#32 adjektivo
+#04 som saknar medkänsla, skoningslös
+
+#12 obarmhärtigt obarmhärtiga
+#14 2O:barmhär+t:ig
+#98 10810
+#99 11980
+#54 
+#97 mini
+
+#01 obducerar
+#31 obduciril,šinel
+#02 verb
+#32 verbo
+#04 göra en obduktion (på)
+#10 A & (B)
+#11 obducent
+#41 
+#51 4810
+#12 obducerade obducerat obducera(!)
+#14 åbdusE:rar
+#98 10811
+#99 11981
+#54 
+
+#01 obduktion
+#31 obduktsiona
+#02 subst.
+#32 substantivo
+#04 läkarundersökning av en död kropp för att bestämma dödsorsaken
+#12 obduktionen obduktioner
+#14 åbduk$O:n
+#98 10812
+#99 11982
+#54 
+
+#01 obeaktad
+#31 bi grišako
+#02 adj.
+#32 adjektivo
+#04 förbisedd
+#08 lämna obeaktad ("strunta i")
+#38 
+#48 1088
+#12 obeaktat obeaktade
+#14 2O:beak:tad
+#98 10813
+#99 11983
+#54 
+
+#01 obebodd
+#31 bi bešimasko
+#02 adj.
+#32 adjektivo
+#04 där ingen bor
+#07 en obebodd ö
+#37 
+#47 6611
+#12 obebott obebodda
+#14 2O:bebod:
+#98 10814
+#99 11984
+#54 
+
+#01 obefintlig
+#31 kančesko
+#02 adj.
+#32 adjektivo
+#04 som inte existerar
+#07 sikten var närmast obefintlig
+#37 
+#47 6612
+#12 obefintligt obefintliga
+#14 2O:befin:tlig
+#98 10815
+#99 11985
+#54 
+
+#01 obefläckad
+#31 vužo/bi-pečatako
+#02 adj.
+#32 adjektivo
+#04 ren; fläckfri
+#08 den obefläckade avlelsen ("avlelsen av Jesus (utan könsumgänge)")
+#38 
+#48 1089
+#12 obefläckat obefläckade
+#14 2O:beflek:ad
+#98 10816
+#99 11986
+#54 
+
+#01 obefogad
+#31 kančesko
+#02 adj.
+#32 adjektivo
+#04 som det inte finns skäl till
+#12 obefogat obefogade
+#14 2O:befo:gad
+#98 10817
+#99 11987
+#54 
+
+#01 obegriplig
+#31 či ačardjo
+#02 adj.
+#32 adjektivo
+#04 som man inte kan förstå, ofattbar
+#07 texten var helt obegriplig
+#37 
+#47 6613
+#12 obegripligt obegripliga
+#14 2O:begri:plig
+#98 10818
+#99 11988
+#54 
+
+#01 obegränsad
+#31 bi granica,desa but
+#02 adj.
+#32 adjektivo
+#04 utan gräns; mycket riklig
+#07 ha obegränsat med tid
+#37 
+#47 6614
+#12 obegränsat obegränsade
+#14 2O:begren:sad
+#98 10819
+#99 11989
+#54 
+
+#01 obehag
+#31 vuxitsejala/vuričala/vuritsimos
+#02 subst.
+#32 substantivo
+#04 obehaglig känsla el. upplevelse
+#07 känna obehag
+#37 
+#47 6615
+#07 utsättas för obehag
+#37 
+#47 6616
+#12 obehaget obehag obehagen
+#14 2O:beha:g
+#98 10820
+#99 11990
+#54 
+
+#01 obehaglig
+#31 vuritsimos
+#02 adj.
+#32 adjektivo
+#04 som gör att man känner obehag
+#07 en obehaglig överraskning
+#37 
+#47 6617
+#12 obehagligt obehagliga
+#14 2O:beha:glig
+#98 10821
+#99 11991
+#54 
+#97 mini
+
+#01 obehindrat
+#31 bi pharimasko
+#02 adv.
+#32 adverbo
+#04 utan svårighet
+#07 hon talar franska obehindrat
+#37 
+#47 6618
+#14 2O:behin:drat
+#98 10822
+#99 11992
+#54 
+
+#01 obehärskad
+#31 nai kontrola
+#02 adj.
+#32 adjektivo
+#04 som inte kan kontrollera sina känslor
+#12 obehärskat obehärskade
+#14 2O:behär+s:kad
+#98 10823
+#99 11993
+#54 
+
+#01 obehörig
+#31 strino/strijino
+#02 adj.
+#32 adjektivo
+#04 som inte har rätt eller kompetens till något
+#07 tillträde förbjudet för obehöriga
+#37 
+#47 6619
+#12 obehörigt obehöriga
+#14 2O:behö:rig
+#98 10824
+#99 11994
+#54 
+#97 mini
+
+#01 obekant
+#31 strijino
+#02 adj.
+#32 adjektivo
+#04 som man inte känner till
+#07 Strindberg var en icke obekant svensk författare
+#37 
+#47 6620
+#10 & (med x)
+#12 obekant obekanta
+#14 2O:bekan:t
+#98 10825
+#99 11995
+#54 
+
+#01 obekväm
+#31 nai mišto
+#02 adj.
+#32 adjektivo
+#04 inte bekväm; obehaglig, besvärlig
+#07 en obekväm stol
+#37 
+#47 6621
+#07 obekväm arbetstid
+#37 
+#47 6622
+#12 obekvämt obekväma
+#14 2O:bekvä:m
+#98 10826
+#99 11996
+#54 
+
+#01 obelisk
+#31 
+#02 subst.
+#32 substantivo
+#04 smal, fyrkantig stenpelare
+#05 använd som minnesmärke
+#35 
+#12 obelisken obelisker
+#14 obelIs:k
+#98 10827
+#99 11997
+#54 
+
+#01 obemannad
+#31 konik
+#02 adj.
+#32 adjektivo
+#04 som är utan besättning
+#07 en obemannad rymdraket
+#37 
+#47 6623
+#12 obemannat obemannade
+#14 2O:beman:ad
+#98 10828
+#99 11998
+#54 
+
+#01 obemärkt
+#31 bi dikhimasko
+#02 adj.
+#32 adjektivo
+#04 utan att bli upptäckt
+#12 obemärkt obemärkta
+#14 2O:bemär:kt
+#98 10829
+#99 11999
+#54 
+
+#01 obenägen
+#31 nai kamimos
+#02 adj.
+#32 adjektivo
+#04 ovillig
+#12 obenäget obenägna
+#14 2O:benä:gen
+#98 10830
+#99 12000
+#54 
+
+#01 oberoende 1
+#31 čisar
+#02 adj.
+#32 adjektivo
+#04 fri, självständig
+#07 vara ekonomiskt oberoende
+#37 
+#47 6624
+#08 oberoende av ("oavsett")
+#38 
+#48 1090
+#14 2O:bero:ende
+#98 10831
+#99 12001
+#54 
+#97 mini
+
+#01 oberoende 2
+#31 bi phanglimasko
+#02 subst.
+#32 substantivo
+#04 självständighet
+#07 kämpa för landets oberoende
+#37 
+#47 6625
+#12 oberoendet
+#14 2O:bero:ende
+#98 10832
+#99 12002
+#54 
+#97 mini
+
+#01 oberäknelig
+#31 bujanglo,bujanglimos/bužanglo/bužanglimos
+#02 adj.
+#32 adjektivo
+#04 omöjlig att förutse; nyckfull
+#05 mest om personer
+#35 
+#12 oberäkneligt oberäkneliga
+#14 2O:berä:knelig
+#98 10833
+#99 12003
+#54 
+
+#01 oberörd
+#31 nai hamime/azbado
+#02 adj.
+#32 adjektivo
+#04 inte påverkad, lugn
+#07 han verkade helt oberörd av händelsen
+#37 
+#47 6626
+#11 oberördhet -en
+#41 
+#51 4811
+#12 oberört oberörda
+#14 2O:berö:r+d
+#98 10834
+#99 12004
+#54 
+
+#01 obeskrivlig
+#31 nai vorba
+#02 adj.
+#32 adjektivo
+#04 som inte kan beskrivas
+#05 vanligen allmänt förstärkande "oerhörd"
+#35 
+#07 jag kände en obeskrivlig lättnad
+#37 
+#47 6627
+#12 obeskrivligt obeskrivliga
+#14 2O:beskri:vlig
+#98 10835
+#99 12005
+#54 
+
+#01 obestridd
+#31 čačo
+#02 adj.
+#32 adjektivo
+#04 som ingen förnekar, självklar
+#07 den obestridde ledaren
+#37 
+#47 6628
+#12 obestritt obestridda
+#14 2O:bestrid:
+#98 10836
+#99 12006
+#54 
+
+#01 obestridlig
+#31 vojako
+#02 adj.
+#32 adjektivo
+#04 som inte kan förnekas
+#07 en obestridlig begåvning
+#37 
+#47 6629
+#12 obestridligt obestridliga
+#14 2O:bestri:dlig
+#98 10837
+#99 12007
+#54 
+
+#01 obestånd
+#31 čoro
+#02 subst.
+#32 substantivo
+#08 komma på obestånd ("få dålig ekonomi")
+#38 
+#48 1091
+#12 obeståndet
+#14 2O:bestån:d
+#98 10838
+#99 12008
+#54 
+
+#01 obeställbar
+#31 
+#02 adj.
+#32 adjektivo
+#04 som inte kan nå mottagaren
+#05 om postförsändelse
+#35 
+#12 obeställbart obeställbara
+#14 2O:bestelba:r
+#98 10839
+#99 12009
+#54 
+#97 mini
+
+#01 obestämd
+#31 nai gata
+#02 adj.
+#32 adjektivo
+#04 inte fastställd
+#05 även allmänt "oviss, vag"
+#35 
+#07 besöket uppsköts på obestämd tid
+#37 
+#47 6630
+#12 obestämt obestämda
+#14 2O:bestem:d
+#98 10840
+#99 12010
+#54 
+
+#01 obesvärad
+#31 
+#02 adj.
+#32 adjektivo
+#04 inte störd, ledig, naturlig
+#07 han försökte se obesvärad ut när polisen hejdade honom
+#37 
+#47 6631
+#12 obesvärat obesvärade
+#14 2O:besvä:rad
+#98 10841
+#99 12011
+#54 
+
+#01 obetalbar
+#31 bi počimasko/naj cena
+#02 adj.
+#32 adjektivo
+#04 dråplig, komisk
+#12 obetalbart obetalbara
+#14 2O:beta:lba:r
+#98 10842
+#99 12012
+#54 
+
+#01 obetingad
+#31 nai vorba
+#02 adj.
+#32 adjektivo
+#04 ovillkorlig, absolut
+#07 en obetingad tilltro till tekniken
+#37 
+#47 6632
+#12 obetingat obetingade
+#14 2O:beti@:ad
+#98 10843
+#99 12013
+#54 
+
+#01 obetydlig
+#31 čigno
+#02 adj.
+#32 adjektivo
+#04 liten, oviktig
+#07 spela en obetydlig roll
+#37 
+#47 6633
+#11 obetydlighet -en
+#41 
+#51 4812
+#12 obetydligt obetydliga
+#14 2O:bety:dlig
+#98 10844
+#99 12014
+#54 
+
+#01 obetänksam
+#31 nai gindo
+#02 adj.
+#32 adjektivo
+#04 tanklös
+#05 om handling "förhastad"
+#35 
+#07 en obetänksam handling
+#37 
+#47 6634
+#12 obetänksamt obetänksamma
+#14 2O:bete@ksam:
+#98 10845
+#99 12015
+#54 
+
+#01 obevakad
+#31 nai araklo
+#02 adj.
+#32 adjektivo
+#04 inte bevakad el. vaktad
+#07 i ett obevakat ögonblick
+#37 
+#47 6635
+#07 obevakat övergångsställe
+#37 
+#47 6636
+#12 obevakat obevakade
+#14 2O:beva:kad
+#98 10846
+#99 12016
+#54 
+
+#01 obevandrad
+#31 
+#02 adj.
+#32 adjektivo
+#04 som är utan kunskaper el. kännedom inom visst område
+#10 obevandrad i x
+#12 obevandrat obevandrade
+#14 2O:bevan:drad
+#98 10847
+#99 12017
+#54 
+
+#01 obeveklig
+#31 
+#02 adj.
+#32 adjektivo
+#04 som inte låter beveka sig, omedgörlig
+#07 jag försökte bli insläppt men vakten var obeveklig
+#37 
+#47 6637
+#07 ett hårt och obevekligt öde
+#37 
+#47 6638
+#12 obevekligt obevekliga
+#14 2O:beve:klig
+#98 10848
+#99 12018
+#54 
+
+#01 objekt
+#31 bajo/džela
+#02 subst.
+#32 substantivo
+#04 föremål
+#11 försäljningsobjekt
+#41 
+#51 4813
+#12 objektet objekt objekten
+#14 åbjEk:t
+#98 10849
+#99 12019
+#54 
+#97 mini
+
+#01 objekt
+#31 bajo
+#02 subst.
+#32 substantivo
+#04 satsdel som utgör föremål för en handling
+#12 objektet objekt objekten
+#14 åbjEk:t
+#98 10849
+#99 12020
+#54 
+#97 mini
+
+#01 objektiv 1
+#31 čačo
+#02 adj.
+#32 adjektivo
+#04 opartisk, saklig
+#07 en objektiv bedömning
+#37 
+#47 6639
+#12 objektivt objektiva
+#14 Åb:jekti:v (el. -I:v)
+#98 10850
+#99 12021
+#54 
+
+#01 objektiv 2
+#31 dikhimasko
+#02 subst.
+#32 substantivo
+#04 lins längst från ögat i ett optiskt instrument (t ex en kikare el. kamera)
+#12 objektivet objektiv objektiven
+#14 åbjektI:v
+#98 10851
+#99 12022
+#54 
+
+#01 objuden
+#31 bi akhardo
+#02 adj.
+#32 adjektivo
+#04 inte bjuden
+#08 objudna gäster ("ovälkommen påhälsning, tjuvar")
+#38 
+#48 1092
+#12 objudet objudna
+#14 2O:bju:den
+#98 10852
+#99 12023
+#54 
+
+#01 oblat
+#31 
+#02 subst.
+#32 substantivo
+#04 nattvardsbröd i form av tunn rund skiva av ojäst vetedeg
+#12 oblaten oblater
+#14 oblA:t
+#98 10853
+#99 12024
+#54 
+
+#01 oblid
+#31 čoro
+#02 adj.
+#32 adjektivo
+#04 ovänlig
+#08 betrakta något med oblida ögon ("vara kritiskt inställd till något")
+#38 
+#48 1093
+#12 oblitt oblida
+#14 2O:bli:d
+#98 10854
+#99 12025
+#54 
+
+#01 obligation
+#31 
+#02 subst.
+#32 substantivo
+#04 skuldförbindelse som utgör del i större statligt eller kommunalt lån (obligationslån)
+#11 premieobligation
+#41 
+#51 4814
+#12 obligationen obligationer
+#14 åbliga$O:n
+#98 10855
+#99 12026
+#54 
+
+#01 obligatorisk
+#31 musajimasko/obligatorio
+#02 adj.
+#32 adjektivo
+#04 bindande, inte frivillig
+#07 obligatorisk avgift
+#37 
+#47 6640
+#07 obligatorisk försäkring
+#37 
+#47 6641
+#09 motsats ^frivillig, valfri^
+#39 
+#12 obligatoriskt obligatoriska
+#14 åbligatO:risk
+#98 10856
+#99 12027
+#54 
+#97 mini
+
+#01 oblyg
+#31 voruto/bilažano
+#02 adj.
+#32 adjektivo
+#04 ogenerad, fräck
+#07 en oblyg begäran
+#37 
+#47 6642
+#12 oblygt oblyga
+#14 2O:bly:g
+#98 10858
+#99 12029
+#54 
+
+#01 oborstad
+#31 
+#02 adj.
+#32 adjektivo
+#04 inte borstad
+#07 oborstade skor
+#37 
+#47 6643
+#12 oborstat oborstade
+#14 2O:bor+s:tad
+#98 10859
+#99 12030
+#54 
+
+#01 oborstad
+#31 
+#02 adj.
+#32 adjektivo
+#04 ohyfsad
+#07 ett oborstat uppträdande
+#37 
+#47 6644
+#12 oborstat oborstade
+#14 2O:bor+s:tad
+#98 10859
+#99 12031
+#54 
+
+#01 obotlig
+#31 bi sastardo
+#02 adj.
+#32 adjektivo
+#04 som inte kan botas
+#07 obotlig sjukdom
+#37 
+#47 6645
+#12 obotligt obotliga
+#14 2O:bo:tlig
+#98 10860
+#99 12032
+#54 
+
+#01 obrottslig
+#31 bi phago
+#02 adj.
+#32 adjektivo
+#04 som inte bryts
+#07 obrottslig trohet
+#37 
+#47 6646
+#12 obrottsligt obrottsliga
+#14 2O:bråt:slig
+#98 10861
+#99 12033
+#54 
+
+#01 obrukbar
+#31 nai hasnako
+#02 adj.
+#32 adjektivo
+#04 som inte (längre) kan användas
+#12 obrukbart obrukbara
+#14 2O:bru:kba:r
+#98 10862
+#99 12034
+#54 
+
+#01 obruten
+#31 bi phago
+#02 adj.
+#32 adjektivo
+#04 sammanhängande
+#05 om person "oförsvagad"
+#35 
+#07 obruten optimism
+#37 
+#47 6647
+#12 obrutet obrutna
+#14 2O:bru:ten
+#98 10863
+#99 12035
+#54 
+
+#01 obruten
+#31 nai puterdo
+#02 adj.
+#32 adjektivo
+#04 tillsluten sedan tillverkningen
+#07 en obruten förpackning
+#37 
+#47 6648
+#12 obrutet obrutna
+#14 2O:bru:ten
+#98 10863
+#99 12036
+#54 
+
+#01 obs
+#31 dikh
+#02 förk.
+#32 skurtsomos
+#04 observera!
+#14 åb:s (el. åbservE:ra)
+#98 10864
+#99 12037
+#54 
+#97 mini
+
+#01 obscen
+#31 bi vojako
+#02 adj.
+#32 adjektivo
+#04 oanständig
+#12 obscent obscena
+#14 åbsE:n
+#98 10865
+#99 12038
+#54 
+
+#01 observant
+#31 dikhimasko
+#02 adj.
+#32 adjektivo
+#04 uppmärksam
+#07 vi måste vara observanta på förändringar i miljön
+#37 
+#47 6649
+#10 observant (på x)
+#12 observant observanta
+#14 åbsärvAn:t
+#98 10866
+#99 12039
+#54 
+
+#01 observatorium
+#31 dikhimos
+#02 subst.
+#32 substantivo
+#04 institution el. byggnad för astronomiska o dyl observationer
+#12 observatoriet observatorier
+#14 åbsärvatO:rium:
+#98 10867
+#99 12040
+#54 
+
+#01 observatör
+#31 
+#02 subst.
+#32 substantivo
+#04 person som observerar
+#05 särskilt i diplomatiska sammanhang
+#35 
+#12 observatören observatörer
+#14 åbsärvatÖ:r
+#98 10868
+#99 12041
+#54 
+
+#01 observerar
+#31 dikhel
+#02 verb
+#32 verbo
+#04 lägga märke till (med synen)
+#07 bilföraren observerade inte pojken
+#37 
+#47 6650
+#10 A & x/att+SATS/FRÅGESATS
+#11 observation -en
+#41 
+#51 4815
+#12 observerade observerat observera(!)
+#14 åbsärvE:rar
+#98 10869
+#99 12042
+#54 
+#97 mini
+
+#01 obskyr
+#31 bi vojako
+#02 adj.
+#32 adjektivo
+#04 tvivelaktig, skum
+#07 en obskyr nattklubb
+#37 
+#47 6651
+#12 obskyrt obskyra
+#14 obskY:r
+#98 10870
+#99 12043
+#54 
+
+#01 obstruktion
+#31 žanglimos
+#02 subst.
+#32 substantivo
+#04 medvetet försök att förhindra el. förhala något
+#12 obstruktionen obstruktioner
+#14 åbstruk$O:n
+#98 10871
+#99 12044
+#54 
+
+#01 ob-tillägg
+#31 
+#02 subst.
+#32 substantivo
+#04 extra lön för arbete på obekväm arbetstid, obekvämlighetstillägg
+#12 ob-tillägget ob-tillägg ob-tilläggen
+#14 2O:be:tileg:
+#98 10872
+#99 12045
+#54 
+
+#01 obunden
+#31 bi phandado
+#02 adj.
+#32 adjektivo
+#04 fri
+#07 organisationen är partipolitiskt obunden
+#37 
+#47 6652
+#12 obundet obundna
+#14 2O:bun:den
+#98 10873
+#99 12046
+#54 
+
+#01 obygd
+#31 bi kerdo
+#02 subst.
+#32 substantivo
+#04 obebyggd trakt, ödemark
+#12 obygden obygder
+#14 2O:byg:d
+#98 10874
+#99 12047
+#54 
+
+#01 obändig
+#31 bi kamimasa
+#02 adj.
+#32 adjektivo
+#04 okuvlig
+#07 en obändig vilja
+#37 
+#47 6653
+#12 obändigt obändiga
+#14 2O:ben:dig
+#98 10875
+#99 12048
+#54 
+
+#01 obönhörlig
+#31 
+#02 adj.
+#32 adjektivo
+#04 som inte kan rubbas, obeveklig
+#07 en obönhörlig utveckling mot centralisering
+#37 
+#47 6654
+#12 obönhörligt obönhörliga
+#14 2O:bö:nhö:r+lig
+#98 10876
+#99 12049
+#54 
+
+#01 ocean
+#31 oceano
+#02 subst.
+#32 substantivo
+#04 världshav
+#07 Indiska oceanen
+#37 
+#47 6655
+#12 oceanen oceaner
+#14 oseA:n
+#98 10877
+#99 12050
+#54 
+
+#01 och
+#31 thaj
+#02 konj.
+#32 konjuktiono
+#04 samt, såväl som
+#07 pojkar och flickor
+#37 
+#47 6656
+#07 jag vaknade och gick upp
+#37 
+#47 6657
+#14 å(k:)
+#15 binder samman ord eller satser av samma slag
+#45 
+#98 10878
+#99 12051
+#54 
+#97 mini
+
+#01 ock
+#31 vi
+#02 adv.
+#32 adverbo
+#04 också
+#05 formellt
+#35 
+#07 det finns en risk, om ock minimal
+#37 
+#47 6658
+#14 åk:
+#98 10879
+#99 12052
+#54 
+
+#01 ocker
+#31 
+#02 subst.
+#32 substantivo
+#04 utnyttjande av en person (i ekonomiska svårigheter) genom att t ex låna ut pengar till oskälig ränta
+#11 ocker~ränta -n
+#41 
+#51 4816
+#11 ocker~pris -et
+#41 
+#51 4817
+#12 ockret
+#14 Åk:er
+#98 10880
+#99 12053
+#54 
+
+#01 ockrar
+#31 hasnal
+#02 verb
+#32 verbo
+#04 bedriva ocker
+#05 allmänt "utnyttja mer än man borde"
+#35 
+#10 A &
+#11 ockrare -n
+#41 
+#51 4818
+#12 ockrade ockrat ockra(!)
+#14 2Åk:rar
+#98 10881
+#99 12054
+#54 
+
+#01 också
+#31 vi, thaj
+#02 adv.
+#32 adverbo
+#04 även, dessutom
+#07 jag ska också gå nu
+#37 
+#47 6659
+#07 jag spelar fiol också
+#37 
+#47 6660
+#07 inte bara jag utan också min fru spelar fiol
+#37 
+#47 6661
+#14 2Åk:så
+#98 10882
+#99 12055
+#54 
+#97 mini
+
+#01 ockult
+#31 
+#02 adj.
+#32 adjektivo
+#04 övernaturlig, mystisk
+#07 ockulta fenomen
+#37 
+#47 6662
+#12 ockult ockulta
+#14 okUl:t
+#98 10883
+#99 12056
+#54 
+
+#01 ockupant
+#31 zorako
+#02 subst.
+#32 substantivo
+#04 person som ockuperar
+#11 husockupant
+#41 
+#51 4819
+#12 ockupanten ockupanter
+#14 åkupAn:t
+#98 10884
+#99 12057
+#54 
+
+#01 ockuperar
+#31 čorel
+#02 verb
+#32 verbo
+#04 inta och hålla (ett område) med vapenmakt
+#05 allmänt "ta i besittning"
+#35 
+#07 på ockuperat område
+#37 
+#47 6663
+#07 ockupera en lägenhet
+#37 
+#47 6664
+#10 A & x
+#11 ockupation -en
+#41 
+#51 4820
+#12 ockuperade ockuperat ockupera(!)
+#14 åkupE:rar
+#98 10885
+#99 12058
+#54 
+
+#01 odds
+#31 oddso
+#02 subst.
+#32 substantivo
+#04 förhållandet mellan vinst och insats vid vadhållning
+#05 även bildligt
+#35 
+#07 mot alla odds
+#37 
+#47 6665
+#12 oddset odds oddsen
+#14 åd:s
+#98 10886
+#99 12059
+#54 
+
+#01 odelad
+#31 bi hulado, pherdo
+#02 adj.
+#32 adjektivo
+#04 fullständig
+#07 vinna någons odelade beundran
+#37 
+#47 6666
+#12 odelat odelade
+#14 2O:de:lad
+#98 10887
+#99 12060
+#54 
+
+#01 odemokratisk
+#31 nai demokratisko
+#02 adj.
+#32 adjektivo
+#04 inte demokratisk
+#12 odemokratiskt odemokratiska
+#14 2O:demokra:tisk
+#98 10888
+#99 12061
+#54 
+
+#01 odiskutabel
+#31 bi vorbako
+#02 adj.
+#32 adjektivo
+#04 obestridlig
+#07 lagets seger var odiskutabel
+#37 
+#47 6667
+#12 odiskutabelt odiskutabla
+#14 2O:diskuta:bel
+#98 10889
+#99 12062
+#54 
+
+#01 odjur
+#31 monstero
+#02 subst.
+#32 substantivo
+#04 vilddjur; monster
+#05 mest bildligt om elak människa
+#35 
+#12 odjuret odjur odjuren
+#14 2O:ju:r
+#98 10890
+#99 12063
+#54 
+
+#01 odlar
+#31 bariarel
+#02 verb
+#32 verbo
+#04 producera (växter); bruka (jorden)
+#05 bildligt "utveckla"
+#35 
+#07 odla grönsaker
+#37 
+#47 6668
+#07 odlad jord
+#37 
+#47 6669
+#07 odla sina intressen
+#37 
+#47 6670
+#11 odlare -n
+#41 
+#51 4821
+#12 odlade odlat odla(!)
+#14 2O:dlar
+#98 10891
+#99 12064
+#54 
+#97 mini
+
+#01 odling
+#31 barajipe
+#02 subst.
+#32 substantivo
+#04 produktion av växter
+#05 även om platsen för odlingen
+#35 
+#11 trädgårdsodling
+#41 
+#51 4822
+#11 fruktodling
+#41 
+#51 4823
+#11 odlings~lott -en
+#41 
+#51 4824
+#12 odlingen odlingar
+#14 2O:dli@
+#98 10892
+#99 12065
+#54 
+
+#01 odontologisk
+#31 sitjarimasko
+#02 adj.
+#32 adjektivo
+#04 som rör (läran om) tänderna och deras sjukdomar
+#12 odontologiskt odontologiska
+#14 odåntolÅ:gisk
+#98 10893
+#99 12066
+#54 
+
+#01 odräglig
+#31 či biril
+#02 adj.
+#32 adjektivo
+#04 som man inte står ut med; olidlig
+#12 odrägligt odrägliga
+#14 2O:drä:glig
+#98 10894
+#99 12067
+#54 
+
+#01 oduglig
+#31 khantjesko/kančesko
+#02 adj.
+#32 adjektivo
+#04 som saknar förmåga
+#05 om saker "inte användbar"
+#35 
+#07 känna sig oduglig
+#37 
+#47 6671
+#07 en oduglig såg
+#37 
+#47 6672
+#07 en oduglig sekreterare
+#37 
+#47 6673
+#12 odugligt odugliga
+#14 2O:du:glig
+#98 10895
+#99 12068
+#54 
+
+#01 odugling
+#31 khantjesko,bi hasnako
+#02 subst.
+#32 substantivo
+#04 oduglig person
+#12 oduglingen oduglingar
+#14 2O:du:gli@
+#98 10896
+#99 12069
+#54 
+
+#01 odåga
+#31 pakho/kandino
+#02 subst.
+#32 substantivo
+#04 besvärlig och lat person
+#12 odågan odågor
+#14 2O:då:ga
+#98 10897
+#99 12070
+#54 
+
+#01 odödlig
+#31 či merel
+#02 adj.
+#32 adjektivo
+#04 som aldrig dör
+#05 bildligt "som aldrig glöms bort"
+#35 
+#07 en odödlig författare
+#37 
+#47 6674
+#12 odödligt odödliga
+#14 2O:dö:dlig
+#98 10898
+#99 12071
+#54 
+
+#01 OECD
+#31 OECD
+#02 förk.
+#32 skurtsomos
+#06 En (internationell) ekonomisk samarbetsorganisation för industriländer.
+#36 
+#14 o:e:se:dE:
+#98 10899
+#99 12072
+#54 
+#97 mini
+
+#01 oeftergivlig
+#31 hasnako
+#02 adj.
+#32 adjektivo
+#04 nödvändig, ovillkorlig
+#07 ett oeftergivligt krav
+#37 
+#47 6675
+#12 oeftergivligt oeftergivliga
+#14 2O:efterji:vlig
+#98 10900
+#99 12073
+#54 
+
+#01 oefterhärmlig
+#31 
+#02 adj.
+#32 adjektivo
+#04 omöjlig att härma
+#07 han berättade historien på sitt oefterhärmliga sätt
+#37 
+#47 6676
+#12 oefterhärmligt oefterhärmliga
+#14 2O:efterhär:mlig
+#98 10901
+#99 12074
+#54 
+
+#01 oegentlighet
+#31 
+#02 subst.
+#32 substantivo
+#04 bedrägeri
+#12 oegentligheten oegentligheter
+#14 2O:ejentlighe:t
+#15 mest i plural
+#45 
+#98 10902
+#99 12075
+#54 
+
+#01 oekonomisk
+#31 nai ekonomisko
+#02 adj.
+#32 adjektivo
+#04 som inte ger vinst; som inte är sparsam
+#07 en oekonomisk affär
+#37 
+#47 6677
+#07 en oekonomisk person
+#37 
+#47 6678
+#12 oekonomiskt oekonomiska
+#14 2O:ekonå:misk
+#98 10903
+#99 12076
+#54 
+
+#01 oemotsagd
+#31 nai vorba
+#02 adj.
+#32 adjektivo
+#04 som ingen protesterar mot
+#07 påståendet fick stå oemotsagt
+#37 
+#47 6679
+#12 oemotsagt oemotsagda
+#14 2O:emo:tsag:d
+#98 10904
+#99 12077
+#54 
+
+#01 oemotståndlig
+#31 lažano
+#02 adj.
+#32 adjektivo
+#04 som man måste kapitulera för
+#07 ett oemotståndligt leende
+#37 
+#47 6680
+#12 oemotståndligt oemotståndliga
+#14 2O:emo:tstån:dlig
+#98 10905
+#99 12078
+#54 
+
+#01 oenig
+#31 nai pe jekh gindo/naj dakhordo
+#02 adj.
+#32 adjektivo
+#04 inte överens
+#07 partierna är oeniga ifråga om kärnkraften
+#37 
+#47 6681
+#12 oenigt oeniga
+#14 2O:e:nig
+#98 10906
+#99 12079
+#54 
+
+#01 oense
+#31 xolarika
+#02 adj.
+#32 adjektivo
+#04 oenig, osams
+#10 & (om x)
+#14 2O:en:se
+#98 10907
+#99 12080
+#54 
+
+#01 oerhörd
+#31 nai ašundo
+#02 adj.
+#32 adjektivo
+#04 enorm
+#05 mest allmänt förstärkande
+#35 
+#07 en oerhörd tillgång
+#37 
+#47 6682
+#12 oerhört oerhörda
+#14 2O:erhö:r+d
+#98 10908
+#99 12081
+#54 
+#97 mini
+
+#01 oerhört
+#31 
+#02 adv.
+#32 adverbo
+#04 enormt
+#05 mest allmänt förstärkande
+#35 
+#07 ett brev kan betyda oerhört mycket
+#37 
+#47 6683
+#07 ett oerhört viktigt beslut
+#37 
+#47 6684
+#14 2O:erhö:r+t
+#98 10909
+#99 12082
+#54 
+
+#01 oersättlig
+#31 
+#02 adj.
+#32 adjektivo
+#04 omöjlig att ersätta
+#07 en oersättlig förlust
+#37 
+#47 6685
+#12 oersättligt oersättliga
+#14 2O:er+set:lig
+#98 10910
+#99 12083
+#54 
+
+#01 ofantlig
+#31 
+#02 adj.
+#32 adjektivo
+#04 oerhört stor
+#05 även allmänt förstärkande
+#35 
+#07 ofantliga mängder
+#37 
+#47 6686
+#12 ofantligt ofantliga
+#14 ofAn:tlig
+#98 10911
+#99 12084
+#54 
+
+#01 ofarlig
+#31 nai dar
+#02 adj.
+#32 adjektivo
+#04 inte farlig, riskfri
+#07 hunden är ofarlig
+#37 
+#47 6687
+#07 lukten från fabriken är helt ofarlig
+#37 
+#47 6688
+#12 ofarligt ofarliga
+#14 2O:fa:r+lig
+#98 10912
+#99 12085
+#54 
+
+#01 ofattbar
+#31 bi ačarimasko
+#02 adj.
+#32 adjektivo
+#04 som man inte kan begripa; obegriplig
+#07 en ofattbar olycka
+#37 
+#47 6689
+#12 ofattbart ofattbara
+#14 2O:fatba:r
+#98 10913
+#99 12086
+#54 
+
+#01 ofelbar
+#31 nai došalo/bidošako
+#02 adj.
+#32 adjektivo
+#04 som aldrig gör fel
+#05 om abstrakter även allmänt "osviklig"
+#35 
+#07 ingen är ofelbar
+#37 
+#47 6690
+#07 en ofelbar metod
+#37 
+#47 6691
+#12 ofelbart ofelbara
+#14 2O:fe:lba:r
+#98 10914
+#99 12087
+#54 
+
+#01 ofelbart
+#31 nai gindo
+#02 adv.
+#32 adverbo
+#04 utan minsta tvivel, säkert
+#07 körsång gör mig ofelbart på gott humör
+#37 
+#47 6692
+#14 2O:fe:lba:r+t
+#98 10915
+#99 12088
+#54 
+
+#01 offensiv 1
+#31 xolariko
+#02 adj.
+#32 adjektivo
+#04 som går till anfall; aggressiv
+#07 spela offensiv fotboll
+#37 
+#47 6694
+#12 offensivt offensiva
+#14 åfensI:v (el. Åf:-)
+#98 10916
+#99 12089
+#54 
+
+#01 offensiv 2
+#31 marimos
+#02 subst.
+#32 substantivo
+#04 anfall
+#05 bildligt "kampanj"
+#35 
+#07 militär offensiv
+#37 
+#47 6695
+#08 vara på offensiven ("satsa hårt på något")
+#38 
+#48 1094
+#12 offensiven offensiver
+#14 åfensI:v
+#98 10917
+#99 12090
+#54 
+
+#01 offentlig
+#31 puterdo
+#02 adj.
+#32 adjektivo
+#04 som gäller allmänheten, allmän, officiell
+#07 offentlig debatt
+#37 
+#47 6696
+#07 offentlig handling
+#37 
+#47 6697
+#09 motsats ^privat, hemlig^
+#39 
+#12 offentligt offentliga
+#14 åfEn:tlig
+#98 10918
+#99 12091
+#54 
+#97 mini
+
+#01 offentlig
+#31 puterdo
+#02 adj.
+#32 adjektivo
+#04 som gäller statlig och kommunal verksamhet
+#07 offentlig försvarare
+#37 
+#47 6698
+#07 den offentliga sektorn
+#37 
+#47 6699
+#09 motsats ^privat^
+#39 
+#12 offentligt offentliga
+#14 åfEn:tlig
+#98 10918
+#99 12092
+#54 
+#97 mini
+
+#01 offentlig försvarare
+#31 manuš jotitori/žutitori
+#02 subst.
+#32 substantivo
+#04 försvarsadvokat som domstolen kan utse i brottmål; advokatkostnaderna betalas av staten
+#06 Den misstänktes ekonomiska förhållanden är inte av betydelse för om offentlig försvarare skall utses eller inte, utan står som en garanti för att den misstänkte skall få hjälp när så erfordras.
+#36 
+#14 åfEn:tlig för+svA:rare
+#98 10919
+#99 12093
+#54 
+#97 mini
+
+#01 offentlig~gör
+#31 phrava
+#02 verb
+#32 verbo
+#04 göra allmänt känd, ge offentlighet åt
+#10 A & x
+#12 -gjorde -gjort -gör! -göra
+#14 2åfEn:tligjö:r
+#98 10920
+#99 12094
+#54 
+
+#01 offentlighet
+#31 phrava
+#02 subst.
+#32 substantivo
+#04 allmänhet; allmän kännedom
+#07 ge offentlighet åt ett beslut
+#37 
+#47 6700
+#12 offentligheten
+#14 åfEn:tlighe:t
+#98 10921
+#99 12095
+#54 
+
+#01 offentlighets~principen
+#31 sikajimo
+#02 subst.
+#32 substantivo
+#04 principen att statens och kommunernas maktutövning skall ske under allmän insyn och kontroll
+#14 2åfEn:tlighe:tsprinsi:pen
+#98 10922
+#99 12096
+#54 
+
+#01 offentligt
+#31 puterdo
+#02 adv.
+#32 adverbo
+#04 inför allmänheten, öppet
+#07 framträda offentligt i pressen
+#37 
+#47 6701
+#14 åfEn:tli(k)t
+#98 10923
+#99 12097
+#54 
+
+#01 offentligt biträde
+#31 
+#02 subst.
+#32 substantivo
+#04 jurist eller annan sakkunnig person som man har rätt att anlita enl. rättshjälpslagen i samband med vissa beslut av myndigheter, t ex utvisning av utlänning. Kostnaderna för offentligt biträde betalas av staten
+#14 åfEn:tli(k)t 2bI:trä:de
+#98 10924
+#99 12098
+#54 
+
+#01 offer
+#31 den pestar
+#02 subst.
+#32 substantivo
+#04 gåva (till gudarna)
+#05 bildligt "uppoffring"
+#35 
+#11 offer~villig -t
+#41 
+#51 4825
+#12 offret offer offren
+#14 Åf:er
+#98 10925
+#99 12099
+#54 
+#97 mini
+
+#01 offer
+#31 bajo
+#02 subst.
+#32 substantivo
+#04 person som drabbas av en olycka
+#05 även bildligt
+#35 
+#07 krigets offer
+#37 
+#47 6702
+#07 falla offer för en kula
+#37 
+#47 6703
+#11 dödsoffer
+#41 
+#51 4826
+#11 intervjuoffer
+#41 
+#51 4827
+#12 offret offer offren
+#14 Åf:er
+#98 10925
+#99 12100
+#54 
+#97 mini
+
+#01 offert
+#31 den pestar
+#02 subst.
+#32 substantivo
+#04 erbjudande (om en vara eller tjänst) till ett visst pris
+#07 begära offert
+#37 
+#47 6704
+#07 lämna offert
+#37 
+#47 6705
+#12 offerten offerter
+#14 åfÄr+t:
+#98 10926
+#99 12101
+#54 
+
+#01 officer
+#31 oficeri/fitsiri
+#02 subst.
+#32 substantivo
+#04 högre befälsperson inom krigsmakten
+#11 flygofficer
+#41 
+#51 4828
+#11 officers~grad -en
+#41 
+#51 4829
+#12 officeren officerare officerarna
+#14 åfisE:r
+#98 10927
+#99 12102
+#54 
+#97 mini
+
+#01 officerare
+#31 ofica
+#02 subst.
+#32 substantivo
+#04 officer
+#12 officerar(e)n officerare officerarna
+#14 2åfise:rare
+#98 10928
+#99 12103
+#54 
+
+#01 officiell
+#31 oficerikano
+#02 adj.
+#32 adjektivo
+#04 som är auktoriserad av myndighet; offentlig
+#07 från officiellt håll
+#37 
+#47 6706
+#07 enligt officiell statistik
+#37 
+#47 6707
+#09 motsats ^inofficiell^
+#39 
+#12 officiellt officiella
+#14 åfisiEl:
+#98 10929
+#99 12104
+#54 
+#97 mini
+
+#01 offrar
+#31 del pestar
+#02 verb
+#32 verbo
+#04 lämna ifrån sig (något värdefullt) för en god sak
+#05 även allmänt "avstå ifrån"
+#35 
+#07 offra livet
+#37 
+#47 6708
+#07 offra tid och pengar på sina intressen
+#37 
+#47 6709
+#07 offra sig för familjen
+#37 
+#47 6710
+#10 A & x (på B/y); A & sig för B/x
+#12 offrade offrat offra(!)
+#14 2Åf:rar
+#98 10930
+#99 12105
+#54 
+
+#01 offset
+#31 
+#02 subst.
+#32 substantivo
+#04 en metod för snabb tryckning av text och bilder
+#05 engelska
+#35 
+#12 offseten
+#14 åfsEt: el. Åf:set
+#98 10931
+#99 12106
+#54 
+
+#01 offshore
+#31 
+#02 adv.
+#32 adverbo
+#04 som har att göra med oljeborrning i havet
+#05 engelska
+#35 
+#14 åf$Å:r el. 2Åf:$å:r
+#98 10932
+#99 12107
+#54 
+
+#01 offside
+#31 nai slobodo
+#02 subst.
+#32 substantivo
+#04 slags otillåten passning framåt (i fotboll mm)
+#05 engelska
+#35 
+#12 offsiden
+#14 åfsAj:d
+#98 10933
+#99 12108
+#54 
+
+#01 ofog
+#31 bi astardo
+#02 subst.
+#32 substantivo
+#04 hyss, oskick
+#12 ofoget ofog ofogen
+#14 2O:fo:g
+#98 10934
+#99 12109
+#54 
+
+#01 oformlig
+#31 nai forma
+#02 adj.
+#32 adjektivo
+#04 som är utan bestämd form
+#07 ett oformligt klädbylte
+#37 
+#47 6711
+#12 oformligt oformliga
+#14 2O:får:mlig
+#98 10935
+#99 12110
+#54 
+
+#01 ofredar
+#31 či mekhel i pača
+#02 verb
+#32 verbo
+#04 (handgripligen) störa
+#07 hon blev ofredad på gatan
+#37 
+#47 6712
+#10 A & B
+#11 ofredande -t
+#41 
+#51 4830
+#12 ofredade ofredat ofreda(!)
+#14 2O:fre:dar
+#98 10936
+#99 12111
+#54 
+
+#01 ofrivillig
+#31 nai vojako
+#02 adj.
+#32 adjektivo
+#04 som man inte har bestämt själv, oavsiktlig
+#12 ofrivilligt ofrivilliga
+#14 2O:fri:vil:ig
+#98 10937
+#99 12112
+#54 
+
+#01 ofrånkomlig
+#31 
+#02 adj.
+#32 adjektivo
+#04 som inte kan undvikas, nödvändig
+#07 buller och avgaser är en ofrånkomlig följd av bilismen
+#37 
+#47 6713
+#12 ofrånkomligt ofrånkomliga
+#14 2O:frå:nkåm:lig
+#98 10938
+#99 12113
+#54 
+
+#01 ofta
+#31 butivar
+#02 adv.
+#32 adverbo
+#04 vid många upprepade tillfällen
+#07 jag slår ofta upp ord i lexikon
+#37 
+#47 6714
+#07 komik bygger ofta på upprepning
+#37 
+#47 6715
+#07 hans namn hörs allt oftare i debatten
+#37 
+#47 6716
+#14 2Åf:ta
+#98 10939
+#99 12114
+#54 
+#97 mini
+
+#01 oftast
+#31 univar
+#02 adv.
+#32 adverbo
+#04 vanligen
+#07 jag åker oftast med 8-tåget
+#37 
+#47 6717
+#14 2Åf:tast
+#98 10940
+#99 12115
+#54 
+
+#01 ofullbordad
+#31 nai getome
+#02 adj.
+#32 adjektivo
+#04 som inte gjorts färdig
+#07 Schuberts ofullbordade symfoni
+#37 
+#47 6718
+#12 fullbordat fullbordade
+#14 2O:fulbo:r+dad
+#98 10941
+#99 12116
+#54 
+
+#01 ofullständig
+#31 nai gata
+#02 adj.
+#32 adjektivo
+#04 inte fullständig
+#07 lämna ofullständiga uppgifter
+#37 
+#47 6719
+#12 ofullständigt ofullständiga
+#14 2O:fulsten:dig
+#98 10942
+#99 12117
+#54 
+
+#01 oförarglig
+#31 nai xoli
+#02 adj.
+#32 adjektivo
+#04 som inte väcker ilska eller orsakar skada, harmlös
+#07 ett oförargligt skämt
+#37 
+#47 6720
+#12 oförargligt oförargliga
+#14 2O:förar:jlig
+#98 10943
+#99 12118
+#54 
+
+#01 oförbätterlig
+#31 jekhako
+#02 adj.
+#32 adjektivo
+#04 som inte kan ändra sig och bli bra, obotlig
+#05 om drag i personligheten
+#35 
+#07 en oförbätterlig optimist
+#37 
+#47 6721
+#12 oförbätterligt oförbätterliga
+#14 2O:förbet:er+lig
+#98 10944
+#99 12119
+#54 
+
+#01 oförenlig
+#31 
+#02 adj.
+#32 adjektivo
+#04 som inte går att förena
+#07 oförenliga krav
+#37 
+#47 6722
+#10 & (med x)
+#12 oförenligt oförenliga
+#14 2O:före:nlig
+#98 10945
+#99 12120
+#54 
+
+#01 oförfalskad
+#31 čačo, vužo
+#02 adj.
+#32 adjektivo
+#04 äkta, ren
+#07 på oförfalskad stockholmska
+#37 
+#47 6723
+#12 oförfalskat oförfalskade
+#14 2O:förfal:skad
+#98 10946
+#99 12121
+#54 
+
+#01 oförglömlig
+#31 bibistrdo/či bisterdjol
+#02 adj.
+#32 adjektivo
+#04 som man inte glömmer
+#07 en oförglömlig kväll
+#37 
+#47 6724
+#12 oförglömligt oförglömliga
+#14 2O:förglöm:lig
+#98 10947
+#99 12122
+#54 
+
+#01 oförhappandes
+#31 čudimos
+#02 adv.
+#32 adverbo
+#04 överraskande, oförmodat
+#14 2O:förhap:andes
+#98 10948
+#99 12123
+#54 
+
+#01 oförklarlig
+#31 nai vorba
+#02 adj.
+#32 adjektivo
+#04 som inte kan förklaras, underlig
+#07 av en oförklarlig anledning
+#37 
+#47 6725
+#12 oförklarligt oförklarliga
+#14 2O:förkla:r+lig
+#98 10949
+#99 12124
+#54 
+
+#01 oförlåtlig
+#31 či kamel
+#02 adj.
+#32 adjektivo
+#04 som aldrig kan förlåtas
+#05 också förstärkande
+#35 
+#07 en oförlåtlig dumhet
+#37 
+#47 6726
+#12 oförlåtligt oförlåtliga
+#14 2O:för+lå:tlig
+#98 10950
+#99 12125
+#54 
+
+#01 oförmodad
+#31 čuda
+#02 adj.
+#32 adjektivo
+#04 oväntad, överraskande
+#07 ett oförmodat sammanträffande
+#37 
+#47 6727
+#12 oförmodat oförmodade
+#14 2O:förmo:dad
+#98 10951
+#99 12126
+#54 
+
+#01 oförmåga
+#31 
+#02 subst.
+#32 substantivo
+#04 bristande förmåga
+#07 regeringens oförmåga att fatta beslut
+#37 
+#47 6728
+#12 oförmågan
+#14 2O:förmå:ga
+#98 10952
+#99 12127
+#54 
+
+#01 oförmögen
+#31 nai zor
+#02 adj.
+#32 adjektivo
+#04 ur stånd (att)
+#10 & till x; & att + INF
+#12 oförmöget oförmögna
+#14 2O:förmö:gen
+#98 10953
+#99 12128
+#54 
+
+#01 oförrätt
+#31 xoxavno
+#02 subst.
+#32 substantivo
+#04 orättvis handling (mot någon)
+#07 lida oförrätt
+#37 
+#47 6729
+#12 oförrätten oförrätter
+#14 2O:föret:
+#98 10954
+#99 12129
+#54 
+
+#01 oförrättat
+#31 nai gata
+#02 adj.
+#32 adjektivo
+#08 med oförrättat ("inte uträttat") ärende
+#38 
+#48 1095
+#14 2O:föret:at
+#98 10955
+#99 12130
+#54 
+
+#01 oförsiktig
+#31 bigodjako
+#02 adj.
+#32 adjektivo
+#04 vårdslös, tanklös
+#07 hon var oförsiktig nog att ställa ifrån sig väskan
+#37 
+#47 6730
+#10 & (med x/att + INF)
+#12 oförsiktigt oförsiktiga
+#14 2O:för+sik:tig
+#98 10956
+#99 12131
+#54 
+
+#01 oförskämd
+#31 vuroto
+#02 adj.
+#32 adjektivo
+#04 fräck och oartig
+#07 ställa oförskämda frågor
+#37 
+#47 6731
+#10 & (mot B)
+#12 oförskämt oförskämda
+#14 2O:för$em:d
+#98 10957
+#99 12132
+#54 
+
+#01 oförsonlig
+#31 dušmano
+#02 adj.
+#32 adjektivo
+#04 som inte vill försonas
+#07 en oförsonlig fiende
+#37 
+#47 6732
+#12 oförsonligt oförsonliga
+#14 2O:för+so:nlig
+#98 10958
+#99 12133
+#54 
+
+#01 oförstående
+#31 čoro
+#02 adj.
+#32 adjektivo
+#04 som inte vill se det berättigade (i något)
+#07 oförstående föräldrar
+#37 
+#47 6733
+#14 2O:för+stå:ende
+#98 10959
+#99 12134
+#54 
+
+#01 oförstånd
+#31 dilo
+#02 subst.
+#32 substantivo
+#04 brist på förstånd, dumhet
+#07 ungdomligt oförstånd
+#37 
+#47 6734
+#12 oförståndet
+#14 2O:för+stån:d
+#98 10960
+#99 12135
+#54 
+
+#01 oförställd
+#31 
+#02 adj.
+#32 adjektivo
+#04 uppriktig
+#07 oförställd beundran
+#37 
+#47 6735
+#12 oförställt oförställda
+#14 2O:för+stel:d
+#98 10961
+#99 12136
+#54 
+
+#01 oförsvarlig
+#31 bi lažavno
+#02 adj.
+#32 adjektivo
+#04 som inte kan rättfärdigas
+#07 det är oförsvarligt att smitta ner någon medvetet
+#37 
+#47 6736
+#12 oförsvarligt oförsvarliga
+#14 2O:för+sva:r+lig
+#98 10962
+#99 12137
+#54 
+
+#01 oförsynt
+#31 vuruto, nai gindo
+#02 adj.
+#32 adjektivo
+#04 oförskämd, taktlös
+#12 oförsynt oförsynta
+#14 2O:för+sy:nt
+#98 10963
+#99 12138
+#54 
+
+#01 oförtjänt
+#31 čoro
+#02 adj.
+#32 adjektivo
+#04 som är utan orsak, orättvis
+#07 ha oförtjänt dåligt rykte
+#37 
+#47 6737
+#12 oförtjänt oförtjänta
+#14 2O:förcen:t
+#98 10964
+#99 12139
+#54 
+
+#01 oförtruten
+#31 laši buči
+#02 adj.
+#32 adjektivo
+#04 ihärdig och energisk
+#07 oförtrutet och energiskt arbete
+#37 
+#47 6738
+#12 oförtrutet oförtrutna
+#14 2O:för+tru:ten
+#98 10965
+#99 12140
+#54 
+
+#01 oförutsedd
+#31 
+#02 adj.
+#32 adjektivo
+#04 som man inte räknat med
+#07 om inget oförutsett inträffar
+#37 
+#47 6739
+#12 oförutsett oförutsedda
+#14 2O:föru:tsed:
+#98 10966
+#99 12141
+#54 
+
+#01 oförvitlig
+#31 vojako
+#02 adj.
+#32 adjektivo
+#04 hederlig
+#07 en oförvitlig människa
+#37 
+#47 6740
+#12 oförvitligt oförvitliga
+#14 2O:förvit:lig
+#98 10967
+#99 12142
+#54 
+
+#01 oförändrad
+#31 nai parujipe
+#02 adj.
+#32 adjektivo
+#04 inte förändrad
+#07 oförändrad inkomst
+#37 
+#47 6741
+#07 oförändrad temperatur
+#37 
+#47 6742
+#07 i oförändrat skick
+#37 
+#47 6743
+#12 oförändrat oförändrade
+#14 2O:fören:drad
+#98 10968
+#99 12143
+#54 
+
+#01 ogenerad
+#31 nai lažavno
+#02 adj.
+#32 adjektivo
+#04 inte generad
+#05 om handling "oblyg"
+#35 
+#07 en ogenerad handel med narkotika
+#37 
+#47 6744
+#12 ogenerat ogenerade
+#14 2O:$ene:rad
+#98 10969
+#99 12144
+#54 
+
+#01 ogenomtränglig
+#31 
+#02 adj.
+#32 adjektivo
+#04 omöjlig att tränga igenom
+#07 en ogenomtränglig djungel
+#37 
+#47 6745
+#12 ogenomträngligt ogenomträngliga
+#14 2O:jenåmtre@:lig
+#98 10970
+#99 12145
+#54 
+
+#01 ogift
+#31 phivlo, nai ansurime
+#02 adj.
+#32 adjektivo
+#04 inte gift
+#12 ogift ogifta
+#14 2O:jif:t
+#98 10971
+#99 12146
+#54 
+#97 mini
+
+#01 ogillar
+#31 či kamel
+#02 verb
+#32 verbo
+#04 inte tycka om; fördöma
+#07 hon ogillade hans sätt att snusa
+#37 
+#47 6746
+#10 A & x/att + S
+#12 ogillade ogillat ogilla(!)
+#14 2O:jil:ar
+#98 10972
+#99 12147
+#54 
+
+#01 ogillar
+#31 či kamel
+#02 verb
+#32 verbo
+#04 avslå, förklara ogiltig
+#07 åtalet ogillades
+#37 
+#47 6747
+#10 A & x
+#12 ogillade ogillat ogilla(!)
+#14 2O:jil:ar
+#98 10972
+#99 12148
+#54 
+
+#01 ogiltig
+#31 nai laše/či djinžol
+#02 adj.
+#32 adjektivo
+#04 inte giltig
+#07 tre röster förklarades ogiltiga
+#37 
+#47 6748
+#12 ogiltigt ogiltiga
+#14 2O:jil:tig
+#98 10973
+#99 12149
+#54 
+
+#01 ogjord
+#31 nai gata
+#02 adj.
+#32 adjektivo
+#04 ännu inte gjord
+#07 jag har fått lämna mycket ogjort
+#37 
+#47 6749
+#12 ogjort ogjorda
+#14 2O:jo:r+d
+#98 10974
+#99 12150
+#54 
+
+#01 ogrundad
+#31 čočavno/xoxamno
+#02 adj.
+#32 adjektivo
+#04 grundlös, falsk
+#07 ogrundade påståenden
+#37 
+#47 6750
+#12 ogrundat ogrundade
+#14 2O:grun:dad
+#98 10975
+#99 12151
+#54 
+
+#01 ogräs
+#31 čar
+#02 subst.
+#32 substantivo
+#04 oönskad vild växt som skadar odlade växter
+#07 växa som ogräs
+#37 
+#47 6751
+#11 ogräs~bekämpning -en
+#41 
+#51 4831
+#12 ogräset ogräs ogräsen
+#14 2O:grä:s
+#98 10976
+#99 12152
+#54 
+
+#01 ogynnsam
+#31 čoro
+#02 adj.
+#32 adjektivo
+#04 inte gynnsam, dålig
+#07 ogynnsam utveckling
+#37 
+#47 6752
+#12 ogynnsamt ogynnsamma
+#14 2O:jynsam:
+#98 10977
+#99 12153
+#54 
+
+#01 ogärna
+#31 nai kamimos
+#02 adv.
+#32 adverbo
+#04 inte gärna
+#07 vi vill ogärna ställa in tävlingen
+#37 
+#47 6753
+#14 2O:jä:r+na
+#98 10978
+#99 12154
+#54 
+
+#01 ogästvänlig
+#31 nai akharimos/naj gastari
+#02 adj.
+#32 adjektivo
+#04 inte gästvänlig
+#07 ett ogästvänligt klimat
+#37 
+#47 6754
+#12 ogästvänligt ogästvänliga
+#14 2O:jestvän:lig
+#98 10979
+#99 12155
+#54 
+
+#01 ogörlig
+#31 či biril
+#02 adj.
+#32 adjektivo
+#04 omöjlig att utföra
+#12 ogörligt ogörliga
+#14 2O:jö:r+lig
+#98 10980
+#99 12156
+#54 
+
+#01 ohanterlig
+#31 naštil lel sama
+#02 adj.
+#32 adjektivo
+#04 svår att hantera, besvärlig
+#12 ohanterligt ohanterliga
+#14 2O:hante:r+lig
+#98 10981
+#99 12157
+#54 
+
+#01 ohejdad
+#31 čoro
+#02 adj.
+#32 adjektivo
+#04 som inte går att hejda, våldsam
+#07 en ohejdad exploatering
+#37 
+#47 6755
+#08 av födsel och ohejdad vana ("av naturen")
+#38 
+#48 1096
+#12 ohejdat ohejdade
+#14 2O:hej:dad
+#98 10982
+#99 12158
+#54 
+
+#01 oherrans
+#31 darano trajo
+#02 adj.
+#32 adjektivo
+#04 förskräcklig
+#05 vardagligt
+#35 
+#07 ett oherrans liv
+#37 
+#47 6756
+#14 2o:hÄr:ans
+#15 oböjligt
+#45 
+#98 10983
+#99 12159
+#54 
+
+#01 ohjälpligt
+#31 nai trajo
+#02 adv.
+#32 adverbo
+#04 obotligt, hopplöst
+#07 komma ohjälpligt efter i skolarbetet
+#37 
+#47 6757
+#14 2O:jel:pli(k)t
+#98 10984
+#99 12160
+#54 
+
+#01 ohm
+#31 
+#02 subst.
+#32 substantivo
+#04 enhet för elektriskt motstånd
+#09 bild 31:62
+#39 
+#12 ohmen ohm ohmen
+#14 å:m
+#98 10985
+#99 12161
+#54 
+#97 mini
+
+#01 ohoj
+#31 hallo
+#02 interj.
+#32 interjektiono
+#04 hallå
+#07 skepp ohoj!
+#37 
+#47 6758
+#14 ohÅj:
+#98 10986
+#99 12162
+#54 
+
+#01 ohyfsad
+#31 čoro barardo/čores bariardo
+#02 adj.
+#32 adjektivo
+#04 ouppfostrad
+#12 ohyfsat ohyfsade
+#14 2O:hyf:sad
+#98 10987
+#99 12163
+#54 
+
+#01 ohygglig
+#31 vuruto
+#02 adj.
+#32 adjektivo
+#04 fruktansvärd, förskräcklig
+#05 även allmänt förstärkande
+#35 
+#07 ohyggligt lidande
+#37 
+#47 6759
+#07 en ohygglig värme
+#37 
+#47 6760
+#12 ohyggligt ohyggliga
+#14 ohYg:lig
+#98 10988
+#99 12164
+#54 
+
+#01 ohyra
+#31 
+#02 subst.
+#32 substantivo
+#04 skadeinsekter
+#12 ohyran
+#14 2O:hy:ra
+#15 massord
+#45 
+#98 10989
+#99 12165
+#54 
+
+#01 ohållbar
+#31 či biril/či inkerel
+#02 adj.
+#32 adjektivo
+#04 som inte kan försvaras, omöjlig
+#07 en ohållbar situation
+#37 
+#47 6761
+#12 ohållbart ohållbara
+#14 2O:hålba:r
+#98 10990
+#99 12166
+#54 
+
+#01 ohämmad
+#31 
+#02 adj.
+#32 adjektivo
+#04 inte hämmad; ohejdad
+#07 ett ohämmat slöseri
+#37 
+#47 6762
+#12 ohämmat ohämmade
+#14 2O:hem:ad
+#98 10991
+#99 12167
+#54 
+
+#01 oigenkännlig
+#31 či serel/naštis te prinžares
+#02 adj.	
+#32 adjektivo
+#04 som man inte (längre) kan känna igen
+#11 oigenkännlighet
+#41 
+#51 4832
+#12 oigenkännligt oigenkännliga
+#14 2O:ijencen:lig
+#98 10992
+#99 12168
+#54 
+
+#01 oinskränkt
+#31 nai granitca
+#02 adj.
+#32 adjektivo
+#04 obegränsad, fullständig
+#07 ha oinskränkt makt
+#37 
+#47 6763
+#12 oinskränkt oinskränkta
+#14 2O:inskre@:kt
+#98 10993
+#99 12169
+#54 
+
+#01 ointressant
+#31 nai intressanto
+#02 adj.
+#32 adjektivo
+#04 inte intressant, tråkig, likgiltig
+#12 ointressant ointressanta
+#14 2O:intresan:t (el. -a@:t)
+#98 10994
+#99 12170
+#54 
+
+#01 ointresserad
+#31 nai intressanto
+#02 adj.
+#32 adjektivo
+#04 inte intresserad, likgiltig
+#07 vara ointresserad av jobbet
+#37 
+#47 6764
+#10 & (av x)
+#12 ointresserat ointresserade
+#14 2O:intrese:rad
+#98 10995
+#99 12171
+#54 
+
+#01 oj
+#31 oj, jaj
+#02 interj.
+#32 interjektiono
+#05 utrop av förvåning etc
+#35 
+#07 oj då!
+#37 
+#47 6765
+#07 oj vad spännande!
+#37 
+#47 6766
+#14 åj:
+#98 10996
+#99 12172
+#54 
+
+#01 ojust
+#31 čočavno/xoxamno
+#02 adj.
+#32 adjektivo
+#04 inte efter reglerna, orättvis
+#07 ojust spel
+#37 
+#47 6767
+#07 ojust behandling
+#37 
+#47 6768
+#12 ojust ojusta
+#14 2O:$ys:t
+#98 10997
+#99 12173
+#54 
+
+#01 ojämförlig
+#31 
+#02 adj.
+#32 adjektivo
+#04 som inte kan jämföras p g a alltför stor kvalitetsskillnad
+#07 hon var en ojämförligt mycket bättre sångerska
+#37 
+#47 6769
+#12 ojämförligt ojämförliga
+#14 2O:jemfö:r+lig
+#98 10998
+#99 12174
+#54 
+
+#01 ojämn
+#31 bango
+#02 adj.
+#32 adjektivo
+#04 inte jämn el. slät
+#05 om yta
+#35 
+#07 vägen var stenig och ojämn
+#37 
+#47 6770
+#09 motsats ^jämn 1^
+#39 
+#11 ojämnhet -en
+#41 
+#51 4833
+#12 ojämnt ojämna
+#14 2O:jem:n
+#98 10999
+#99 12175
+#54 
+
+#01 ojämn
+#31 bango
+#02 adj.
+#32 adjektivo
+#04 inte likvärdig
+#05 bildligt "ryckig, nyckfull"
+#35 
+#07 ojämn fördelning av jordens tillgångar
+#37 
+#47 6771
+#07 ett ojämnt resultat
+#37 
+#47 6772
+#09 motsats ^jämn 3^
+#39 
+#12 ojämnt ojämna
+#14 2O:jem:n
+#98 10999
+#99 12176
+#54 
+
+#01 ojämn
+#31 
+#02 adj.
+#32 adjektivo
+#04 udda
+#05 om siffror
+#35 
+#07 ett ojämnt tal
+#37 
+#47 6773
+#09 motsats ^jämn 4^
+#39 
+#12 ojämnt ojämna
+#14 2O:jem:n
+#98 10999
+#99 12177
+#54 
+
+#01 ojävig
+#31 
+#02 adj.
+#32 adjektivo
+#04 inte jävig, opartisk
+#12 ojävigt ojäviga
+#14 2O:jä:vig
+#98 11000
+#99 12178
+#54 
+
+#01 OK
+#31 okej, mišto
+#02 interj.
+#32 interjektiono
+#05 anger att man är överens
+#35 
+#14 åkEj:
+#98 11001
+#99 12179
+#54 
+
+#01 ok
+#31 okej
+#02 subst.
+#32 substantivo
+#04 börda, förtryck
+#12 oket ok oken
+#14 o:k
+#98 11002
+#99 12180
+#54 
+
+#01 oklanderlig
+#31 čoro
+#02 adj.
+#32 adjektivo
+#04 som man inte kan anmärka på, felfri
+#07 oklanderligt uppförande
+#37 
+#47 6774
+#12 oklanderligt oklanderliga
+#14 2O:klan:der+lig
+#98 11003
+#99 12181
+#54 
+
+#01 oklar
+#31 
+#02 adj.
+#32 adjektivo
+#04 inte klar el. synlig
+#05 bildligt "otydlig, svårbegriplig"
+#35 
+#07 det är ännu oklart om vi kommer att avveckla kärnkraften
+#37 
+#47 6775
+#07 oklara direktiv
+#37 
+#47 6776
+#11 oklarhet
+#41 
+#51 4834
+#12 oklart oklara
+#14 2O:kla:r
+#98 11004
+#99 12182
+#54 
+
+#01 okomplicerad
+#31 prosto
+#02 adj.
+#32 adjektivo
+#04 enkel
+#12 okomplicerat okomplicerade
+#14 2O:kåmplise:rad
+#98 11005
+#99 12183
+#54 
+
+#01 okonstlad
+#31 čačo
+#02 adj.
+#32 adjektivo
+#04 naturlig, äkta
+#07 hennes okonstlade uppförande
+#37 
+#47 6777
+#12 okonstlat okonstlade
+#14 2O:kån:stlad
+#98 11006
+#99 12184
+#54 
+
+#01 okonventionell
+#31 
+#02 adj.
+#32 adjektivo
+#04 som inte följer konventionerna, ovanlig
+#12 okonventionellt okonventionella
+#14 2O:kånven$onel:
+#98 11007
+#99 12185
+#54 
+
+#01 okristlig
+#31 čoro
+#02 adj.
+#32 adjektivo
+#04 förskräcklig el. orimlig
+#05 vardagligt
+#35 
+#07 en okristlig tid på dygnet
+#37 
+#47 6778
+#12 okristligt okristliga
+#14 2O:kris:tlig
+#98 11008
+#99 12186
+#54 
+
+#01 okrönt
+#31 mai laši
+#02 adj.
+#32 adjektivo
+#08 EM-s okrönta drottning ("EM-s främsta idrottskvinna")
+#38 
+#48 1097
+#08 den svenska filmens okrönte kung ("den främste svenske filmskådespelaren")
+#38 
+#48 1098
+#12 okrönt okrönta
+#14 2O:krö:nt
+#98 11009
+#99 12187
+#54 
+
+#01 oktan~tal
+#31 
+#02 se oktan~värde
+#32 
+#12 -talet -tal -talen
+#14 2åktA:nta:l
+#98 11010
+#99 12188
+#54 
+
+#01 oktan~värde
+#31 
+#02 subst.
+#32 substantivo
+#04 mått på kvaliten hos ett motorbränsle
+#12 -värdet -värden -värdena
+#14 2åktA:nvä:r+de
+#98 11011
+#99 12189
+#54 
+
+#01 oktav
+#31 
+#02 subst.
+#32 substantivo
+#04 omfång på åtta toner i en dur- el. mollskala
+#12 oktaven oktaver
+#14 åktA:v
+#98 11012
+#99 12190
+#54 
+
+#01 oktober
+#31 dešto šon
+#02 subst.
+#32 substantivo
+#04 årets tionde månad
+#09 bild 30:61
+#39 
+#14 åktO:ber
+#98 11013
+#99 12191
+#54 
+#97 mini
+
+#01 okunnig
+#31 nai godji/naj haliarimos/žanglipe
+#02 adj.
+#32 adjektivo
+#04 som saknar kunskap, oerfaren
+#07 okunnig kritik
+#37 
+#47 6779
+#07 vi är inte okunniga om problemen
+#37 
+#47 6780
+#10 & (om x/att+SATS)
+#11 okunnighet -en
+#41 
+#51 4835
+#12 okunnigt okunniga
+#14 2O:kun:ig
+#98 11014
+#99 12192
+#54 
+
+#01 okunnighet
+#31 nai godjaver/haljarno
+#02 subst.
+#32 substantivo
+#04 det att vara okunnig
+#07 sväva i okunnighet om något
+#37 
+#47 6781
+#12 okunnigheten
+#14 2O:kunighe:t
+#98 11015
+#99 12193
+#54 
+
+#01 okuvlig
+#31 
+#02 adj.
+#32 adjektivo
+#04 omöjlig att kuva
+#12 okuvligt okuvliga
+#14 2O:ku:vlig
+#98 11016
+#99 12194
+#54 
+
+#01 okvädings~ord
+#31 nai laše vorbi
+#02 subst.
+#32 substantivo
+#04 skällsord
+#12 -ordet -ord -orden
+#14 2O:kvä:di@so:r:d
+#98 11017
+#99 12195
+#54 
+
+#01 okynne
+#31 
+#02 subst.
+#32 substantivo
+#04 ofog
+#11 okynnig -t
+#41 
+#51 4836
+#12 okynnet
+#14 2O:cyn:e
+#98 11018
+#99 12196
+#54 
+
+#01 okänd
+#31 
+#02 adj.
+#32 adjektivo
+#04 som få känner till el. vet något om
+#07 en okänd författare
+#37 
+#47 6782
+#07 på okänd ort
+#37 
+#47 6783
+#07 av okänd anledning
+#37 
+#47 6784
+#12 okänt okända
+#14 2O:cen:d
+#98 11019
+#99 12197
+#54 
+
+#01 okänslig
+#31 nai atjarimos
+#02 adj.
+#32 adjektivo
+#04 utan känslor, likgiltig
+#10 & (för x)
+#12 okänsligt okänsliga
+#14 2O:cen:slig
+#98 11020
+#99 12198
+#54 
+
+#01 olag
+#31 
+#02 subst.
+#32 substantivo
+#08 vara i olag ("vara ur funktion")
+#38 
+#48 1099
+#14 2O:la:g
+#98 11021
+#99 12199
+#54 
+#97 mini
+
+#01 olaga
+#31 
+#02 adj.
+#32 adjektivo
+#04 som strider mot lagen, illegal, olaglig
+#07 olaga frihetsberövande
+#37 
+#47 6785
+#07 olaga hot
+#37 
+#47 6786
+#07 olaga jakt
+#37 
+#47 6787
+#14 2O:la:ga
+#98 11022
+#99 12200
+#54 
+#97 mini
+
+#01 olaglig
+#31 
+#02 adj.
+#32 adjektivo
+#04 som strider mot lagen, illegal
+#07 en olaglig strejk
+#37 
+#47 6788
+#09 jfr ^olaga^
+#39 
+#12 olagligt olagliga
+#14 2O:la:glig
+#98 11023
+#99 12201
+#54 
+
+#01 olater
+#31 čores
+#02 subst.
+#32 substantivo
+#04 dåliga vanor
+#14 2O:la:ter
+#15 plur.
+#45 
+#98 11024
+#99 12202
+#54 
+
+#01 olidlig
+#31 
+#02 adj.
+#32 adjektivo
+#04 som man inte kan uthärda, outhärdlig
+#07 en olidlig situation
+#37 
+#47 6789
+#12 olidligt olidliga
+#14 2O:li:dlig
+#98 11025
+#99 12203
+#54 
+
+#01 olik
+#31 nai jekh fialo/diferento
+#02 adj.
+#32 adjektivo
+#04 inte lik, skild, annorlunda
+#05 försvagat "varierande, diverse"
+#35 
+#07 de finska och svenska språken är väldigt olika
+#37 
+#47 6790
+#07 vi har helt olika åsikter om politik
+#37 
+#47 6791
+#07 i olika delar av landet
+#37 
+#47 6792
+#07 av olika slag
+#37 
+#47 6793
+#07 i olika sammanhang
+#37 
+#47 6794
+#07 på olika håll
+#37 
+#47 6795
+#07 på olika sätt
+#37 
+#47 6796
+#12 olikt olika
+#14 2O:li:ka
+#98 11026
+#99 12204
+#54 
+
+#01 olika
+#31 nai jekh
+#02 adv.
+#32 adverbo
+#04 inte på samma sätt, på avvikande sätt
+#07 reagera olika
+#37 
+#47 6797
+#14 2O:li:ka
+#98 11027
+#99 12205
+#54 
+#97 mini
+
+#01 olikhet
+#31 nai jekh fialo/diferento
+#02 subst.
+#32 substantivo
+#04 skillnad, avvikelse
+#07 olikhet i uppfattning
+#37 
+#47 6798
+#12 olikheten olikheter
+#14 2O:li:khe:t
+#98 11028
+#99 12206
+#54 
+
+#01 oliktänkande
+#31 kaver gindo
+#02 adj.
+#32 adjektivo
+#04 som har annan åsikt, som står i opposition
+#14 2O:li:kte@:kande
+#15 oftast substantiverat
+#45 
+#98 11029
+#99 12207
+#54 
+
+#01 oliv
+#31 oliva
+#02 subst.
+#32 substantivo
+#04 (frukt från) olivträd
+#11 oliv~olja
+#41 
+#51 4837
+#11 oliv~träd
+#41 
+#51 4838
+#12 oliven oliver
+#14 olI:v
+#98 11030
+#99 12208
+#54 
+
+#01 olja
+#31 vuloj
+#02 subst.
+#32 substantivo
+#04 trögflytande vätska som är olöslig i vatten
+#09 bild 5:12
+#39 
+#11 matolja
+#41 
+#51 4839
+#11 eldningsolja
+#41 
+#51 4840
+#11 smörjolja
+#41 
+#51 4841
+#11 olje~bolag -et
+#41 
+#51 4842
+#11 olje~målning -en
+#41 
+#51 4843
+#11 olje~källa
+#41 
+#51 4844
+#12 oljan oljor
+#14 2Ål:ja
+#98 11031
+#99 12209
+#54 
+#97 mini
+
+#01 oljar
+#31 oljil/makel ando vuloj
+#02 verb
+#32 verbo
+#04 smörja in med olja
+#07 gångjärnen behöver oljas
+#37 
+#47 6799
+#10 A & (in) x
+#12 oljade oljat olja(!)
+#14 2Ål:jar
+#98 11032
+#99 12210
+#54 
+
+#01 olje~bälte
+#31 
+#02 subst.
+#32 substantivo
+#04 olja som driver på vatten
+#12 -bältet -bälten -bältena
+#14 2Ål:jebel:te
+#98 11033
+#99 12211
+#54 
+
+#01 olje~plattform
+#31 
+#02 subst.
+#32 substantivo
+#04 plattform för oljeborrning i havet
+#12 -plattformen -plattformar
+#14 2Ål:jeplatfår:m
+#98 11034
+#99 12212
+#54 
+
+#01 oljud
+#31 čipimos/bašimos
+#02 subst.
+#32 substantivo
+#04 störande ljud, oväsen
+#12 oljudet oljud oljuden
+#14 2O:ju:d
+#98 11035
+#99 12213
+#54 
+#97 mini
+
+#01 olle
+#31 toli zpenso/thulo pošomako spenčo
+#02 subst.
+#32 substantivo
+#04 tjock ylletröja
+#09 bild 8:17
+#39 
+#12 ollen ollar
+#14 2Ol:e
+#98 11036
+#99 12214
+#54 
+#97 mini
+
+#01 ollon
+#31 
+#02 subst.
+#32 substantivo
+#04 frukt av ek el. bok
+#09 bild 23:46
+#39 
+#11 ekollon
+#41 
+#51 4845
+#12 ollonet ollon ollonen
+#14 2Ål:ån
+#98 11037
+#99 12215
+#54 
+#97 mini
+
+#01 ollon
+#31 
+#02 subst.
+#32 substantivo
+#04 främre del av penis
+#09 bild 3:7
+#39 
+#12 ollonet ollon ollonen
+#14 2Ål:ån
+#98 11037
+#99 12216
+#54 
+#97 mini
+
+#01 olovlig
+#31 nai slobodo
+#02 adj.
+#32 adjektivo
+#04 inte tillåten, olaglig, olaga
+#07 olovlig strejk
+#37 
+#47 6800
+#12 olovligt olovliga
+#14 2O:lå:vlig
+#98 11038
+#99 12217
+#54 
+
+#01 olust
+#31 nai mišto/bivojako
+#02 subst.
+#32 substantivo
+#04 känsla av obehag
+#07 känna olust inför något
+#37 
+#47 6801
+#12 olusten
+#14 2O:lus:t
+#98 11039
+#99 12218
+#54 
+
+#01 olustig
+#31 pharimos
+#02 adj.
+#32 adjektivo
+#04 håglös; obehaglig
+#07 känna sig olustig
+#37 
+#47 6802
+#07 en olustig situation
+#37 
+#47 6803
+#12 olustigt olustiga
+#14 2O:lus:tig
+#98 11040
+#99 12219
+#54 
+
+#01 olycka
+#31 nai bax/bi bax
+#02 subst.
+#32 substantivo
+#04 obehaglig el. tragisk händelse som inträffar av en slump
+#05 även svagare "missöde"
+#35 
+#07 olyckan inträffade på vägen till Stockholm
+#37 
+#47 6804
+#09 bild 4:8
+#39 
+#11 trafikolycka
+#41 
+#51 4846
+#11 olycks~plats -en
+#41 
+#51 4847
+#12 olyckan olyckor
+#14 2O:lyk:a
+#98 11041
+#99 12220
+#54 
+#97 mini
+
+#01 olycklig
+#31 nikižime
+#02 adj.
+#32 adjektivo
+#04 drabbad av olycka, sorgsen
+#07 olyckliga människor
+#37 
+#47 6805
+#12 olyckligt olyckliga
+#14 2O:lyk:lig
+#98 11042
+#99 12221
+#54 
+#97 mini
+
+#01 olycklig
+#31 nai baxhtalo
+#02 adj.
+#32 adjektivo
+#04 som får negativa följder
+#07 ett olyckligt beslut
+#37 
+#47 6806
+#12 olyckligt olyckliga
+#14 2O:lyk:lig
+#98 11042
+#99 12222
+#54 
+#97 mini
+
+#01 olycks~barn
+#31 bi baxtali glata
+#02 subst.
+#32 substantivo
+#04 person som ofta orsakar olyckshändelser
+#12 -barnet -barn -barnen
+#14 2O:lyksba:r+n
+#98 11043
+#99 12223
+#54 
+
+#01 olycks~barn
+#31 bibaxtali glata
+#02 subst.
+#32 substantivo
+#04 person som ofta drabbas av olycka
+#07 samhällets olycksbarn
+#37 
+#47 6807
+#12 -barnet -barn -barnen
+#14 2O:lyksba:r+n
+#98 11043
+#99 12224
+#54 
+
+#01 olycks~bådande
+#31 
+#02 adj.
+#32 adjektivo
+#04 illavarslande
+#14 2O:lyksbå:dande
+#98 11044
+#99 12225
+#54 
+
+#01 olycks~fall
+#31 bajo
+#02 subst.
+#32 substantivo
+#04 olycka, olyckshändelse
+#07 olycksfall i arbetet
+#37 
+#47 6808
+#09 jfr ^fall^ 3
+#39 
+#11 olycksfalls~försäkring -en
+#41 
+#51 4848
+#12 -fallet -fall -fallen
+#14 2O:lyksfal:
+#98 11045
+#99 12226
+#54 
+#97 mini
+
+#01 olycks~fågel
+#31 
+#02 subst.
+#32 substantivo
+#04 person som ofta orsakar el. ställer till olyckshändelser, olycksbarn
+#12 -fågeln -fåglar
+#14 2O:lyksfå:gel
+#98 11046
+#99 12227
+#54 
+
+#01 olycks~händelse
+#31 bajo
+#02 subst.
+#32 substantivo
+#04 oväntad händelse då någon skadas el. dödas
+#07 det inträffade är en ren olyckshändelse
+#37 
+#47 6809
+#12 -händelsen -händelser
+#14 2O:lykshen:delse
+#98 11047
+#99 12228
+#54 
+
+#01 olycks~korp
+#31 
+#02 subst.
+#32 substantivo
+#04 person som förutsäger olyckor, pessimist
+#12 -korpen -korpar
+#14 2O:lykskår:p
+#98 11048
+#99 12229
+#54 
+
+#01 olydig
+#31 jekhako
+#02 adj.
+#32 adjektivo
+#04 inte lydig, trotsig
+#07 olydiga barn
+#37 
+#47 6810
+#12 olydigt olydiga
+#14 2O:ly:dig
+#98 11049
+#99 12230
+#54 
+
+#01 olympiad
+#31 olympiada
+#02 subst.
+#32 substantivo
+#04 internationell idrottstävling som inträffar vart fjärde år
+#12 olympiaden olympiader
+#14 olympiA:d
+#98 11050
+#99 12231
+#54 
+
+#01 olympisk
+#31 olympida
+#02 adj.
+#32 adjektivo
+#04 som avser olympiaden
+#07 (de) olympiska spelen
+#37 
+#47 6811
+#12 olympiskt olympiska
+#14 olYm:pisk
+#98 11051
+#99 12232
+#54 
+
+#01 olägenhet
+#31 bajo
+#02 subst.
+#32 substantivo
+#04 mindre besvär
+#07 sanitär olägenhet
+#37 
+#47 6812
+#12 olägenheten olägenheter
+#14 2O:lä:genhe:t
+#98 11052
+#99 12233
+#54 
+
+#01 olämplig
+#31 nai lašo/vorta
+#02 adj.
+#32 adjektivo
+#04 inte lämplig, inte passande
+#07 en olämplig tidpunkt
+#37 
+#47 6813
+#12 olämpligt olämpliga
+#14 2O:lem:plig
+#98 11053
+#99 12234
+#54 
+
+#01 oländig
+#31 naštil te žal angle
+#02 adj.
+#32 adjektivo
+#04 svår att ta sig fram i
+#05 om markförhållanden
+#35 
+#07 oländig terräng
+#37 
+#47 6814
+#12 oländigt oländiga
+#14 2O:len:dig
+#98 11054
+#99 12235
+#54 
+
+#01 olöslig
+#31 nai vorta
+#02 adj.
+#32 adjektivo
+#04 som inte kan lösas
+#07 en olöslig konflikt
+#37 
+#47 6815
+#12 olösligt olösliga
+#14 2O:lö:slig
+#98 11055
+#99 12236
+#54 
+
+#01 olöst
+#31 nai kerdo
+#02 adj.
+#32 adjektivo
+#04 som inte har lösts
+#07 ett olöst problem
+#37 
+#47 6816
+#12 olöst olösta
+#14 2O:lö:st
+#98 11056
+#99 12237
+#54 
+
+#01 om 1
+#31 
+#02 adv.
+#32 adverbo
+#04 omkring, runt; förbi
+#05 om rum
+#35 
+#07 bädda om
+#37 
+#47 6817
+#07 linda om
+#37 
+#47 6818
+#07 köra om
+#37 
+#47 6819
+#14 åm:
+#15 verbpartikel
+#45 
+#98 11057
+#99 12238
+#54 
+#97 mini
+
+#01 om 1
+#31 neves
+#02 adv.
+#32 adverbo
+#04 på nytt, ännu en gång, om igen
+#07 bygga om
+#37 
+#47 6820
+#07 tänka om
+#37 
+#47 6821
+#07 välja om
+#37 
+#47 6822
+#07 om och om igen
+#37 
+#47 6823
+#14 åm:
+#15 mest som verbpartikel
+#45 
+#98 11057
+#99 12239
+#54 
+#97 mini
+
+#01 om 1
+#31 anda
+#02 adv.
+#32 adverbo
+#04 angående, beträffande
+#07 bry sig om
+#37 
+#47 6824
+#07 sköta om
+#37 
+#47 6825
+#07 tycka om
+#37 
+#47 6826
+#14 åm:
+#15 verbpartikel
+#45 
+#98 11057
+#99 12240
+#54 
+#97 mini
+
+#01 om 2
+#31 vi
+#02 konj.
+#32 konjuktiono
+#04 ifall, såvida; huruvida
+#07 om du hinner så köp lite mjölk
+#37 
+#47 6827
+#07 jag undrar om du kan hjälpa mig?
+#37 
+#47 6828
+#07 som om inget hade hänt
+#37 
+#47 6829
+#07 jag åker även om det regnar
+#37 
+#47 6830
+#14 åm:
+#98 11058
+#99 12241
+#54 
+#97 mini
+
+#01 om 3
+#31 paše
+#02 prep.
+#32 prepositiono
+#04 omkring, runt; förbi, via
+#05 om rum
+#35 
+#07 en halsduk om halsen
+#37 
+#47 6831
+#07 affären om hörnet
+#37 
+#47 6832
+#07 åka om Stockholm
+#37 
+#47 6833
+#14 åm:
+#98 11059
+#99 12242
+#54 
+#97 mini
+
+#01 om 3
+#31 pa
+#02 prep.
+#32 prepositiono
+#04 på; inom en tid av
+#05 om tid
+#35 
+#07 om natten
+#37 
+#47 6834
+#07 om dagarna
+#37 
+#47 6835
+#07 tre gånger om året
+#37 
+#47 6836
+#07 om en stund
+#37 
+#47 6837
+#14 åm:
+#98 11059
+#99 12243
+#54 
+#97 mini
+
+#01 om 3
+#31 pala, anda
+#02 prep.
+#32 prepositiono
+#04 angående, beträffande
+#07 vårdnaden om barn
+#37 
+#47 6838
+#07 prata om vädret
+#37 
+#47 6839
+#07 en fråga om tid
+#37 
+#47 6840
+#08 gott om ("rikligt med") (pengar)
+#38 
+#48 1100
+#14 åm:
+#98 11059
+#99 12244
+#54 
+#97 mini
+
+#01 om 3
+#31 te
+#02 prep.
+#32 prepositiono
+#04 i förhållande till
+#07 till höger om dörren
+#37 
+#47 6841
+#07 öster om staden
+#37 
+#47 6842
+#14 åm:
+#98 11059
+#99 12245
+#54 
+#97 mini
+
+#01 om igen
+#31 pale, de neves
+#02 adv.
+#32 adverbo
+#04 åter, på nytt
+#13 omigen
+#14 Åm: ijEn: el. åmijEn:
+#98 11060
+#99 12246
+#54 
+
+#01 omaka
+#31 nai mišto andejekthan
+#02 adj.
+#32 adjektivo
+#04 som inte hör ihop; udda
+#07 ett omaka par
+#37 
+#47 6843
+#07 en omaka handske
+#37 
+#47 6844
+#14 2O:ma:ka
+#98 11061
+#99 12247
+#54 
+
+#01 ombedes
+#31 
+#02 verb
+#32 verbo
+#04 bli hövligt uppmanad (att göra något)
+#07 passagerarna ombads lämna bussen
+#37 
+#47 6845
+#10 A & + INF
+#12 ombads ombetts (el. ombedits) ombes (el. ombedjas)
+#14 2Åm:be:des
+#15 passiv
+#45 
+#98 11062
+#99 12248
+#54 
+
+#01 ombildar
+#31 
+#02 verb
+#32 verbo
+#04 organisera om
+#07 regeringen har ombildats
+#37 
+#47 6846
+#10 A & x
+#11 ombildning
+#41 
+#51 4849
+#12 ombildade ombildat ombilda(!)
+#14 2Åm:bil:dar
+#98 11063
+#99 12249
+#54 
+
+#01 ombonad
+#31 lašo
+#02 adj.
+#32 adjektivo
+#04 bekväm och hemtrevlig
+#05 om bostad
+#35 
+#12 ombonat ombonade
+#14 2Åm:bo:nad
+#98 11064
+#99 12250
+#54 
+
+#01 ombord
+#31 opre
+#02 adv.
+#32 adverbo
+#04 på ett fartyg eller flygplan
+#07 gå ombord
+#37 
+#47 6847
+#07 ombord på ett fartyg
+#37 
+#47 6848
+#14 åmbO:r+d
+#98 11065
+#99 12251
+#54 
+
+#01 ombrytning
+#31 
+#02 subst.
+#32 substantivo
+#04 det att ordna text (och bilder) till sidor
+#05 tryckeriteknik
+#35 
+#12 ombrytningen
+#14 2Åm:bry:tni@
+#98 11066
+#99 12252
+#54 
+
+#01 ombud
+#31 kaver manuš/representanto
+#02 subst.
+#32 substantivo
+#04 person som företräder en annan person, representant
+#07 juridiskt ombud
+#37 
+#47 6849
+#07 valda ombud
+#37 
+#47 6850
+#11 kongressombud
+#41 
+#51 4850
+#12 ombudet ombud ombuden
+#14 2Åm:bu:d
+#98 11067
+#99 12253
+#54 
+#97 mini
+
+#01 ombuds~man
+#31 rajkano
+#02 subst.
+#32 substantivo
+#04 representant; tjänsteman (t ex i en facklig organisation) som har i uppdrag att företräda medlemmar i frågor som gäller organisationen eller den enskilde medlemmen
+#12 -mannen -män -männen
+#14 2Åm:bu:dsman:
+#98 11068
+#99 12254
+#54 
+
+#01 ombyggnad
+#31 nevo kher
+#02 subst.
+#32 substantivo
+#04 det att bygga om (ett hus)
+#12 ombyggnaden ombyggnader
+#14 2Åm:byg:nad
+#98 11069
+#99 12255
+#54 
+
+#01 ombyte
+#31 parujimos
+#02 subst.
+#32 substantivo
+#04 omväxling
+#07 ombyte förnöjer
+#37 
+#47 6851
+#11 luftombyte
+#41 
+#51 4851
+#12 ombytet ombyten ombytena
+#14 2Åm:by:te
+#98 11070
+#99 12256
+#54 
+
+#01 ombytlig
+#31 
+#02 adj.
+#32 adjektivo
+#04 nyckfull
+#12 ombytligt ombytliga
+#14 2Åm:by:tlig
+#98 11071
+#99 12257
+#54 
+
+#01 omdanar
+#31 paruvel
+#02 verb
+#32 verbo
+#04 göra om, ändra
+#05 litterärt
+#35 
+#10 A & x
+#11 omdaning
+#41 
+#51 4852
+#12 omdanade omdanat omdana(!)
+#14 2Åm:da:nar
+#98 11072
+#99 12258
+#54 
+
+#01 omdebatterad
+#31 
+#02 adj.
+#32 adjektivo
+#04 omstridd
+#12 omdebatterat omdebatterade
+#14 2Åm:debate:rad
+#98 11073
+#99 12259
+#54 
+
+#01 omdöme
+#31 sikajimos
+#02 subst.
+#32 substantivo
+#04 förmåga att bedöma, urskillningsförmåga
+#07 visa dåligt omdöme
+#37 
+#47 6852
+#11 omdömes~gill -t
+#41 
+#51 4853
+#11 omdömes~lös -t
+#41 
+#51 4854
+#12 omdömet omdömen omdömena
+#14 2Åm:döm:e
+#98 11074
+#99 12260
+#54 
+
+#01 omdöme
+#31 sikajimos/opinja
+#02 subst.
+#32 substantivo
+#04 åsikt efter bedömning
+#07 vad är ditt omdöme om boken?
+#37 
+#47 6853
+#11 helhetsomdöme
+#41 
+#51 4855
+#12 omdömet omdömen omdömena
+#14 2Åm:döm:e
+#98 11074
+#99 12261
+#54 
+
+#01 omdömes~gill	
+#31 lašo sikajimos/laši opninja
+#02 adj.
+#32 adjektivo
+#04 som har gott omdöme
+#12 -gillt -gilla
+#14 2Åm:dömesjil:
+#98 11075
+#99 12262
+#54 
+
+#01 omedelbar
+#31 akana
+#02 adj.
+#32 adjektivo
+#04 direkt, ögonblicklig
+#07 i omedelbar anslutning till huset
+#37 
+#47 6854
+#07 i omedelbar anslutning till konserten
+#37 
+#47 6855
+#07 med omedelbar verkan
+#37 
+#47 6856
+#12 omedelbart omedelbara
+#14 2O:me:delba:r
+#98 11076
+#99 12263
+#54 
+
+#01 omedelbart
+#31 akanaš/strazom
+#02 adv.
+#32 adverbo
+#04 strax, genast
+#07 omedelbart efter kriget
+#37 
+#47 6857
+#14 2O:me:delba:r+t
+#98 11077
+#99 12264
+#54 
+#97 mini
+
+#01 omedgörlig
+#31 či kamel paruvel/parujimos
+#02 adj.
+#32 adjektivo
+#04 som inte vill ändra mening, obeveklig
+#12 omedgörligt omedgörliga
+#14 2O:me:djö:r+lig
+#98 11078
+#99 12265
+#54 
+
+#01 omedveten
+#31 bi te žanel
+#02 adj.
+#32 adjektivo
+#04 inte medveten, okunnig
+#07 han var helt omedveten om den fara som väntade
+#37 
+#47 6858
+#10 & (om x/att+SATS)
+#12 omedvetet omedvetna
+#14 2O:me:dve:ten
+#98 11079
+#99 12266
+#54 
+
+#01 omelett
+#31 anre
+#02 subst.
+#32 substantivo
+#04 vispade ägg (och vatten) som gräddats i stekpanna
+#11 skinkomelett
+#41 
+#51 4856
+#11 svampomelett
+#41 
+#51 4857
+#12 omeletten omeletter
+#14 åmelEt:
+#98 11080
+#99 12267
+#54 
+#97 mini
+
+#01 omen
+#31 
+#02 subst.
+#32 substantivo
+#04 förebud, varsel
+#07 ett gott omen
+#37 
+#47 6859
+#12 omenet omen omenen
+#14 O:men
+#98 11081
+#99 12268
+#54 
+
+#01 omfamnar
+#31 len pes pala koxh
+#02 verb
+#32 verbo
+#04 slå armarna om, krama
+#10 A & B
+#11 omfamning -en
+#41 
+#51 4858
+#12 omfamnade omfamnat omfamna(!)
+#14 2Åm:fam:nar
+#98 11082
+#99 12269
+#54 
+
+#01 omfattande
+#31 hasnako
+#02 adj.
+#32 adjektivo
+#04 stor, betydande
+#07 omfattande skador
+#37 
+#47 6860
+#07 en omfattande undersökning
+#37 
+#47 6861
+#14 2Åm:fat:ande
+#98 11083
+#99 12270
+#54 
+
+#01 omfattar
+#31 našel
+#02 verb
+#32 verbo
+#04 innefatta, rymma; bestå av
+#05 även svagare "gälla, avse"
+#35 
+#07 anläggningen kommer att omfatta tre fabriker
+#37 
+#47 6862
+#10 x & y
+#12 omfattade omfattat omfatta
+#14 2Åm:fat:ar
+#98 11084
+#99 12271
+#54 
+
+#01 omfattning
+#31 baripe
+#02 subst.
+#32 substantivo
+#04 storlek, utsträckning
+#07 skadornas omfattning
+#37 
+#47 6863
+#07 i större omfattning
+#37 
+#47 6864
+#07 i mindre omfattning
+#37 
+#47 6865
+#12 omfattningen
+#14 2Åm:fat:ni@
+#98 11085
+#99 12272
+#54 
+
+#01 omfång
+#31 than
+#02 subst.
+#32 substantivo
+#04 det utrymme som något upptar
+#07 en bok av imponerande omfång
+#37 
+#47 6866
+#11 omfångs~rik -t
+#41 
+#51 4859
+#12 omfånget omfång omfången
+#14 2Åm:få@:
+#98 11086
+#99 12273
+#54 
+
+#01 omger
+#31 paše
+#02 verb
+#32 verbo
+#04 finnas runt omkring, omfatta
+#07 den omgivande landsbygden
+#37 
+#47 6867
+#07 omgiven av fiender
+#37 
+#47 6868
+#10 A/x & B/y
+#12 omgav omgett (el. omgivit) omge(!) (el. omgiv! omgiva)
+#14 2Åm:je:r
+#98 11087
+#99 12274
+#54 
+
+#01 omgift
+#31 ansurindas pes de neves
+#02 adj.
+#32 adjektivo
+#04 gift på nytt
+#12 omgift omgifta
+#14 2Åm:jif:t
+#98 11088
+#99 12275
+#54 
+#97 mini
+
+#01 omgivning
+#31 
+#02 subst.
+#32 substantivo
+#04 det som finns runt omkring något el. någon, grannskap
+#07 människor i vår närmaste omgivning
+#37 
+#47 6869
+#07 stadens omgivningar
+#37 
+#47 6870
+#12 omgivningen omgivningar
+#14 2Åm:ji:vni@
+#98 11089
+#99 12276
+#54 
+
+#01 omgående
+#31 akana/strazom
+#02 adv.
+#32 adverbo
+#04 genast, omedelbart
+#07 bilmekaniker får omgående anställning
+#37 
+#47 6871
+#14 2Åm:gå:ende
+#98 11090
+#99 12277
+#54 
+
+#01 omgång
+#31 sodi
+#02 subst.
+#32 substantivo
+#04 del av en process, runda
+#07 allsvenskans femte omgång
+#37 
+#47 6872
+#11 förhandlingsomgång
+#41 
+#51 4860
+#11 valomgång
+#41 
+#51 4861
+#12 omgången omgångar
+#14 2Åm:gå@:
+#98 11091
+#99 12278
+#54 
+
+#01 omgång
+#31 
+#02 subst.
+#32 substantivo
+#04 uppsättning (kläder)
+#07 en omgång vinterkläder
+#37 
+#47 6873
+#12 omgången omgångar
+#14 2Åm:gå@:
+#98 11091
+#99 12279
+#54 
+
+#01 omgång
+#31 maripe
+#02 subst.
+#32 substantivo
+#04 stryk
+#05 vardagligt
+#35 
+#07 få sig en omgång
+#37 
+#47 6874
+#12 omgången omgångar
+#14 2Åm:gå@:
+#98 11091
+#99 12280
+#54 
+
+#01 omhuldar
+#31 
+#02 verb
+#32 verbo
+#04 beskydda, värna om
+#07 bilindustrin omhuldas av regeringen
+#37 
+#47 6875
+#10 A & B/x
+#12 omhuldade omhuldat omhulda(!)
+#14 2Åm:hul:dar
+#98 11092
+#99 12281
+#54 
+
+#01 omhänder~tar
+#31 lel sama
+#02 verb
+#32 verbo
+#04 ta vård om, ta hand om
+#05 särskilt om ingripande från myndighet
+#35 
+#07 en berusad person omhändertogs av polisen
+#37 
+#47 6876
+#10 A & B
+#11 omhändertagande -t
+#41 
+#51 4862
+#12 -tog -tagit -ta(g)! -ta(ga)
+#14 2åmhEn:der+ta:r
+#98 11093
+#99 12282
+#54 
+#97 mini
+
+#01 omild
+#31 zuralo
+#02 adj.
+#32 adjektivo
+#04 hård och obehaglig
+#05 om handling
+#35 
+#07 omild behandling
+#37 
+#47 6877
+#12 omilt omilda
+#14 2O:mil:d
+#98 11094
+#99 12283
+#54 
+
+#01 omintetgör
+#31 ašavel
+#02 verb
+#32 verbo
+#04 hindra att något genomförs
+#07 hans planer omintetgjordes av olyckan
+#37 
+#47 6878
+#10 A & x
+#12 omintetgjorde omintetgjort omintetgör! omintetgöra
+#14 2åmIn:tetjö:r
+#98 11095
+#99 12284
+#54 
+
+#01 omisskännelig
+#31 lašo
+#02 adj.
+#32 adjektivo
+#04 otvetydig, uppenbar
+#12 omisskänn(e)ligt omisskänn(e)liga
+#14 2O:miscen:(e)lig
+#98 11096
+#99 12285
+#54 
+
+#01 omistlig
+#31 či kamel te xasarel
+#02 adj.
+#32 adjektivo
+#04 som man inte vill mista; oersättlig
+#07 omistliga värden
+#37 
+#47 6879
+#12 omistligt omistliga
+#14 2O:mis:tlig
+#98 11097
+#99 12286
+#54 
+
+#01 omklädd
+#31 
+#02 se klär om
+#32 
+#14 2Åm:kled:
+#98 11098
+#99 12287
+#54 
+
+#01 omklädnings~rum
+#31 soba parujimaski
+#02 subst.
+#32 substantivo
+#04 rum där man klär om sig
+#05 särskilt vid idrottsanläggning
+#35 
+#12 -rummet -rum -rummen
+#14 2Åm:klä:dni@srum:
+#98 11099
+#99 12288
+#54 
+#97 mini
+
+#01 omkommer
+#31 merel
+#02 verb
+#32 verbo
+#04 dö genom olyckshändelse, förolyckas
+#10 A &
+#12 omkom omkommit omkomma
+#14 2Åm:kåm:er
+#98 11100
+#99 12289
+#54 
+#97 mini
+
+#01 omkostnad
+#31 pučinimos
+#02 subst.
+#32 substantivo
+#04 utlägg, kostnad
+#12 omkostnaden omkostnader
+#14 2Åm:kås:tnad
+#15 mest i plural
+#45 
+#98 11101
+#99 12290
+#54 
+#97 mini
+
+#01 omkrets
+#31 
+#02 subst.
+#32 substantivo
+#04 längden av en sluten kurva
+#05 även allmänt "omgivning"
+#35 
+#07 det gick inte att få ett rum på flera mils omkrets
+#37 
+#47 6880
+#09 bild 31:63
+#39 
+#12 omkretsen
+#14 2Åm:kret:s
+#98 11102
+#99 12291
+#54 
+#97 mini
+
+#01 omkring 1
+#31 maškar
+#02 adv.
+#32 adverbo
+#04 ungefär, cirka
+#05 i sifferuttryck
+#35 
+#07 omkring hundra kronor
+#37 
+#47 6881
+#07 omkring 5 grader
+#37 
+#47 6882
+#14 åmkrI@:
+#98 11103
+#99 12292
+#54 
+#97 mini
+
+#01 omkring 1
+#31 paše/pašti
+#02 adv.
+#32 adverbo
+#04 runt
+#07 resa omkring i Sverige
+#37 
+#47 6883
+#08 när allt kommer omkring ("när man tar hänsyn till alla omständigheter")
+#38 
+#48 1101
+#14 åmkrI@:
+#15 verbpartikel
+#45 
+#98 11103
+#99 12293
+#54 
+#97 mini
+
+#01 omkring 2
+#31 paše
+#02 prep.
+#32 prepositiono
+#04 runt
+#07 dansa omkring julgranen
+#37 
+#47 6884
+#07 omkring årsskiftet
+#37 
+#47 6885
+#07 sprida skräck omkring sig
+#37 
+#47 6886
+#14 åmkrI@:
+#98 11104
+#99 12294
+#54 
+#97 mini
+
+#01 omkull
+#31 perel pe phuv
+#02 adv.
+#32 adverbo
+#04 överända, till marken
+#07 ramla (el. falla) omkull
+#37 
+#47 6887
+#08 företaget gick omkull ("gick i konkurs")
+#38 
+#48 1102
+#14 åmkUl:
+#15 verbpartikel
+#45 
+#98 11105
+#99 12295
+#54 
+#97 mini
+
+#01 omkväde
+#31 
+#02 subst.
+#32 substantivo
+#04 refräng
+#05 historiskt
+#35 
+#12 omkvädet omkväden omkvädena
+#14 2Åm:kvä:de
+#98 11106
+#99 12296
+#54 
+
+#01 omkörning
+#31 tradel anglal/lel anglal
+#02 subst.
+#32 substantivo
+#04 det att köra om (ett fordon)
+#12 omkörningen omkörningar
+#14 2Åm:cö:r+ni@
+#98 11107
+#99 12297
+#54 
+#97 mini
+
+#01 omlopp
+#31 phirimos
+#02 subst.
+#32 substantivo
+#04 cirkulation
+#07 falska sedlar är i omlopp
+#37 
+#47 6888
+#12 omloppet omlopp omloppen
+#14 2Åm:låp:
+#98 11108
+#99 12298
+#54 
+
+#01 omläggning
+#31 parujimos
+#02 subst.
+#32 substantivo
+#04 ändring
+#11 trafikomläggning
+#41 
+#51 4863
+#12 omläggningen omläggningar
+#14 2Åm:leg:ni@
+#98 11109
+#99 12299
+#54 
+
+#01 omläggning
+#31 paruvel
+#02 subst.
+#32 substantivo
+#04 det att lägga el. byta ett förband
+#12 omläggningen omläggningar
+#14 2Åm:leg:ni@
+#98 11109
+#99 12300
+#54 
+
+#01 omnejd
+#31 mai paše than
+#02 subst.
+#32 substantivo
+#04 närmaste trakt, omgivning
+#07 Göteborg med omnejd
+#37 
+#47 6889
+#12 omnejden
+#14 2Åm:nej:d
+#98 11110
+#99 12301
+#54 
+
+#01 omnämner
+#31 phenel
+#02 verb
+#32 verbo
+#04 nämna, omtala
+#07 han omnämns inte ens i boken
+#37 
+#47 6890
+#10 A & B/x (som y)
+#11 omnämnande
+#41 
+#51 4864
+#12 omnämnde omnämnt omnämn! omnämna
+#14 2Åm:nem:ner
+#98 11111
+#99 12302
+#54 
+
+#01 omodern
+#31 nai moderno
+#02 adj.
+#32 adjektivo
+#04 inte modern, gammalmodig
+#07 en omodern lägenhet
+#37 
+#47 6891
+#12 omodernt omoderna
+#14 2O:modä:r+n
+#98 11112
+#99 12303
+#54 
+
+#01 omorganiserar
+#31 nevjarel
+#02 verb
+#32 verbo
+#04 organisera på nytt sätt
+#10 A & (x)
+#11 omorganisation -en
+#41 
+#51 4865
+#12 omorganiserade omorganiserat omorganisera(!)
+#14 2Åm:årganise:rar
+#98 11113
+#99 12304
+#54 
+
+#01 omotiverad
+#31 nai vorbako
+#02 adj.
+#32 adjektivo
+#04 inte motiverad, obefogad
+#07 kritiken är inte omotiverad
+#37 
+#47 6892
+#12 omotiverat omotiverade
+#14 2O:motive:rad
+#98 11114
+#99 12305
+#54 
+
+#01 omplacerar
+#31 nevarel
+#02 verb
+#32 verbo
+#04 flytta om, flytta över
+#05 till annan tjänst
+#35 
+#07 personalen skall omplaceras
+#37 
+#47 6893
+#11 omplacering -en
+#41 
+#51 4866
+#12 omplacerade omplacerat omplacera(!)
+#14 2Åm:plase:rar
+#98 11115
+#99 12306
+#54 
+
+#01 omprövar
+#31 zumavel de neves
+#02 verb
+#32 verbo
+#04 pröva på nytt
+#07 ompröva ett beslut
+#37 
+#47 6894
+#10 A & x
+#11 omprövning -en
+#41 
+#51 4867
+#12 omprövade omprövat ompröva(!)
+#14 2Åm:prö:var
+#98 11116
+#99 12307
+#54 
+
+#01 omringar
+#31 
+#02 verb
+#32 verbo
+#04 bilda en ring runt (i fientligt syfte)
+#07 staden är omringad av fienden
+#37 
+#47 6895
+#10 A/x & B/y
+#12 omringade omringat omringa(!)
+#14 2Åm:ri@:ar
+#98 11117
+#99 12308
+#54 
+
+#01 område
+#31 than
+#02 subst.
+#32 substantivo
+#04 avgränsad yta
+#05 bildligt även om något abstrakt
+#35 
+#07 området runt Mälaren
+#37 
+#47 6896
+#07 privat område
+#37 
+#47 6897
+#07 på (el. inom) det ekonomiska området
+#37 
+#47 6898
+#11 fritidsområde
+#41 
+#51 4868
+#11 bostadsområde
+#41 
+#51 4869
+#11 språkområde
+#41 
+#51 4870
+#11 ämnesområde
+#41 
+#51 4871
+#11 regnområde
+#41 
+#51 4872
+#12 området områden områdena
+#14 2Åm:rå:de
+#98 11118
+#99 12309
+#54 
+#97 mini
+
+#01 omröstning
+#31 
+#02 subst.
+#32 substantivo
+#04 röstning, votering
+#07 begära omröstning
+#37 
+#47 6899
+#07 sluten omröstning
+#37 
+#47 6900
+#12 omröstningen omröstningar
+#14 2Åm:rös:tni@
+#98 11119
+#99 12310
+#54 
+#97 mini
+
+#01 omsider
+#31 akanaš
+#02 adv.
+#32 adverbo
+#04 så småningom, till sist
+#08 sent omsider ("efter lång väntan")
+#38 
+#48 1103
+#14 åmsI:der
+#98 11120
+#99 12311
+#54 
+
+#01 omskakad
+#31 nerveso/nervozo
+#02 adj.
+#32 adjektivo
+#04 upprörd, uppskakad
+#12 omskakat omskakade
+#14 2Åm:ska:kad
+#98 11121
+#99 12312
+#54 
+
+#01 omskolar
+#31 sičarel pes
+#02 verb
+#32 verbo
+#04 lära ett nytt yrke (genom arbetsmarknadsutbildning)
+#07 omskola sig
+#37 
+#47 6901
+#07 omskolas till chaufför
+#37 
+#47 6902
+#10 A & B; A & sig
+#11 omskolning -en
+#41 
+#51 4873
+#12 omskolade omskolat omskola(!)
+#14 2Åm:sko:lar
+#98 11122
+#99 12313
+#54 
+#97 mini
+
+#01 omskriven
+#31 pherdo skirimos
+#02 adj.
+#32 adjektivo
+#04 som man skriver eller har skrivit mycket om
+#12 omskrivet omskrivna
+#14 2Åm:skri:ven
+#98 11125
+#99 12316
+#54 
+
+#01 omskär
+#31 šinel
+#02 verb
+#32 verbo
+#04 (i rituellt syfte) skära bort yttre delen av förhuden på penis
+#05 även med avseende på kvinna "skära bort klitoris"
+#35 
+#07 låta omskära sig
+#37 
+#47 6903
+#10 A & B
+#11 omskärelse
+#41 
+#51 4874
+#12 omskar omskurit omskär! omskära
+#14 2Åm:$ä:r
+#98 11126
+#99 12317
+#54 
+
+#01 omslag
+#31 
+#02 subst.
+#32 substantivo
+#04 skyddande hölje
+#11 bokomslag
+#41 
+#51 4875
+#11 skivomslag
+#41 
+#51 4876
+#11 omslags~papper -et
+#41 
+#51 4877
+#12 omslaget omslag omslagen
+#14 2Åm:sla:g
+#98 11127
+#99 12318
+#54 
+#97 mini
+
+#01 omslag
+#31 parujimos
+#02 subst.
+#32 substantivo
+#04 förändring
+#07 omslag i väderleken
+#37 
+#47 6904
+#09 jfr ^slår om^
+#39 
+#12 omslaget omslag omslagen
+#14 2Åm:sla:g
+#98 11127
+#99 12319
+#54 
+#97 mini
+
+#01 omsorg
+#31 samasko kher
+#02 subst.
+#32 substantivo
+#04 vård och skötsel
+#11 barnomsorg
+#41 
+#51 4878
+#12 omsorgen
+#14 2Åm:sår:j
+#98 11128
+#99 12320
+#54 
+#97 mini
+
+#01 omsorg
+#31 
+#02 subst.
+#32 substantivo
+#04 noggrannhet
+#07 hon valde tyget med omsorg
+#37 
+#47 12486
+#12 omsorgen
+#14 2Åm:sår:j
+#98 11128
+#99 12321
+#54 
+#97 mini
+
+#01 omsorgs~full
+#31 
+#02 adj.
+#32 adjektivo
+#04 noggrann
+#07 en omsorgsfull översättning
+#37 
+#47 6905
+#12 -fullt -fulla
+#14 2Åm:sårjsful:
+#98 11129
+#99 12322
+#54 
+
+#01 omsorgs~nämnd
+#31 
+#02 subst.
+#32 substantivo
+#04 landstingets sociala nämnd som ska se till att de utvecklingsstörda får god service, vård och hjälp
+#12 -nämnden -nämnder
+#14 2Åm:sårjsnem:d
+#98 11130
+#99 12323
+#54 
+
+#01 omspel
+#31 nevo
+#02 subst.
+#32 substantivo
+#04 ny och avgörande match
+#12 omspelet omspel omspelen
+#14 2Åm:spe:l
+#98 11131
+#99 12324
+#54 
+
+#01 omstridd
+#31 nai vorta
+#02 adj.
+#32 adjektivo
+#04 som man är oenig om, kontroversiell
+#12 omstritt omstridda
+#14 2Åm:strid:
+#98 11132
+#99 12325
+#54 
+
+#01 omställning
+#31 paruvel
+#02 subst.
+#32 substantivo
+#04 anpassning, förändring
+#12 omställningen omställningar
+#14 2Åm:stel:ni@
+#98 11133
+#99 12326
+#54 
+
+#01 omständighet
+#31 
+#02 subst.
+#32 substantivo
+#04 förhållande, villkor
+#07 under alla omständigheter
+#37 
+#47 6906
+#07 förmildrande omständigheter
+#37 
+#47 6907
+#12 omständigheten omständigheter
+#14 2Åm:stendighe:t
+#98 11134
+#99 12327
+#54 
+
+#01 omständlig
+#31 pharimos
+#02 adj.
+#32 adjektivo
+#04 alltför utförlig, krånglig
+#07 en omständlig procedur
+#37 
+#47 6908
+#12 omständligt omständliga
+#14 2Åm:sten:dlig
+#98 11135
+#99 12328
+#54 
+
+#01 omstörtar
+#31 
+#02 verb
+#32 verbo
+#04 revolutionera
+#07 han hade, enligt polisen, ägnat sig åt omstörtande verksamhet
+#37 
+#47 6909
+#10 A & x
+#12 omstörtade omstörtat omstörta(!)
+#14 2Åm:stör+t:ar
+#98 11136
+#99 12329
+#54 
+
+#01 omsusad
+#31 e vorba žal
+#02 adj.
+#32 adjektivo
+#04 som det ryktas mycket om
+#11 skandalomsusad
+#41 
+#51 4879
+#12 omsusat omsusade
+#14 2Åm:su:sad
+#98 11137
+#99 12330
+#54 
+
+#01 omsvep
+#31 nai kanči
+#02 subst.
+#32 substantivo
+#08 utan omsvep ("direkt, utan förbehåll")
+#38 
+#48 1104
+#14 2Åm:sve:p
+#98 11138
+#99 12331
+#54 
+
+#01 omsvängning
+#31 sa parudime
+#02 subst.
+#32 substantivo
+#04 fullständig förändring
+#07 partiets omsvängning i kärnvapenfrågan
+#37 
+#47 6910
+#12 omsvängningen omsvängningar
+#14 2Åm:sve@:ni@
+#98 11139
+#99 12332
+#54 
+
+#01 omsvärmad
+#31 perdo manuš kamen les
+#02 adj.
+#32 adjektivo
+#04 uppvaktad av många beundrare
+#12 omsvärmat omsvärmade
+#14 2Åm:svär:mad
+#98 11140
+#99 12333
+#54 
+
+#01 omsätter
+#31 inkrel
+#02 verb
+#32 verbo
+#04 ha en omsättning av
+#07 företaget omsatte 10 miljoner under 1990
+#37 
+#47 6911
+#12 -satte -satt -sätt! -sätta
+#14 2Åm:set:er
+#98 11141
+#99 12334
+#54 
+
+#01 omsätter
+#31 
+#02 verb
+#32 verbo
+#04 överföra till ett nytt sammanhang
+#07 omsätta en teori i praktiken
+#37 
+#47 6912
+#10 A & x (i y)
+#14 om -satte -satt -sätt! -sätta
+#98 11141
+#99 12335
+#54 
+
+#01 omsättning
+#31 
+#02 subst.
+#32 substantivo
+#04 sammanlagt försäljningsvärde under en viss tid
+#07 företaget hade förra året en omsättning på 12 miljoner kronor
+#37 
+#47 6913
+#12 omsättningen
+#14 2Åm:set:ni@
+#98 11142
+#99 12336
+#54 
+
+#01 omtalad
+#31 vorbako
+#02 adj.
+#32 adjektivo
+#04 som man talar el. har talat mycket om, bekant
+#07 årets mest omtalade film
+#37 
+#47 6914
+#12 omtalat omtalade
+#14 2Åm:ta:lad
+#98 11143
+#99 12337
+#54 
+
+#01 omtalar
+#31 duma del
+#02 verb
+#32 verbo
+#04 tala om, berätta
+#10 A & att + SATS
+#12 omtalade omtalat omtala(!)
+#14 2Åm:ta:lar
+#15 även lös sms
+#45 
+#98 11144
+#99 12338
+#54 
+
+#01 omtanke
+#31 gindo
+#02 subst.
+#32 substantivo
+#04 hänsyn, omsorg
+#07 av omtanke om familjen beslöt han att inte ta några risker
+#37 
+#47 6915
+#12 omtanken
+#14 2Åm:ta@:ke
+#98 11145
+#99 12339
+#54 
+
+#01 omtumlad
+#31 daral, darako
+#02 adj.
+#32 adjektivo
+#04 omskakad av något som hänt
+#12 omtumlat omtumlade
+#14 2Åm:tum:lad
+#98 11146
+#99 12340
+#54 
+
+#01 omtvistad
+#31 
+#02 adj.
+#32 adjektivo
+#04 omstridd
+#07 det omtvistade området i västra Sahara
+#37 
+#47 6916
+#12 omtvistat omtvistade
+#14 2Åm:tvis:tad
+#98 11147
+#99 12341
+#54 
+
+#01 omtyckt
+#31 kamimasko
+#02 adj.
+#32 adjektivo
+#04 uppskattad, populär
+#09 jfr ^tycker om^
+#39 
+#12 omtyckt omtyckta
+#14 2Åm:tyk:t
+#98 11148
+#99 12342
+#54 
+
+#01 omtänksam	
+#31 sikavel gindo/lašo ilo
+#02 adj.
+#32 adjektivo
+#04 hänsynsfull, som visar omtanke
+#12 omtänksamt omtänksamma
+#14 2Åm:te@ksam:
+#98 11149
+#99 12343
+#54 
+
+#01 omtöcknad
+#31 zalil
+#02 adj.
+#32 adjektivo
+#04 halvt medvetslös
+#12 omtöcknat omtöcknade
+#14 2Åm:tök:nad
+#98 11150
+#99 12344
+#54 
+
+#01 omutlig
+#31 nai mitako
+#02 adj.
+#32 adjektivo
+#04 som inte kan mutas
+#05 allmänt "orubblig"
+#35 
+#12 omutligt omutliga
+#14 2O:mu:tlig
+#98 11151
+#99 12345
+#54 
+
+#01 omval
+#31 alosarimos
+#02 subst.
+#32 substantivo
+#04 återval
+#07 ställa upp för omval
+#37 
+#47 6917
+#12 omvalet omval omvalen
+#14 2Åm:va:l
+#98 11152
+#99 12346
+#54 
+
+#01 omvandlar
+#31 paruvel
+#02 verb
+#32 verbo
+#04 få att ändra form, förvandla
+#07 fängelsestraffet omvandlades till böter
+#37 
+#47 6918
+#07 vätskan omvandlas till gas
+#37 
+#47 6919
+#10 A & x till y
+#11 omvandling -en
+#41 
+#51 4880
+#12 omvandlade omvandlat omvandla(!)
+#14 2Åm:van:dlar
+#98 11153
+#99 12347
+#54 
+
+#01 omvittnad
+#31 
+#02 adj.
+#32 adjektivo
+#04 som många vet av erfarenhet
+#07 en omvittnat hederlig person
+#37 
+#47 6920
+#12 omvittnat omvittnade
+#14 2Åm:vit:nad
+#98 11154
+#99 12348
+#54 
+
+#01 omvårdnad
+#31 mai but inkerdo
+#02 subst.
+#32 substantivo
+#04 vård av någon under längre tid
+#12 omvårdnaden
+#14 2Åm:vå:r+dnad
+#98 11155
+#99 12349
+#54 
+
+#01 omväg
+#31 kaver drom
+#02 subst.
+#32 substantivo
+#04 väg som inte leder direkt till målet
+#07 gå (el. köra etc) en omväg
+#37 
+#47 6921
+#08 (höra något) på omvägar ("indirekt")
+#38 
+#48 1105
+#12 omvägen omvägar
+#14 2Åm:vä:g
+#98 11156
+#99 12350
+#54 
+#97 mini
+
+#01 omvälver
+#31 
+#02 verb
+#32 verbo
+#04 revolutionera
+#07 en omvälvande upplevelse
+#37 
+#47 6922
+#10 x & y
+#11 omvälvning
+#41 
+#51 4881
+#12 omvälvde omvälvt omvälva
+#14 2Åm:vel:ver
+#98 11157
+#99 12351
+#54 
+
+#01 omvänder sig
+#31 parujimos/parudjol
+#02 verb
+#32 verbo
+#04 övergå till ny tro el. lära
+#10 A & (till x)
+#11 omvändelse
+#41 
+#51 4882
+#12 omvände omvänt omvänd! omvända
+#14 2Åm:ven:der+sej
+#98 11158
+#99 12352
+#54 
+
+#01 omvänt
+#31 boldas
+#02 adv.
+#32 adverbo
+#04 tvärtom, åt andra hållet
+#14 2Åm:ven:t
+#98 11159
+#99 12353
+#54 
+
+#01 omvänt sned~streck
+#31 
+#02 subst.
+#32 substantivo
+#04 tecknet \
+#09 bild 33:65
+#39 
+#12 -strecket -streck
+#13 bak~streck
+#14 2Åm:ven:t 2snE:dstrek: el. 2ba:kstrek:
+#54 
+
+#01 omvärderar
+#31 
+#02 verb
+#32 verbo
+#04 värdera på nytt sätt
+#07 Sveriges roll under andra världskriget har omvärderats
+#37 
+#47 6923
+#10 A & B/x
+#11 omvärdering
+#41 
+#51 4883
+#12 omvärderade omvärderat omvärdera(!)
+#14 2Åm:vär+de:rar
+#98 11160
+#99 12354
+#54 
+
+#01 omvärld
+#31 nai ande luma
+#02 subst.
+#32 substantivo
+#04 världen omkring en; omgivning
+#07 isolera sig från omvärlden
+#37 
+#47 6924
+#12 omvärlden
+#14 2Åm:vä:r+d
+#98 11161
+#99 12355
+#54 
+
+#01 omväxlande
+#31 paruvel
+#02 adj.
+#32 adjektivo
+#04 varierande (på ett tilltalande sätt)
+#07 ett omväxlande arbete
+#37 
+#47 6925
+#14 2Åm:vek:slande
+#98 11162
+#99 12356
+#54 
+
+#01 omväxling
+#31 parujimos
+#02 subst.
+#32 substantivo
+#04 stimulerande förändring för en person
+#07 som omväxling
+#37 
+#47 6926
+#07 för omväxlings skull
+#37 
+#47 6927
+#12 omväxlingen omväxlingar
+#14 2Åm:vek:sli@
+#98 11163
+#99 12357
+#54 
+
+#01 omyndig
+#31 terno
+#02 adj.
+#32 adjektivo
+#04 (om person) som inte fyllt 18 år, inte myndig
+#11 omyndig(hets)~förklaring -en
+#41 
+#51 4884
+#12 omyndigt omyndiga
+#14 2O:myn:dig
+#98 11164
+#99 12358
+#54 
+
+#01 omåttlig
+#31 fanteseril
+#02 adj.
+#32 adjektivo
+#04 överdriven
+#08 omåttligt (populär) ("mycket (populär)")
+#38 
+#48 1106
+#12 omåttligt omåttliga
+#14 2O:måt:lig
+#98 11165
+#99 12359
+#54 
+
+#01 omänsklig
+#31 nai manuš
+#02 adj.
+#32 adjektivo
+#04 inte mänsklig, grym
+#07 ett omänskligt samhälle
+#37 
+#47 6928
+#12 omänskligt omänskliga
+#14 2O:men:sklig
+#98 11166
+#99 12360
+#54 
+
+#01 omärklig
+#31 či dikhel
+#02 adj.
+#32 adjektivo
+#04 som man inte märker
+#12 omärkligt omärkliga
+#14 2O:mär:klig
+#98 11167
+#99 12361
+#54 
+
+#01 omättlig
+#31 či čajlol
+#02 adj.
+#32 adjektivo
+#04 som aldrig blir mätt el. tillfredsställd
+#12 omättligt omättliga
+#14 2O:met:lig
+#98 11168
+#99 12362
+#54 
+
+#01 omöblerad
+#31 
+#02 adj.
+#32 adjektivo
+#04 inte möblerad
+#07 en omöblerad lägenhet
+#37 
+#47 6929
+#12 omöblerat omöblerade
+#14 2O:möble:rad
+#98 11169
+#99 12363
+#54 
+
+#01 omöjlig
+#31 nai pačamasko, či žalpe
+#02 adj.
+#32 adjektivo
+#04 inte möjlig, otänkbar
+#05 allmänt "mycket svår"
+#35 
+#07 det är nästan omöjligt att hitta en parkeringsplats
+#37 
+#47 6930
+#07 en omöjlig situation
+#37 jekh bi pačamasko situatsia
+#47 6931
+#11 omöjlighet -en
+#41 
+#51 4885
+#12 omöjligt omöjliga
+#14 2O:möj:lig
+#98 11170
+#99 12364
+#54 
+#97 mini
+
+#01 omöjliggör
+#31 naštil
+#02 verb
+#32 verbo
+#04 göra omöjlig
+#07 bristen på pengar omöjliggör en utbyggnad av barnomsorgen
+#37 
+#47 6932
+#10 x & y
+#12 omöjliggjorde omöjliggjort omöjliggöra
+#14 2O:möjligjö:r
+#98 11171
+#99 12365
+#54 
+
+#01 onanerar
+#31 
+#02 verb
+#32 verbo
+#04 reta könsorganen på sig själv (för att känna njutning)
+#10 A &
+#12 onanerade onanerat onanera(!)
+#14 onanE:rar
+#98 11172
+#99 12366
+#54 
+#97 mini
+
+#01 onani
+#31 
+#02 subst.
+#32 substantivo
+#04 det att onanera
+#12 onani(e)n
+#14 onanI:
+#98 11173
+#99 12367
+#54 
+
+#01 onaturlig
+#31 nai naturalno
+#02 adj.
+#32 adjektivo
+#04 inte naturlig
+#12 onaturligt onaturliga
+#14 2O:natu:r+lig
+#98 11174
+#99 12368
+#54 
+
+#01 ond
+#31 nasul
+#02 adj.
+#32 adjektivo
+#04 förargad, ilsken
+#05 vardagligt
+#35 
+#07 jag är inte ond på dig längre!
+#37 
+#47 6933
+#10 & (på B)
+#12 ont onda
+#14 on:d
+#98 11175
+#99 12369
+#54 
+#97 mini
+
+#01 ond
+#31 vuruto/nasul
+#02 adj.
+#32 adjektivo
+#04 elak
+#05 även om något negativt i allmänhet
+#35 
+#07 en ond människa
+#37 
+#47 6934
+#08 en ond cirkel ("en negativ utveckling som inte kan brytas")
+#38 
+#48 1107
+#08 en ond dröm ("en mardröm")
+#38 
+#48 1108
+#08 inte ett ont ("ofördelaktigt") ord om henne
+#38 
+#48 1109
+#08 på gott och ont ("med både goda och dåliga sidor")
+#38 
+#48 1110
+#08 ta det onda med det goda ("acceptera något som är mindre bra därför att det ändå medför fördelar")
+#38 
+#48 1111
+#09 motsats ^god^
+#39 
+#12 ont onda
+#14 on:d
+#98 11175
+#99 12370
+#54 
+#97 mini
+
+#01 ond
+#31 dukh
+#02 adj.
+#32 adjektivo
+#04 som ger smärta, öm, värkande
+#07 en ond tå
+#37 
+#47 6935
+#08 aj, det gör ont! ("det smärtar!")
+#38 
+#48 1112
+#08 ha ont i magen ("ha magsmärtor")
+#38 
+#48 1113
+#08 det gör mig ont om henne ("jag tycker synd om henne")
+#38 
+#48 1114
+#12 ont onda
+#14 on:d
+#98 11175
+#99 12371
+#54 
+#97 mini
+
+#01 ondgör sig
+#31 xoljarel
+#02 verb
+#32 verbo
+#04 förarga sig över, klaga på
+#07 hon ondgjorde sig över de höga matpriserna
+#37 
+#47 6936
+#10 A & över x
+#12 ondgjorde ondgjort ondgör! ondgöra
+#14 2On:djö:r+sej
+#98 11176
+#99 12372
+#54 
+
+#01 ondo
+#31 
+#02 subst.
+#32 substantivo
+#08 (vara) av ondo ("förkastlig")
+#38 
+#48 1115
+#14 2On:do
+#98 11177
+#99 12373
+#54 
+
+#01 ondsint
+#31 vuruto/čoro/nasul
+#02 adj.
+#32 adjektivo
+#04 ond, elak
+#12 ondsint ondsinta
+#14 2On:dsin:t
+#98 11178
+#99 12374
+#54 
+
+#01 ondska
+#31 armaja del
+#02 subst.
+#32 substantivo
+#04 önskan att orsaka andra lidande
+#11 ondske~full
+#41 
+#51 4886
+#12 ondskan
+#14 2On:dska
+#98 11179
+#99 12375
+#54 
+
+#01 onekligen
+#31 
+#02 adv.
+#32 adverbo
+#04 utan tvivel
+#14 2O:ne:kligen
+#98 11180
+#99 12376
+#54 
+
+#01 onormal
+#31 nai normalno
+#02 adj.
+#32 adjektivo
+#04 inte normal, osedvanlig
+#12 onormalt onormala
+#14 2O:nårma:l
+#98 11181
+#99 12377
+#54 
+
+#01 onsdag
+#31 tetradjine
+#02 subst.
+#32 substantivo
+#04 veckans tredje dag
+#09 bild 30:61
+#39 
+#12 onsdagen onsdagar
+#14 On:sda(:g)
+#98 11182
+#99 12378
+#54 
+#97 mini
+
+#01 ont
+#31 dukh
+#02 adj.
+#32 adjektivo
+#08 ha ont om ("knappt med") (pengar)
+#38 
+#48 1116
+#08 det är ont om jobb ("det finns inte många jobb")
+#38 
+#48 1117
+#14 on:t
+#98 11183
+#99 12379
+#54 
+#97 mini
+
+#01 onumrerad
+#31 nai numero
+#02 adj.
+#32 adjektivo
+#04 som inte har nummer
+#07 onumrerade platser
+#37 
+#47 6937
+#12 onumrerat onumrerade
+#14 2O:numre:rad
+#98 11184
+#99 12380
+#54 
+
+#01 onykter
+#31 nai trazo, mato
+#02 adj.
+#32 adjektivo
+#04 inte nykter, berusad
+#12 onyktert onyktra
+#14 2O:nyk:ter
+#98 11185
+#99 12381
+#54 
+
+#01 onyttig
+#31 khančesko
+#02 adj.
+#32 adjektivo
+#04 inte nyttig, värdelös
+#07 känna sig onyttig
+#37 
+#47 6938
+#12 onyttigt onyttiga
+#14 2O:nyt:ig
+#98 11186
+#99 12382
+#54 
+
+#01 onåd
+#31 
+#02 subst.
+#32 substantivo
+#08 falla i onåd ("mista sin ställning")
+#38 
+#48 1118
+#14 2O:nå:d
+#98 11187
+#99 12383
+#54 
+
+#01 onödan
+#31 intajne
+#02 subst.
+#32 substantivo
+#08 i onödan ("utan att det är nödvändigt")
+#38 
+#48 1119
+#14 2O:nö:dan
+#98 11188
+#99 12384
+#54 
+
+#01 onödig
+#31 či trubol, bi goresko
+#02 adj.
+#32 adjektivo
+#04 som inte behövs, inte nödvändig
+#07 onödiga detaljer
+#37 
+#47 6939
+#07 det är onödigt att ta sådana risker
+#37 
+#47 6940
+#12 onödigt onödiga
+#14 2O:nö:dig
+#98 11189
+#99 12385
+#54 
+#97 mini
+
+#01 oomtvistlig
+#31 
+#02 adj.
+#32 adjektivo
+#04 obestridlig, säker
+#12 oomtvistligt oomtvistliga
+#14 2O:åmtvis:tlig
+#98 11190
+#99 12386
+#54 
+
+#01 oordning
+#31 mel
+#02 subst.
+#32 substantivo
+#04 brist på ordning, oreda
+#07 komma i oordning
+#37 
+#47 6941
+#12 oordningen
+#14 2O:å:r+dni@
+#98 11191
+#99 12387
+#54 
+
+#01 oorganiserad
+#31 nai organiserad
+#02 adj.
+#32 adjektivo
+#04 inte organiserad
+#05 om person även "inte med i fackförening"
+#35 
+#12 oorganiserat oorganiserade
+#14 2O:årganise:rad
+#98 11192
+#99 12388
+#54 
+
+#01 opartisk
+#31 či lel partia
+#02 adj.
+#32 adjektivo
+#04 inte partisk, objektiv
+#12 opartiskt opartiska
+#14 2O:pa:r+tisk
+#98 11193
+#99 12389
+#54 
+
+#01 opassande
+#31 nai vorta
+#02 adj.
+#32 adjektivo
+#04 olämplig
+#05 i etikettsregler etc
+#35 
+#07 en opassande munterhet
+#37 
+#47 6942
+#14 2O:pas:ande
+#98 11194
+#99 12390
+#54 
+
+#01 opasslig
+#31 nasvalo
+#02 adj.
+#32 adjektivo
+#04 inte riktigt frisk
+#12 opassligt opassliga
+#14 2O:pas:lig
+#98 11195
+#99 12391
+#54 
+
+#01 opera
+#31 opera
+#02 subst.
+#32 substantivo
+#04 musikalisk teater
+#05 både konstverk och byggnad
+#35 
+#07 gå på operan
+#37 
+#47 6943
+#09 bild 19:38
+#39 
+#11 opera~hus -et
+#41 
+#51 4887
+#12 operan operor
+#14 (2)O:pera
+#98 11196
+#99 12392
+#54 
+#97 mini
+
+#01 operation
+#31 operacia
+#02 subst.
+#32 substantivo
+#04 (komplicerad) procedur för att nå ett visst resultat
+#11 räkneoperation
+#41 
+#51 4888
+#12 operationen operationer
+#14 opera$O:n
+#98 11197
+#99 12393
+#54 
+#97 mini
+
+#01 operation
+#31 operaciono
+#02 subst.
+#32 substantivo
+#04 kirurgiskt ingrepp (av läkare)
+#09 bild 4:9
+#39 
+#11 blindtarmsoperation
+#41 
+#51 4889
+#11 operations~bord -et
+#41 
+#51 4890
+#12 operationen operationer
+#14 opera$O:n
+#98 11197
+#99 12394
+#54 
+#97 mini
+
+#01 operation
+#31 marimos
+#02 subst.
+#32 substantivo
+#04 krigsföretag, trupprörelse
+#05 bildligt även om fredliga insatser
+#35 
+#07 militär operation
+#37 
+#47 6944
+#07 operation dörrknackning
+#37 
+#47 6945
+#12 operationen operationer
+#14 opera$O:n
+#98 11197
+#99 12395
+#54 
+#97 mini
+
+#01 operatör
+#31 
+#02 subst.
+#32 substantivo
+#04 person som övervakar och styr en process
+#11 dataoperatör
+#41 
+#51 4891
+#12 operatören operatörer
+#14 operatÖ:r
+#98 11198
+#99 12396
+#54 
+
+#01 opererar
+#31 operil
+#02 verb
+#32 verbo
+#04 utföra en medicinsk operation
+#07 hon ska opereras för blindtarmen i morgon
+#37 
+#47 6946
+#09 jfr ^operation^ 2
+#39 
+#10 A & B (för x)
+#12 opererade opererat operera(!)
+#14 operE:rar
+#98 11199
+#99 12397
+#54 
+#97 mini
+
+#01 opererar
+#31 operil
+#02 verb
+#32 verbo
+#04 utföra en militär operation
+#05 även allmänt "verka"
+#35 
+#07 fienden opererade från luften
+#37 
+#47 12488
+#09 jfr ^operation^ 3
+#39 
+#10 A & + PLATS
+#12 opererade opererat operera(!)
+#14 operE:rar
+#98 11199
+#99 12398
+#54 
+#97 mini
+
+#01 operett
+#31 opera
+#02 subst.
+#32 substantivo
+#04 lättare opera
+#12 operetten operetter
+#14 operEt:
+#98 11200
+#99 12399
+#54 
+
+#01 opersonlig
+#31 nai les ilo
+#02 adj.
+#32 adjektivo
+#04 som inte visar känslor, stel, formell
+#07 ett opersonligt brev
+#37 jekh bi ilesko lil
+#47 6947
+#12 opersonligt opersonliga
+#14 2O:per+so:nlig
+#98 11201
+#99 12400
+#54 
+
+#01 opinion
+#31 gindo
+#02 subst.
+#32 substantivo
+#04 åsikt som delas av många människor, allmän mening
+#07 skapa opinion för en fråga
+#37 
+#47 6948
+#07 bokens åsikter speglar den allmänna opinionen
+#37 
+#47 6949
+#11 folkopinion
+#41 
+#51 4892
+#11 opinions~bildning -en
+#41 
+#51 4893
+#11 opinions~undersökning -en
+#41 
+#51 4894
+#12 opinionen opinioner
+#14 åpiniO:n
+#98 11202
+#99 12401
+#54 
+
+#01 opium
+#31 
+#02 subst.
+#32 substantivo
+#04 ett lugnande och vanebildande läkemedel
+#11 opium~missbruk -et
+#41 
+#51 4895
+#12 opiet (el. opiumet)
+#14 O:pium
+#98 11203
+#99 12402
+#54 
+
+#01 opp
+#31 
+#02 se upp
+#32 
+#14 åp:
+#98 11204
+#99 12403
+#54 
+#97 mini
+
+#01 oppe
+#31 
+#02 se uppe
+#32 
+#14 2Åp:e
+#98 11205
+#99 12404
+#54 
+#97 mini
+
+#01 opponent
+#31 čoro
+#02 subst.
+#32 substantivo
+#04 motståndare, kritiker
+#12 opponenten opponenter
+#14 åponEn:t
+#98 11206
+#99 12405
+#54 
+
+#01 opponent
+#31 
+#02 subst.
+#32 substantivo
+#04 kritiker av doktorsavhandling vid disputation
+#12 opponenten opponenter
+#14 åponEn:t
+#98 11206
+#99 12406
+#54 
+
+#01 opponerar sig
+#31 kontril
+#02 verb
+#32 verbo
+#04 göra invändningar, säga emot, sätta sig emot
+#07 det var ingen som opponerade sig när förslaget presenterades
+#37 
+#47 6950
+#10 A & (mot x/att +SATS)
+#12 opponerade opponerat opponera(!)
+#14 åponE:rar+sej
+#98 11207
+#99 12407
+#54 
+
+#01 opportun
+#31 vortako, šukar
+#02 adj.
+#32 adjektivo
+#04 läglig, passande
+#12 opportunt opportuna
+#14 åpor+tU:n
+#98 11208
+#99 12408
+#54 
+
+#01 opportunist
+#31 
+#02 subst.
+#32 substantivo
+#04 person som alltför lätt anpassar sig efter gällande omständigheter
+#11 opportunism
+#41 
+#51 4896
+#12 opportunisten opportunister
+#14 åpor+tunIs:t
+#98 11209
+#99 12409
+#54 
+
+#01 opposition
+#31 
+#02 subst.
+#32 substantivo
+#04 starkt motstånd på grund av avvikande mening
+#05 särskilt om politisk grupp som inte är i regeringsställning
+#35 
+#07 stå i opposition mot den officiella kyrkan
+#37 
+#47 6951
+#07 politiker inom oppositionen
+#37 
+#47 6952
+#11 oppositions~ledare -n
+#41 
+#51 4897
+#11 oppositions~parti -et
+#41 
+#51 4898
+#12 oppositionen oppositioner
+#14 åposi$O:n
+#98 11210
+#99 12410
+#54 
+#97 mini
+
+#01 opraktisk
+#31 
+#02 adj.
+#32 adjektivo
+#04 inte ändamålsenlig
+#05 om person "oskicklig med händerna"
+#35 
+#07 jag tycker det är opraktiskt att äta ris med pinnar
+#37 
+#47 6953
+#12 opraktiskt opraktiska
+#14 2O:prak:tisk
+#98 11211
+#99 12411
+#54 
+
+#01 optik
+#31 vediara
+#02 subst.
+#32 substantivo
+#04 läran om ljuset
+#12 optiken
+#14 åptI:k
+#98 11212
+#99 12412
+#54 
+
+#01 optiker
+#31 jaškiengo bičinitori, jaškiengo balamo
+#02 subst.
+#32 substantivo
+#04 person som säljer och provar ut glasögon
+#12 optikern optiker optikerna
+#14 Åp:tiker
+#98 11213
+#99 12413
+#54 
+#97 mini
+
+#01 optimerar
+#31 vortarel
+#02 verb
+#32 verbo
+#04 få att fungera så bra som möjligt
+#10 A & x
+#12 optimerade optimerat optimera(!)
+#14 åptimE:rar
+#98 11214
+#99 12414
+#54 
+
+#01 optimism
+#31 positivno, radujime
+#02 subst.
+#32 substantivo
+#04 tron att allt ska gå väl, ljus syn på livet
+#09 motsats ^pessimism^
+#39 
+#12 optimismen
+#14 åptimIs:m
+#98 11215
+#99 12415
+#54 
+
+#01 optimist
+#31 radujime, pačamako
+#02 subst.
+#32 substantivo
+#04 person som är optimistisk
+#09 motsats ^pessimist^
+#39 
+#12 optimisten optimister
+#14 åptimIs:t
+#98 11216
+#99 12416
+#54 
+#97 mini
+
+#01 optimistisk
+#31 perdo pačamos
+#02 adj.
+#32 adjektivo
+#04 som präglas av optimism, hoppfull
+#09 motsats ^pessimistisk^
+#39 
+#11 överoptimistisk
+#41 
+#51 4899
+#12 optimistiskt optimistiska
+#14 åptimIs:tisk
+#98 11217
+#99 12417
+#54 
+
+#01 option
+#31 alosaripe
+#02 subst.
+#32 substantivo
+#04 företräde att välja el. köpa något
+#12 optionen optioner
+#14 åp$O:n
+#98 11218
+#99 12418
+#54 
+
+#01 option
+#31 tsedula, cedula
+#02 subst.
+#32 substantivo
+#04 ett slags värdepapper
+#12 optionen optioner
+#14 åp$O:n
+#98 11218
+#99 12419
+#54 
+
+#01 optisk
+#31 vediarako
+#02 adj.
+#32 adjektivo
+#04 som gäller ljuset och seendet
+#12 optiskt optiska
+#14 Åp:tisk
+#98 11219
+#99 12420
+#54 
+
+#01 opålitlig
+#31 nai pačasko, bi pačamasko
+#02 adj.
+#32 adjektivo
+#04 inte att lita på
+#07 vädret är opålitligt
+#37 e vriama nai pačamaki
+#47 6954
+#12 opålitligt opålitliga
+#14 2O:på:li:tlig
+#98 11220
+#99 12421
+#54 
+
+#01 orakel
+#31 but žanglo
+#02 subst.
+#32 substantivo
+#04 allvetande person
+#12 oraklet orakel oraklen (el. orakler oraklerna)
+#14 orA:kel
+#98 11221
+#99 12422
+#54 
+
+#01 orange
+#31 lolo galbeno
+#02 adj.
+#32 adjektivo
+#04 blandning av gul och röd, gulaktigt röd
+#09 bild 20:41
+#39 
+#14 orAn:$
+#98 11222
+#99 12423
+#54 
+#97 mini
+
+#01 ord
+#31 vorba
+#02 subst.
+#32 substantivo
+#04 minsta självständiga språkliga enhet
+#07 säg inte ett ord till någon!
+#37 na phen či jekh vorba varekake!
+#47 6955
+#07 fula ord
+#37 žungale vorbi
+#47 6956
+#08 med andra ord ("annorlunda uttryckt")
+#38 kavre vorbensa
+#48 1120
+#08 ha ord om sig ("vara känd för") att vara snål
+#38 prinžardo
+#48 1121
+#08 ord för ord ("ordagrant")
+#38 vorba pe vorba
+#48 1122
+#08 ta någon på orden ("tro på vad någon säger")
+#38 lel varekas pe vorbi
+#48 1123
+#08 ha sista ordet ("vara den som bestämmer")
+#38 porončitori
+#48 1124
+#08 begära el. ha ordet ("vilja hålla el. hålla ett anförande")
+#38 mangel e vorba
+#48 1125
+#08 ordet är fritt ("vem som helst får yttra sig")
+#38 puterdi vorba
+#48 1126
+#08 ta till orda ("börja tala")
+#38 lel e vorba, astarel o divano
+#48 1127
+#08 hålla sitt ord ("hålla vad man lovat")
+#38 inkerel peski vorba
+#48 1128
+#08 innan man vet ordet av ("mycket snabbt")
+#38 
+#48 1129
+#11 glåpord
+#41 
+#51 4900
+#11 ord~följd -en
+#41 
+#51 4901
+#11 ord~lista -n
+#41 vorbengi ram
+#51 4902
+#12 ordet ord orden
+#14 o:r+d
+#98 11223
+#99 12424
+#54 
+#97 mini
+
+#01 ord
+#31 vorba
+#02 subst.
+#32 substantivo
+#04 yttrande
+#07 Guds ord
+#37 Devleski vorba
+#47 6957
+#11 slagord
+#41 
+#51 4903
+#12 ordet ord orden
+#14 o:r+d
+#98 11223
+#99 12425
+#54 
+#97 mini
+
+#01 orda~grann
+#31 vorbako
+#02 adj.
+#32 adjektivo
+#04 exakt (som det står i texten); ord för ord
+#07 en ordagrann översättning
+#37 jekh vorta vorbengo boldinimos
+#47 6958
+#12 -grant -granna
+#14 2O:r+dagran:
+#98 11224
+#99 12426
+#54 
+
+#01 orda~lag
+#31 vorbensa
+#02 subst.
+#32 substantivo
+#04 uttryck, formuleringar
+#07 i försiktiga ordalag
+#37 
+#47 6959
+#12 -lagen
+#14 2O:r+dala:g
+#15 plural
+#45 
+#98 11225
+#99 12427
+#54 
+
+#01 ordar
+#31 vorbil, del duma
+#02 verb
+#32 verbo
+#04 tala (mycket)
+#07 det är inte mycket att orda om
+#37 nai but tel vorbil o manuš
+#47 6960
+#10 A & (om x)
+#12 ordade ordat orda(!)
+#14 2O:r+dar
+#15 i vissa fraser
+#45 
+#98 11226
+#99 12428
+#54 
+
+#01 ord~behandlare
+#31 vorbengo programo
+#02 subst.
+#32 substantivo
+#04 datorprogram för textbehandling
+#12 -behandlar(e)n -behandlare -behandlarna
+#14 2O:r+dbehan:dlare
+#98 11227
+#99 12429
+#54 
+
+#01 ord~behandling
+#31 vorbako programo
+#02 subst.
+#32 substantivo
+#04 texthantering i en dator
+#12 -behandlingen
+#14 2O:r+dbehan:dli@
+#98 11228
+#99 12430
+#54 
+
+#01 ord~blind
+#31 vorbengo korimos
+#02 adj.
+#32 adjektivo
+#04 som har läs- och skrivsvårigheter
+#11 ordblindhet
+#41 
+#51 4904
+#12 -blint -blinda
+#14 2O:r+dbli:nd
+#98 11229
+#99 12431
+#54 
+
+#01 ord~bok
+#31 vorbengi kniška, lexikono
+#02 subst.
+#32 substantivo
+#04 bok som innehåller orden i ett språk och förklaringar på samma språk
+#09 jfr ^lexikon^
+#39 
+#11 fackordbok
+#41 
+#51 4905
+#11 ordboks~författare -n
+#41 lexikonosko ramosaritori
+#51 4906
+#12 -boken -böcker
+#14 2O:r+dbo:k
+#98 11230
+#99 12432
+#54 
+
+#01 orden
+#31 
+#02 subst.
+#32 substantivo
+#04 (hemlig) sammanslutning
+#11 munkorden
+#41 
+#51 4907
+#12 orden ordnar
+#14 Å:r+den
+#98 11231
+#99 12433
+#54 
+
+#01 orden
+#31 vorbi
+#02 subst.
+#32 substantivo
+#04 officiell utmärkelse
+#12 orden ordnar
+#14 Å:r+den
+#98 11231
+#99 12434
+#54 
+
+#01 ordentlig
+#31 ordinako
+#02 adj.
+#32 adjektivo
+#04 noggrann, ordningsam
+#05 om person; även allmänt förstärkande "rejäl"
+#35 
+#07 mycket ordentliga elever
+#37 but ordinake studenti
+#47 6961
+#07 skaffa sig en ordentlig utbildning
+#37 
+#47 6962
+#12 ordentligt ordentliga
+#14 år+dEn:tlig
+#98 11232
+#99 12435
+#54 
+#97 mini
+
+#01 order
+#31 ordinaki vorba
+#02 subst.
+#32 substantivo
+#04 uppmaning (som man måste lyda), befallning
+#07 lyda order
+#37 gandel o muj
+#47 6963
+#07 man fick order om att släppa fången
+#37 ordina line te mukhen le phangles
+#47 6964
+#10 & om x/att + INF
+#11 inkallelseorder
+#41 
+#51 4908
+#12 ordern order orderna
+#14 Å:r+der
+#98 11233
+#99 12436
+#54 
+
+#01 order
+#31 mangel, činel
+#02 subst.
+#32 substantivo
+#04 beställning (av en vara)
+#11 köporder
+#41 
+#51 4909
+#11 order~ingång -en
+#41 
+#51 4910
+#12 ordern order orderna
+#14 Å:r+der
+#98 11233
+#99 12437
+#54 
+
+#01 ord~följd
+#31 
+#02 subst.
+#32 substantivo
+#04 satsdelarnas ordning i en sats
+#12 -följden -följder
+#14 2O:r+dföl:jd
+#98 11234
+#99 12438
+#54 
+
+#01 ord~förande
+#31 šerutno, presidento, raj, direktoro 
+#02 subst.
+#32 substantivo
+#04 talesman för en organisation; person som leder ett sammanträde
+#05 ej som titel
+#35 
+#07 ordförande i byggnadsnämnden
+#37 
+#47 6965
+#07 herr ordförande!
+#37 
+#47 6966
+#12 -föranden -förande -förandena
+#14 2O:r+dfö:rande
+#98 11235
+#99 12439
+#54 
+#97 mini
+
+#01 ord~förråd
+#31 vorbengo than, vorbengi godji
+#02 subst.
+#32 substantivo
+#04 alla ord som finns i ett språk; alla ord som behärskas av en person
+#12 -förrådet -förråd -förråden
+#14 2O:r+dförå:d
+#98 11236
+#99 12440
+#54 
+
+#01 ordinarie
+#31 buči intrego vriama
+#02 adj.
+#32 adjektivo
+#04 fast (anställd); vanlig, normal
+#07 ordinarie tjänst
+#37 
+#47 6967
+#07 ordinarie medlem
+#37 
+#47 6968
+#07 ordinarie pris
+#37 
+#47 6969
+#14 år+dinA:rie
+#98 11237
+#99 12441
+#54 
+#97 mini
+
+#01 ordination
+#31 recepta
+#02 subst.
+#32 substantivo
+#04 föreskrift av läkare, recept
+#11 läkarordination
+#41 
+#51 4911
+#12 ordinationen ordinationer
+#14 år+dina$O:n
+#98 11238
+#99 12442
+#54 
+
+#01 ordinerar
+#31 ordinil
+#02 verb
+#32 verbo
+#04 ge ordination, föreslå som botemedel
+#07 läkaren ordinerade fullständig vila
+#37 
+#47 6970
+#10 A & x
+#12 ordinerade ordinerat ordinera(!)
+#14 år+dinE:rar
+#98 11239
+#99 12443
+#54 
+
+#01 ordinär
+#31 normalno
+#02 adj.
+#32 adjektivo
+#04 vanlig, normal
+#12 ordinärt ordinära
+#14 år+dinÄ:r
+#98 11240
+#99 12444
+#54 
+
+#01 ord~klass
+#31 
+#02 subst.
+#32 substantivo
+#04 grupp av ord med liknande grammatiska egenskaper
+#12 -klassen -klasser
+#14 2O:r+dklas:
+#98 11241
+#99 12445
+#54 
+
+#01 ord~knapp
+#31 bi vorbengo
+#02 adj.
+#32 adjektivo
+#04 som använder få ord, fåordig
+#12 -knappt -knappa
+#14 2O:r+dknap:
+#98 11242
+#99 12446
+#54 
+
+#01 ord~lek
+#31 cigne vorbi
+#02 subst.
+#32 substantivo
+#04 lek med ordens form, ordvits
+#12 -leken -lekar
+#14 2O:r+dle:k
+#98 11243
+#99 12447
+#54 
+
+#01 ordnad
+#31 vortome
+#02 adj.
+#32 adjektivo
+#04 som uppfyller den sociala normen
+#07 ordnad ekonomi
+#37 vortome ekonomia
+#47 6971
+#07 under ordnade former
+#37 
+#47 6972
+#12 ordnat ordnade
+#14 2Å:r+dnad
+#98 11244
+#99 12448
+#54 
+
+#01 ordnar
+#31 lašarel, kerel ,vortol
+#02 verb
+#32 verbo
+#04 göra i ordning, arrangera
+#07 ordna en resa
+#37 
+#47 6973
+#07 det ordnar sig nog
+#37 vortolape
+#47 6974
+#10 A & x/så att+SATS; det & sig
+#12 ordnade ordnat ordna(!)
+#14 2Å:r+dnar
+#98 11245
+#99 12449
+#54 
+#97 mini
+
+#01 ordning
+#31 lašarel
+#02 subst.
+#32 substantivo
+#04 naturligt el. skapat system
+#07 enligt naturens ordning
+#37 
+#47 6975
+#11 dagordning
+#41 
+#51 4912
+#11 samhällsordning
+#41 
+#51 4913
+#12 ordningen ordningar
+#14 2Å:r+dni@
+#98 11246
+#99 12450
+#54 
+#97 mini
+
+#01 ordning
+#31 pe thaneste, ordina
+#02 subst.
+#32 substantivo
+#04 tillstånd då föreskrifter följs el. då allt är på rätt plats; reda
+#07 lag och ordning
+#37 
+#47 6976
+#07 hålla ordning på sina saker
+#37 inkerel thaneste
+#47 6977
+#07 göra i ordning
+#37 kerel ordina
+#47 6978
+#08 det är helt i sin ordning ("det är som det skall vara")
+#38 sa pe pesko than
+#48 1130
+#11 o~ordning
+#41 
+#51 4914
+#11 ordnings~polis -en
+#41 ordinako rajbaro
+#51 4915
+#11 ordnings~stadga -n
+#41 
+#51 4916
+#12 ordningen ordningar
+#14 2Å:r+dni@
+#98 11246
+#99 12451
+#54 
+#97 mini
+
+#01 ordning
+#31 normalno
+#02 subst.
+#32 substantivo
+#04 normal följd, tur(ordning)
+#07 nummer sju i ordningen
+#37 
+#47 6979
+#07 i tur och ordning
+#37 
+#47 6980
+#07 i demokratisk ordning
+#37 
+#47 6981
+#11 rangordning
+#41 
+#51 4917
+#11 storleksordning
+#41 
+#51 4918
+#11 ordnings~följd -en
+#41 
+#51 4919
+#12 ordningen ordningar
+#14 2Å:r+dni@
+#98 11246
+#99 12452
+#54 
+#97 mini
+
+#01 ordnings~vakt
+#31 
+#02 subst.
+#32 substantivo
+#04 person som ska se till att det inte uppstår bråk (på ställen där folk samlas)
+#12 -vakten -vakter
+#14 2Å:r+dni@svak:t
+#98 11248
+#99 12454
+#54 
+
+#01 ord~språk
+#31 purane vorbi, proverbo
+#02 subst.
+#32 substantivo
+#04 gammalt talesätt; tänkespråk
+#12 -språket -språk -språken
+#14 2O:r+dsprå:k
+#98 11249
+#99 12455
+#54 
+#97 mini
+
+#01 ord~stäv
+#31 vorbi phirasenge
+#02 subst.
+#32 substantivo
+#04 skämtsamt (folkligt) ordspråk
+#12 -stävet -stäv -stäven
+#14 2O:r+dstä:v
+#98 11250
+#99 12456
+#54 
+
+#01 ord~val
+#31 vorba phenimaske
+#02 subst.
+#32 substantivo
+#04 sätt att uttrycka sig
+#12 -valet
+#14 2O:r+dva:l
+#98 11251
+#99 12457
+#54 
+
+#01 orealistisk
+#31 bi čačo
+#02 adj.
+#32 adjektivo
+#04 inte realistisk
+#07 orealistiska förslag
+#37 
+#47 6982
+#12 orealistiskt orealistiska
+#14 2O:realis:tisk
+#98 11252
+#99 12458
+#54 
+
+#01 oreda
+#31 bi lašes, bi ordinako
+#02 subst.
+#32 substantivo
+#04 oordning, röra
+#07 ställa till oreda
+#37 rumol
+#47 6983
+#12 oredan
+#14 2O:re:da
+#98 11253
+#99 12459
+#54 
+
+#01 oredig
+#31 nai gata
+#02 adj.
+#32 adjektivo
+#04 oklar, virrig
+#12 oredigt orediga
+#14 2O:re:dig
+#98 11254
+#99 12460
+#54 
+
+#01 oregelbunden
+#31 nai petčata
+#02 adj.
+#32 adjektivo
+#04 inte regelbunden, växlande
+#07 arbeta på oregelbundna tider
+#37 
+#47 6984
+#12 oregelbundet oregelbundna
+#14 2O:re:gelbun:den
+#98 11255
+#99 12461
+#54 
+
+#01 oregerlig
+#31 nai lašo
+#02 adj.
+#32 adjektivo
+#04 svår att styra, bråkig
+#12 oregerligt oregerliga
+#14 2O:reje:r+lig
+#98 11256
+#99 12462
+#54 
+
+#01 oresonlig
+#31 
+#02 adj.
+#32 adjektivo
+#04 omedgörlig
+#12 oresonligt oresonliga
+#14 2O:reso:nlig
+#98 11257
+#99 12463
+#54 
+
+#01 organ
+#31 ande manušesko stato
+#02 subst.
+#32 substantivo
+#04 kroppsdel el. växtdel som tjänar ett speciellt syfte
+#07 inre organ
+#37 
+#47 6985
+#07 livsviktiga organ
+#37 
+#47 6986
+#11 matsmältningsorgan
+#41 
+#51 4920
+#11 talorgan
+#41 
+#51 4921
+#12 organet organ organen
+#14 årgA:n
+#98 11258
+#99 12464
+#54 
+
+#01 organ
+#31 organo
+#02 subst.
+#32 substantivo
+#04 (offentlig) institution med särskilda uppgifter
+#05 även om tidning
+#35 
+#07 fackliga organ
+#37 
+#47 6987
+#07 internationella organ
+#37 
+#47 6988
+#12 organet organ organen
+#14 årgA:n
+#98 11258
+#99 12465
+#54 
+
+#01 organisation
+#31 organisatsia
+#02 subst.
+#32 substantivo
+#04 planläggning av en helhet
+#07 resultatet beror på dålig organisation
+#37 
+#47 6989
+#11 organisations~förmåga -n
+#41 
+#51 4922
+#12 organisationen organisationer
+#14 årganisa$O:n
+#98 11259
+#99 12466
+#54 
+
+#01 organisation
+#31 organisatisia, phanglimos, aliansa
+#02 subst.
+#32 substantivo
+#04 sammanslutning, organ
+#07 politiska organisationer
+#37 
+#47 6990
+#12 organisationen organisationer
+#14 årganisa$O:n
+#98 11259
+#99 12467
+#54 
+
+#01 organisatör
+#31 organisatori
+#02 subst.
+#32 substantivo
+#04 person som organiserar
+#12 organisatören organisatörer
+#14 årganisatÖ:r
+#98 11260
+#99 12468
+#54 
+
+#01 organiserar
+#31 preparil, organiseril, vortol, lašarel
+#02 verb
+#32 verbo
+#04 arrangera delar så att de bildar en effektiv helhet; planera, ordna
+#05 även "göra till medlem i en organisation"
+#35 
+#07 organisera arbetet
+#37 preparil e buči
+#47 6991
+#07 den organiserade brottsligheten
+#37 
+#47 6992
+#07 är du fackligt organiserad?
+#37 
+#47 6993
+#10 A & x/B
+#11 organisatorisk
+#41 
+#51 4923
+#12 organiserade organiserat organisera(!)
+#14 årganisE:rar
+#98 11261
+#99 12469
+#54 
+#97 mini
+
+#01 organisk
+#31 organisko
+#02 adj.
+#32 adjektivo
+#04 som tillhör växt- eller djurriket; levande
+#07 organisk substans
+#37 
+#47 6994
+#12 organiskt organiska
+#14 årgA:nisk
+#98 11262
+#99 12470
+#54 
+
+#01 organisk
+#31 
+#02 adj.
+#32 adjektivo
+#04 som utgör del i ett sammanhang; integrerad
+#12 organiskt organiska
+#14 årgA:nisk
+#98 11262
+#99 12471
+#54 
+
+#01 organism
+#31 organizmo
+#02 subst.
+#32 substantivo
+#04 levande varelse (djur el. växt)
+#12 organismen organismer
+#14 årganIs:m
+#98 11263
+#99 12472
+#54 
+
+#01 organist
+#31 pijanisto
+#02 subst.
+#32 substantivo
+#04 person som (yrkesmässigt) spelar orgel
+#12 organisten organister
+#14 årganIs:t
+#98 11264
+#99 12473
+#54 
+
+#01 orgasm
+#31 
+#02 subst.
+#32 substantivo
+#04 sexuell utlösning vid samlag
+#12 orgasmen orgasmer
+#14 årgAs:m
+#98 11265
+#99 12474
+#54 
+#97 mini
+
+#01 orgel
+#31 piano
+#02 subst.
+#32 substantivo
+#04 musikinstrument där ljudet uppstår genom att luft pressas genom pipor av olika längd
+#09 bild 19:39
+#39 
+#11 orgel~spel -et
+#41 
+#51 4924
+#12 orgeln orglar
+#14 2År:jel
+#98 11266
+#99 12475
+#54 
+#97 mini
+
+#01 orgie
+#31 dili pačiv
+#02 subst.
+#32 substantivo
+#04 vild och hämningslös fest
+#05 även bildligt
+#35 
+#07 orgier i sentimentalitet
+#37 
+#47 6995
+#12 orgien orgier
+#14 År:gie
+#98 11267
+#99 12476
+#54 
+
+#01 orientalisk
+#31 orientosko
+#02 adj.
+#32 adjektivo
+#04 som är från el. avser Orienten
+#07 orientaliska mattor
+#37 
+#47 6996
+#12 orientaliskt orientaliska
+#14 årientA:lisk
+#98 11268
+#99 12477
+#54 
+
+#01 Orienten
+#31 Orienteri
+#02 namn
+#32 nam
+#04 Österlandet
+#05 historisk och poetisk term
+#35 
+#14 åriEn:ten
+#98 11269
+#99 12478
+#54 
+
+#01 orienterar
+#31 orienteril
+#02 verb
+#32 verbo
+#04 rikta in (efter väderstreck), bestämma position
+#05 bildligt "ge sammanhang, informera"
+#35 
+#07 orientera sig om läget
+#37 
+#47 6997
+#10 A & (om x)
+#12 orienterade orienterat orientera(!)
+#14 årientE:rar
+#98 11270
+#99 12479
+#54 
+
+#01 orienterar
+#31 žal ando khelipe
+#02 verb
+#32 verbo
+#04 delta i orienteringstävling
+#10 A &
+#11 orienterare -n
+#41 
+#51 4925
+#12 orienterade orienterat orientera(!)
+#14 årientE:rar
+#98 11270
+#99 12480
+#54 
+
+#01 orientering
+#31 
+#02 subst.
+#32 substantivo
+#04 inriktning (efter väderstreck)
+#05 bildligt "information"
+#35 
+#07 ge en orientering om läget
+#37 
+#47 6998
+#08 tappa orienteringen ("bli förvirrad")
+#38 
+#48 1131
+#12 orienteringen orienteringar
+#14 årientE:ri@
+#98 11271
+#99 12481
+#54 
+#97 mini
+
+#01 orientering
+#31 
+#02 subst.
+#32 substantivo
+#04 idrottsgren där man springer i terrängen med karta och kompass
+#12 orienteringen orienteringar
+#14 årientE:ri@
+#98 11271
+#99 12482
+#54 
+#97 mini
+
+#01 orienterings~ämne
+#31 
+#02 subst.
+#32 substantivo
+#04 skolämne (i grundskolan) som orienterar om historia el. samhälle el. natur
+#12 -ämnet -ämnen -ämnena
+#14 2årientE:ri@sem:ne
+#98 11272
+#99 12483
+#54 
+#97 mini
+
+#01 original
+#31 origanalo, čačo
+#02 subst.
+#32 substantivo
+#04 ursprungligt föremål (som man kan göra kopior av)
+#05 om konstverk, dokument etc
+#35 
+#12 originalet original originalen
+#14 årginA:l
+#98 11273
+#99 12484
+#54 
+
+#01 original
+#31 čačo manuš
+#02 subst.
+#32 substantivo
+#04 originell person
+#12 originalet original originalen
+#14 årginA:l
+#98 11273
+#99 12485
+#54 
+
+#01 originell
+#31 čuda
+#02 adj.
+#32 adjektivo
+#04 ovanlig, särpräglad
+#05 i negativ betydelse "konstig"
+#35 
+#07 ett originellt grepp
+#37 
+#47 6999
+#07 en originell person
+#37 
+#47 7000
+#12 originellt originella
+#14 årginEl:
+#98 11274
+#99 12486
+#54 
+
+#01 oriktig
+#31 nai čačo
+#02 adj.
+#32 adjektivo
+#04 felaktig
+#07 ett oriktigt påstående
+#37 
+#47 7001
+#12 oriktigt oriktiga
+#14 2O:rik:tig
+#98 11275
+#99 12487
+#54 
+
+#01 orimlig
+#31 nai pačasko/pačamasko
+#02 adj.
+#32 adjektivo
+#04 som det inte finns anledning att tro på
+#05 även "oacceptabel"
+#35 
+#07 orimliga krav
+#37 
+#47 7002
+#07 ett orimligt påstående
+#37 
+#47 7003
+#12 orimligt orimliga
+#14 2O:rim:lig
+#98 11276
+#99 12488
+#54 
+
+#01 ork
+#31 zor
+#02 subst.
+#32 substantivo
+#04 styrka, uthållighet
+#11 orkes~lös
+#41 
+#51 4926
+#12 orken
+#14 år:k
+#98 11277
+#99 12489
+#54 
+
+#01 orkan
+#31 barval zurali
+#02 subst.
+#32 substantivo
+#04 våldsam storm
+#12 orkanen orkaner
+#14 årkA:n
+#98 11278
+#99 12490
+#54 
+
+#01 orkar
+#31 inkerel pes, biril
+#02 verb
+#32 verbo
+#04 ha krafter (till), kunna, förmå
+#07 jag orkar inte bära väskan längre
+#37 
+#47 7004
+#07 jag orkar inte med att jobba övertid
+#37 
+#47 7005
+#10 A & (att) + INF; A & med x/att+INF
+#12 orkade orkat orka(!)
+#14 2År:kar
+#98 11279
+#99 12491
+#54 
+#97 mini
+
+#01 orkester
+#31 orkestra, musikaski grupa
+#02 subst.
+#32 substantivo
+#04 musikgrupp
+#09 bild 19:38
+#39 
+#11 symfoniorkester
+#41 
+#51 4927
+#11 orkester~musik -en
+#41 
+#51 4928
+#11 orkester~dike
+#41 
+#51 4929
+#12 orkestern orkestrar
+#14 årkEs:ter
+#98 11280
+#99 12492
+#54 
+#97 mini
+
+#01 orm
+#31 sap
+#02 subst.
+#32 substantivo
+#04 kräldjur av ordningen Ophidia, reptil
+#09 bild 27:55
+#39 
+#11 huggorm
+#41 
+#51 4930
+#11 orm~bett -et
+#41 
+#51 4931
+#12 ormen ormar
+#14 or:m
+#98 11281
+#99 12493
+#54 
+#97 mini
+
+#01 ornament
+#31 
+#02 subst.
+#32 substantivo
+#04 utsmyckning, prydnadsmönster
+#12 ornamentet ornament ornamenten
+#14 or+namEn:t
+#98 11282
+#99 12494
+#54 
+
+#01 oro
+#31 pharimos
+#02 subst.
+#32 substantivo
+#04 känsla av rädsla för att något obehagligt skall hända
+#07 ingen anledning till oro
+#37 
+#47 7006
+#07 sprida oro bland befolkningen
+#37 
+#47 7007
+#07 hysa oro för framtiden
+#37 
+#47 7008
+#09 motsats ^lugn^
+#39 
+#10 & (för/över x)
+#11 oros~härd -en
+#41 
+#51 4932
+#11 oro~väckande
+#41 
+#51 4933
+#12 oron
+#14 2O:ro:
+#98 11283
+#99 12495
+#54 
+#97 mini
+
+#01 oroar
+#31 pharimos
+#02 verb
+#32 verbo
+#04 orsaka oro hos, störa
+#07 oroa inte hunden!
+#37 
+#47 7009
+#07 oroa sig för framtiden
+#37 
+#47 7010
+#07 ett oroande tecken
+#37 
+#47 7011
+#10 A & B; A & sig (för/över x/att +SATS)
+#12 oroade oroat oroa(!)
+#14 2O:ro:ar
+#98 11284
+#99 12496
+#54 
+
+#01 orolig
+#31 pharimasko
+#02 adj.
+#32 adjektivo
+#04 som känner oro; ängslig, bekymrad
+#07 han är orolig för vad som kommer att hända
+#37 
+#47 7012
+#09 motsats ^lugn^
+#39 
+#10 & (för B/x/att+SATS)
+#12 oroligt oroliga
+#14 2O:ro:lig
+#98 11285
+#99 12497
+#54 
+#97 mini
+
+#01 orolig
+#31 kamel te marelpe
+#02 adj.
+#32 adjektivo
+#04 bråkig
+#07 oroliga elever
+#37 
+#47 7013
+#12 oroligt oroliga
+#14 2O:ro:lig
+#98 11285
+#99 12498
+#54 
+#97 mini
+
+#01 orolighet
+#31 xolarjimos
+#02 subst.
+#32 substantivo
+#04 bråk, uppror
+#07 myndigheterna fruktar nya oroligheter
+#37 
+#47 7014
+#12 oroligheten oroligheter
+#14 2O:ro:lighe:t
+#98 11286
+#99 12499
+#54 
+
+#01 oros~härd
+#31 
+#02 subst.
+#32 substantivo
+#04 plats där oroligheter lätt utbryter
+#12 oroshärden oroshärdar
+#14 2O:ro:shä:r+d
+#98 11287
+#99 12500
+#54 
+
+#01 oros~moln
+#31 variso avela
+#02 subst.
+#32 substantivo
+#04 tecken på kommande obehag
+#12 -molnet -moln -molnen
+#14 2O:ro:små:ln
+#98 11288
+#99 12501
+#54 
+
+#01 orre
+#31 
+#02 subst.
+#32 substantivo
+#04 fågeln Lyrurus tetrix
+#09 bild 26:53
+#39 
+#12 orren orrar
+#14 2År:e
+#98 11289
+#99 12502
+#54 
+#97 mini
+
+#01 orsak
+#31 bajo
+#02 subst.
+#32 substantivo
+#04 skäl, anledning
+#07 orsaken till branden är inte känd
+#37 
+#47 7015
+#07 av olika orsaker
+#37 
+#47 7016
+#08 ingen orsak! ("du behöver inte tacka")
+#38 
+#48 1132
+#10 & (till x/att+SATS)
+#11 dödsorsak
+#41 
+#51 4934
+#12 orsaken orsaker
+#14 2O:r+sa:k
+#98 11290
+#99 12503
+#54 
+#97 mini
+
+#01 orsakar
+#31 kerel
+#02 verb
+#32 verbo
+#04 vara orsak till, vålla
+#07 jordbävningen orsakade stora skador
+#37 
+#47 7017
+#10 A/x & y
+#12 orsakade orsakat orsaka(!)
+#14 2O:r+sa:kar
+#98 11291
+#99 12504
+#54 
+
+#01 ort
+#31 than, foro
+#02 subst.
+#32 substantivo
+#04 (lokal)samhälle
+#05 även utvidgat "plats"
+#35 
+#07 på flera orter i landet
+#37 
+#47 7018
+#07 folket på orten
+#37 
+#47 7019
+#08 från högsta ort ("från högsta myndighet")
+#38 
+#48 1133
+#08 på ort och ställe ("på själva platsen")
+#38 
+#48 1134
+#11 badort
+#41 
+#51 4935
+#11 födelseort
+#41 
+#51 4936
+#11 orts~befolkning -en
+#41 
+#51 4937
+#11 ort~namn -et
+#41 
+#51 4938
+#12 orten orter
+#14 o:r+t el. or+t:
+#98 11292
+#99 12505
+#54 
+#97 mini
+
+#01 ortodox
+#31 
+#02 adj.
+#32 adjektivo
+#04 renlärig; sträng
+#12 ortodoxt ortodoxa
+#14 år+todÅk:s
+#98 11293
+#99 12506
+#54 
+#97 mini
+
+#01 ortodox
+#31 ortodoxo
+#02 adj.
+#32 adjektivo
+#04 som rör den grekisk-ortodoxa kyrkan
+#12 ortodoxt ortodoxa
+#14 år+todÅk:s
+#98 11293
+#99 12507
+#54 
+#97 mini
+
+#01 ortoped
+#31 
+#02 subst.
+#32 substantivo
+#04 läkare som är specialist på rörelseorganen och kroppens hållning
+#12 ortopeden ortopeder
+#14 år+topE:d
+#98 11294
+#99 12508
+#54 
+
+#01 ortopedisk
+#31 ortopedisko
+#02 adj.
+#32 adjektivo
+#04 som avser bl a rörelseorganen (dvs armar och ben)
+#12 ortopediskt ortopediska
+#14 år+topE:disk
+#98 11295
+#99 12509
+#54 
+
+#01 orubbad
+#31 nai parujime
+#02 adj.
+#32 adjektivo
+#04 som inte har förändrats
+#12 orubbat orubbade
+#14 2O:rub:ad
+#98 11296
+#99 12510
+#54 
+
+#01 orubblig
+#31 či parudjol
+#02 adj.
+#32 adjektivo
+#04 oföränderlig, fast
+#12 orubbligt orubbliga
+#14 2O:rub:lig
+#98 11297
+#99 12511
+#54 
+
+#01 oråd
+#31 nai lašo gindo
+#02 subst.
+#32 substantivo
+#08 ana oråd ("misstänka att något är på tok")
+#38 
+#48 1135
+#12 orådet
+#14 2O:rå:d
+#98 11298
+#99 12512
+#54 
+
+#01 oräknelig
+#31 nai djindo
+#02 adj.
+#32 adjektivo
+#04 som består av så många att de inte kan räknas
+#12 oräkneligt oräkneliga
+#14 2O:rä:knelig
+#98 11299
+#99 12513
+#54 
+
+#01 orätt 1
+#31 nai laše/vorta
+#02 adj.
+#32 adjektivo
+#04 felaktig
+#07 det är orätt att stjäla
+#37 
+#47 7020
+#07 hamna i orätta händer
+#37 
+#47 7021
+#12 orätt orätta
+#14 2O:ret:
+#98 11300
+#99 12514
+#54 
+
+#01 orätt 2
+#31 nai čačimos
+#02 subst.
+#32 substantivo
+#04 orättvisa
+#07 begå en orätt mot någon
+#37 
+#47 7022
+#12 orätten
+#14 2O:ret:
+#98 11301
+#99 12515
+#54 
+
+#01 orättfärdig
+#31 nai čačimos
+#02 adj.
+#32 adjektivo
+#04 orättvis
+#12 orättfärdigt orättfärdiga
+#14 2O:retfä:r+dig
+#98 11302
+#99 12516
+#54 
+
+#01 orättmätig
+#31 trubol čačimos
+#02 adj.
+#32 adjektivo
+#04 olaglig, som saknar rättighet
+#07 orättmätiga anspråk
+#37 
+#47 7023
+#12 orättmätigt orättmätiga
+#14 2O:retmä:tig
+#98 11303
+#99 12517
+#54 
+
+#01 orättvis
+#31 čočavno/xoxamno
+#02 adj.
+#32 adjektivo
+#04 inte rättvis; partisk
+#07 orättvisa betyg
+#37 
+#47 7024
+#10 & (mot B)
+#12 orättvist orättvisa
+#14 2O:retvi:s
+#98 11304
+#99 12518
+#54 
+#97 mini
+
+#01 orättvisa
+#31 nai čačipe
+#02 subst.
+#32 substantivo
+#04 brist på rättvisa, partiskhet
+#07 kämpa mot sociala orättvisor
+#37 
+#47 7025
+#12 orättvisan orättvisor
+#14 2O:retvi:sa
+#98 11305
+#99 12519
+#54 
+
+#01 orörd
+#31 nai mit/azbado
+#02 adj.
+#32 adjektivo
+#04 som inte (vid)rörts, intakt
+#07 orörd natur
+#37 
+#47 7026
+#12 orört orörda
+#14 2O:rö:r+d
+#98 11306
+#99 12520
+#54 
+
+#01 orörlig
+#31 
+#02 adj.
+#32 adjektivo
+#04 som inte rör sig, stilla; som inte kan röra sig
+#12 orörligt orörliga
+#14 2O:rö:r+lig
+#98 11307
+#99 12521
+#54 
+
+#01 OS
+#31 OS, Olympiake khelipe
+#02 förk.
+#32 skurtsomos
+#04 olympiska spel
+#14 2O:es:
+#98 11308
+#99 12522
+#54 
+
+#01 os
+#31 khandimos
+#02 subst.
+#32 substantivo
+#04 (lätt) rök som har en obehaglig irriterande lukt
+#11 matos
+#41 
+#51 4939
+#12 oset
+#14 o:s
+#98 11309
+#99 12523
+#54 
+
+#01 osagd
+#31 nai phendo
+#02 adj.
+#32 adjektivo
+#08 låta något vara osagt ("inte vilja yttra sig om något")
+#38 
+#48 1136
+#12 osagt osagda
+#14 2O:sag:d
+#98 11310
+#99 12524
+#54 
+
+#01 osaklig
+#31 
+#02 adj.
+#32 adjektivo
+#04 inte saklig, subjektiv
+#07 osaklig reklam
+#37 
+#47 7027
+#12 osakligt osakliga
+#14 2O:sa:klig
+#98 11311
+#99 12525
+#54 
+
+#01 osammanhängande
+#31 
+#02 adj.
+#32 adjektivo
+#04 som inte har något inre samband
+#07 en osammanhängande berättelse
+#37 
+#47 7028
+#14 2O:samanhe@:ande
+#98 11312
+#99 12526
+#54 
+
+#01 osams
+#31 xoljarika/xoliariča
+#02 adj.
+#32 adjektivo
+#04 oenig
+#07 barnen är osams
+#37 
+#47 7029
+#07 bli osams med grannarna
+#37 
+#47 7030
+#10 A är & med B; A och B är &
+#14 2O:sam:s
+#98 11313
+#99 12527
+#54 
+
+#01 osann
+#31 nai čačimos
+#02 adj.
+#32 adjektivo
+#04 inte sann
+#07 osann information
+#37 
+#47 7031
+#12 osant osanna
+#14 2O:san:
+#98 11314
+#99 12528
+#54 
+
+#01 osanning
+#31 nai čačimos
+#02 subst.
+#32 substantivo
+#04 oriktig uppgift; lögn
+#07 fara med osanning
+#37 
+#47 7032
+#12 osanningen osanningar
+#14 2O:san:i@
+#98 11315
+#99 12529
+#54 
+
+#01 osannolik
+#31 nai pačamasko
+#02 adj.
+#32 adjektivo
+#04 föga trolig
+#12 osannolikt osannolika
+#14 2O:sanoli:k
+#98 11316
+#99 12530
+#54 
+
+#01 osar
+#31 khanglarel/khandel/thuvarel
+#02 verb
+#32 verbo
+#04 sprida os; lukta
+#07 osa bränt
+#37 
+#47 7033
+#10 x &
+#12 osade osat osa
+#14 2O:sar
+#98 11317
+#99 12531
+#54 
+
+#01 osedvanlig
+#31 čuda
+#02 adj.
+#32 adjektivo
+#04 ovanlig
+#05 som adverb vanligen allmänt förstärkande
+#35 
+#07 osedvanligt hård kritik
+#37 
+#47 7034
+#12 osedvanligt
+#14 2O:se:dva:nlig
+#98 11318
+#99 12532
+#54 
+
+#01 osjälvisk
+#31 nai pesko
+#02 adj.
+#32 adjektivo
+#04 inte självisk, oegennyttig
+#12 osjälviskt osjälviska
+#14 2O:$el:visk
+#98 11319
+#99 12533
+#54 
+
+#01 oskadd
+#31 nai malado
+#02 adj.
+#32 adjektivo
+#04 oskadad
+#07 bilföraren undkom oskadd
+#37 
+#47 7035
+#12 oskatt oskadda
+#14 2O:skad:
+#98 11320
+#99 12534
+#54 
+
+#01 oskadlig~gör
+#31 či malavel
+#02 verb
+#32 verbo
+#04 göra ofarlig, försätta ur stridbart skick
+#07 fienden kunde oskadliggöras
+#37 
+#47 7036
+#10 A & B/x
+#12 -gjorde -gjort -gör! -göra
+#14 2O:ska:dligjö:r
+#98 11321
+#99 12535
+#54 
+#97 mini
+
+#01 oskick
+#31 čoro sikajimos
+#02 subst.
+#32 substantivo
+#04 dåligt uppförande, ovana
+#12 oskicket oskick oskicken
+#14 2O:$ik:
+#98 11322
+#99 12536
+#54 
+
+#01 oskiftad
+#31 nai hulajimos
+#02 adj.
+#32 adjektivo
+#04 som inte har delats
+#07 oskiftat bo
+#37 
+#47 7037
+#12 oskiftat oskiftade
+#14 2O:$if:tad
+#98 11323
+#99 12537
+#54 
+
+#01 oskiljaktig
+#31 či šinelpes
+#02 adj.
+#32 adjektivo
+#04 som inte går att skilja åt; som alltid håller ihop
+#05 om människor
+#35 
+#12 oskiljaktigt oskiljaktiga
+#14 2O:$il:jak:tig
+#98 11324
+#99 12538
+#54 
+
+#01 oskriven
+#31 nai skirime
+#02 adj.
+#32 adjektivo
+#04 som inte har skrivits ned
+#07 oskriven lag
+#37 
+#47 7038
+#12 oskrivet oskrivna
+#14 2O:skri:ven
+#98 11325
+#99 12539
+#54 
+
+#01 oskuld
+#31 nai došalo
+#02 subst.
+#32 substantivo
+#04 oskyldighet
+#07 bevisa sin oskuld
+#37 
+#47 7039
+#12 oskulden oskulder
+#14 2O:skul:d
+#98 11326
+#99 12540
+#54 
+#97 mini
+
+#01 oskuld
+#31 
+#02 subst.
+#32 substantivo
+#04 (barnslig) omedvetenhet
+#11 oskulds~full
+#41 
+#51 4940
+#12 oskulden oskulder
+#14 2O:skul:d
+#98 11326
+#99 12541
+#54 
+#97 mini
+
+#01 oskuld
+#31 
+#02 subst.
+#32 substantivo
+#04 sexuellt orörd person
+#07 hon är oskuld
+#37 
+#47 7040
+#12 oskulden oskulder
+#14 2O:skul:d
+#98 11326
+#99 12542
+#54 
+#97 mini
+
+#01 oskyldig
+#31 nai došalo
+#02 adj.
+#32 adjektivo
+#04 inte skyldig
+#05 om verksamhet "ofarlig"
+#35 
+#07 oskyldig till ett brott
+#37 
+#47 7041
+#07 en oskyldig lek
+#37 
+#47 7042
+#12 oskyldigt oskyldiga
+#14 2O:$yl:dig
+#98 11327
+#99 12543
+#54 
+#97 mini
+
+#01 oskälig
+#31 
+#02 adj.
+#32 adjektivo
+#04 inte skälig, orimlig
+#07 oskäliga vinster
+#37 
+#47 7043
+#12 oskäligt oskäliga
+#14 2O:$ä:lig
+#98 11328
+#99 12544
+#54 
+
+#01 oslagbar
+#31 naštil neril
+#02 adj.
+#32 adjektivo
+#04 omöjlig att besegra el. överträffa
+#07 ett oslagbart rekord
+#37 
+#47 7044
+#12 oslagbart oslagbara
+#14 2O:sla:gba:r
+#98 11329
+#99 12545
+#54 
+
+#01 osmaklig
+#31 mai but šinajimos
+#02 adj.
+#32 adjektivo
+#04 motbjudande
+#12 osmakligt osmakliga
+#14 2O:sma:klig
+#98 11330
+#99 12546
+#54 
+
+#01 osminkad
+#31 nai makhli, bi makhli
+#02 adj.
+#32 adjektivo
+#04 som är utan smink
+#05 bildligt "ärlig, verklig"
+#35 
+#07 den osminkade sanningen
+#37 
+#47 7045
+#12 osminkat osminkade
+#14 2O:smi@:kad
+#98 11331
+#99 12547
+#54 
+
+#01 osportslig
+#31 nai sportivo
+#02 adj.
+#32 adjektivo
+#04 som bryter mot gängse regler i idrottssammanhang
+#12 osportsligt osportsliga
+#14 2O:spår+t:slig
+#98 11332
+#99 12548
+#54 
+
+#01 oss
+#31 amen
+#02 se vi
+#32 
+#14 ås:
+#98 11333
+#99 12549
+#54 
+#97 mini
+
+#01 ost 1
+#31 
+#02 subst.
+#32 substantivo
+#04 ett livsmedel gjort av mjölk och salt
+#09 bild 5:11
+#39 
+#11 gräddost
+#41 
+#51 4941
+#11 ost~smörgås -en
+#41 
+#51 4942
+#11 ost~hyvel
+#41 
+#51 4943
+#12 osten ostar
+#14 os:t
+#98 11334
+#99 12550
+#54 
+#97 mini
+
+#01 ost 2
+#31 
+#02 subst.
+#32 substantivo
+#04 väderstrecket öster
+#09 bild 32:64
+#39 
+#11 ost~kust -en
+#41 
+#51 4944
+#14 os:t
+#98 11335
+#99 12551
+#54 
+#97 mini
+
+#01 ostadig
+#31 
+#02 adj.
+#32 adjektivo
+#04 osäker; skiftande
+#07 vädret blir ostadigt under helgen
+#37 
+#47 7046
+#12 ostadigt ostadiga
+#14 2O:sta:dig
+#98 11336
+#99 12552
+#54 
+
+#01 ostlig
+#31 
+#02 adj.
+#32 adjektivo
+#04 i el. från öster
+#07 ostlig vind
+#37 
+#47 7047
+#12 ostligt ostliga
+#14 2Os:tlig
+#98 11337
+#99 12553
+#54 
+
+#01 ostädad
+#31 
+#02 adj.
+#32 adjektivo
+#04 inte städad, nedskräpad
+#07 rummet var ostädat
+#37 
+#47 7048
+#12 ostädat ostädade
+#14 2O:stä:dad
+#98 11338
+#99 12554
+#54 
+
+#01 osund
+#31 
+#02 adj.
+#32 adjektivo
+#04 ohälsosam
+#07 osund livsföring
+#37 
+#47 7049
+#07 osunda affärsmetoder
+#37 
+#47 7050
+#12 osunt osunda
+#14 2O:sun:d
+#98 11339
+#99 12555
+#54 
+
+#01 osv
+#31 
+#02 förk.
+#32 skortsomos
+#04 och så vidare, med mera
+#13 osv.
+#14 2å(k)såvI:dare
+#98 11340
+#99 12556
+#54 
+#97 mini
+
+#01 osviklig
+#31 
+#02 adj.
+#32 adjektivo
+#04 som alltid fungerar, som aldrig slår fel
+#07 osviklig precision
+#37 
+#47 7051
+#12 osvikligt osvikliga
+#14 2O:svi:klig
+#98 11341
+#99 12557
+#54 
+
+#01 osvuren
+#31 
+#02 adj.
+#32 adjektivo
+#08 osvuret är bäst ("det är bäst att inte vara för säker el. lova för mycket")
+#38 
+#48 1137
+#12 osvuret osvurna
+#14 2O:svu:ren
+#98 11342
+#99 12558
+#54 
+
+#01 osynlig
+#31 
+#02 adj.
+#32 adjektivo
+#04 som man inte ser
+#12 osynligt osynliga
+#14 2O:sy:nlig
+#98 11343
+#99 12559
+#54 
+
+#01 osäker
+#31 
+#02 adj.
+#32 adjektivo
+#04 inte säker el. självklar
+#05 om process
+#35 
+#07 framtiden är osäker
+#37 
+#47 7052
+#12 osäkert osäkra
+#14 2O:sä:ker
+#98 11344
+#99 12560
+#54 
+#97 mini
+
+#01 osäker
+#31 
+#02 adj.
+#32 adjektivo
+#04 som saknar självförtroende
+#05 allmänt "villrådig"
+#35 
+#07 vara osäker på sig själv
+#37 
+#47 7053
+#07 jag är osäker om jag hinner
+#37 
+#47 7054
+#10 & (på B/x); & (om+SATS)
+#11 osäkerhet -en
+#41 
+#51 4945
+#12 osäkert osäkra
+#14 2O:sä:ker
+#98 11344
+#99 12561
+#54 
+#97 mini
+
+#01 otack
+#31 nai najisimos
+#02 subst.
+#32 substantivo
+#04 brist på tacksamhet
+#07 otack är världens lön
+#37 
+#47 7055
+#14 2O:tak:
+#98 11345
+#99 12562
+#54 
+
+#01 otacksam
+#31 či najisardas
+#02 adj.
+#32 adjektivo
+#04 som inte tackar
+#05 även "som man inte blir tackad för"
+#35 
+#07 en otacksam person
+#37 
+#47 7056
+#07 en otacksam uppgift
+#37 
+#47 7057
+#12 otacksamt otacksamma
+#14 2O:taksam:
+#98 11346
+#99 12563
+#54 
+
+#01 otakt
+#31 
+#02 subst.
+#32 substantivo
+#04 brist på takt
+#07 komma i otakt
+#37 
+#47 7058
+#14 2O:tak:t
+#98 11347
+#99 12564
+#54 
+
+#01 otal
+#31 pherdo
+#02 subst.
+#32 substantivo
+#04 stor mängd, massa
+#05 i fraser
+#35 
+#07 jag har varit i Malmö ett otal gånger
+#37 
+#47 7059
+#11 otalig -t
+#41 
+#51 4946
+#14 2O:ta:l
+#98 11348
+#99 12565
+#54 
+
+#01 otalt
+#31 
+#02 adj.
+#32 adjektivo
+#08 ha något otalt med någon ("ha en ouppklarad konflikt med någon")
+#38 
+#48 1138
+#14 2O:ta:lt
+#98 11349
+#99 12566
+#54 
+
+#01 otid
+#31 nai vriama
+#02 subst.
+#32 substantivo
+#08 i tid och otid ("jämt och ständigt")
+#38 
+#48 1139
+#14 2O:ti:d
+#98 11350
+#99 12567
+#54 
+
+#01 otidsenlig
+#31 nai moderno
+#02 adj.
+#32 adjektivo
+#04 omodern
+#12 otidsenligt otidsenliga
+#14 2O:ti:dse:nlig
+#98 11351
+#99 12568
+#54 
+
+#01 otillbörlig
+#31 nai šukar
+#02 adj.
+#32 adjektivo
+#04 opassande, olämplig
+#12 otillbörligt otillbörliga
+#14 2O:tilbö:r+lig
+#98 11352
+#99 12569
+#54 
+
+#01 otillfredsställande
+#31 nai mišto
+#02 adj.
+#32 adjektivo
+#04 inte bra
+#07 prisnivån är klart otillfredsställande
+#37 
+#47 7060
+#14 2O:tilfre:dstel:ande
+#98 11353
+#99 12570
+#54 
+
+#01 otillräcklig
+#31 pra čira
+#02 adj.
+#32 adjektivo
+#04 som inte räcker till
+#07 tillgången på medicin är otillräcklig
+#37 
+#47 7061
+#12 otillräckligt otillräckliga
+#14 2O:tilrek:lig
+#98 11354
+#99 12571
+#54 
+
+#01 otillräknelig
+#31 
+#02 adj.
+#32 adjektivo
+#04 som inte kan ansvara för sina handlingar
+#12 otillräkneligt otillräkneliga
+#14 2O:tilrä:knelig
+#98 11355
+#99 12572
+#54 
+
+#01 otillständig
+#31 nai lašo
+#02 adj.
+#32 adjektivo
+#04 mycket olämplig
+#12 otillständigt otillständiga
+#14 2O:tilsten:dig
+#98 11356
+#99 12573
+#54 
+
+#01 otillåtlig
+#31 či mekenles
+#02 adj.
+#32 adjektivo
+#04 som inte kan tillåtas el. accepteras
+#12 otillåtligt otillåtliga
+#14 2O:tilåt:lig
+#15 avstavas otill-låtlig
+#45 
+#98 11357
+#99 12574
+#54 
+
+#01 otippad
+#31 čuda
+#02 adj.
+#32 adjektivo
+#04 oväntad, överraskande
+#07 en otippad vinnare
+#37 
+#47 7062
+#12 otippat otippade
+#14 2O:tip:ad
+#98 11358
+#99 12575
+#54 
+
+#01 otjänlig
+#31 nai hasna
+#02 adj.
+#32 adjektivo
+#04 olämplig, inte användbar
+#07 otjänlig som människoföda
+#37 
+#47 7063
+#12 otjänligt otjänliga
+#14 2O:cä:nlig
+#98 11359
+#99 12576
+#54 
+
+#01 otjänst
+#31 bajo keren
+#02 subst.
+#32 substantivo
+#04 handling som skadar någon el. något
+#07 göra någon en otjänst
+#37 
+#47 7064
+#12 otjänsten otjänster
+#14 2O:cen:st
+#98 11360
+#99 12577
+#54 
+
+#01 otrevlig
+#31 nai lašo, voruto
+#02 adj.
+#32 adjektivo
+#04 inte trevlig, obehaglig
+#07 mannen började bli otrevlig mot passagerarna i bussen
+#37 
+#47 7065
+#10 & (mot B)
+#12 otrevligt otrevliga
+#14 2O:tre:vlig
+#98 11361
+#99 12578
+#54 
+
+#01 otrogen
+#31 kaver romni si les
+#02 adj.
+#32 adjektivo
+#04 inte trogen
+#05 särskilt om sexuella förhållanden "som har samlag utanför äktenskapet"
+#35 
+#12 otroget otrogna
+#14 2O:tro:gen
+#98 11362
+#99 12579
+#54 
+#97 mini
+
+#01 otrohet
+#31 nai pačajimos/pačamos
+#02 subst.
+#32 substantivo
+#04 brist på lojalitet
+#05 särskilt om sexuella förhållanden
+#35 
+#12 otroheten
+#14 2O:tro:he:t
+#98 11363
+#99 12580
+#54 
+
+#01 otrolig
+#31 nai pačajimasko
+#02 adj.
+#32 adjektivo
+#04 som man inte kan tro på
+#05 allmänt förstärkande "mycket stor"
+#35 
+#07 han har ett otroligt tålamod
+#37 
+#47 7066
+#12 otroligt otroliga
+#14 2O:tro:lig
+#98 11364
+#99 12581
+#54 
+#97 mini
+
+#01 otröstlig
+#31 
+#02 adj.
+#32 adjektivo
+#04 som inte går att trösta, förtvivlad
+#12 otröstligt otröstliga
+#14 2O:trös:tlig
+#98 11365
+#99 12582
+#54 
+
+#01 otta
+#31 oxto
+#02 subst.
+#32 substantivo
+#04 tidig morgon
+#12 ottan ottor
+#14 2O:t:a
+#98 11366
+#99 12583
+#54 
+
+#01 otukt
+#31 
+#02 subst.
+#32 substantivo
+#04 straffbart könsumgänge
+#11 otuktig -t
+#41 
+#51 4947
+#12 otukten
+#14 2O:tuk:t
+#98 11367
+#99 12584
+#54 
+
+#01 otur
+#31 bi baxh
+#02 subst.
+#32 substantivo
+#04 motgång som beror på slumpen
+#07 han hade oturen att missa tåget
+#37 
+#47 7067
+#11 oturlig
+#41 
+#51 4948
+#11 otursdag
+#41 
+#51 4949
+#12 oturen
+#14 2O:tu:r
+#98 11368
+#99 12585
+#54 
+#97 mini
+
+#01 otvetydig
+#31 gata
+#02 adj.
+#32 adjektivo
+#04 klar, tydlig
+#12 otvetydigt otvetydiga
+#14 2O:tve:ty:dig
+#98 11369
+#99 12586
+#54 
+
+#01 otvivelaktigt
+#31 nai pačajimos/pačamos
+#02 adv.
+#32 adverbo
+#04 utan tvivel
+#14 2O:tvi:velak:ti(k)t
+#98 11370
+#99 12587
+#54 
+
+#01 otvungen
+#31 gata lo
+#02 adj.
+#32 adjektivo
+#04 naturlig, ledig
+#12 otvunget otvungna
+#14 2O:tvu@:en
+#98 11371
+#99 12588
+#54 
+
+#01 otydlig
+#31 naštil atjarel(ačarel)
+#02 adj.
+#32 adjektivo
+#04 svår att uppfatta
+#05 bildligt "svårbegriplig"
+#35 
+#12 otydligt otydliga
+#14 2O:ty:dlig
+#98 11372
+#99 12589
+#54 
+
+#01 otyg
+#31 
+#02 subst.
+#32 substantivo
+#04 något obehagligt el. skadligt
+#07 engångsflaskor är ett otyg
+#37 
+#47 7068
+#12 otyget
+#14 2O:ty:g
+#98 11373
+#99 12590
+#54 
+
+#01 otymplig
+#31 nai forma
+#02 adj.
+#32 adjektivo
+#04 klumpig, oformlig
+#12 otympligt otympliga
+#14 2O:tym:plig
+#98 11374
+#99 12591
+#54 
+
+#01 otålig
+#31 dilajvol/naj ravda
+#02 adj.	
+#32 adjektivo
+#04 irriterad över att behöva vänta
+#12 otåligt otåliga
+#14 2O:tå:lig
+#98 11375
+#99 12592
+#54 
+#97 mini
+
+#01 otäck
+#31 darano
+#02 adj.
+#32 adjektivo
+#04 obehaglig el. skrämmande
+#07 otäcka våldsscener
+#37 
+#47 7069
+#12 otäckt otäcka
+#14 2O:tek:
+#98 11376
+#99 12593
+#54 
+
+#01 otänkbar
+#31 nai pačajimasko
+#02 adj.
+#32 adjektivo
+#04 omöjlig, orimlig
+#12 otänkbart otänkbara
+#14 2O:te@kba:r
+#98 11377
+#99 12594
+#54 
+
+#01 oumbärlig
+#31 hasnasko
+#02 adj.
+#32 adjektivo
+#04 som man inte kan vara utan; nödvändig, oersättlig
+#07 ett oumbärligt hjälpmedel
+#37 
+#47 7070
+#12 oumbärligt oumbärliga
+#14 2O:umbä:r+lig
+#98 11378
+#99 12595
+#54 
+#97 mini
+
+#01 oundgänglig
+#31 
+#02 adj.
+#32 adjektivo
+#04 nödvändig
+#07 goda språkkunskaper är oundgängliga i internationellt arbete
+#37 
+#47 7071
+#12 oundgängligt oundgängliga
+#14 2O:undje@:lig
+#98 11379
+#99 12596
+#54 
+
+#01 oundviklig
+#31 
+#02 adj.
+#32 adjektivo
+#04 som inte kan undvikas
+#07 en oundviklig utveckling
+#37 
+#47 7072
+#12 oundvikligt oundvikliga
+#14 2O:undvi:klig
+#98 11380
+#99 12597
+#54 
+
+#01 oupphörligt
+#31 nai ašajimos
+#02 adv.
+#32 adverbo
+#04 utan avbrott, ständigt
+#07 prata oupphörligt
+#37 
+#47 7073
+#14 2O:uphö:r+li(k)t
+#98 11381
+#99 12598
+#54 
+
+#01 outgrundlig
+#31 nai ačaripe
+#02 adj.
+#32 adjektivo
+#04 som man inte kan förstå, ofattbar
+#07 av någon outgrundlig anledning
+#37 
+#47 7074
+#12 outgrundligt outgrundliga
+#14 2O:u:tgrun:dlig
+#98 11382
+#99 12599
+#54 
+
+#01 outhärdlig
+#31 
+#02 adj.
+#32 adjektivo
+#04 som knappt kan uthärdas, olidlig
+#07 en outhärdlig smärta
+#37 
+#47 7075
+#12 outhärdligt outhärdliga
+#14 2O:u:thä:r+dlig
+#98 11383
+#99 12600
+#54 
+
+#01 outsider
+#31 
+#02 subst.
+#32 substantivo
+#04 deltagare i en tävling som inte räknas till favoriterna men som kan vinna
+#05 engelska
+#35 
+#12 outsidern outsider (el. outsiders)
+#14 A+otsajder
+#98 11384
+#99 12601
+#54 
+
+#01 outsider
+#31 avrial e familja
+#02 subst.
+#32 substantivo
+#04 person som står utanför samhället
+#12 outsidern outsider (el. outsiders)
+#14 A+otsajder
+#98 11384
+#99 12602
+#54 
+
+#01 outstanding
+#31 defial lašo
+#02 adj.
+#32 adjektivo
+#04 som står i en klass för sig genom att vara mycket bra
+#05 engelska
+#35 
+#14 A+otständi@
+#98 11385
+#99 12603
+#54 
+
+#01 outtalad
+#31 nas phendo
+#02 adj.
+#32 adjektivo
+#04 som inte har sagts
+#07 en outtalad fråga
+#37 
+#47 7076
+#12 outtalat outtalade
+#14 2O:u:ta:lad
+#98 11386
+#99 12604
+#54 
+
+#01 outtröttlig
+#31 či aklel čino
+#02 adj.
+#32 adjektivo
+#04 som aldrig blir trött, flitig
+#12 outtröttligt outtröttliga
+#14 2O:u:tröt:lig
+#98 11387
+#99 12605
+#54 
+
+#01 outtömlig
+#31 či lel gata
+#02 adj.
+#32 adjektivo
+#04 som inte tar slut
+#07 ett outtömligt förråd av vitsar
+#37 
+#47 7077
+#12 outtömligt outtömliga
+#14 2O:u:töm:lig
+#98 11388
+#99 12606
+#54 
+
+#01 oval
+#31 
+#02 adj.
+#32 adjektivo
+#04 avlångt rund, äggformad
+#07 ovalt ansikte
+#37 
+#47 7078
+#12 ovalt ovala
+#14 ovA:l
+#98 11389
+#99 12607
+#54 
+
+#01 ovan 1
+#31 nai sikado
+#02 adj.
+#32 adjektivo
+#04 inte van, oerfaren
+#05 även "som man inte har erfarenhet av"
+#35 
+#07 en ovan miljö
+#37 
+#47 7079
+#10 & (vid x)
+#12 ovant ovana
+#14 2O:va:n
+#98 11390
+#99 12608
+#54 
+
+#01 ovan 2
+#31 opral, čeri
+#02 adv.
+#32 adverbo
+#04 på en plats högre upp
+#08 (en röst) från ovan ("från himmelen")
+#38 
+#48 1140
+#14 2Å:van
+#98 11391
+#99 12609
+#54 
+
+#01 ovan 2
+#31 opral
+#02 adv.
+#32 adverbo
+#04 tidigare i texten
+#07 de ovan framförda kraven
+#37 
+#47 7080
+#14 2Å:van
+#98 11391
+#99 12610
+#54 
+
+#01 ovan 3
+#31 opre
+#02 prep.
+#32 prepositiono
+#04 över, ovanför
+#07 ovan jord
+#37 
+#47 7081
+#14 2Å:van
+#98 11392
+#99 12611
+#54 
+
+#01 ovana
+#31 
+#02 subst.
+#32 substantivo
+#04 bristande vana
+#12 ovanan ovanor
+#14 2O:va:na
+#98 11393
+#99 12612
+#54 
+
+#01 ovana
+#31 nai sikado
+#02 subst.
+#32 substantivo
+#04 ful vana, oskick
+#07 han hade den fula ovanan att spotta på golvet
+#37 
+#47 7082
+#12 ovanan ovanor
+#14 2O:va:na
+#98 11393
+#99 12613
+#54 
+
+#01 ovanför
+#31 opral
+#02 prep.
+#32 prepositiono
+#04 över
+#05 om rum
+#35 
+#07 ovanför dörren
+#37 
+#47 7083
+#07 ovanför vattenytan
+#37 
+#47 7084
+#14 2Å:vanfö:r
+#98 11394
+#99 12614
+#54 
+#97 mini
+
+#01 ovanlig
+#31 čuda
+#02 adj.
+#32 adjektivo
+#04 inte vanlig, sällsynt
+#07 en ovanlig syn
+#37 
+#47 7085
+#07 en ovanligt mild vinter
+#37 
+#47 7086
+#12 ovanligt ovanliga
+#14 2O:va:nlig
+#98 11395
+#99 12615
+#54 
+#97 mini
+
+#01 ovanlighet
+#31 čuda
+#02 subst.
+#32 substantivo
+#04 det att vara ovanlig
+#08 för ovanlighetens skull ("för en gångs skull")
+#38 
+#48 1141
+#12 ovanligheten ovanligheter
+#14 2O:va:nlighe:t
+#98 11396
+#99 12616
+#54 
+
+#01 ovan~nämnd
+#31 
+#02 adj.
+#32 adjektivo
+#04 omtalad tidigare (i texten)
+#07 i ovannämnda fall
+#37 
+#47 7087
+#12 -nämnt -nämnda
+#14 2Å:vanem:d
+#98 11397
+#99 12617
+#54 
+
+#01 ovanpå
+#31 opral
+#02 prep.
+#32 prepositiono
+#04 över, på
+#05 om rum; bildligt "utom, efter"
+#35 
+#07 ligga ovanpå sängen
+#37 
+#47 7088
+#07 ovanpå allt annat
+#37 
+#47 7089
+#14 2Å:vanpå:
+#98 11398
+#99 12618
+#54 
+#97 mini
+
+#01 ovanstående
+#31 skirime
+#02 adj.
+#32 adjektivo
+#04 ovannämnd
+#14 2Å:vanstå:ende
+#98 11399
+#99 12619
+#54 
+
+#01 ovarsam
+#31 nai sama
+#02 adj.
+#32 adjektivo
+#04 inte varsam, oförsiktig
+#07 en ovarsam hyresgäst hade skadat parketten
+#37 
+#47 7090
+#11 ovarsamhet -en
+#41 
+#51 4950
+#12 ovarsamt ovarsamma
+#14 2O:va:r+sam:
+#98 11400
+#99 12620
+#54 
+
+#01 ovation
+#31 
+#02 subst.
+#32 substantivo
+#04 stormande hyllning, jubelrop
+#07 ovationerna ville aldrig ta slut
+#37 
+#47 7091
+#12 ovationen ovationer
+#14 ova$O:n
+#98 11401
+#99 12621
+#54 
+
+#01 overall
+#31 tate tsali
+#02 subst.
+#32 substantivo
+#04 överdragskläder (där jacka och byxor hänger ihop)
+#09 bild 9:18
+#39 
+#11 träningsoverall
+#41 
+#51 4951
+#12 overallen overaller
+#14 åverÅ:l
+#98 11402
+#99 12622
+#54 
+#97 mini
+
+#01 overhead
+#31 
+#02 se overheadprojektor
+#32 
+#14 overhÄ:d
+#98 11403
+#99 12623
+#54 
+
+#01 overhead~projektor
+#31 
+#02 subst.
+#32 substantivo
+#04 bildprojektor som används vid undervisning
+#05 engelska
+#35 
+#12 -projektorn -projektorer
+#14 2overhÄ:dprojek:tor
+#98 11404
+#99 12624
+#54 
+
+#01 overklig
+#31 nai pačamos, čuda
+#02 adj.
+#32 adjektivo
+#04 inte verklig, drömlik
+#07 livet på 50-talet känns mig overkligt, som något man sett på film
+#37 
+#47 7092
+#12 overkligt overkliga
+#14 2O:vär:klig
+#98 11405
+#99 12625
+#54 
+
+#01 overksam
+#31 
+#02 adj.
+#32 adjektivo
+#04 sysslolös
+#07 inte heller jag har varit overksam de senaste dagarna
+#37 
+#47 7093
+#12 overksamt overksamma
+#14 2O:värksam:
+#98 11406
+#99 12626
+#54 
+
+#01 ovetande
+#31 
+#02 adj.
+#32 adjektivo
+#04 okunnig, omedveten
+#14 2O:ve:tande
+#98 11407
+#99 12627
+#54 
+
+#01 ovidkommande
+#31 nai les kanči
+#02 adj.
+#32 adjektivo
+#04 som inte har med saken att göra
+#07 min egen åsikt är ovidkommande i sammanhanget
+#37 
+#47 7094
+#14 2O:vi:dkåm:ande
+#98 11408
+#99 12628
+#54 
+
+#01 ovilja
+#31 xasardo
+#02 subst.
+#32 substantivo
+#04 bristande vilja
+#07 hans ovilja att samarbeta var välkänd
+#37 
+#47 7095
+#12 oviljan
+#14 2O:vil:ja
+#98 11409
+#99 12629
+#54 
+
+#01 ovillig
+#31 nai kamimasko
+#02 adj.
+#32 adjektivo
+#04 långt ifrån villig
+#07 han var ovillig att lämna ifrån sig passet
+#37 
+#47 7096
+#10 & (att+INF)
+#12 ovilligt ovilliga
+#14 2O:vil:ig
+#98 11410
+#99 12630
+#54 
+
+#01 ovillkorlig
+#31 nai kančesko
+#02 adj.
+#32 adjektivo
+#04 utan villkor, nödvändig
+#08 ovillkorlig dom ("icke villkorlig dom")
+#38 
+#48 1142
+#12 ovillkorligt ovillkorliga
+#14 2O:vilkå:r+lig
+#98 11411
+#99 12631
+#54 
+#97 mini
+
+#01 oviss
+#31 či žanel vorta
+#02 adj.
+#32 adjektivo
+#04 inte säker, osäker
+#07 en oviss framtid
+#37 
+#47 7097
+#07 det är ovisst om han överlever
+#37 
+#47 7098
+#10 & (om x/att+SATS)
+#12 ovisst ovissa
+#14 2O:vis:
+#98 11412
+#99 12632
+#54 
+
+#01 ovisshet
+#31 či žanel
+#02 subst.
+#32 substantivo
+#04 det att inte veta
+#07 sväva i ovisshet
+#37 
+#47 7099
+#12 ovissheten
+#14 2O:vishe:t
+#98 11413
+#99 12633
+#54 
+
+#01 oväder
+#31 nai laši vriama
+#02 subst.
+#32 substantivo
+#04 dåligt väder, åskväder, storm
+#09 bild 32:64
+#39 
+#12 ovädret oväder ovädren
+#14 2O:vä:der
+#98 11414
+#99 12634
+#54 
+#97 mini
+
+#01 ovän
+#31 nai pral, dušmano
+#02 subst.
+#32 substantivo
+#04 person som man är i konflikt med
+#07 bli ovänner
+#37 
+#47 7100
+#12 ovännen ovänner
+#14 2O:ven:
+#98 11415
+#99 12635
+#54 
+
+#01 oväntad
+#31 nas ažukerdo
+#02 adj.
+#32 adjektivo
+#04 inte väntad
+#07 en oväntad seger
+#37 
+#47 7101
+#07 han kom inte oväntat sist i tävlingen
+#37 
+#47 7102
+#12 oväntat oväntade
+#14 2O:ven:tad
+#98 11416
+#99 12636
+#54 
+#97 mini
+
+#01 ovärderlig
+#31 nai sar pučindol
+#02 adj.
+#32 adjektivo
+#04 som inte kan värderas i pengar, oskattbar
+#12 ovärderligt ovärderliga
+#14 2O:vär+de:r+lig
+#98 11417
+#99 12637
+#54 
+
+#01 oväsen
+#31 cipimos
+#02 subst.
+#32 substantivo
+#04 störande ljud, väsen
+#07 föra oväsen
+#37 
+#47 7103
+#12 oväsendet
+#14 2O:vä:sen
+#98 11418
+#99 12638
+#54 
+#97 mini
+
+#01 oväsentlig
+#31 kančesko
+#02 adj.
+#32 adjektivo
+#04 inte väsentlig, betydelselös
+#07 spela en inte oväsentlig roll
+#37 
+#47 7104
+#12 oväsentligt oväsentliga
+#14 2O:vesen:tlig
+#98 11419
+#99 12639
+#54 
+
+#01 oxe
+#31 guruv
+#02 subst.
+#32 substantivo
+#04 kastrerad tjur
+#11 ox~file -n
+#41 
+#51 4952
+#12 oxen oxar
+#14 2Ok:se
+#98 11420
+#99 12640
+#54 
+#97 mini
+
+#01 ozon
+#31 
+#02 subst.
+#32 substantivo
+#04 en giftig form av syre
+#11 ozon~skikt
+#41 
+#51 4953
+#12 ozonen (el. ozonet)
+#14 osÅ:n
+#98 11421
+#99 12641
+#54 
+
+#01 oåterkallelig
+#31 definetivno, proklamerime
+#02 adj.
+#32 adjektivo
+#04 definitiv
+#07 ett oåterkalleligt beslut
+#37 
+#47 7105
+#12 oåterkalleligt oåterkalleliga
+#14 2O:å:terkal:elig
+#98 11422
+#99 12642
+#54 
+
+#01 oåtkomlig
+#31 bi arakado, bi reslo
+#02 adj.
+#32 adjektivo
+#04 omöjlig att nå fram till
+#12 oåtkomligt oåtkomliga
+#14 2O:å:tkåm:lig
+#98 11423
+#99 12643
+#54 
+
+#01 oä
+#31 
+#02 se orienteringsämne
+#32 
+#14 2O:ä:
+#98 11424
+#99 12644
+#54 
+
+#01 oäkta
+#31 nai čačo, xoxamno
+#02 adj.
+#32 adjektivo
+#04 falsk
+#14 2O:ek:ta
+#98 11425
+#99 12645
+#54 
+
+#01 oändlig
+#31 veko le vekosa, so či getol, bi getomos
+#02 adj.
+#32 adjektivo
+#04 utan slut
+#05 allmänt förstärkande "mycket stor"
+#35 
+#07 rymden är oändlig
+#37 
+#47 7106
+#07 en oändlig massa bestämmelser
+#37 
+#47 7107
+#11 oändlighet
+#41 
+#51 4954
+#12 oändligt oändliga
+#14 oEn:dlig
+#98 11426
+#99 12646
+#54 
+#97 mini
+
+#01 oäven
+#31 phral
+#02 adj.
+#32 adjektivo
+#08 inte oäven ("inte så dålig, rätt bra")
+#38 
+#48 1143
+#12 oävet oävna
+#14 2O:ä:ven
+#98 11427
+#99 12647
+#54 
+
+#01 oöverkomlig
+#31 
+#02 adj.
+#32 adjektivo
+#04 som inte kan passeras (om hinder el. dyl)
+#07 oöverkomliga svårigheter
+#37 
+#47 7108
+#12 oöverkomligt oöverkomliga
+#14 2O:ö:verkåm:lig
+#98 11428
+#99 12648
+#54 
+
+#01 oöverskådlig
+#31 nai diklo
+#02 adj.
+#32 adjektivo
+#04 som inte kan överblickas
+#05 bildligt "enorm, oerhörd"
+#35 
+#07 detta kan få oöverskådliga följder
+#37 
+#47 7109
+#12 oöverskådligt oöverskådliga
+#14 2O:ö:ver+skå:dlig
+#98 11429
+#99 12649
+#54 
+
+#01 oöverstiglig
+#31 
+#02 adj.
+#32 adjektivo
+#04 oöverkomlig
+#12 oöverstigligt oöverstigliga
+#14 2O:ö:ver+sti:glig
+#98 11430
+#99 12650
+#54 
+
+#01 oöverträffad
+#31 bi nerime
+#02 adj.
+#32 adjektivo
+#04 som inte överträffats
+#12 oöverträffat oöverträffade
+#14 2O:ö:ver+tref:ad
+#98 11431
+#99 12651
+#54 
+
+#01 oöverträfflig
+#31 naštil arakhel les, bi nerime
+#02 adj.
+#32 adjektivo
+#04 som inte kan överträffas
+#12 oöverträffligt oöverträffliga
+#14 2O:ö:ver+tref:lig
+#98 11432
+#99 12652
+#54 
+
+#01 oövervinnelig
+#31 naštil neril les, bi nerime
+#02 adj.
+#32 adjektivo
+#04 som inte kan besegras
+#12 oövervinn(e)ligt oövervinn(e)liga
+#14 2O:ö:vervin:(e)lig
+#98 11433
+#99 12653
+#54 

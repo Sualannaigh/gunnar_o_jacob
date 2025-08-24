@@ -1,0 +1,24 @@
+#01 x-krok
+#31 x karfin
+#02 subst.
+#32 substantivo
+#04 upphängningskrok (för tavlor etc)
+#09 bild 14:28
+#39 patreto/figurativno
+#12 x-kroken x-krokar
+#14 2Ek:skro:k
+#98 19124
+#99 21239
+#54 
+#97 mini
+
+#01 xylofon
+#31 ksilofono 
+#02 subst.
+#32 substantivo
+#04 ett musikinstrument som består av träplattor på vilka man slår med träklubbor
+#12 xylofonen xylofoner
+#14 ksylofÅ:n
+#98 19125
+#99 21240
+#54 dubi kai marel o manušh pe lende ande musika

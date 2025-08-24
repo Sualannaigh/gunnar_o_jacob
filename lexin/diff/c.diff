@@ -1,0 +1,250 @@
+--- ../kelderasch_filer/text/c.txt	2025-08-13 17:08:33
++++ swe_kal/c.txt	2025-08-24 21:22:43
+@@ -1 +1 @@
+-﻿#01 c
++#01 c
+@@ -16 +16 @@
+-#32 skurtsomos
++#32 skortsomos
+@@ -28 +28 @@
+-#32 skurtsomos
++#32 skortsomos
+@@ -62 +62 @@
+-#01 café
++#01 cafe
+@@ -64 +64 @@
+-#02 se kafé
++#02 se kafe
+@@ -66 +66 @@
+-#12 café(e)t caféer
++#12 cafe(e)t cafeer
+@@ -76 +76 @@
+-#04 servering, kafé
++#04 servering, kafe
+@@ -236 +236 @@
+-#31 djinajitori diskaki
++#31 diskako žinitori
+@@ -314 +314 @@
+-#31 soba temnićaki
++#31 soba temnicaki
+@@ -333 +333 @@
+-#41 temnićaki soba
++#41 temnicaki soba
+@@ -419 +419 @@
+-#31 ćemento
++#31 cemento
+@@ -424 +424 @@
+-#41 ćementosko hamajitori
++#41 cementosko hamajitori
+@@ -463 +463 @@
+-#31 ćentro 
++#31 centro 
+@@ -468 +468 @@
+-#35 ande jekh forma ”Centerpartiet”
++#35 ande jekh forma "Centerpartiet"
+@@ -479 +479 @@
+-#31 ćentro 
++#31 centro 
+@@ -492 +492 @@
+-#31 centro dučanongo
++#31 centro balamengo
+@@ -523 +523 @@
+-#31 ćentilitro
++#31 centilitro
+@@ -536 +536 @@
+-#31 ćentilungo
++#31 centilungo
+@@ -546 +546 @@
+-#31 ćentimetro
++#31 centimetro
+@@ -559 +559 @@
+-#31 ćentralno
++#31 centralno
+@@ -571 +571 @@
+- 
++
+@@ -580 +580 @@
+-#11 central~kommitté
++#11 central~kommitte
+@@ -590 +590 @@
+-#41 centralno stantćia
++#41 centralno stantcia
+@@ -599 +599 @@
+-#31 ando ćentro
++#31 ando centro
+@@ -621 +621 @@
+-#54 e stanćia
++#54 e stancia
+@@ -648 +648 @@
+-#31 ćentralno-pirado
++#31 centralno-pirado
+@@ -662 +662 @@
+-#31 ćentralno bov
++#31 centralno bhov
+@@ -696 +696 @@
+-#31 maškaral, 
++#31 maškaral
+@@ -718 +718 @@
+-#54 ćentrumo
++#54 centrumo
+@@ -721 +721 @@
+-#31 ćerato
++#31 cerato
+@@ -788 +788 @@
+-#31 buraća
++#31 buraca
+@@ -826 +826 @@
+-#38 lel jekh šanća (” zumavel po nerimos vai xasarimos”)
++#38 lel jekh šanca (" zumavel po nerimos vai xasarimos")
+@@ -832 +832 @@
+-#41 bi šancako
++#41 bi šancasko
+@@ -841 +841 @@
+-#54 šanća
++#54 šanca
+@@ -851 +851 @@
+-#37 me šanciv te žjalpe
++#37 me sumavav te žalpe
+@@ -858 +858 @@
+-#54 zumavav, šancil
++#54 zumavel, šancil
+@@ -861 +861 @@
+-#31 kelimos
++#31 khelimos
+@@ -866 +866 @@
+-#37 kelen kelimata
++#37 khelen khelimata
+@@ -874 +874 @@
+-#01 chargé-d'affaires
++#01 charge-d'affaires
+@@ -881 +881 @@
+-#12 en chargé-d'affaires
++#12 en charge-d'affaires
+@@ -888 +888 @@
+-#31 mašari
++#31 masari
+@@ -986 +986 @@
+-#31 vosia
++#31 vossia
+@@ -1064 +1064 @@
+-#37 kames to te kontrolis kadala djeli/informatcji
++#37 kames to te kontrolis kadala dželi/informatcji
+@@ -1141 +1141 @@
+-#31 šifro
++#31 chifro
+@@ -1151 +1151 @@
+-#01 chiffonjé
++#01 chiffonje
+@@ -1156 +1156 @@
+-#12 chiffonjén chiffonjéer
++#12 chiffonjen chiffonjeer
+@@ -1174 +1174 @@
+-#31 čilensko/čileno
++#31 čileno
+@@ -1210 +1210 @@
+-#02 subst. plural
++#02 subst.
+@@ -1347 +1347 @@
+-#31 sivara/papiroša
++#31 papiroša
+@@ -1373 +1373 @@
+-#54 ćigara
++#54 cigara
+@@ -1376 +1376 @@
+-#31 opre
++#31 pašte
+@@ -1399 +1399 @@
+-#31 rata
++#31 rrata
+@@ -1404 +1404 @@
+-#38 anklel ande jekh čori rata (” kerel mai čores ”)
++#38 anklel ande jekh čori rata (" kerel mai čores ")
+@@ -1409 +1409 @@
+-#41 dopaš rata
++#41 topaš rata
+@@ -1497 +1497 @@
+-#37 o čidimos gelas opral ai anklista sar jekh ćirkuso
++#37 o čidimos gelas opral ai anklista sar jekh cirkuso
+@@ -1560 +1560 @@
+-#31 lumoja/limuja
++#31 limuja
+@@ -1567 +1567 @@
+-#41 
++#41 limujako kotor
+@@ -1573 +1573 @@
+-#54  ćitroma
++#54  citroma
+@@ -1602 +1602 @@
+-#37 ćivilna gada
++#37 civilna gada
+@@ -1605 +1605 @@
+-#37 kai san to ando ćivilno
++#37 kai san to ando civilno
+@@ -1676 +1676 @@
+-#36 Sa le swedanori maškar 16 ai 65 si les le themesko čačipe te avel les o ćivilno firimos.
++#36 Sa le swedanori maškar 16 ai 65 si les le themesko čačipe te avel les o civilno firimos.
+@@ -1717 +1717 @@
+-#31 soski civilatcia
++#31 soski civilicia
+@@ -1730 +1730 @@
+-#32 skurtsomos
++#32 skortsomos
+@@ -1758 +1758 @@
+-#31 kiltoris 
++#31 
+@@ -1781 +1781 @@
+-#54 pajaći
++#54 pajaci
+@@ -1786 +1786 @@
+-#32 skurtsomos
++#32 skortsomos
+@@ -1796 +1796 @@
+-#32 skurtsomos
++#32 skortsomos
+@@ -1809 +1809 @@
+-#31 žjukel
++#31 žukel
+@@ -1883 +1883 @@
+-#54 škola ande anglia thaj ande Amerika
++#54 škola ande anglia ai ande Amerika
+@@ -1981 +1981 @@
+-#31 cukorožosko xaben
++#31 cukorozosko xaben
+@@ -2023 +2023 @@
+-#31 masimasko usimos/notimos
++#31 masimasko usimos
+@@ -2036 +2036 @@
+-#31 usimos/notimos masimasko
++#31 usimos masimasko
+@@ -2048 +2048 @@
+-#31 pačamos
++#31 pačajimos
+@@ -2058,2 +2058,2 @@
+-#01 crÃªpe
+-#31 blina/bokoliori
++#01 crêpe
++#31 bokoloro
+@@ -2064 +2064 @@
+-#35 fransuzisko
++#35 fransosisko
+@@ -2091 +2091 @@
+-#32 skurtsomos
++#32 skortsomos
+@@ -2150 +2150 @@
+-#41 ćiklaski rata
++#41 ciklaski rata
+@@ -2156 +2156 @@
+-#41 purengi ćikla
++#41 purengi cikla
+@@ -2185 +2185 @@
+-#31 ciklako drom
++#31 cikalako drom
+@@ -2203 +2203 @@
+-#38 avri ai ciklis (”phenes vareso bi hasnako”)
++#38 avri ai ciklis ("phenes vareso bi hasnako")
+@@ -2213 +2213 @@
+-#31 ciklista
++#31 čiklista
+@@ -2301,2 +2300,0 @@
+-
+-

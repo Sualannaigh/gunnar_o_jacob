@@ -495,8 +495,107 @@ file kelderasch_filer/text/*.txt
 : å.txt: Unicode text, UTF-8 (with BOM) text
 : ö.txt: Unicode text, UTF-8 (with BOM) text
 
-De långa raderna i d är inget syntaaxproblem utan bara väldiigt
+De långa raderna i d är inget syntaaxproblem utan bara väldigt
 babbliga förklaringar.
+
+** <2025-08-24 Sun>
+Innan jag började prata meed Viggo iigen vile jag ha lite bättre
+koll på skillnaderna melllan de olika materialen igen:
+
+#+begin_src bash
+  for f in a b c d e f g h i j k l m n o p q r s t u v w x y z ä å ö; 
+     do 
+        echo $f; 
+        cat ../../lexinextra-dictionaries/dictionaries/swe_kal.txt | raku -Msigpipe -e '
+                    my $fil = @*ARGS[0]; 
+                    say join "\n\n", $*IN.slurp.
+                                         split(/\n\s* <?before "#01 ">/, :skip-empty).
+                                         grep: /:i ^ "#01 $fil"/' $f  > swe_kal/$f.txt ; 
+     done
+#+end_src
+
+#+begin_src bash 
+  wc -l swe_kal/*.txt
+  ##
+  wc -l ../kelderasch_filer/text/*.txt 
+#+end_src 
+
+#+begin_src bash
+ for f in a b c d e f g h i j k l m n o p q r s t u v w x y z ä å ö; do echo $f; diff -U 0  ../kelderasch_filer/text/$f.txt swe_kal/$f.txt > diff/$f.diff; done
+#+end_src
+
+#+begin_src bash
+  cd diff
+  for f in a b c d e f g h i j k l m n o p q r s t u v w x y z ä å ö; do echo $f; grep '^@@' $f.diff | wc -l; echo %%; done | raku -e '.say for $*IN.slurp.split("%%")».split(/\s+/, :skip-empty)'
+#+end_src
+
+
+Eter lite emacsslöjd:
+| fil   | diffar | rader (översättare) | rader (Viggo) |
+|-------+--------+---------------------+---------------|
+| a.txt |    330 |               16818 |         16731 |
+| b.txt |    985 |               24073 |         24071 |
+| c.txt |     82 |                2302 |          2300 |
+| d.txt |    113 |               12479 |         12479 |
+| e.txt |    128 |                6527 |          6526 |
+| f.txt |    550 |               26603 |         26603 |
+| g.txt |    183 |               10739 |         10740 |
+| h.txt |    305 |               13252 |         13228 |
+| i.txt |    231 |                7952 |          7951 |
+| j.txt |    123 |                2946 |          2950 |
+| k.txt |    190 |               22359 |         22357 |
+| l.txt |    145 |               12640 |         12647 |
+| m.txt |    264 |               15762 |         15763 |
+| n.txt |    121 |                7067 |          7070 |
+| o.txt |    118 |               10169 |         10169 |
+| p.txt |    144 |               17318 |         17300 |
+| q.txt |      2 |                  12 |            11 |
+| r.txt |    172 |               16609 |         16611 |
+| s.txt |   1712 |               45232 |         45154 |
+| t.txt |    267 |               18862 |         18838 |
+| u.txt |    508 |               10626 |         10627 |
+| v.txt |    205 |               14491 |         14454 |
+| w.txt |     19 |                 215 |           215 |
+| x.txt |      3 |                  25 |            24 |
+| y.txt |     16 |                 775 |           773 |
+| z.txt |      6 |                 159 |           158 |
+| ä.txt |     70 |                1942 |          1943 |
+| å.txt |    171 |                2605 |          2605 |
+| ö.txt |     19 |                4209 |          4196 |
+|-------+--------+---------------------+---------------|
+|       |        |              324768 |        324494 |
+
+
+Kollar lite detaljer:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

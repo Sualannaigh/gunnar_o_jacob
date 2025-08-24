@@ -1,0 +1,70 @@
+--- ../kelderasch_filer/text/ö.txt	2025-08-13 17:09:11
++++ swe_kal/ö.txt	2025-08-24 21:23:21
+@@ -1 +1 @@
+-﻿#01 ö
++#01 ö
+@@ -12 +12 @@
+-#41 dopaš insla
++#41 
+@@ -153 +153 @@
+-#37 jekh bi maladi atmosfera
++#37 
+@@ -187 +187 @@
+-#41 domolimos
++#41 
+@@ -261 +261 @@
+-#41 suvaki jakh
++#41 
+@@ -264 +264 @@
+-#41 kameraki jakh
++#41 
+@@ -334 +334 @@
+-#37 av kathe pe jekh data!
++#37 
+@@ -477 +477 @@
+-#31 deserto
++#31 dezerto
+@@ -548 +548 @@
+-#11 öl~flaska  n
++#11 öl~flaska
+@@ -612 +612 @@
+-#41 kovles
++#41 
+@@ -666 +666 @@
+-#37 vo sumada miloso te kerel pirasa anda e žela
++#37 
+@@ -704 +704 @@
+-#31 paruvel
++#31 
+@@ -709 +709 @@
+-#37 paruvel  morči
++#37 
+@@ -724 +724 @@
+-#37 pa li duj riga
++#37 
+@@ -734 +734 @@
+-#32 adjektivo          
++#32 adjektivo
+@@ -1264,14 +1263,0 @@
+-
+-#01  öring
+-#31 lov,love
+-#02 efterled
+-#32 
+-#04 mynt som är värt ett visst antal ören
+-#11 50 öring
+-#41 
+-#51 8100
+-#12  öringen  öringar
+-#14  ö:ri@
+-#98 19531
+-#99 21680
+-#54 
+@@ -1290 +1276 @@
+-#01 örlogs 
++#01 örlogs-
+@@ -2738 +2724 @@
+-#01 överljuds 
++#01 överljuds-
+@@ -4209,0 +4196 @@
++

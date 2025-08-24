@@ -1,0 +1,519 @@
+--- ../kelderasch_filer/text/å.txt	2025-08-13 17:09:10
++++ swe_kal/å.txt	2025-08-24 21:23:19
+@@ -1 +1 @@
+-﻿#01 å 1
++#01 å 1
+@@ -41 +41 @@
+-#31 cigno paj
++#31 cigno pai
+@@ -46 +46 @@
+-#38 mai dur andre ando paj
++#38 
+@@ -58 +58 @@
+-#31 sikvavel, pe vorba
++#31 
+@@ -73 +73 @@
+-#31 phari buči
++#31 
+@@ -86 +86 @@
+-#31 vuna, vina
++#31 vuna,vina
+@@ -96 +96 @@
+-#41 vunako bax
++#41 
+@@ -99 +99 @@
+-#41 vunake phandajimata
++#41 
+@@ -102 +102 @@
+-#41 vunako phandajimos
++#41 
+@@ -113 +113 @@
+-#31 vina, vuna
++#31 vina
+@@ -118 +118 @@
+-#41 sumnakoni vuna
++#41 
+@@ -154 +154 @@
+-#37 late si jekh poetisko vuna
++#37 
+@@ -157 +157 @@
+-#41 divanoski vuna
++#41 
+@@ -177,0 +178 @@
++
+@@ -195 +196 @@
+-#31 ašunitori
++#31 auditori,ašunitori
+@@ -200 +201 @@
+-#41 ašunitora
++#41 
+@@ -219 +220 @@
+-#31 matora, vurdon
++#31 matora,vurdon
+@@ -232 +233 @@
+-#31 kursa našimaski
++#31 
+@@ -237 +238 @@
+-#35 na primer ivendeske phala/phalia, pahoske papuči
++#35 
+@@ -250 +251 @@
+-#37 rudjil
++#37 
+@@ -267 +268 @@
+-#41 djivesko kimpo
++#41 
+@@ -273 +274 @@
+-#41 kimposki čik
++#41 
+@@ -276 +277 @@
+-#41 kimposki phuv
++#41 
+@@ -291 +292 @@
+-#37 tradel pe ivendeske phala/phalia
++#37 
+@@ -294 +295 @@
+-#37 tradel matora
++#37 
+@@ -297 +298 @@
+-#37 tradel ando Stockholm
++#37 
+@@ -308 +309 @@
+-#31 mučilpe, vurajlas, hurial
++#31 mučilpe,vurajlas,hurial
+@@ -313 +314 @@
+-#37 e kniška geli ande phuv
++#37 
+@@ -324 +325 @@
+-#31 astarde les, astaren le
++#31 astarde les,astaren le
+@@ -343 +344 @@
+-#37 vo astardilo pala sigo dradimos
++#37 
+@@ -353 +354 @@
+-#31 lel, perel, kerdolpe
++#31 pelas pe kadia, kerdolpe
+@@ -360 +361 @@
+-#37 lel peske jekh dab
++#37 
+@@ -381 +382 @@
+-#31 prekurato
++#31 procuratori
+@@ -386 +387 @@
+-#41 themesko prekurato
++#41 
+@@ -389 +390 @@
+-#41 prekuratongo kher
++#41 
+@@ -403 +404 @@
+-#41 djiesko nasvalimos
++#41 
+@@ -412 +413 @@
+-#31 dradimasko salimos
++#31 kamel te šadelpe pala o drom po paraxodo
+@@ -431 +432 @@
+-#38 vuruto
++#38 
+@@ -436 +437 @@
+-#41 ciparesko mašari
++#41 
+@@ -446 +447 @@
+-#31 cirdelpe maškarestar
++#31 sar o sap lo
+@@ -451 +452 @@
+-#37 cirdelpe angle ande čar
++#37 
+@@ -468 +469 @@
+-#07 barn i åldern 6  8 år
++#07 barn i åldern 6--8 år
+@@ -480 +481 @@
+-#11 ålders~grupp  en
++#11 ålders~grupp
+@@ -483,2 +484,2 @@
+-#11 ålders~pension  en
+-#41 beršengi pensia
++#11 ålders~pension
++#41 
+@@ -497 +498 @@
+-#31 vriama, jekh perioda beršengi
++#31 vriama,jekh perioda beršengi
+@@ -505 +506 @@
+-#41 baxeske berš
++#41 
+@@ -533 +534 @@
+-#37 phurikane vorbi
++#37 
+@@ -544,0 +546 @@
++
+@@ -563 +565 @@
+-#36 De katar kana perdolpe 65 berš si slobodia kai kadia pensia, numa šaj porončilpe kana šaj lelpe avri e pensia maškar 60 vai 70 berš.
++#36 
+@@ -578 +580 @@
+-#37 vo perel akanaš ande beršengi granica
++#37 
+@@ -636 +638 @@
+-#31 strafo
++#31 obligatsia
+@@ -641 +643 @@
+-#37 vo či inkerdas peske strafori
++#37 
+@@ -650 +652 @@
+-#31 ande vast
++#31 
+@@ -655 +657 @@
+-#37 ande bordoske vast si te akharen kai le beršesko čidimos
++#37 
+@@ -665 +667 @@
+-#31 strafojil
++#31 
+@@ -670 +672 @@
+-#37 e firma si strafome te počinel dukhako počinimos
++#37 
+@@ -680 +682 @@
+-#31 bruma
++#31 vaporo
+@@ -685 +687 @@
+-#41 pajeski bruma
++#41 
+@@ -688 +690 @@
+-#41 brumaki mašina
++#41 
+@@ -691 +693 @@
+-#41 brumako paraxodo
++#41 
+@@ -705 +707 @@
+-#37 phabardo 
++#37 
+@@ -715 +717 @@
+-#31 o žežeš žal po vaporo
++#31 o žežeš zjal po vaporo
+@@ -720 +722 @@
+-#37 o žežes da ande ande stansia
++#37 
+@@ -737 +739 @@
+-#41 perdo kijimos
++#41 
+@@ -755 +757 @@
+-#31 Ångermanland 
++#31 Ångermanland (anav)
+@@ -759 +761 @@
+-#36 Jekh gor ando Norrland.
++#36 
+@@ -781 +783 @@
+-#31 kijimos, depresia
++#31 kijimos,depresia
+@@ -786 +788 @@
+-#37 voj la depresia ai dar angla futoro
++#37 
+@@ -789 +791 @@
+-#41 kijime
++#41 
+@@ -795 +797 @@
+-#54 kejimos
++#54 
+@@ -799 +801 @@
+-#31 kijilpe, kejilpe
++#31 kijilpe, kijim ma
+@@ -804 +806 @@
+-#37 kijiv man te dem muri vorba te avav
++#37 
+@@ -869 +871 @@
+-#41 kalenderoske berš
++#41 
+@@ -875 +877 @@
+-#41 sičarimasko berš
++#41 
+@@ -878 +880 @@
+-#41 bučako berš
++#41 
+@@ -881 +883 @@
+-#41 beršeske love andre
++#41 
+@@ -884 +886 @@
+-#41 ande le 10 berš
++#41 
+@@ -887 +889 @@
+-#41 beršesko počin
++#41 
+@@ -897 +899 @@
+-#31 pajeski lopata ka čuno
++#31 paieski lopata ka čuno
+@@ -912 +914 @@
+-#38 ande buth berš
++#38 
+@@ -919 +921 @@
+-#01 åretrunt 
++#01 åretrunt-
+@@ -925 +927 @@
+-#41 antrego beršesko kher
++#41 
+@@ -961 +963 @@
+-#37 beršesko vasdimos
++#37 
+@@ -964 +966 @@
+-#37 beršesko xasarimos
++#37 
+@@ -973,3 +975,2 @@
+-#31 beršeski kontrola pe matora
+-#02 subst.
+-#32 substantivo
++#31 svako berš kontrola pe matora
++#02 se
+@@ -1001 +1002 @@
+-#38 pe kadia vrama beršeski
++#38 
+@@ -1042 +1043 @@
+-#31 beršeski školaki klasa 
++#31 beršeski klasa (skola)
+@@ -1065 +1066 @@
+-#31 beršesko parudimos (parujimos)
++#31 beršesko parduimos (parujimos)
+@@ -1095 +1096 @@
+-#37 berš 1984
++#37 
+@@ -1161 +1162 @@
+-#31 gindo
++#31 opinja
+@@ -1166 +1167 @@
+-#37 politikaske gindori
++#37 
+@@ -1169 +1170 @@
+-#37 amende si diferenti gindori pa glatengo barimos
++#37 
+@@ -1191 +1192 @@
+-#41 pelmengo ronžeto
++#41 
+@@ -1194 +1195 @@
+-#41 ronžetosko nover
++#41 
+@@ -1248 +1249 @@
+-#31 ker vušoro, kher jasno
++#31 ker vušoro,kher jasno
+@@ -1263 +1264 @@
+-#31 visona, pačape
++#31 visona,pačape
+@@ -1268 +1269 @@
+-#41 trajoski visona
++#41 
+@@ -1314 +1315 @@
+-#31 gindov ma, gindil pe
++#31 gindov ma,gindil pe
+@@ -1334 +1335 @@
+-#37 angla savore
++#37 
+@@ -1379 +1380 @@
+-#37 ža pe rig
++#37 
+@@ -1382 +1383 @@
+-#37 ža pe kaver rig
++#37 žač pe kaver rig
+@@ -1385 +1386 @@
+-#37 o kher si karing o norto
++#37 
+@@ -1394 +1395 @@
+-#31 kai, pe
++#31 kai,pe
+@@ -1406 +1407 @@
+-#37 del suporto jekhe bučake
++#37 
+@@ -1446 +1447 @@
+-#37 o direktoro šaj lel kris anda čorimos
++#37 
+@@ -1449 +1450 @@
+-#37 o prekuratori vasdas kris karing jekh 30 beršesko
++#37 
+@@ -1467 +1468 @@
+-#36 Prekuratori vasdel kris karing jekh manuš kai si pe o gindo sar došalo ke te si dosta proba te šaj anklel strafo.
++#36 
+@@ -1469 +1470 @@
+-#37 le trin murš si krisdine pe jekh sumajimasko mudarimos
++#37 
+@@ -1480 +1481 @@
+-#31 ande o gindo, prinžarimos
++#31 ande o gindo,prinžarimos
+@@ -1485 +1486 @@
+-#37 si te avel man čiri vorba ande muro gindo
++#37 
+@@ -1499 +1500 @@
+-#37 lel jekh buči
++#37 
+@@ -1529 +1530 @@
+-#37 e vriama angla milaj avila pale!
++#37 
+@@ -1532 +1533 @@
+-#37 miji ai miji manuš
++#37 
+@@ -1547 +1548 @@
+-#37 mai dikhasa amen!
++#37 
+@@ -1553 +1554 @@
+-#41 palpale počinomos
++#41 
+@@ -1575 +1576 @@
+-#31 pale hasnil
++#31 
+@@ -1583 +1584 @@
+-#41 so pale hasnil
++#41 
+@@ -1622 +1623 @@
+-#37 o konto si te počindol tela trin berš
++#37 
+@@ -1646 +1647 @@
+-#31 pale hasnil
++#31 
+@@ -1715 +1716 @@
+-#37 maškar le akharde gostori si o amperati ai amperatitsa
++#37 
+@@ -1725 +1726 @@
+-#31 lel palpale 
++#31 lel palpale,
+@@ -1730 +1731 @@
+-#37 voj vuštili anglunes te pala jekh riat
++#37 
+@@ -1760 +1761 @@
+-#37 palpale peska familjasa
++#37 
+@@ -1764 +1765 @@
+-#41 pale andekthan
++#41 
+@@ -1773 +1774 @@
+-#31 bičinitori
++#31 šeftari
+@@ -1777,2 +1778,2 @@
+-#07 han är återförsäljare för Volvo
+-#37 vo lo bičinitori ka Volvo
++#07 han är återförsäljare för xxxx
++#37 
+@@ -1787 +1788 @@
+-#31 phenel, mothol
++#31 phenel,mothol
+@@ -1792 +1793 @@
+-#37 e djela ašundolpe ande le tsajtongora le djeseske
++#37 
+@@ -1805 +1806 @@
+-#31 žal palpale,del palpale
++#31 zjal palpale,del palpale
+@@ -1818 +1819 @@
+-#31 žal palpale
++#31 zjal palpale
+@@ -1823 +1824 @@
+-#37 palpale kai buči
++#37 
+@@ -1826 +1827 @@
+-#37 sa gelas palpale kai normalno
++#37 
+@@ -1836 +1837 @@
+-#31 počinelpe palpale
++#31 počinelpe palpal
+@@ -1843 +1844 @@
+-#37 me počindem palpale leske laše vorbi
++#37 
+@@ -1872 +1873 @@
+-#37 lel zor pala jekh nasvalimos
++#37 
+@@ -1889 +1890 @@
+-#38 dikhas amen
++#38 dikas amen
+@@ -1915 +1916 @@
+-#37 palpale ando Švedo
++#37 
+@@ -1961 +1962 @@
+-#31 mai dikhas amen, mai arakadjuvaza
++#31 mai dikhas amen,mai arakadjuvaza
+@@ -1966 +1967 @@
+-#38 mai dikhas amen
++#38 
+@@ -1975 +1976 @@
+-#31 dikhasa de neves,dikel pale
++#31 dikasa de neves,dikel pale
+@@ -1980 +1981 @@
+-#37 vo šoa či mai dikhlas peske them
++#37 
+@@ -1990 +1991 @@
+-#31 vorba palpale
++#31 reflectil
+@@ -2020 +2021 @@
+-#31 so ašila, o resto
++#31 so mai si, o rezto
+@@ -2025 +2026 @@
+-#37 so ašila anda love
++#37 
+@@ -2028 +2029 @@
+-#37 so ašila anda vriama 1900
++#37 
+@@ -2042 +2043 @@
+-#37 akana mai si trin djes kai o alomos
++#37 
+@@ -2045 +2046 @@
+-#37 mai dikhasa kon neril
++#37 
+@@ -2056 +2057 @@
+-#31 rečia vortomaski
++#31 jekh rečia vortomaski
+@@ -2074 +2075 @@
+-#37 akana sim vorta palpale pala muri čangeski dukh
++#37 
+@@ -2092 +2093 @@
+-#37 palpale thodini ordina
++#37 
+@@ -2113 +2114 @@
+-#31 o konsekvenso
++#31 o konsekvenzo
+@@ -2118 +2119 @@
+-#37 o marimos la phare konsekvensi
++#37 
+@@ -2129 +2130 @@
+-#31 e konsekvensia
++#31 e konsekvencia
+@@ -2145 +2146 @@
+-#37 neril palpale e zor
++#37 
+@@ -2155 +2156 @@
+-#31 lašarel palpale
++#31 lašarel (palpale), lašarav
+@@ -2160 +2161 @@
+-#37 pale hasnake hertiji
++#37 
+@@ -2170 +2171 @@
+-#31 lašarimos, lašaripe
++#31 lašarimos,lašaripe
+@@ -2175 +2176 @@
+-#37 pale hasnake hertiji
++#37 
+@@ -2184 +2185 @@
+-#31 žal palpale
++#31 zjal palpale
+@@ -2189 +2190 @@
+-#37 boldel kherel 
++#37 
+@@ -2242 +2243 @@
+-#31 žal mit
++#31 zjal mit
+@@ -2246 +2247 @@
+-#07 han anlände till Wien åtföljd av sin 80 årige far
++#07 han anlände till Wien åtföljd av sin 80-årige far
+@@ -2301 +2302 @@
+-#41 žutimaske paketa
++#41 
+@@ -2326 +2327 @@
+-#31 divano vastensa
++#31 
+@@ -2331 +2332 @@
+-#37 vo delas duma lokhes bi le vastensa
++#37 
+@@ -2474 +2475 @@
+-#31 desa but
++#31 deza but
+@@ -2519 +2520 @@
+-#11 åttatimmars~dag  en
++#11 åttatimmars~dag
+@@ -2522 +2523 @@
+-#11 åtta~årig  t
++#11 åtta~årig
+@@ -2532 +2533 @@
+-#31 oxto, oxtali
++#31 oxtali
+@@ -2549 +2550 @@
+-#41 ando oxtovardeš
++#41 
+@@ -2605 +2605,0 @@
+-

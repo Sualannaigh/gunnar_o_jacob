@@ -1,0 +1,1069 @@
+--- ../kelderasch_filer/text/a.txt	2025-08-13 17:08:18
++++ swe_kal/a.txt	2025-08-24 21:22:40
+@@ -1,30 +1,0 @@
+-﻿#01 à 1
+-#31 á1
+-#02 prep.
+-#32 prepositiono
+-#04 till ett pris av
+-#05 endast vid sifferuttryck
+-#35 noma phenelpe kána si pála le numeri
+-#07 två koppar kaffe à 8 kronor (styck)
+-#37 duj kuča kafa keren svako jekh 8 kroni
+-#47 1
+-#14 a
+-#98 1
+-#99 1
+-#54 kana site phenes variso pala numeri (šifri)
+-
+-#01 à 1
+-#31 ži kai
+-#02 prep.
+-#32 prepositiono
+-#04 till
+-#05 i sifferuttryck
+-#35 ande le šifri
+-#07 2 à 3 meter
+-#37 2 ži kai 3 meteri
+-#47 2
+-#14 a
+-#98 1
+-#99 2
+-#54 kána trobul te musoris variso "musora"
+-
+@@ -48 +18 @@
+-#31 a ( tónó musicakó)
++#31 a ( tono musicako)
+@@ -57 +27 @@
+-#54 ande la musicakó termó
++#54 ande la musicako termo
+@@ -64 +34 @@
+-#14 akÅn:to  (fråga:vad betyder det här?)
++#14 akÅn:to 
+@@ -67 +37 @@
+-#54 kána si a conto,sar kána "počines variso mai anglal"
++#54 kana si a conto,sar kana "počines variso mai anglal"
+@@ -69,48 +38,0 @@
+-#01 à jour
+-#31 a journo
+-#02 adj.
+-#32 adjektivo
+-#05 franskt uttryck
+-#35 franzosisko vorba
+-#08 hålla sig (el. vara) à jour (med något) ("hålla sig informerad")
+-#38 Te aves ando kontaktó. Te inkerdjol o manuš ando kontaktó
+-#48 3
+-#14 a$O:r
+-#98 4
+-#99 6
+-#54 djanel o manuš,kána si o manuš inkerdo ande informatsia (si informimé)
+-Förslag:zjanel/žanel
+-
+-
+-#01 à la
+-#31 á la (sar)
+-#02 adv.
+-#32 adverbo
+-#04 enligt	
+-#05 ifråga om maträtter
+-#35 xabeneske anava
+-#07 biff à la Lindström	
+-#37 kado si más litjardo (förslag:ličardo)
+-#47 3
+-#14 ala
+-#98 5
+-#99 7
+-#54 jekh pušimos palá le xabenata (xabesko pušipé)
+-
+-#01 à la carte
+-#31 á la carte
+-#02 adv.
+-#32 adverbo
+-#04 efter den fasta matsedeln
+-#05 franskt uttryck
+-#35 franzosisko vorba
+-#07 äta à la carte
+-#37 kána mangel peske o manuš xaben katar o á la carte
+-#47 4
+-#09 motsats ^dagens rätt^
+-#39 Jekh mai kuči xaben sar normalno
+-#14 alakAr+t:
+-#98 6
+-#99 8
+-#54 xabe kai si mai specialno
+-
+@@ -123 +45 @@
+-#35 Ande la fimakó anav (förs.firmako)
++#35 Ande la fimako anav 
+@@ -128 +50 @@
+-#37 AB Swedisko matorasko testo, kai len sáma te aven le matori vorta ando trafikó      förs.(matorako)
++#37 AB Swedisko matorasko testo, kai len sama te aven le matori vorta ando trafiko
+@@ -140 +62 @@
+-#36 Themotno kelimaskó compania (firma)
++#36 Themotno kelimasko compania (firma)
+@@ -145 +67 @@
+-#31 AB Swedisko matorasko testo  förs.(matorako)
++#31 AB Swedisko matorasko testo
+@@ -157 +79 @@
+-#01 abbé
++#01 abbe
+@@ -162 +84 @@
+-#12 abbén abbéer
++#12 abben abbeer
+@@ -193 +115 @@
+-#54 mašo kai si ande le paija le guglé   förs.(paja)
++#54 mašo kai si ande le le gugle paija (paja)
+@@ -205 +127 @@
+-#54 le trin pervi bokvi, kai si ando alfabetó
++#54 le trin pervi bokvi, kai si ando alfabeto
+@@ -216 +138 @@
+-#54 kniška kai sikavel le fundametalni bokvi ando alafabetó
++#54 kniška kai sikavel le fundametalni bokvi ando alafabeto
+@@ -235 +157 @@
+-#35 manuš kai si baro sar amperató vai presidentó
++#35 manuš kai si baro sar amperato vai presidento
+@@ -247 +169 @@
+-#54 lel pes téle, šudel pes avri/téle
++#54 lel pes tele, šudel pes avri/tele
+@@ -255 +177 @@
+-#37 jekh tzigno mešajimos (problemo)  förs.(čigno)
++#37 jekh čigno mešajimos
+@@ -262 +183,0 @@
+-                                                 förs.(azjukerel/ažukerel)
+@@ -265 +186 @@
+-#31 ABF,lé bučaria
++#31 ABF,le bučaria
+@@ -278 +199 @@
+-#31 na-normalnó
++#31 na-normalno
+@@ -289 +210 @@
+-#54 naj normalno
++#54 nai normalno
+@@ -292 +213 @@
+-#31 abonemangó
++#31 abonemango
+@@ -309 +230 @@
+-#31 abonentó
++#31 abonento
+@@ -344 +265 @@
+-#31 šudipé
++#31 šudipe
+@@ -368 +289 @@
+-#31 šudajimaskó žutipé
++#31 šudajimasko žutipe
+@@ -381 +302 @@
+-#31 drabarimós
++#31 drabarimos
+@@ -392 +313 @@
+-#31 aterdjardó
++#31 aterdjardo
+@@ -400 +321 @@
+-#54 ašadó/aterdjadó direktnó po than
++#54 ašado/aterdjado direktno po than
+@@ -403 +324 @@
+-#31 absolutnó
++#31 absolutno
+@@ -407 +328 @@
+-#07 absolut majoritet
++#07 absolut maioritet
+@@ -414 +335 @@
+-#54 kadia si ai kavér fialo naj  förs.(thaj)
++#54 kadia si ai(thaj) kaver fialo naj
+@@ -418 +339 @@
+-#31 absolutnó
++#31 absolutno
+@@ -423,2 +344,2 @@
+-#37 absolutnó freškó
+-#47 14
++#37 absolutno freško
++#47 14 
+@@ -426 +347 @@
+-#37 musaj si absolutnó
++#37 musaj si absolutno
+@@ -429 +350 @@
+-#37 Absolutnó naj tuke slobódo te aves
++#37 Absolutno nai tuke slobodo te aves
+@@ -434 +355 @@
+-#54 bi vorbakó. Naj kavér drom vai vorba
++#54 bi vorbako. Nai kaver drom vai vorba
+@@ -446 +367 @@
+-#54 manuš kai si total trazó, kai šoha či pel ŕatjia/račia
++#54 manuš kai si total trazo, kai šoha či pel ratjia/račia
+@@ -449 +370 @@
+-#31 tražotovó
++#31 tražotovo
+@@ -457 +378 @@
+-#54 manuš kai absolutnó či pel alkoholo
++#54 manuš kai absolutno či pel alkoholo
+@@ -460 +381 @@
+-#31 pélpe
++#31 pelpe
+@@ -474,2 +395,2 @@
+-#99 31
+-#54 sar kána jekh dirza tsirdel opre pai/paji  (förs.čirdel)
++#99 31	
++#54 sar kana jekh dirza cirdel opre pai/paji
+@@ -490 +411 @@
+-#54 kána variso godi lel sa opre le manušeske gindori
++#54 kana variso godi lel sa opre le manušeske gindori
+@@ -493 +414 @@
+-#31 abstinensó.(nasvalimós)
++#31 abstinenso.(nasvalimos)
+@@ -504 +425 @@
+-#54 manuš kai mekel pes katar o alkoholo vai draba (droga) lel kado nasvalimos o abstinensó
++#54 manuš kai mekel pes katar o alkoholo vai draba (droga) lel kado nasvalimos o abstinenso
+@@ -532 +453 @@
+-#54 abstraktó si variso kai si andal le gindoria, ai či kerdjol pe ando čačipé
++#54 abstrakto si variso kai si andal le gindoria, ai či kerdjol pe ando čačipe
+@@ -535 +456 @@
+-#31 abstraktionó
++#31 abstraktiono
+@@ -552 +473 @@
+-#31 abstraktionó
++#31 abstraktiono
+@@ -560 +481 @@
+-#54 noma gindo kai kerel pes
++#54 numa gindo kai kerel pes
+@@ -568 +489 @@
+-#37 Kado divano si total bimaladó ai dilivanó
++#37 Kado divano si total bimalado ai dilivano
+@@ -577 +498 @@
+-#31 hóriál, hóriáltar.(horialtar)
++#31 hurial, hurialtar
+@@ -589 +510 @@
+-#54 kána zorarel pe o tradimos
++#54 kana zorarel pe o tradimos
+@@ -592 +513 @@
+-#31 akcentó
++#31 akcento
+@@ -597 +518 @@
+-#37 O akcentó avel anda o ghor le divanoskó   (förs.gor)
++#37 O akcento avel anda o gor le divanosko
+@@ -603 +524 @@
+-#54 anda o akcentó ašunes o hango le manušeskó
++#54 anda o akcento ašunes o hango le manušesko
+@@ -607 +528 @@
+-#31 akcentó
++#31 akcento
+@@ -612 +533 @@
+-#37 Voj del duma bi akcentósa
++#37 Voj del duma bi akcentosa
+@@ -618 +539 @@
+-#54 kána varkon phagel ande peski vorba, atunči ašundol o akcentó
++#54 kana varkon phagel ande peski vorba, atunči ašundol o akcento
+@@ -627 +548 @@
+-#35 taj figurativnó  ”sikavel pe jasnó/zorales”
++#35 taj figurativno  "sikavel pe jasno/zorales"
+@@ -633 +554 @@
+-#41 akcenturingó
++#41 akcenturingo
+@@ -639 +560 @@
+-#54 kána mangel o manuš te vazdel opre variso mai djasnó. Sikavel pe mai jasnó
++#54 kana mangel o manuš te vazdel opre variso mai djasno. Sikavel pe mai jasno
+@@ -642 +563 @@
+-#31 aceptabeló
++#31 presnajime, akseptabelo
+@@ -647 +568 @@
+-#37 Jekh aceptabeló drom avri anda o problemo
++#37 jekh akseptabelo drom avri anda o problemo
+@@ -650 +571 @@
+-#41 naj aceptabeló.
++#41 nai akseptabelo.
+@@ -656 +577 @@
+-#54 si primimé.(si aceptujimé)
++#54 si primime.(si aceptujime)
+@@ -659 +580 @@
+-#31 akceptil 
++#31 presnajil, akseptil 
+@@ -667 +588 @@
+-#37 te atjarel pes aceptuimé/primimé
++#37 te atjarel pes aceptuime/primime
+@@ -674 +595 @@
+-#54 priznajil. (primil pe )
++#54 priznaiil. (primil pe )
+@@ -678 +599 @@
+-#31 acisó
++#31 aciso
+@@ -686 +607 @@
+-#54 acsisó počil pes anda o nerišago/neripé sar na primer, kai si pála alkoholóski, duhanóski ai energiaski taxa
++#54 acsiso počil pes anda o nerišago/neripe sar na primer, kai si pala alkoholoski, duhanoski ai energiaski taxa
+@@ -689 +610 @@
+-#31 acetonó
++#31 acetono
+@@ -697 +618 @@
+-#54 acetonó, si jekh zoralo drab kai čistol pe lesa o manuš
++#54 acetono, si jekh zoralo drab kai čistol pe lesa o manuš
+@@ -700 +621 @@
+-#31 joj,jaj
++#31 joj,j aj
+@@ -704 +625 @@
+-#35 vatjimos/vatjipé anda nekasó/šalia  (vai pála radujimos/radujipé)
++#35 vatjimos/vatjipe anda nekaso/šalia  (vai pala radujimos/radujipe)
+@@ -711 +632 @@
+-#31 acklamašonó
++#31 aklamašono
+@@ -716 +637 @@
+-#37 alomé acklamatsisa
++#37 alome acklamatsisa
+@@ -722 +643 @@
+-#54 acklamatsia, alomé positivno savorendar
++#54 acklamatsia, alome positivno savorendar
+@@ -740 +661 @@
+-#31 ackompanjeril
++#31 akompanjeril
+@@ -745 +666 @@
+-#35 generalnó ”te ašundjol o manuš andek than/khetanes”
++#35 generalno "te ašundjol o manuš andek than/khetanes"
+@@ -748 +669 @@
+-#41 o ackompanjemangó
++#41 o ackompanjemango
+@@ -754 +675 @@
+-#54 ackompanjeril, si kána bašavel pe jekh djili pála jekh avreste, ai del pe contra/stemma jekh avres
++#54 ackompanjeril, si kana bašavel pe jekh djili pala jekh avreste, ai del pe contra/stemma jekh avres
+@@ -757 +678 @@
+-#31 lovengo ackordó
++#31 lovengo ackordo
+@@ -762 +683 @@
+-#37 kerel pe buči po acordó
++#37 kerel pe buči po acordo
+@@ -765 +686 @@
+-#37 vorta acordó
++#37 vorta acordo
+@@ -768 +689 @@
+-#39 o boldimos/boldipé pála vramiaki počin
++#39 o boldimos/boldipe pala vramiaki počin
+@@ -773 +694 @@
+-#41 acordósko počinimos/počinipé
++#41 acordosko počinimos/počinipe
+@@ -776 +697 @@
+-#41 hamiméacordó
++#41 hamimeacordo
+@@ -782 +703 @@
+-#54 lovengo počinimos, kai lel pes pála buči kai si opral pa e vramiaki buči e normalno
++#54 lovengo počinimos, kai lel pes pala buči kai si opral pa e vramiaki buči e normalno
+@@ -785 +705,0 @@
+-
+@@ -787 +707 @@
+-#31 ackordo 
++#31 akordo , tono
+@@ -792 +712 @@
+-#37 malav jekh acordó po piano
++#37 malav jekh acordo po piano
+@@ -795 +715 @@
+-#41 duroskóacordó
++#41 duroskoacordo
+@@ -801 +721 @@
+-#54 musicake tonóri,kai kerdjol pe jekh hango ai atunči anklel melodia
++#54 musicake tonori,kai kerdjol pe jekh hango ai atunči anklel melodia
+@@ -805 +725 @@
+-#31 acordó
++#31 acordo
+@@ -810 +730 @@
+-#36 Kána jekh compania/firma perel/xajil ai naštil mai te počinel peske contoria/vundjilimáta, atunči arakadjol pes jekh ampečiala maškar le duj partiori
++#36 Kana jekh compania/firma perel/xajil ai naštil mai te počinel peske contoria/vundjilimata, atunči arakadjol pes jekh ampečiala maškar le duj partiori
+@@ -819 +739 @@
+-#31 ackredisiril
++#31 akredisiril
+@@ -825 +745 @@
+-#41 ackrediteringó
++#41 ackrediteringo
+@@ -831 +751 @@
+-#54 slobodia, del slobodia (kai jekh diplomató vai journalista)
++#54 slobodia, del slobodia (kai jekh diplomato vai journalista)
+@@ -843 +763 @@
+-#54 čidel, čidel pe peste but love, ai thol rigate” (förs.thaj)
++#54 čidel, čidel pe peste but love, ai thol rigate" 
+@@ -846 +766 @@
+-#31 ackuratesnó
++#31 perfektšono
+@@ -857 +777 @@
+-#31 akne
++#31 akne, mujesko phuvna
+@@ -866 +786 @@
+-#54 pugnia, si jekh nasvalimos kai si pe e morči kai le terne manuš,kána si len pugnia po muj ai pe kox/korr
++#54 pugnia, si jekh nasvalimos kai si pe e morči kai le terne manuš,kana si len pugnia po muj ai pe kox/korr
+@@ -870 +790 @@
+-#31 acktionó
++#31 aktiono
+@@ -872 +791,0 @@
+-
+@@ -876 +795 @@
+-#41 drama kai si actionó
++#41 drama kai si aktiono
+@@ -882 +801 @@
+-#54 filma vai drama kai si deza/defial intersantó
++#54 filma vai drama kai si deza/defial intersanto
+@@ -909 +828 @@
+-#38 tholpe pe gjodji      (förs.godji)
++#38 tholpe pe godji
+@@ -917 +836 @@
+-#31 ghertiáno
++#31 ghertiano
+@@ -925 +844 @@
+-#54 jekh kombo pe le lanćora kai si kai le murš
++#54 jekh kombo pe kox kai si kai le murš
+@@ -938 +857 @@
+-#31 
++#31 thol andekthan
+@@ -954 +873 @@
+-#31 čidimós
++#31 čidimos
+@@ -959 +878 @@
+-#36 Jekh anda le 4 djinajimata/šoturi)   
++#36 Jekh anda le 4 djinaiimata/šoturi  
+@@ -968 +887 @@
+-#31 adekvato, malado, malades
++#31 adekvato, malado
+@@ -1002 +921 @@
+-#31 studentó (sičaritovó)
++#31 studento (sičaritovo)
+@@ -1005 +923,0 @@
+-
+@@ -1014 +932 @@
+-#31 dešo-oxto, dešo-oxtovar
++#31 dešo oxto
+@@ -1031 +949 @@
+-#31 adektivno
++#31 adjektivno
+@@ -1043 +961 @@
+-#31 adjungeril, si ando bordo
++#31 si ando bordo
+@@ -1074 +992 @@
+-#14 ajÖ:
++#14 aiÖ:
+@@ -1115 +1033 @@
+-#31 lovengi-administacija   (förs.administratcia)
++#31 lovengi administacia
+@@ -1120 +1038 @@
+-#37 
++#37 administrativno buči
+@@ -1123 +1041 @@
+-#37 
++#37 administrativna košti
+@@ -1132 +1050 @@
+-#31 adminiostravno manuš  (förs.administrativno)
++#31 administrativno manuš  
+@@ -1136 +1053,0 @@
+-
+@@ -1149 +1066 @@
+-#31 bararél-gláta
++#31 bararel glata, lel glata
+@@ -1160 +1077 @@
+-#54 
++#54 lel sama katar kavreski glata sar te si peski te bararel
+@@ -1163 +1080 @@
+-#31 lel-pe gláta
++#31 lel pe glata
+@@ -1197 +1114 @@
+-#31 adrealino
++#31 adrenalino
+@@ -1280 +1197 @@
+-#41 adventoski memeliasko vastari   (förs.memeliako kandelevo)
++#41 adventoski memeliako kandelevo
+@@ -1361 +1278 @@
+-#54 kai xantsarel e balval, ai vušoril na primer te shaj vurial o areoplano/aviona šukar
++#54 kai xantsarel e balval, ai vušoril na primer te šaj vurial o areoplano/aviona šukar
+@@ -1375 +1292 @@
+-#31 godjiakó nasvalipé
++#31 godjiako nasvalipe
+@@ -1464 +1381 @@
+-#54 te thos opre patretoria kai keren reklama pa varisosté
++#54 te thos opre patretoria kai keren reklama pa varisoste
+@@ -1475 +1392 @@
+-#37 si šeftoria le kavré themensa
++#37 si šeftoria le kavre themensa
+@@ -1484 +1401 @@
+-#41 šeftoskó kontakto
++#41 šeftosko kontakto
+@@ -1490 +1407 @@
+-#41 o trajo le šeftoskó
++#41 o trajo le šeftosko
+@@ -1493 +1410 @@
+-#41 si šeftoskó
++#41 si šeftosko
+@@ -1499 +1416 @@
+-#54 šefto (bisnesó,buisnesó) si, kana o manuš bičinel vai činel variso kavré manušestar
++#54 šefto (bisneso,buisneso) si, kana o manuš bičinel vai činel variso kavre manušestar
+@@ -1503 +1420 @@
+-#31 dučanó
++#31 dučano
+@@ -1508 +1425 @@
+-#37 jekh lezni dučanó
++#37 jekh lezni dučano
+@@ -1511 +1428 @@
+-#37 ža/dža kai o dučanó
++#37 ža/dža kai o dučano
+@@ -1516 +1433 @@
+-#41 dučanó kai bičinel duhanó/tabakaja
++#41 dučano kai bičinel duhano/tabakaia
+@@ -1522 +1439 @@
+-#41 jekh lanćó dučanóra
++#41 jekh lanćo dučanora
+@@ -1549 +1466 @@
+-#31 scándaló
++#31 rindoski žela
+@@ -1554 +1471 @@
+-#37 
++#37 či da rindo kai žela
+@@ -1557 +1474 @@
+-#41 
++#41 kamimasko šefto
+@@ -1575 +1492 @@
+-#35 patretosko/figurativnosko ” manuš kai si harnjiko te kerel šeftoria”
++#35 patretosko/figurativnosko " manuš kai si harnjiko te kerel šeftoria"
+@@ -1583 +1500 @@
+-#31 aforizmo
++#31 proverbo
+@@ -1594 +1511 @@
+-#31 africáno, kaloro
++#31 afrikano, kaloro
+@@ -1605 +1522 @@
+-#31 afrikániskó, afrikanscó
++#31 afrikansko
+@@ -1616 +1533 @@
+-#31 africániscó frizura
++#31 afrikanisko frisura
+@@ -1627 +1544 @@
+-#31 telal-riat
++#31 telal riat
+@@ -1634 +1551 @@
+-#37 
++#37 jekh baxtali riat
+@@ -1637 +1554 @@
+-#37 
++#37 laši riat!
+@@ -1643 +1560 @@
+-#41 
++#41 kručoneski riat
+@@ -1652 +1569 @@
+-#41 
++#41 riatčako rudjimos
+@@ -1665 +1582 @@
+-#31 agail, marel
++#31 sičarimasko marimos
+@@ -1668 +1584,0 @@
+-
+@@ -1674 +1590 @@
+-#54 
++#54 kana mardol varikon te sičol
+@@ -1678 +1594 @@
+-#31 
++#31 marel, malavel
+@@ -1683 +1599 @@
+-#37 
++#37 marel peske šhaven/glaten
+@@ -1721 +1637 @@
+-#31 
++#31 bičinitori
+@@ -1738 +1654 @@
+-#31 ager-re-il
++#31 ageril
+@@ -1754 +1670 @@
+-#31 
++#31 ageril
+@@ -1772 +1688 @@
+-#31 xolio, xoljariko
++#31 xoliori
+@@ -1786 +1702 @@
+-#31 aggregato
++#31 agregato
+@@ -1800 +1716 @@
+-#31 aggressiono, agressivo
++#31 agrešiono, agrešivo
+@@ -1819 +1735 @@
+-#31 aggressiono, aggresivo
++#31 agrešivo
+@@ -1941 +1857 @@
+-#31 aj
++#31 ai
+@@ -1946 +1862 @@
+-#14 aj:
++#14 ai:
+@@ -1953 +1869 @@
+-#31 ajournersiv, šudas-opré
++#31 aiourneril, šudel-opre
+@@ -1957 +1873 @@
+-#07 mötet ajournerades till följande dag
++#07 mötetaiournerades till följande dag
+@@ -1961 +1877 @@
+-#11 ajournering -en
++#11 aiournering -en
+@@ -1964 +1880 @@
+-#12 ajournerade ajournerat ajournera(!)
++#12 aiourneradeaiournerataiournera(!)
+@@ -1977,2 +1893,2 @@
+-#13 ajöss
+-#14 ajö: el. ajÖs:
++#13 aiöss
++#14 aiö: el.aiÖs:
+@@ -2001 +1917 @@
+-#31 akademia, akademisko, godjaver
++#31 akademiko
+@@ -2015 +1931 @@
+-#31 akademia, akademisko, godjaver
++#31 akademisko
+@@ -2094 +2010 @@
+-#31 cermoniá
++#31 cermonia
+@@ -2099 +2015 @@
+-#41 
++#41 ansurimaski cermonia
+@@ -2109 +2025 @@
+-#31 mašcaroni-cermoniá
++#31 kotor
+@@ -2127 +2043 @@
+-#31 dokumentó
++#31 dokumento
+@@ -2142 +2058 @@
+-#31 lé-pé samá
++#31 rindo
+@@ -2163 +2079 @@
+-#31 
++#31 lel sama
+@@ -2168 +2084 @@
+-#37 
++#37 le sama o shero!
+@@ -2171 +2087 @@
+-#37 
++#37 musaj te les sama katar chiri nevi cikla/rovera
+@@ -2182 +2098 @@
+-#31 arakh-tut, le-tut-sama
++#31 lel pe sama, arakelpe, firilpe
+@@ -2187 +2103 @@
+-#37 
++#37 arak tut katar o žukel
+@@ -2190 +2106 @@
+-#37 
++#37 me lav man sama te žav kothe
+@@ -2193 +2109 @@
+-#37 
++#37 arak tut akana!
+@@ -2234 +2150 @@
+-#31 akciri, akcivori
++#31 akcira, akcivori
+@@ -2241 +2157 @@
+-#37 
++#37 lake akcira si bare akana 
+@@ -2244 +2160 @@
+-#38 
++#38 zuralel peske akcira
+@@ -2261 +2177 @@
+-#11 aktie~majoritet
++#11 aktie~maioritet
+@@ -2283 +2199 @@
+-#31 
++#31 akciraki kompania
+@@ -2294 +2210 @@
+-#31 aktiono
++#31 aktšono
+@@ -2323 +2239 @@
+-#31 aktivisto, aktivno, bučari
++#31 aktivno, bučari
+@@ -2331 +2247 @@
+-#37 
++#37 polititcko aktivno
+@@ -2334 +2250 @@
+-#37 
++#37 aktivno membro
+@@ -2350 +2266 @@
+-#31 aktivisto, aktivni, bucari
++#31 aktiveril
+@@ -2355 +2271 @@
+-#37 
++#37 aktiveril le glaten ande škola
+@@ -2416 +2332 @@
+-#31 respectó
++#31 respekto
+@@ -2441 +2357 @@
+-#31 lel-pe-sama, rajkano
++#31 lel pe sama, rajkano
+@@ -2505 +2421 @@
+-#31 aktualnó-nevimatá
++#31 aktualno-nevimata
+@@ -2520 +2436 @@
+-#31 actori
++#31 aktori
+@@ -2542 +2458 @@
+-#31 akustiko-tono
++#31 akustiko tono
+@@ -2553 +2469 @@
+-#31 akustiko-tono
++#31 akustiko tono
+@@ -2567 +2483 @@
+-#31 akuto, fugo-ažutimos
++#31 akuto, fugo ažutimos
+@@ -2602 +2518 @@
+-#31 
++#31 špita
+@@ -2684 +2600 @@
+-#04 kall maträtt med kött-, fisk- eller grönsaksbitar i gelé
++#04 kall maträtt med kött-, fisk- eller grönsaksbitar i gele
+@@ -2692 +2608 @@
+-#31 bi-pačačo
++#31 bi pačako
+@@ -2713 +2629 @@
+-#31 
++#31 Albania
+@@ -2719 +2635 @@
+-#99 Â 
++#99 Â 
+@@ -2730 +2646 @@
+-#99 Â 178
++#99 Â 178
+@@ -2734 +2650 @@
+-#31 
++#31 albanitcka
+@@ -2736 +2651,0 @@
+-
+@@ -2742 +2657 @@
+-#99 Â 
++#99 Â 
+@@ -2746 +2661 @@
+-#31 
++#31 albanajka, albansko žuvli
+@@ -2753 +2668 @@
+-#99 Â 
++#99 Â 
+@@ -2757 +2672 @@
+-#31 
++#31 albino
+@@ -2785 +2700 @@
+-#31 šo-há
++#31 šoha
+@@ -2790 +2705 @@
+-#37 
++#37 me šoha či žav pe o kino
+@@ -2793 +2708 @@
+-#37 
++#37 šoha mai anglal
+@@ -2796 +2711 @@
+-#37 
++#37 univar vai šoha
+@@ -2805 +2720 @@
+-#31 alerto, vuštadó
++#31 alerto, vuštado
+@@ -2819 +2734 @@
+-#31 o alfabeto, le bokvi
++#31 o alfabeto, le bokvi, abeceda
+@@ -2847 +2762 @@
+-#31 alfabetéseril
++#31 alfabeteseril
+@@ -2934 +2849 @@
+-#31 
++#31 alienatsia
+@@ -2945 +2860 @@
+-#31 
++#31 alienarime
+@@ -2956 +2871 @@
+-#31 čik máto
++#31 čik mato
+@@ -2959 +2874 @@
+-#04 kaja
++#04 kaia
+@@ -3058 +2973 @@
+-#31 alkó-testo
++#31 alko-testo
+@@ -3134 +3049 @@
+-#31 svácó (sácó)
++#31 svaco (saco)
+@@ -3249 +3164 @@
+-#01 allé
++#01 alle
+@@ -3256 +3171 @@
+-#12 allén alléer
++#12 allen alleer
+@@ -3339 +3254 @@
+-#31 alergisko
++#31 alergia
+@@ -3470 +3385 @@
+-#54 sogódi
++#54 sogodi
+@@ -3481 +3396 @@
+-#41 pavuriska gáda
++#41 pavuriska gada
+@@ -3484 +3399 @@
+-#41 pavuriskó-kultura
++#41 pavurisko-kultura
+@@ -4114 +4029 @@
+-#31 
++#31 sadajek
+@@ -4119 +4034 @@
+-#37 
++#37 o čor inke lo avri libero
+@@ -4140 +4055 @@
+-#31 
++#31 dosta
+@@ -5776 +5691 @@
+-#31 ažuker
++#31 
+@@ -5859 +5774 @@
+-#31 pelas-tele nasvalo
++#31 peraimos
+@@ -5935 +5850 @@
+-#31 činujime
++#31 činujil
+@@ -6317 +6232 @@
+-#04 gå in i hamn; lägga till vid (en kaj el. en brygga)
++#04 gå in i hamn; lägga till vid (en kai el. en brygga)
+@@ -6445 +6360 @@
+-#02 adj., subst.
++#02 subst.
+@@ -7634 +7549 @@
+-#04 enligt arbetsmiljölagen skall skyddskommittén på en arbetsplats arbeta för anpassning och rehabilitering av arbetshandikappade. Detta kan ske i en anpassningsgrupp
++#04 enligt arbetsmiljölagen skall skyddskommitten på en arbetsplats arbeta för anpassning och rehabilitering av arbetshandikappade. Detta kan ske i en anpassningsgrupp
+@@ -7818 +7733 @@
+-#37 me atjarav te kadia djela si gáta kerdi
++#37 me atjarav te kadia djela si gata kerdi
+@@ -7821 +7736 @@
+-#37 voj atjarel pes prá phuri
++#37 voj atjarel pes pra phuri
+@@ -7824 +7739 @@
+-#37 voj arjardol ai si prindžardi sar laši ablákata/advukáta
++#37 voj arjardol ai si prindžardi sar laši ablakata/advukata
+@@ -7843 +7758 @@
+-#38 (sar te atjares variso) sar te lán jekh palma pa muj.(kodia sar jekh kušimos vai prasajimos/prasaipé)
++#38 (sar te atjares variso) sar te lan jekh palma pa muj.(kodia sar jekh kušimos vai prasajimos/prasaipe)
+@@ -7846 +7761 @@
+-#38 prindžarde muja  (sar manuš kai si deza vestomé ande lumia)
++#38 prindžarde muja  (sar manuš kai si deza vestome ande lumia)
+@@ -7849 +7764 @@
+-#38 xasarel, pelas lekó nak (manás muj pe leste)
++#38 xasarel, pelas leko nak (manas muj pe leste)
+@@ -7857 +7772 @@
+-#41 baŕuno muj
++#41 baruno muj
+@@ -7875 +7790 @@
+-#35 ande patreto ”nevarimos, lašarimos”
++#35 ande patreto "nevarimos, lašarimos"
+@@ -7880 +7795 @@
+-#54 si, kana varikon manuš kámel te thernarel pesko muj/fatza, kerel jekh operatsia pe pesko muj kai jekh doktoro/klinika kai si specialistori
++#54 si, kana varikon manuš kamel te thernarel pesko muj/fatza, kerel jekh operatsia pe pesko muj kai jekh doktoro/klinika kai si specialistori
+@@ -7891 +7806 @@
+-#54 tzingne/čingne mašore kai si but londé
++#54 tzingne/čingne mašore kai si but londe
+@@ -10643 +10558 @@
+-#31 phuv, ghor
++#31 phuv, gor
+@@ -11079 +10994 @@
+-#01 armé
++#01 arme
+@@ -11086 +11001 @@
+-#07 armén, marinen och flygvapnet
++#07 armen, marinen och flygvapnet
+@@ -11089 +11004 @@
+-#11 befrielsearmé
++#11 befrielsearme
+@@ -11092 +11007 @@
+-#11 armé~chef -en
++#11 arme~chef -en
+@@ -11095 +11010 @@
+-#11 armé~kår
++#11 arme~kår
+@@ -11098 +11013 @@
+-#12 armén arméer
++#12 armen armeer
+@@ -11457 +11372 @@
+-#07 filmen artar sig till en succé
++#07 filmen artar sig till en succe
+@@ -12407 +12322 @@
+-#01 ateljé
++#01 atelje
+@@ -12412 +12327 @@
+-#12 ateljén ateljéer
++#12 ateljen ateljeer
+@@ -12706 +12621 @@
+-#01 attaché
++#01 attache
+@@ -12711 +12626 @@
+-#11 kulturattaché
++#11 kulturattache
+@@ -12714 +12629 @@
+-#11 militärattaché
++#11 militärattache
+@@ -12717 +12632 @@
+-#12 attaché(e)n attachéer
++#12 attache(e)n attacheer
+@@ -12723 +12638 @@
+-#01 attaché~väska
++#01 attache~väska
+@@ -13186 +13101 @@
+-#12 autonomt autonoma
++#12 autonomt autonuma
+@@ -13578 +13493 @@
+-#31 ašavel. aterdjar
++#31 ašavel. aterdžarel
+@@ -14502 +14417 @@
+-#31 dav-palpale
++#31 del-palpale
+@@ -14849 +14764 @@
+-#31 del-o-manuš
++#31 del
+@@ -14888 +14803 @@
+-#31 ingerel tu
++#31 ingerel
+@@ -15085 +15000 @@
+-#31 malada-pala
++#31 malado-pala
+@@ -15169 +15084 @@
+-#31 pušimos
++#31 
+@@ -15184 +15099 @@
+-#31 sičarav
++#31 sičarel
+@@ -15279 +15194 @@
+-#31 po-gindo
++#31 gindol
+@@ -15392 +15307 @@
+-#31 aterdjarel, aterdjaras
++#31 aterdjarel
+@@ -15426 +15341 @@
+-#31 šude-tele
++#31 šudeipe teie
+@@ -15739 +15654 @@
+-#31 puril, puriv
++#31 puril
+@@ -15847 +15762 @@
+-#31 si-pačia
++#31 pačia 
+@@ -15918 +15833 @@
+-#31 pušimos
++#31 pušimos 
+@@ -15962 +15877 @@
+-#31 če-dur
++#31 duripe
+@@ -15991 +15906 @@
+-#31 mukel, mukav
++#31 mukel
+@@ -16082 +15997 @@
+-#31 pušimos
++#31 
+@@ -16109 +16024 @@
+-#31 thos-rigate
++#31 thol-rigate
+@@ -16138 +16053 @@
+-#31 šudino-tele
++#31 šudipe-tele
+@@ -16292 +16207 @@
+-#31 bešel andré
++#31 bešel andre
+@@ -16303 +16218 @@
+-#54 si phanglo ande temnitsa, ”bešel-andré” si kana varikon si phandado ande temnitsa
++#54 si phanglo ande temnitsa, "bešel-andre" si kana varikon si phandado ande temnitsa
+@@ -16324 +16239 @@
+-#31 ?????
++#31 
+@@ -16347 +16262 @@
+-#54 ” o manuš muklas peski buči ai gelastar”
++#54 o manuš muklas peski buči ai gelastar
+@@ -16355 +16270 @@
+-#35 normalno/generalno ”džaltar/djavtar katar jekh than (télal)
++#35 normalno/generalno "džaltar/djavtar katar jekh than (telal)
+@@ -16363 +16278 @@
+-#31 žjaluzia
++#31 jaluzia
+@@ -16371 +16286 @@
+-#37 vazdel žjaluzia ai nasulimos
++#37 vazdel jaluzia ai nasulimos
+@@ -16380 +16295 @@
+-#54 žjaluzo
++#54 zjaluzo
+@@ -16398 +16313 @@
+-#31 žjaluzo
++#31 jaluzo/žaluzo
+@@ -16407 +16322 @@
+-#54 ”tu sanas žjaluzo” (žjaluzo)
++#54 "tu sanas žjaluzo" (žjaluzo)
+@@ -16419 +16334 @@
+-#54 manuš kai naj leske/láke mišto te si kavré manušende variso kai naj lende kerdon žjaluzia ande lengo ilo, ai diken nasulimasa ai banges pe kodola,kado si jekh pharo nasvalimos
++#54 manuš kai nai leske/lake mišto te si kavre manušende variso kai nai lende kerdon žjaluzia ande lengo ilo, ai diken nasulimasa ai banges pe kodola,kado si jekh pharo nasvalimos
+@@ -16468 +16383 @@
+-#54 kana či mai mangel o manuš te kerel variso mai dur atunči ”getosarel”,ai ”ašavel”
++#54 kana či mai mangel o manuš te kerel variso mai dur atunči "getosarel",ai "ašavel"
+@@ -16483 +16398 @@
+-#54 šinel téle o veš
++#54 šinel tele o veš
+@@ -16504,2 +16419,2 @@
+-#31 parudjimos/paŕužjimos
+-#02 subst.
++#31 parudjimos/paružjimos
++#02 subst.	
+@@ -16520 +16435 @@
+-#37 si kavér atjarimos/atjaripé  ((förs.ačarimos/ačaripe)
++#37 si kaver atjarimos/atjaripe/ačarimos/ačaripe
+@@ -16523 +16438 @@
+-#37 kavér karakteró
++#37 kaver karaktero
+@@ -16533 +16448 @@
+-#54 kana manuš naj pe jekh gindo ai dikhimos,si diferente
++#54 kana manuš nai pe jekh gindo ai dikhimos,si diferente
+@@ -16557 +16472 @@
+-#37 le refuzantori/našade manuš sas gunimé kai e granitza/graniča
++#37 le refuzantori/našade manuš sas gunime kai e granitza/graniča
+@@ -16560 +16475 @@
+-#37 SAF ghonin le mangimáta te vazden opre le manušenge počin po šon
++#37 SAF ghonin le mangimata te vazden opre le manušenge počin po šon
+@@ -16570 +16485 @@
+-#54 kana varikon či primin variso godi,atunči šuden pestar rigate, vai gunin pestar ai si ”contra, protiv”
++#54 kana varikon či primin variso godi,atunči šuden pestar rigate, vai gunin pestar ai si "contra, protiv"
+@@ -16578 +16493 @@
+-#36 O mai normalno ghor te šudel pes avri manušen si ke nai le pasaporto ai viza vaike pača te šaj avel andre andek them, vai nai len love te trajin ando them ai love te šaj djantar/džantar khere ande penge thema
++#36 O mai normalno gor te šudel pes avri manušen si ke nai le pasaporto ai viza vaike pača te šaj avel andre andek them, vai nai len love te trajin ando them ai love te šaj djantar/džantar khere ande penge thema
+@@ -16588 +16503 @@
+-#54 avrišudimos, dino avri, avri-šudo, avri-šudimos, avri-šudipé
++#54 avrišudimos, dino avri, avri-šudo, avri-šudimos, avri-šudipe
+@@ -16596 +16511 @@
+-#38 avel o manuš pe xasarde droma (”xasavel,xasavol”)
++#38 avel o manuš pe xasarde droma ("xasavel,xasavol")
+@@ -16601 +16516 @@
+-#54 jekh manuš šaj ”del rigate pa o drom” ai xasavol
++#54 jekh manuš šaj "del rigate pa o drom" ai xasavol
+@@ -16609 +16524 @@
+-#37 jekh mišto kintirimé/balanserimé hamimos anda pirasa ai serijoso
++#37 jekh mišto kintirime/balanserime hamimos anda pirasa ai serijoso
+@@ -16630 +16545 @@
+-#54 šaj sićarelpe gláta/šavoren te na mai del len e dej čuči
++#54 šaj sićarelpe glata/šavoren te na mai del len e dej čuči
+@@ -16648 +16563 @@
+-#37 jekh kovlo asamos/asaipé
++#37 jekh kovlo asamos/asaipe
+@@ -16665 +16580 @@
+-#54 lel puška vai jagaló (pištolo) katar manuš
++#54 lel puška vai jagalo (pištolo) katar manuš
+@@ -16668 +16583 @@
+-#31 ašavel/pe
++#31 ašavel
+@@ -16688 +16603 @@
+-#37 o mandjin naj slobodo te bičindolpe žji kai naj kodo manuš ande berš te porončil pe peste korkoro
++#37 o mandjin nai slobodo te bičindolpe žji kai nai kodo manuš ande berš te porončil pe peste korkoro
+@@ -16698 +16613 @@
+-#31 ????
++#31 
+@@ -16712 +16627 @@
+-#31 ????
++#31 
+@@ -16734 +16649 @@
+-#38 andal dumé kerdas (”kana či xal le manušes griša”) pa soste phenen le manuš
++#38 andal dume kerdas ("kana či xal le manušes griša") pa soste phenen le manuš
+@@ -16739 +16654 @@
+-#41 gonó po dumo (dumésko gonó
++#41 gono po dumo (dumesko gono
+@@ -16742 +16657 @@
+-#41 duméskoklafó
++#41 dumeskoklafo
+@@ -16745 +16660 @@
+-#41 dumésko meškimos
++#41 dumesko meškimos
+@@ -16760 +16675 @@
+-#35 vi ”sar jekh prindjardo gáta čačimos”
++#35 vi "sar jekh prindjardo gata čačimos"
+@@ -16797 +16712 @@
+-#31 ajatola
++#31 aiatola
+@@ -16805 +16720 @@
+-#54 ajatola, si jekh baro ai ašundo politikanto islamisko rašaj maškar le muslimori
++#54 aiatola, si jekh baro ai ašundo politikanto islamisko rašaj maškar le muslimori
+@@ -16816,3 +16731 @@
+-#54 jekh fialo box/boŕ kai barol anda e phuv,sar avel jekh fialo luludji
+-
+-
++#54 jekh fialo box/bor kai barol anda e phuv,sar avel jekh fialo luludji

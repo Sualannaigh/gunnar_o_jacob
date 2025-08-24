@@ -1,0 +1,773 @@
+#01 ylar
+#31 holojil
+#02 verb
+#32 verbo
+#04 tjuta som en hund el. varg
+#07 ylande hundar
+#37 holojimaske žukela
+#47 12008
+#10 x &
+#12 ylade ylat yla
+#14 2Y:lar
+#98 19126
+#99 21241
+#54 
+
+#01 ylle
+#31 pošom (bakroni morči/bal)
+#02 subst.
+#32 substantivo
+#04 tyg av fårull
+#11 ylle~strumpa -n
+#41 pošomaki strinfa
+#51 7942
+#12 yllet
+#14 2Yl:e
+#98 19127
+#99 21242
+#54 
+#97 mini
+
+#01 ymnig
+#31 si mai but opral
+#02 adj.
+#32 adjektivo
+#04 överflödande, riklig
+#12 ymnigt ymniga
+#14 2Ym:nig
+#98 19128
+#99 21243
+#54 
+
+#01 ympar
+#31 čidel andre
+#02 verb
+#32 verbo
+#04 plantera in en växtdel i en annan växt
+#05 även "vaccinera"
+#35 
+#07 kvisten ympades in på trädet
+#37 
+#47 12009
+#10 A & (in) x
+#11 ympning
+#41 
+#51 7943
+#12 ympade ympat ympa(!)
+#14 2Ym:par
+#98 19129
+#99 21244
+#54 
+
+#01 yngel
+#31 rima(ikhri) katar mašo 
+#02 subst.
+#32 substantivo
+#04 unge av fisk el. groda
+#11 grodyngel
+#41 
+#51 7944
+#12 ynglet yngel ynglen
+#14 Y@:el
+#98 19130
+#99 21245
+#54 
+
+#01 ynglar
+#31 mukhel avri
+#02 verb
+#32 verbo
+#04 föda yngel
+#08 yngla av sig ("föröka sig")
+#38 
+#48 1881
+#10 x &
+#12 ynglade ynglat yngla
+#14 2Y@:lar
+#98 19131
+#99 21246
+#54 
+
+#01 yngling
+#31 ternoro
+#02 subst.
+#32 substantivo
+#04 ung man, pojke
+#12 ynglingen ynglingar
+#14 2Y@:li@
+#98 19132
+#99 21247
+#54 
+
+#01 yngre
+#31 
+#02 se ung
+#32 
+#14 Y@:re
+#98 19133
+#99 21248
+#54 
+#97 mini
+
+#01 yngst
+#31 mai terno
+#02 se ung
+#32 
+#14 y@:st
+#98 19134
+#99 21249
+#54 
+#97 mini
+
+#01 ynklig
+#31 kančesko
+#02 adj.
+#32 adjektivo
+#04 värd att beklaga
+#05 genom att vara liten och obetydlig
+#35 te avel cignoro ai kančesko
+#07 ett ynkligt resultat
+#37 jekh kančesko resultato
+#47 12010
+#12 ynkligt ynkliga
+#14 2Y@:klig
+#98 19135
+#99 21250
+#54 
+
+#01 ynkrygg
+#31 darano manuš
+#02 subst.
+#32 substantivo
+#04 feg person
+#12 ynkryggen ynkryggar
+#14 2Y@:kryg:
+#98 19136
+#99 21251
+#54 
+
+#01 ynnest
+#31 lašimos
+#02 subst.
+#32 substantivo
+#04 (tecken på) välvilja
+#05 något högtidligt
+#35 
+#07 bevilja (någon) en ynnest
+#37 primil (varekas) jekh lašimos
+#47 12011
+#12 ynnesten
+#14 2Yn:est
+#98 19137
+#99 21252
+#54 
+
+#01 yoghurt
+#31 thud šuklo
+#02 subst.
+#32 substantivo
+#04 ett slags surmjölk
+#12 yoghurten
+#14 jÅg:ur+t
+#98 19138
+#99 21253
+#54 
+#97 mini
+
+#01 yppar
+#31 pupujil
+#02 verb
+#32 verbo
+#04 tala om (något hemligt), röja
+#07 yppa en hemlighet
+#37 pupujil jekh garaiimos/secreto
+#47 12012
+#10 A & x/att + S
+#12 yppade yppat yppa(!)
+#14 2Yp:ar
+#98 19139
+#99 21254
+#54 
+
+#01 ypperlig
+#31 perfekto
+#02 adj.
+#32 adjektivo
+#04 utmärkt, förstklassig
+#07 ett ypperligt förslag
+#37 jekh perfekto gindo
+#47 12013
+#12 ypperligt ypperliga
+#14 2Yp:er+lig
+#98 19140
+#99 21255
+#54 
+
+#01 yppig
+#31 thulardo
+#02 adj.
+#32 adjektivo
+#04 frodig
+#07 en yppig grönska
+#37 jekh thulardo zelenimos
+#47 12014
+#12 yppigt yppiga
+#14 2Yp:ig
+#98 19141
+#99 21256
+#54 
+
+#01 yr 1
+#31 zalil
+#02 adj.
+#32 adjektivo
+#04 som lider av yrsel, vimmelkantig
+#07 bli yr i huvudet
+#37 anklel zalime ando šero
+#47 12015
+#12 yrt yra
+#14 y:r
+#98 19142
+#99 21257
+#54 
+#97 mini
+
+#01 yr 2
+#31 hural
+#02 verb
+#32 verbo
+#04 virvla runt i luften
+#07 snön yr
+#37 iv hural
+#47 12016
+#10 x &
+#12 yrde yrt yra
+#14 y:r
+#98 19143
+#99 21258
+#54 
+#97 mini
+
+#01 yrar 
+#31 bulgujil, del duma zavarimes
+#02 verb
+#32 verbo
+#04 prata osammanhängande (p g a yrsel)
+#05 även bildligt "prata strunt"
+#35 vi patreto/figurativno "divano intaine"
+#07 han yrade i sömnen
+#37 vo delas duma ande lindri
+#47 12017
+#07 vad yrar du om?
+#37 pa soste des duma?
+#47 12018
+#10 A & (om x/att +SATS)
+#12 yrade yrat yra(!)
+#14 2Y:ra
+#98 19144
+#99 21259
+#54 
+
+#01 yrkande
+#31 mangimos
+#02 subst.
+#32 substantivo
+#04 begäran, krav
+#07 åklagarens yrkande
+#37 
+#47 12019
+#12 yrkandet yrkanden yrkandena
+#14 2Yr:kande
+#98 19145
+#99 21260
+#54 
+
+#01 yrkar
+#31 mangelpe
+#02 verb
+#32 verbo
+#04 begära, kräva
+#07 yrka avslag
+#37 mangel telešudino
+#47 12020
+#10 A & (på) x/att + S
+#12 yrkade yrkat yrka(!)
+#14 2Yr:kar
+#98 19146
+#99 21261
+#54 
+#97 mini
+
+#01 yrke
+#31 buči
+#02 subst.
+#32 substantivo
+#04 arbete som man utbildats för och får sin inkomst av
+#11 serviceyrke
+#41 
+#51 7945
+#11 vårdyrke
+#41 špitaki buči
+#51 7946
+#11 yrkes~utbildning -en
+#41 buči šičarimaski
+#51 7947
+#11 yrkes~sjukdom
+#41 bučako nasvalimos
+#51 7948
+#12 yrket yrken yrkena
+#14 2Yr:ke
+#98 19147
+#99 21262
+#54 
+#97 mini
+
+#01 yrkes~orientering
+#31 
+#02 se SYO
+#32 
+#14 2Yr:kesåriente:ri@
+#98 19149
+#99 21264
+#54 
+
+#01 yrkes~skada
+#31 
+#02 se arbetsskada
+#32 
+#14 2Yr:keska:da
+#98 19150
+#99 21265
+#54 
+
+#01 yrkesskade~försäkring
+#31 
+#02 se arbetsskadeförsäkring
+#32 
+#14 2Yr:keska:deför+sä:kri@
+#98 19151
+#99 21266
+#54 
+
+#01 yrkesvals~lärare
+#31 sičaritori ande e cigni školi
+#02 subst.
+#32 substantivo
+#04 lärare i grundskolan som undervisar i yrkesval
+#09 jfr ^SYO-konsulent^
+#39 
+#12 -lärar(e)n -lärare -lärarna
+#14 2Yr:kesva:lslä:rare
+#98 19152
+#99 21267
+#54 
+
+#01 yrsel
+#31 zalimos
+#02 subst.
+#32 substantivo
+#04 omtöcknat medvetande, svindel
+#12 yrseln
+#14 Yr+s:el
+#98 19155
+#99 21270
+#54 
+
+#01 yr~vaken
+#31 nevo vuštado
+#02 adj.
+#32 adjektivo
+#04 som just har vaknat och ännu är yr; nymornad
+#12 -vaket -vakna
+#14 2Y:rva:ken
+#98 19156
+#99 21271
+#54 
+
+#01 yr~väder
+#31 čori vriama
+#02 subst.
+#32 substantivo
+#04 snöfall och blåst
+#12 -vädret
+#14 2Y:rvä:der
+#98 19157
+#99 21272
+#54 
+
+#01 yster
+#31 čirado
+#02 adj.
+#32 adjektivo
+#04 mycket livlig
+#12 ystert ystra
+#14 Ys:ter
+#98 19158
+#99 21273
+#54 
+
+#01 yta
+#31 than
+#02 subst.
+#32 substantivo
+#04 areal (som är produkten av längd och bredd); utrymme
+#09 bild 31:63
+#39 
+#11 byggyta
+#41 anzarimasko than
+#51 7949
+#12 ytan ytor
+#14 2Y:ta
+#98 19159
+#99 21274
+#54 
+#97 mini
+
+#01 yta
+#31 e rig pa than
+#02 subst.
+#32 substantivo
+#04 sida som syns utåt, yttersta lager
+#07 en vacker yta
+#37 jekh šukar than
+#47 12021
+#11 vattenyta
+#41 paiesko than
+#51 7950
+#11 yt~behandling -en
+#41 
+#51 7951
+#12 ytan ytor
+#14 2Y:ta
+#98 19159
+#99 21275
+#54 
+#97 mini
+
+#01 ytlig
+#31 bužanglo
+#02 adj.
+#32 adjektivo
+#04 som inte går på djupet, flyktig
+#07 vid en ytlig anblick
+#37 
+#47 12022
+#07 ytliga intressen
+#37 
+#47 12023
+#12 ytligt ytliga
+#14 2Y:tlig
+#98 19160
+#99 21276
+#54 
+
+#01 ytter
+#31 rigatar
+#02 subst.
+#32 substantivo
+#04 anfallsspelare på ytterkanten (i fotboll etc)
+#12 yttern yttrar
+#14 Yt:er
+#98 19161
+#99 21277
+#54 
+
+#01 ytter~kant
+#31 ži avri pe rig
+#02 subst.
+#32 substantivo
+#04 kant längst ut
+#12 -kanten -kanter
+#14 2Yt:erkan:t
+#98 19162
+#99 21278
+#54 
+
+#01 ytter~kläder
+#31 tsali pe avri
+#02 subst.
+#32 substantivo
+#04 kläder att ha på sig utomhus
+#09 bild 9:18
+#39 
+#14 2Yt:erklä:der
+#15 plural
+#45 
+#98 19163
+#99 21279
+#54 tsali kai si tut kana žas avri
+#97 mini
+
+#01 ytterligare
+#31 ai vi mai
+#02 adv.
+#32 adverbo
+#04 dessutom, ännu (mer)
+#07 under ytterligare en vecka
+#37 ande mai jekh kurko
+#47 12024
+#07 förkorta arbetstiden ytterligare
+#37 mai skurtso e bučaki vriama
+#47 12025
+#14 2Yt:er+li(:)gare
+#98 19164
+#99 21280
+#54 
+
+#01 ytterlighet
+#31 opral pa supra
+#02 subst.
+#32 substantivo
+#04 långt utöver normala gränser
+#07 gå till ytterligheter
+#37 žal opral pa supra
+#47 12026
+#12 ytterligheten ytterligheter
+#14 2Yt:er+lighe:t
+#98 19165
+#99 21281
+#54 
+
+#01 ytterligt
+#31 but
+#02 adv.
+#32 adverbo
+#04 mycket
+#05 allmänt förstärkande
+#35 
+#07 en ytterligt viktig fråga
+#37 jekh but importanto pušimos
+#47 12027
+#14 2Yt:er+li(k)t
+#98 19166
+#99 21282
+#54 
+
+#01 yttermera
+#31 but mai but
+#02 adj.
+#32 adjektivo
+#04 ytterligare
+#08 till yttermera visso ("såsom ytterligare bekräftelse")
+#38 
+#48 1882
+#14 2Yt:erme:ra
+#98 19167
+#99 21283
+#54 
+
+#01 ytterst
+#31 ži avri
+#02 adv.
+#32 adverbo
+#04 längst ut
+#07 sitta ytterst
+#37 bešel ži avri
+#47 12028
+#14 Yt:er+st
+#15 superlativ
+#45 
+#98 19168
+#99 21284
+#54 
+
+#01 ytterst
+#31 tista but
+#02 adv.
+#32 adverbo
+#04 ytterligt
+#07 jag är ytterst tacksam för din hjälp
+#37 me sim tista but naiisime katar čo ažutimos
+#47 12029
+#14 Yt:er+st
+#98 19168
+#99 21285
+#54 
+
+#01 yttersta
+#31 ži avri
+#02 adj.
+#32 adjektivo
+#04 som finns längst ut
+#07 det yttersta huset
+#37 o kher ži avri
+#47 12030
+#08 göra sitt yttersta ("göra så mycket man kan")
+#38 kerel sa so daštil
+#48 1883
+#08 ligga på sitt yttersta ("ligga för döden")
+#38 bešel angla pesko merimos
+#48 1884
+#14 Yt:er+sta
+#15 superlativ
+#45 
+#98 19169
+#99 21286
+#54 
+
+#01 ytter~värld
+#31 e lumia avrial
+#02 subst.
+#32 substantivo
+#04 omgivande värld
+#07 få kontakt med yttervärlden
+#37 le kontakto la lumiasa
+#47 12505
+#12 -världen -världar
+#14 2Yt:ervä:r+d
+#15 mest bestämd form singular
+#45 
+#98 19170
+#99 21287
+#54 
+
+#01 yttrande
+#31 divano
+#02 subst.
+#32 substantivo
+#04 (officiellt) uttalande, utlåtande
+#07 avge ett yttrande
+#37 phenel jekh divano
+#47 12031
+#12 yttrandet yttranden yttrandena
+#14 2Yt:rande
+#98 19171
+#99 21288
+#54 
+
+#01 yttrande~frihet
+#31 opinia ande liberta (si tut slobodo te des phenes)
+#02 subst.
+#32 substantivo
+#04 rätt att fritt framföra åsikter (i tal och skrift)
+#12 -friheten
+#14 2Yt:randefri:he:t
+#98 19172
+#99 21289
+#54 
+
+#01 yttrar
+#31 phenel
+#02 verb
+#32 verbo
+#04 säga, uttala
+#07 det kan jag inte yttra mig om
+#37 kodia naštiv te phenav
+#47 12032
+#07 yttra sig över en utredning
+#37 phenelpes pa jekh divano
+#47 12033
+#10 A & att + S; A & sig om/över x/B
+#12 yttrade yttrat yttra(!)
+#14 2Yt:rar
+#98 19173
+#99 21290
+#54 
+#97 mini
+
+#01 yttre 1
+#31 avrial
+#02 adj.
+#32 adjektivo
+#04 som finns på utsidan el. längre ut, som vetter utåt
+#07 den yttre miljön
+#37 
+#47 12034
+#07 yttre förhållanden
+#37 avrial phanglimata
+#47 12035
+#14 Yt:re
+#15 komparativ
+#45 
+#98 19174
+#99 21291
+#54 
+
+#01 yttre 2
+#31 so anel o manuš
+#02 subst.
+#32 substantivo
+#04 utseende
+#07 ett tilltalande yttre
+#37 
+#47 12036
+#12 yttre
+#14 Yt:re
+#98 19175
+#99 21292
+#54 
+
+#01 yttring
+#31 phenimos
+#02 subst.
+#32 substantivo
+#04 uttryck
+#11 glädjeyttring
+#41 radujimasko phenimos
+#51 7952
+#12 yttringen yttringar
+#14 2Yt:ri@
+#98 19176
+#99 21293
+#54 
+
+#01 yuppie
+#31 barvalo manuš
+#02 subst.
+#32 substantivo
+#04 yngre rik välutbildad affärsman eller affärskvinna
+#12 yuppien yuppier (el. yuppies)
+#14 jup:i
+#98 19177
+#99 21294
+#54 
+
+#01 yvig
+#31 baro
+#02 adj.
+#32 adjektivo
+#04 stor och frodig, tätvuxen
+#05 även bildligt om beteende
+#35 
+#07 yvigt hår
+#37 bare bal
+#47 12037
+#07 yviga gester
+#37 
+#47 12038
+#12 yvigt yviga
+#14 2Y:vig
+#98 19178
+#99 21295
+#54 
+
+#01 yxa
+#31 tover
+#02 subst.
+#32 substantivo
+#04 redskap att hugga med
+#08 kasta yxan i sjön ("ge upp")
+#38 šudel o tover ando pai
+#48 1885
+#09 bild 14:28, 28:56
+#39 
+#12 yxan yxor
+#14 2Yk:sa
+#98 19179
+#99 21296
+#54 
+#97 mini
+
+#01 yx~skaft
+#31 tovereski pori
+#02 subst.
+#32 substantivo
+#04 skaft på en yxa
+#08 goddag yxskaft! ("som kommentar till ett svar som inte hör ihop med frågan")
+#38 
+#48 1886
+#12 -skaftet -skaft -skaften
+#14 2Yk:skaf:t
+#98 19180
+#99 21297
+#54 

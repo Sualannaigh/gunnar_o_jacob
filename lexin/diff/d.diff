@@ -1,0 +1,343 @@
+--- ../kelderasch_filer/text/d.txt	2025-08-13 17:08:34
++++ swe_kal/d.txt	2025-08-24 21:22:44
+@@ -1 +1 @@
+-﻿#01 d
++#01 d
+@@ -51 +51 @@
+-#31 džes
++#31 
+@@ -76 +76 @@
+-#41 milajesko džes
++#41 Milajesko džes
+@@ -79 +79 @@
+-#41 džesesko gazeto
++#41 Džesesko gazeto
+@@ -91 +91 @@
+-#54 jekh antrego džes si 24 časoria
++#54 Jekh antrego džes si 24 časoria
+@@ -100 +100 @@
+-#37 adžes
++#37 Adžes
+@@ -103 +103 @@
+-#37 koko džes,kol-džesendar
++#37 Koko džes,kol-džesendar
+@@ -106 +106 @@
+-#37 de duj-trin džes palpale
++#37 De duj-trin džes palpale
+@@ -112 +112 @@
+-#38 "De sar mai či"
++#38 "De sar mai tji"
+@@ -115 +115 @@
+-#41 aktualno džes
++#41 Aktualno džes
+@@ -121 +121 @@
+-#54 jekh džes ando kurko, kai si 24 časoria
++#54 Jekh džes ando kurko, kai si 24 časoria
+@@ -243 +243 @@
+-#54 manuš kai či kamen te avel len buči vai te keren variso
++#54 Manuš kai či kamen te avel len buči vai te keren variso
+@@ -258 +258 @@
+-#31 vediara
++#31 vedaria
+@@ -263 +263 @@
+-#38 anklel avri pe kaver fialo
++#38 Anklel avri pe kaver fialo
+@@ -269 +269 @@
+-#54 kerdol pe jekh kaver fialo kai anklel pes aver
++#54 Kerdžol pe jekh kaver fialo.kai anklel pes aver
+@@ -277 +277 @@
+-#37 kana e bruma perel
++#37 Kana e bruma perel
+@@ -280 +280 @@
+-#41 la diminiatsaki vriamia
++#41 La diminiatsaki vriamia
+@@ -289 +289 @@
+-#54 kana činžol e phuv ai e čar katar o pai tela e riat
++#54 Kana činžol e phuv ai e čar katar o pai tela e riat
+@@ -306 +306 @@
+-#31 glatengi škola
++#31 šavorengi škola
+@@ -313 +313 @@
+-#41 šavorengo džesesko kher
++#41 Šavorengo džesesko kher
+@@ -316 +316 @@
+-#41 kana ažukerel pe te les than ando glatengo kher le džesesko
++#41 Kana ažukerel pe te les than ando glatengo kher le džesesko
+@@ -335 +335 @@
+-#37 pirel ande le glatengo kher
++#37 Pirel ande le glatengo kher
+@@ -338 +338 @@
+-#41 kana o manuš ažukerel pe jekh vramia te del andre  ande le glatengo kher.
++#41 Kana o manuš ažukerel pe jekh vramia te del andre  ande le glatengo kher.
+@@ -341 +341 @@
+-#41 e  raji le glatengi ande e škola
++#41 E  raji le glatengi ande e škola
+@@ -347 +347 @@
+-#54 jekh škola glatenge kai si maškar 3-6 bers
++#54 Jekh škola glatenge kai si maškar 3-6 bers
+@@ -356 +356 @@
+-#41 tamnaski riat
++#41 Tamnaski riat
+@@ -375,0 +376 @@
++
+@@ -395 +396 @@
+-#31 džeseski dej
++#31 džeseski-dej
+@@ -400 +401 @@
+-#36 Si vi privatni džeseske deja.
++#36 Si vi privatni džeseske deja
+@@ -474 +475 @@
+-#54 jekh čena love kai gata te avel andre pe svako džes ai kai o manuš šai te počinel
++#54 Jekh čena love kai gata te avel andre pe svako džes ai kai o manuš šai te počinel
+@@ -487 +488 @@
+-#31 džeseski vediara
++#31 džeseski vedaria
+@@ -617 +618 @@
+-#31 anda Dalarna
++#31 semno
+@@ -633 +634 @@
+-#54 kana site semnol o manuš variso pa kai si anda plajing ai xaria , vai pal plaija ai xaria
++#54 Kana site semnol o manuš variso pa kai si anda plajing ai xaria , vai pal plaija ai xaria
+@@ -637 +638 @@
+-#31 dalako grast
++#31 Dalako grast
+@@ -723 +724 @@
+-#54 jekh khotor phuv anda jekh them kai si peski komuna korkoro
++#54 Jekh khotor phuv anda jekh them kai si peski komuna korkoro
+@@ -744 +745 @@
+-#35 kana des respekto kai jekh rajikani žuvli phenelpe kadia vorba
++#35 Kana des respekto kai jekh rajikani žuvli phenelpe kadia vorba
+@@ -746 +747 @@
+-#37 jekh phuri raji
++#37 .jekh phuri raji
+@@ -752 +753 @@
+-#41 rajikani žuvli kai si ando rindo
++#41 Rajikani žuvli kai si ando rindo
+@@ -755 +756 @@
+-#41 dźuvlikano kofektiono
++#41 Dźuvlikano kofektiono
+@@ -788 +789 @@
+-#54 amperetitsa ande khelimaske karti ai schack 
++#54 aperetitsa ande khelimaske karti ai schack 
+@@ -866 +867 @@
+-#31 pajoro
++#31 balta
+@@ -882 +883 @@
+-#54 jekh tsingni gropa pai kai čidas pe, jekh tsingni pisina
++#54 paioro, jekh tsingni gropa pai kai čidas pe, jekh tsingni pisina
+@@ -894 +895 @@
+-#41 jekh elektroniko mašinka kai khosel ai šilavel opre le phulberia ai e mel
++#41 Jekh elektroniko mašinka kai khosel ai šilavel opre le phulberia ai e mel
+@@ -936 +937 @@
+-#31 phulberime
++#31 melalo
+@@ -941 +942 @@
+-#37 jekh phulberime sofa
++#37 jekh melali sofa
+@@ -944 +945 @@
+-#37 jekh phulberime drom
++#37 
+@@ -950 +951 @@
+-#54 
++#54 Phulbalo drom, ai vi melalo drom si, sa phulberil khotar
+@@ -970 +971 @@
+-#31 čidel opre le phulberia
++#31 vušarel opre le phulberia
+@@ -1047 +1048 @@
+-#31 khelimos
++#31 kelimos, khelimos
+@@ -1068 +1069 @@
+-#31 khelel
++#31 khelel, kelel
+@@ -1283 +1284 @@
+-#31 data, komputeri
++#31 data
+@@ -1296 +1297 @@
+-#41 data, komputeri
++#41 data, cumputeri
+@@ -1302 +1303 @@
+-#41 E vramia le kompeterengi
++#41 E vramia le cumpeterengi
+@@ -1308 +1309 @@
+-#54 komputeri, interneto
++#54 cumputeri, interneto
+@@ -1319 +1320 @@
+-#01 dator~utrustning, hård~vara, maskin~vara
++#01 dator~utrustning
+@@ -1325,2 +1326,2 @@
+-#12 -utrustningen -utrustningar -varan -varor
+-#14 2dA:toru:trus:tni@, 2hÅ:r+dva:ra, 2ma$I:nva:ra
++#12 -utrustningen -utrustningar
++#14 2dA:toru:trus:tni@
+@@ -1341 +1342 @@
+-#31 komputersko samalitori  
++#31 Computersko samalitori  
+@@ -1345 +1346 @@
+-#36 Jekh andal le themeske departamentori kai si te len sama pala zakonori sar na primer, o trajo privatno,o zakono le datongo/komputerengi,ai le zakonori pa kreditori kai len le manuš.E inspektia le datongi si kai lel sama kana le manušen si len čačimos te keren planta ai si len vorba karing o them.
++#36 Jekh andal le themeske departamentori kai si te len sama pala zakonori sar na primer, o trajo privatno,o zakono le datongo,ai le zakonori pa kreditori kai len le manuš.E inspektia le Datongi si kai lel sama kana le manušen si len čačimos te keren planta ai si len vorba karing o them.
+@@ -1399 +1400 @@
+-#39 jekh aparato kai si ando kontakto ka datori
++#39 Jekh aparato kai si ando kontakto ka datori
+@@ -1413 +1414 @@
+-#37 pečtuil jekh lil
++#37 petjtuil jekh lil
+@@ -1423 +1424 @@
+-#54 
++#54 pečatuil
+@@ -1431 +1432 @@
+-#38 ži kai kado džes
++#38 žji kai kado džes
+@@ -1440 +1441 @@
+-#31 mašinka
++#31 datoro
+@@ -1447 +1448 @@
+-#41 inkerdo khatar komputero
++#41 inkerdo khatar datoro
+@@ -1462 +1463 @@
+-#37 digitasil jekh kompania
++#37 
+@@ -1481 +1482 @@
+-#31 o djes, o termino
++#31 o datumo
+@@ -1486 +1487 @@
+-#37 če džes sam adžes?
++#37 če česlo/datumo sam adžes?
+@@ -1491 +1492 @@
+-#41 le beršesko termino
++#41 le beršesko datumo
+@@ -1500 +1501 @@
+-#54 jekh termino andek šon ai berš
++#54 džes, jekh termino andek šon ai berš
+@@ -1504 +1505 @@
+-#31 semnol o termino
++#31 zemnol o datumo
+@@ -1509 +1510 @@
+-#11 terminosko semno
++#11 datummärkning
+@@ -1711 +1712 @@
+-#31 cignarel
++#31 decentraliseril
+@@ -1723 +1724 @@
+-#31 desibelo
++#31 decibelo
+@@ -1731 +1732 @@
+-#54 ašunimaski zor
++#54 hangoski zor
+@@ -4142 +4143 @@
+-#14 2digitA:lpe@:ar el. 2digitA:la pE@:ar
++#14 2digitA:lpe@:ar el 2digitA:la pE@:ar
+@@ -5592 +5593 @@
+-#01 distriktssköterske~barnmorska
++#01 distrikts~sköterske~barnmorska
+@@ -5809 +5810 @@
+-#01 džungel
++#01 djungel
+@@ -5816 +5817 @@
+-#07 džungelns lag
++#07 djungelns lag
+@@ -6751,2 +6752,2 @@
+-#07 Volvo dominerar (på) den svenska bilmarknaden
+-#37 o Volvo domineril pe le svediska matori
++#07 xxxx dominerar (på) den svenska bilmarknaden
++#37 o xxxx domineril pe le svediska matori
+@@ -9578 +9579 @@
+-#37 pai kodia naštindem me čina ando suno te dikhav
++#35 pai kodia naštindem me čina ando suno te dikhav
+@@ -9676 +9677,2 @@
+-#54 Kana si e doba le ivendeski atunči trubul te thol o manuš ivendeske rati pe e matora te šaj tradel o manuš pe drom kai phahosajlo ai si istra po drom, atunči si mai siguro o manuš
++#54 Kana si e doba le ivendeski atunči trubul te thol o manuš ivendeske rati pe e matora te šaj tradel o manuš pe drom kai phahosajlo ai si istra po drom,
++atunči si mai siguro o manuš
+@@ -9752 +9754 @@
+-#11 dubbel~LP:n
++#11 dubbel-~LP:n
+@@ -9961 +9963 @@
+-#38 či jekh fialo kanči (”absolutno kanči”)
++#38 či jekh fialo kanči ("absolutno kanči")
+@@ -9966 +9968 @@
+-#54 ”naj gindo gindostar, absolutno kanči!”
++#54 "naj gindo gindostar, absolutno kanči!"
+@@ -9986 +9988 @@
+-#54 ”tsera brešin del ferdi, numa xurdes”
++#54 "tsera brešin del ferdi, numa xurdes"
+@@ -9997 +9999 @@
+-#54 ”šukar del o brišinoro le khamesa adžes”
++#54 "šukar del o brišinoro le khamesa adžes"
+@@ -10157 +10159 @@
+-#54 manuš kai si zoralo šeresko nai godžaver si ”dilo”
++#54 manuš kai si zoralo šeresko nai godžaver si "dilo"
+@@ -10201 +10203 @@
+-#35 džeseski vorba, kai si ”pirasengi”
++#35 džeseski vorba, kai si "pirasengi"
+@@ -10261 +10263 @@
+-#54 ”le manuš po paraxodo sude but ghonoj/gunoj avri ande e mare o baro pai”
++#54 "le manuš po paraxodo sude but ghonoj/gunoj avri ande e mare o baro pai"
+@@ -10313 +10315 @@
+-#38 andek baro muj ai bašajimos (”te šaj ašundel pe vorta”)
++#38 andek baro muj ai bašajimos ("te šaj ašundel pe vorta")
+@@ -10330 +10332 @@
+-#35 ando patreto ” inkerel strafosko divano”
++#35 ando patreto " inkerel strafosko divano"
+@@ -10452 +10454 @@
+-#35 ando patreto ”phares te ačares/ačares
++#35 ando patreto "phares te ačares/ačares
+@@ -10674 +10676 @@
+-#35 ando sms ”kadia khote)
++#35 ando sms "kadia khote)
+@@ -10761 +10763 @@
+-#54 o manuš kai perel sar ande kadalatar ”lindri” si sar te avel ”zalime” 
++#54 o manuš kai perel sar ande kadalatar "lindri" si sar te avel "zalime" 
+@@ -10810 +10812 @@
+-#54 ” o šavoro si sa ando pai čingo/tjingo
++#54 " o šavoro si sa ando pai čingo/tjingo
+@@ -10817 +10819 @@
+-#38 či jekh  (absolutno na/niči”)
++#38 či jekh  (absolutno na/niči")
+@@ -10911 +10913 @@
+-#54 variso kai “vhulel tele”
++#54 variso kai “vhulel tele"
+@@ -10950 +10952 @@
+-#54 fialo, ”sar kai phenes...?
++#54 fialo, "sar kai phenes...?
+@@ -11431 +11433 @@
+-#35 vi prasajimasko; phurikanes vi sar ”dilo nasvalo"
++#35 vi prasajimasko; phurikanes vi sar "dilo nasvalo"
+@@ -11451 +11453 @@
+-#54 dilo, ”špita dilengi”
++#54 dilo, "špita dilengi"
+@@ -11463 +11465 @@
+-#54 ”sovel peseke cera, la les e lindri po skamin”
++#54 "sovel peseke cera, la les e lindri po skamin"
+@@ -11601 +11603 @@
+-#54 ”jekh data zorales maladas les kana mardes pes"
++#54 "jekh data zorales maladas les kana mardes pes"
+@@ -11624 +11626 @@
+-#38 – Sar san tu? -- Kadia khote (”varisar”)
++#38 – Sar san tu? -- Kadia khote ("varisar")
+@@ -11627 +11629 @@
+-#38 Kadia vorta! (”No eta”)
++#38 Kadia vorta! ("No eta")
+@@ -11657 +11659 @@
+-#38 zorales dokades, čores (”varikon si zorales dukado vai.nasvalo”)
++#38 zorales dokades, čores ("varikon si zorales dukado vai.nasvalo")
+@@ -11742 +11744 @@
+-#35 ando patreto/figurativno ”ande kado dikimos”, ”ande kadia situatsia”
++#35 ando patreto/figurativno "ande kado dikimos", "ande kadia situatsia"
+@@ -11776 +11778 @@
+-#54 pe kodo fialo, "Ai pe kodo fialo akana pale šaj kerel butji/buči”
++#54 pe kodo fialo, "Ai pe kodo fialo akana pale šaj kerel butji/buči"
+@@ -11916 +11917,0 @@
+-#37 
+@@ -11973 +11974 @@
+-#01 död(s)-
++#01 döds-
+@@ -11994 +11995 @@
+-#35 ando patreto/figurativno ”te mudares garades”
++#35 ando patreto/figurativno "te mudares garades"
+@@ -12015 +12016 @@
+-#35 ando patreto/figurativno  ”kana o manuš ačarel te variso getosajla/getosarda ai kerdas peki gata”
++#35 ando patreto/figurativno  "kana o manuš ačarel te variso getosajla/getosarda ai kerdas peki gata"
+@@ -12319 +12320 @@
+-#35 ando patreto pa dželi ”xasavol, getol,ašadol
++#35 ando patreto pa dželi "xasavol, getol,ašadol
+@@ -12479 +12479,0 @@
+-

@@ -1,0 +1,2300 @@
+#01 c
+#31 c
+#02 subst.
+#32 substantivo
+#04 första tonen i C-durskalan
+#05 musikterm
+#35 
+#14 se:
+#98 2
+#99 4
+#54 
+
+#01 c/o
+#31 c/o
+#02 förk.
+#32 skortsomos
+#04 care of (= på samma postadress som)
+#05 engelska
+#35 engelsitsko
+#14 kÄ:r Åv:
+#98 2476
+#99 2706
+#54 
+
+#01 ca
+#31 ca 
+#02 förk.
+#32 skortsomos
+#04 cirka, ungefär
+#07 bordet var ca två meter långt
+#37 e skafidi sas sar duj meteri lungo
+#47 1630
+#14 2sIr:ka
+#98 2477
+#99 2707
+#54 
+
+#01 cabriolet
+#31 kabriolet
+#02 subst.
+#32 substantivo
+#04 bil med tak som kan fällas ner
+#12 cabrioleten cabrioleter
+#14 kabriolE:
+#98 2478
+#99 2708
+#54 
+
+#01 CAD
+#31 CAD
+#02 subst.
+#32 substantivo
+#04 konstruktion och tillverkning med hjälp av dator
+#11 CAD/CAM-~teknik
+#41 
+#51 1060
+#14 kad:
+#98 2479
+#99 2709
+#54 
+
+#01 cafe
+#31 kafanava
+#02 se kafe
+#32 
+#12 cafe(e)t cafeer
+#14 kafE:
+#98 2480
+#99 2710
+#54 
+
+#01 cafeteria
+#31 kafanava
+#02 subst.
+#32 substantivo
+#04 servering, kafe
+#12 cafeterian cafeterior
+#13 kafeteria
+#14 kafetE:ria
+#98 2481
+#99 2711
+#54 
+
+#01 campar
+#31 kampail
+#02 verb
+#32 verbo
+#04 ägna sig åt camping
+#10 A &
+#12 campade campat campa(!)
+#14 2kAm:par
+#98 2482
+#99 2712
+#54 ande bahr
+
+#01 campare
+#31 kamapilatori
+#02 subst.
+#32 substantivo
+#04 person som campar
+#12 campar(e)n campare camparna
+#14 2kAm:pare
+#98 2483
+#99 2713
+#54 manuš kai kampail
+
+#01 camping
+#31 bahr 
+#02 subst.
+#32 substantivo
+#04 friluftsliv som bl a innefattar att man bor i tält, husvagn etc
+#11 camping~plats -en
+#41 kampailmasko than
+#51 1061
+#11 camping~stuga
+#41 kampailmasko kheroro
+#51 1062
+#12 campingen
+#14 kAm:pi@
+#98 2484
+#99 2714
+#54 than, kimpo
+
+#01 cancer
+#31 nasvalimos
+#02 subst.
+#32 substantivo
+#04 kräfta, elakartad svulst, tumör
+#11 bröstcancer
+#41 kolinesko nasvalimos
+#51 1063
+#11 cancer~patient -en
+#41 
+#51 1064
+#11 cancer~framkallande
+#41 
+#51 1065
+#12 cancern
+#14 kAn:ser
+#98 2485
+#99 2715
+#54 cancer
+
+#01 cancerogen
+#31 
+#02 adj.
+#32 adjektivo
+#04 som framkallar cancer
+#12 cancerogent cancerogena
+#14 kanseråjE:n
+#98 2486
+#99 2716
+#54 
+
+#01 cannabis
+#31 drabengo duhano
+#02 subst.
+#32 substantivo
+#04 ett slags narkotika
+#12 cannabisen
+#14 kAn:abis
+#98 2487
+#99 2717
+#54 duhano kai si narkotika andre
+
+#01 capita
+#31 pre jekh
+#02 subst.
+#32 substantivo
+#08 per capita ("per person")
+#38 pre svako manuš
+#48 208
+#14 ka:pita
+#98 2488
+#99 2718
+#54 
+
+#01 cappuccino
+#31 kafa tudesa
+#02 subst.
+#32 substantivo
+#04 kaffe med vispad mjölk
+#05 italienska
+#35 italianitsko
+#12 cappuccinon cappuccinor
+#14 kapu(t)cI:no
+#98 2489
+#99 2719
+#54 
+
+#01 carport
+#31 karporto
+#02 subst.
+#32 substantivo
+#04 parkeringsplats för bil med tak som vilar på stolpar
+#05 engelska
+#35 engelsitsko
+#12 carporten carportar
+#14 kAr:på:r+t
+#98 2490
+#99 2720
+#54 
+
+#01 cash
+#31 anda jekh data
+#02 subst.
+#32 substantivo
+#04 kontant; kontanter
+#05 engelska
+#35 engelsitsko
+#07 betala cash
+#37 pučinel cash
+#47 1631
+#14 kä$:
+#98 2491
+#99 2721
+#54 
+
+#01 cd-romskiva
+#31 cd-plaka
+#02 subst.
+#32 substantivo
+#04 skiva som kan innehålla en stor mängd information och som avläses med hjälp av laser
+#05 ofta kortform ^cd-rom^ el. ^cd^
+#35 but ande skortsimata
+#09 bild 33:65
+#39 patreto/figurativno
+#11 cd-romspel
+#41 
+#51 
+#12 cd-skivan (vard. även cd-romen) cd-skivor (vard. även cd-romer)
+#14 2se:de:rÅm:$i:va
+#54 
+
+#01 cd-romspelare
+#31 diskako žinitori
+#02 subst.
+#32 substantivo
+#04 cd-läsare som läser av cd-romskivor
+#05 ofta kortform ^cd-rom^ el. ^cd^
+#35 but ande skortsimata
+#09 bild 33:65
+#39 patreto/figurativno
+#12 cd-romspelaren (vard. även cd-romen) cd-romspelare (vard. även cd-romer) cd-romläsaren
+#13 cd-romläsare
+#14 2se:de:rÅm:spe:lare el. 2se:de:rÅm:lä:sare
+#54 
+
+#01 cd-skiva
+#31 cd plaka
+#02 subst.
+#32 substantivo
+#04 cd-skiva speciellt avsedd för avläsning via dator
+#05 ofta kortform ^cd^
+#35 but skortsimos
+#12 cd-skivan (vard. även cd:n) cd-skivor (vard. även cd:ar)
+#14 2sE:de:$i:va
+#54 
+
+#01 cd-spelare
+#31 cd aparato
+#02 subst.
+#32 substantivo
+#04 apparat som läser av cd-skivor
+#05 ofta kortform ^cd^
+#35 but skortsimos
+#09 bild 33:65
+#39 patreto/figurativno
+#12 cd-spelaren (vard. även cd:n) cd-spelare (vard. även cd:ar)
+#13 cd-läsare
+#14 2sE:de:spe:lare
+#54 aparato kai djinel tele cd
+
+#01 celeber
+#31 vestome
+#02 adj.
+#32 adjektivo
+#04 berömd
+#07 celebra gäster
+#37 vestome gosti 
+#47 1632
+#12 celebert celebra
+#14 selE:ber
+#98 2493
+#99 2723
+#54 
+
+#01 celebritet
+#31 vestimos
+#02 subst.
+#32 substantivo
+#04 berömd person, berömdhet
+#12 celebriteten celebriteter
+#14 selebritE:t
+#98 2494
+#99 2724
+#54 
+
+#01 celibat
+#31 selibato
+#02 subst.
+#32 substantivo
+#04 det att vara ogift; avhållsamhet från sex
+#07 katolska präster måste leva i celibat
+#37 
+#47 1633
+#12 celibatet
+#14 selibA:t
+#98 2495
+#99 2725
+#54 bi romnjako
+
+#01 cell
+#31 soba temnicaki
+#02 subst.
+#32 substantivo
+#04 den minsta biologiska byggstenen
+#11 cell~kärna -n
+#41 
+#51 1066
+#12 cellen celler
+#14 sel:
+#98 2496
+#99 2726
+#54 
+
+#01 cell
+#31 phandadi soba
+#02 subst.
+#32 substantivo
+#04 litet isolerat rum
+#11 fängelsecell
+#41 temnicaki soba
+#51 1067
+#11 cell~delning
+#41 soba vhuljarimaski
+#51 1068
+#11 cell~skräck
+#41 darajimos sobasko
+#51 1069
+#12 cellen celler
+#14 sel:
+#98 2496
+#99 2727
+#54 
+
+#01 cell~gift
+#31 sell drab
+#02 subst.
+#32 substantivo
+#04 medel som används mot elakartade tumörer
+#12 -giftet -gifter
+#14 2sel:jif:t
+#98 2497
+#99 2728
+#54 
+
+#01 cellist
+#31 čellista
+#02 subst.
+#32 substantivo
+#04 person som spelar cello
+#12 cellisten cellister
+#14 2selIs:t
+#98 2498
+#99 2729
+#54 
+
+#01 cello
+#31 cello
+#02 subst.
+#32 substantivo
+#04 ett stråkinstrument, violoncell
+#09 bild 19:38
+#39 patreto/figurativno
+#12 cellon cellor
+#14 sEl:o
+#98 2499
+#99 2730
+#54 
+
+#01 cellofan
+#31 čellofano
+#02 subst.
+#32 substantivo
+#04 ett genomskinligt omslagsmaterial
+#11 cellofan~papper -et
+#41 
+#51 1070
+#12 cellofanen (el. cellofanet)
+#14 selofA:n
+#98 2500
+#99 2731
+#54 
+
+#01 cell~stoff
+#31 
+#02 subst.
+#32 substantivo
+#04 ett slags vadd använt i förband, blöjor etc
+#12 -stoffet (el. -stoffen)
+#14 sEl:ståf
+#98 2501
+#99 2732
+#54 
+
+#01 cellulosa
+#31 selusa
+#02 subst.
+#32 substantivo
+#04 stödfibrer i växters väggar; trämassa
+#12 cellulosan
+#14 2selulO:sa
+#98 2502
+#99 2733
+#54 
+
+#01 cement
+#31 cemento
+#02 subst.
+#32 substantivo
+#04 bindemedel för murning
+#11 cement~blandare -n
+#41 cementosko hamajitori
+#51 1071
+#12 cementen
+#14 semEn:t
+#98 2503
+#99 2734
+#54 
+
+#01 censur
+#31 sensura
+#02 subst.
+#32 substantivo
+#04 (officiell) granskning av budskapet i tryckt text el. film
+#11 filmcensur
+#41 
+#51 1072
+#11 självcensur
+#41 korkoro sensura
+#51 1073
+#12 censuren
+#14 sensU:r
+#98 2504
+#99 2735
+#54 kontrola
+#00 
+
+#01 censurerar
+#31 kontrolil
+#02 verb
+#32 verbo
+#04 utsätta för censur, granska
+#10 A & x
+#12 censurerade censurerat censurera(!)
+#14 sensurE:rar
+#98 2505
+#99 2736
+#54 sensoril
+
+#01 center 1
+#31 centro 
+#02 subst.
+#32 substantivo
+#04 politiskt mittparti
+#05 i bestämd form "Centerpartiet"
+#35 ande jekh forma "Centerpartiet"
+#11 center~politik -en
+#41 
+#51 1074
+#12 centern
+#14 sEn:ter
+#98 2506
+#99 2737
+#54 ande politika
+
+#01 center 1
+#31 centro 
+#02 subst.
+#32 substantivo
+#04 mittspelare i fotboll etc
+#05 äldre term
+#35 
+#12 centern
+#14 sEn:ter
+#98 2506
+#99 2738
+#54 
+
+#01 center 2
+#31 centro balamengo
+#02 subst.
+#32 substantivo
+#04 affärscentrum el dyl
+#11 köpcenter
+#41 centro balamengo
+#51 1075
+#11 shoppingcenter
+#41 centro te čines
+#51 1076
+#11 teknikcenter
+#41 tekniko centro
+#51 1077
+#12 centret centrer
+#14 sEn:ter
+#98 2507
+#99 2739
+#54 
+
+#01 Centerpartiet
+#31 Centerpartiet
+#02 namn
+#32 nam
+#06 Ett av de politiska partier som är representerade i den svenska riksdagen.
+#36 Jekh anda le politikanski partiori kai reprensenterin ande le swedosko parlamento.
+#14 2sEn:terpar+ti:et
+#98 2508
+#99 2740
+#54 
+
+#01 centi~liter
+#31 centilitro
+#02 subst.
+#32 substantivo
+#04 hundradels liter
+#09 bild 31:63
+#39 patreto/figurativno
+#12 -litern -liter (el. -litrar) -litrarna
+#14 sentilI:ter
+#98 2509
+#99 2741
+#54 
+
+#01 centilong
+#31 centilungo
+#02 subst.
+#32 substantivo
+#04 mätenhet för (barn)kläder där storlek anges i kroppslängd i centimeter
+#14 sentilÅ@:
+#98 2510
+#99 2742
+#54 
+
+#01 centi~meter
+#31 centimetro
+#02 subst.
+#32 substantivo
+#04 hundradels meter
+#09 bild 31:62
+#39 patreto/figurativno
+#12 -metern -meter (el. -metrar) -meterna
+#14 sentimE:ter
+#98 2511
+#99 2743
+#54 
+
+#01 central 1
+#31 centralno
+#02 adj.
+#32 adjektivo
+#04 som hör till el. ligger i mitten
+#07 bostaden har centralt läge
+#37 o kher lo vorta ando maškar 
+#47 1634
+#12 centralt centrala
+#14 sentrA:l
+#98 2512
+#99 2744
+#54 
+
+#01 central 1
+#31 o šhero
+#02 adj.
+#32 adjektivo
+#04 viktig, ledande, huvud-
+#07 en central fråga
+#37 jekh centralno pushimos
+#47 1635
+#11 central~kommitte
+#41 centralno komiteto
+#51 1078
+#11 central~ort
+#41 centralno foro 
+#51 1079
+#11 central~redaktion
+#41 centralno redaktiono
+#51 1080
+#11 central~station
+#41 centralno stantcia
+#51 1081
+#12 centralt centrala
+#14 sentrA:l
+#98 2512
+#99 2745
+#54 
+
+#01 central 2
+#31 ando centro
+#02 subst.
+#32 substantivo
+#04 ställe som är betydelsefullt för någon viss aktivitet
+#05 särskilt om huvudstation för järnväg
+#35 
+#07 Stockholms Central
+#37 Stockholmosko Centralo
+#47 1636
+#11 barnavårdscentral
+#41 glatengi špita
+#51 1082
+#11 alarmcentral
+#41 bajosko centralo
+#51 1083
+#11 larmcentral
+#41 bašado centralo
+#51 1084
+#12 centralen centraler
+#14 sentrA:l
+#98 2513
+#99 2746
+#54 e stancia
+
+#01 Centrala studiestödsnämnden
+#31 CSN
+#02 se CSN
+#32 
+#14 sentrA:la 2stU:diestö:dsnem:den
+#98 2514
+#99 2747
+#54 lovengo ažutimos po sičimos
+
+#01 centraliserar
+#31 čidel
+#02 verb
+#32 verbo
+#04 förena, samla, koncentrera till ett ställe
+#07 vi vill motverka en centraliserad statsmakt
+#37 
+#47 1637
+#10 A & x
+#12 centraliserade centraliserat centralisera(!)
+#14 sentralisE:rar
+#98 2515
+#99 2748
+#54 čidimos
+
+#01 central~styrd
+#31 centralno-pirado
+#02 adj.
+#32 adjektivo
+#04 som styrs av en central myndighet, ett huvudkontor e dyl
+#11 central~styrning
+#41 
+#51 1085
+#12 -styrt -styrda
+#14 2sentrA:lsty:r+d
+#98 2516
+#99 2749
+#54 
+
+#01 central~värme
+#31 centralno bhov
+#02 subst.
+#32 substantivo
+#04 uppvärmning av bostäder från en central värmekälla
+#12 -värmen
+#14 2sentrA:lvär:me
+#98 2517
+#99 2750
+#54 
+
+#01 centrifug
+#31 sentifugo
+#02 subst.
+#32 substantivo
+#04 apparat med en behållare (t ex i en tvättmaskin) som kan snurras runt så snabbt att innehållet pressas ut mot sidorna
+#12 centrifugen centrifuger
+#14 sentrifU:g
+#98 2518
+#99 2751
+#54 gadengi-šušarnia
+
+#01 centrifugerar
+#31 strangol
+#02 verb
+#32 verbo
+#04 behandla i centrifug
+#10 A & x
+#12 centrifugerade centrifugerat centrifugera(!)
+#14 sentrifugE:rar
+#98 2519
+#99 2752
+#54 
+
+#01 centrum
+#31 maškaral
+#02 subst.
+#32 substantivo
+#04 mittpunkt
+#05 särskilt om centrala delar av en stad
+#35 kotora ande jekh maškar foro
+#07 stå i centrum för uppmärksamheten
+#37 bešel ando maškar pala o dikhimos
+#47 1638
+#07 Stockholms centrum
+#37 Stockholmosko centrumo
+#47 1639
+#11 stormcentrum
+#41 baro centrum
+#51 1086
+#11 affärscentrum
+#41 bičinimasko centrumo
+#51 1087
+#12 centrumet (el. centret) centrum (el. centrer) centrumen (el. centrerna)
+#14 sEn:trum
+#98 2520
+#99 2753
+#54 centrumo
+
+#01 cerat
+#31 cerato
+#02 subst.
+#32 substantivo
+#04 en slags salva (för torra läppar)
+#12 ceratet cerat (el. cerater) ceraten (el. ceraterna)
+#14 serA:t
+#98 2521
+#99 2754
+#54 čiken vuštengo
+
+#01 ceremoni
+#31 zakono
+#02 subst.
+#32 substantivo
+#04 högtidlig (symbolisk) handling
+#11 vigselceremoni
+#41 cermonia abiaveski
+#51 1088
+#11 kröningsceremoni
+#41 
+#51 1089
+#12 ceremoni(e)n ceremonier
+#14 seremonI:
+#98 2522
+#99 2755 
+#54 modo, cermonia
+
+#01 certifikat
+#31 sertifikato
+#02 subst.
+#32 substantivo
+#04 intyg, tillståndsbevis
+#11 flygcertifikat
+#41 
+#51 1090
+#12 certifikatet certifikat certifikaten
+#14 sär+tifikA:t
+#98 2523
+#99 2756
+#54 
+
+#01 cesium
+#31 česiumo
+#02 subst.
+#32 substantivo
+#04 en ljuskänslig metall
+#12 cesiet (el. cesium el. cesiumet)
+#14 sE:sium
+#98 2524
+#99 2757
+#54 
+
+#01 champagne
+#31 champagnia
+#02 subst.
+#32 substantivo
+#04 ett pärlande vin
+#11 champagne~glas -et
+#41 champagniaske poravora
+#51 1091
+#12 champagnen
+#14 $ampAn:j
+#98 2525
+#99 2758
+#54 mohl
+
+#01 champinjon
+#31 buraca
+#02 subst.
+#32 substantivo
+#04 (ätlig) svamp av släktet Psalliota
+#09 bild 24:48
+#39 patreto/figurativno	
+#12 champinjonen champinjoner
+#14 $ampinjO:n
+#98 2526
+#99 2759
+#54 
+
+#01 champion
+#31 neritori 
+#02 subst.
+#32 substantivo
+#04 mästare i en sport speciellt boxning; rasdjur
+#12 championen
+#14 $Am:piån
+#98 2527
+#99 2760
+#54 
+
+#01 chans
+#31 šajimos  
+#02 subst.
+#32 substantivo
+#04 möjlighet att lyckas, tillfälle
+#07 målvakten var utan chans
+#37 
+#47 1640
+#07 han hade ingen chans att klara sig
+#37 nas les šanca te biril
+#47 1641
+#07 gripa chansen
+#37 lel e šanca
+#47 1642
+#08 ta en chans ("försöka på vinst och förlust")
+#38 lel jekh šanca (" zumavel po nerimos vai xasarimos")
+#48 209
+#11 vinstchans
+#41 nerimaski šanca
+#51 1092
+#11 chans~lös -t
+#41 bi šancasko
+#51 1093
+#11 chansning -en
+#41 
+#51 1094
+#12 chansen chanser
+#14 can:s (el. $a@:s)
+#98 2528
+#99 2761
+#54 šanca
+
+#01 chansar
+#31 zumavel
+#02 verb
+#32 verbo
+#04 försöka på vinst och förlust
+#05 vardagligt
+#35 djesesko
+#07 jag chansar på att det går
+#37 me sumavav te žalpe
+#47 1643
+#10 A & (på x)
+#12 chansade chansat chansa(!)
+#14 2cAn:sar (el. 2$A@:s-)
+#98 2529
+#99 2762
+#54 zumavel, šancil
+
+#01 charad
+#31 khelimos
+#02 subst.
+#32 substantivo
+#04 ordgåta som illustreras med enbart kroppen
+#07 leka charader
+#37 khelen khelimata
+#47 1644
+#12 charaden charader
+#14 $arA:d
+#98 2530
+#99 2763
+#54 
+
+#01 charge-d'affaires
+#31 šefo
+#02 subst.
+#32 substantivo
+#04 chef för beskickning
+#05 franska
+#35 
+#12 en charge-d'affaires
+#14 $ar$e:dafÄ:r
+#98 2531
+#99 2764
+#54 
+
+#01 chark
+#31 masari
+#02 subst.
+#32 substantivo
+#04 charkuteri
+#11 chark~vara
+#41 
+#51 1095
+#11 chark~avdelning
+#41 
+#51 1096
+#12 charken
+#14 $ar:k
+#98 2532
+#99 2765
+#54 
+
+#01 charkuteri
+#31 masesko balamo
+#02 subst.
+#32 substantivo
+#04 affär där man säljer kött
+#11 charkuteri~vara -n
+#41 
+#51 1097
+#12 charkuteri(e)t charkuterier
+#14 $arkuterI:
+#98 2533
+#99 2766
+#54 balamo kote kai bičinen mas 
+
+#01 charlatan
+#31 čor
+#02 subst.
+#32 substantivo
+#04 bedragare, bluffmakare
+#12 charlatanen charlataner
+#14 $ar+latA:n
+#98 2534
+#99 2767
+#54 xoxavno
+
+#01 charm
+#31 dragosto
+#02 subst.
+#32 substantivo
+#04 förmåga att bli omtyckt, attraktiv förmåga
+#07 han kopplade på hela sin charm
+#37 vo las pe sa pesko dragostimos
+#47 1645
+#11 charmig -t
+#41 dragosto
+#51 1098
+#11 charm~full
+#41 perdo dragostosko 
+#51 1099
+#11 charm~kurs
+#41 
+#51 1100
+#11 charm~troll
+#41 
+#51 1101
+#11 charmör
+#41 dragostori
+#51 1102
+#12 charmen
+#14 $ar:m
+#98 2535
+#99 2768
+#54 
+
+#01 charmig
+#31 šukara
+#02 adj.
+#32 adjektivo
+#04 som har charm
+#12 charmigt charmiga
+#14 2$Ar:mig
+#98 2536
+#99 2769
+#54 šarmoro
+
+#01 charter-
+#31 chartero
+#02 förled
+#32 
+#04 hyrd för ett särskilt ändamål; grupp-
+#11 charter~resa -n
+#41 
+#51 1103
+#11 charter~flyg
+#41 
+#51 1104
+#14 2cA:r+ter-
+#98 2537
+#99 2770
+#54 
+
+#01 chassi
+#31 vossia
+#02 subst.
+#32 substantivo
+#04 bärande underdel (på ett fordon)
+#12 chassi(e)t chassier
+#14 $As:i
+#98 2538
+#99 2771
+#54 
+
+#01 chattar
+#31 del duma
+#02 verb
+#32 verbo
+#04 föra skriftlig dialog i realtid via Internet
+#05 vardagligt
+#35 djesesko
+#06 Alt. ^snacka, diskutera, prata (på nätet)^
+#36 Den duma, diskusia, divano ( pe interneta) 
+#07 hon chattade med en politiker
+#37 voj delas duma me jekh politikanto
+#47 
+#10 A chattar med B
+#12 chattade chattat chatta (!)
+#13 tjattar
+#14 2cAt:ar
+#54 
+
+#01 chaufför
+#31 traditori
+#02 subst.
+#32 substantivo
+#04 (bil)förare
+#11 taxichaufför
+#41 taxesko traditori
+#51 1105
+#12 chauffören chaufförer
+#14 $åfÖ:r
+#98 2539
+#99 2772
+#54 šofero
+
+#01 chauvinism
+#31 šovanizmo
+#02 subst.
+#32 substantivo
+#04 fanatisk nationalism; överskattning av ens egen grupp
+#11 manschauvinism
+#41 
+#51 1106
+#12 chauvinismen
+#14 $åvinIs:m
+#98 2540
+#99 2773
+#54 muršako
+
+#01 check
+#31 čeko
+#02 subst.
+#32 substantivo
+#04 ett slags betalningsmedel, bankanvisning
+#09 bild 16:32
+#39 patreto/figurativno
+#11 check~lön -en
+#41 
+#51 1107
+#12 checken checkar (el. checker)
+#14 cek:
+#98 2541
+#99 2774
+#54 
+
+#01 checkar
+#31 lel sama
+#02 verb
+#32 verbo
+#04 kontrollera, kolla
+#07 vill du checka de här uppgifterna
+#37 kames to te kontrolis kadala dželi/informatcji
+#47 1646
+#10 A & x/att+SATS
+#12 checkade checkat checka(!)
+#14 2cEk:ar
+#98 2542
+#99 2775
+#54 kontrolil
+
+#01 checkar in
+#31 des andre
+#02 verb
+#32 verbo
+#04 visa flygbiljett och lämna bagage
+#07 man måste checka in senast en halvtimme före start
+#37 vo musaj te del andre jekh dopaš časo mai angal sar o starto/teliarimos
+#47 1647
+#10 A &
+#11 incheckning
+#41 de andre
+#51 1108
+#12 checkade checkat checka(!)+in
+#14 cek:arIn:
+#98 2543
+#99 2776
+#54 čekil andre, ramolpe andre
+
+#01 chef
+#31 gazda
+#02 subst.
+#32 substantivo
+#04 ledare
+#07 hon blev chef för dataanläggningen
+#37 voj anklisto gazda pe datori
+#47 1648
+#11 maskinchef
+#41 maskinasko gazda
+#51 1109
+#11 chefs~befattning -en
+#41 
+#51 1110
+#11 chef~redaktör
+#41 
+#51 1111
+#11 chef~skap
+#41 
+#51 1112
+#12 chefen chefer
+#14 $e:f
+#98 2544
+#99 2777
+#54 
+
+#01 chefs~stol
+#31 gazdasko than  
+#02 subst.
+#32 substantivo
+#04 position som chef
+#12 -stolenstolar
+#14 2$E:fsto:l
+#98 2545
+#99 2778
+#54 gazdasko skamin
+
+#01 chic
+#31 rajikano
+#02 adj.
+#32 adjektivo
+#04 elegant, stilfull
+#12 chict chica
+#13 chick
+#14 cik:
+#98 2546
+#99 2779
+#54 
+
+#01 chiffer
+#31 chifro
+#02 subst.
+#32 substantivo
+#04 hemlig skrift
+#12 chiffret (el. chiffern) chiffer (el. chiffrer) chiffren (el. chifferna el. chiffrerna)
+#14 $If:er
+#98 2547
+#99 2780
+#54 
+
+#01 chiffonje
+#31 chifonje
+#02 subst.
+#32 substantivo
+#04 hög byrå med utfällbar klaff att skriva på
+#12 chiffonjen chiffonjeer
+#14 $ifånjE:
+#98 2548
+#99 2781
+#54 
+
+#01 chilen
+#31 čileno
+#02 subst.
+#32 substantivo
+#04 person från Chile
+#12 chilenen chilener
+#14 cilE:n
+#98 2549
+#99 2782
+#54 
+
+#01 chilensk
+#31 čileno
+#02 adj.
+#32 adjektivo
+#04 som är från el. avser Chile
+#12 chilenskt chilenska
+#14 cilE:nsk
+#98 2550
+#99 2783
+#54 
+
+#01 chimär
+#31 chimaro
+#02 subst.
+#32 substantivo
+#04 illusion
+#12 chimären chimärer
+#14 $imÄ:r
+#98 2551
+#99 2784
+#54 
+
+#01 chips 1
+#31 čipso-elektroniko
+#02 subst.
+#32 substantivo
+#04 elektronisk kretsplatta i datorer
+#05 engelska
+#35 engelšitsko
+#12 chipset chips chipsen
+#14 cip:s
+#98 2552
+#99 2785
+#54 
+
+#01 chips 2
+#31 čipsura kolompirake
+#02 subst.
+#32 anavjori
+#04 flottyrkokta potatisskivor
+#12 chipsen
+#14 cip:s
+#98 2553
+#99 2786
+#54 
+
+#01 chock
+#31 šoko
+#02 subst.
+#32 substantivo
+#04 hastigt nedsatt allmäntillstånd (i samband med kroppsskada)
+#11 chock~tillstånd -et
+#41 šokosko ašajipe
+#51 1113
+#12 chocken chocker
+#14 $åk:
+#98 2554
+#99 2787
+#54 čudimos
+
+#01 chock
+#31 čudimos
+#02 subst.
+#32 substantivo
+#04 våldsam (obehaglig) överraskning som leder till en förlamande känsla
+#07 mannen fick en chock när han insåg hur allvarligt läget var
+#37 o manuš la šoko kana dikla če bari buči sas
+#47 1649
+#11 chock~artad ~artat
+#41 
+#51 1114
+#11 chock~höjning
+#41 
+#51 1115
+#11 hyreschock
+#41 
+#51 1116
+#12 chocken chocker
+#14 $åk:
+#98 2554
+#99 2788
+#54 
+
+#01 chockar
+#31 čokil
+#02 verb
+#32 verbo
+#04 utsätta för chock 2
+#07 han blev chockad vid beskedet om hustruns död
+#37 vo anklista šokime kana ašunda te muli leski manušni
+#47 1650
+#09 jfr ^chock^ 1
+#39 
+#10 A/x & B
+#12 chockade chockat chocka(!)
+#14 2$Åk:ar
+#98 2555
+#99 2789
+#54 čudimos
+
+#01 chockerar
+#31 čokoil
+#02 verb
+#32 verbo
+#04 uppröra, väcka anstöt (hos)
+#07 hennes uppträdande var chockerande
+#37 
+#47 1651
+#10 A/x & (B)
+#12 chockerade chockerat chockera(!)
+#14 $åkE:rar
+#98 2556
+#99 2790
+#54 
+
+#01 choke
+#31 choke
+#02 subst.
+#32 substantivo
+#04 luftspjäll i motor
+#12 choken chokar
+#14 cå:k
+#98 2557
+#99 2791
+#54 
+
+#01 choklad
+#31 čoklado/čokolato
+#02 subst.
+#32 substantivo
+#04 godsak med kakao; dryck med kakao
+#09 bild 5:12
+#39 patreto/figurativno
+#11 mjölkchoklad
+#41 tudesko čoklado
+#51 1117
+#11 choklad~kaka -n
+#41 
+#51 1118
+#12 chokladen
+#14 $oklA:d
+#98 2558
+#99 2792
+#54 
+
+#01 chose~fri
+#31 chosefri
+#02 adj.
+#32 adjektivo
+#04 naturlig, okonstlad
+#07 en chosefri filmstjärna
+#37 
+#47 1652
+#12 -fritt, -fria
+#14 2$Å:sfri:
+#98 2559
+#99 2793
+#54 
+
+#01 cider
+#31 mohl pabajeski
+#02 subst.
+#32 substantivo
+#04 jäst dryck av äpple el. päron
+#11 äppelcider
+#41 phabajeski mohl
+#51 1119
+#12 cidern
+#14 sI:der
+#98 2560
+#99 2794
+#54 
+
+#01 cigarett
+#31 papiroša
+#02 subst.
+#32 substantivo
+#04 rulle av röktobak omgiven av papper
+#11 cigarett~rök -en
+#41 cigaretasko tuv
+#51 1120
+#11 cigarett~limpa
+#41 paket bari cigaretaski
+#51 1121
+#12 cigaretten cigaretter
+#13 cigarrett
+#14 sigarEt:
+#98 2561
+#99 2795
+#54 papiroša
+
+#01 cigarr
+#31 sigara
+#02 subst.
+#32 substantivo
+#04 rulle av tobaksblad för rökning
+#12 cigarren cigarrer
+#14 sigAr:
+#98 2562
+#99 2796
+#54 cigara
+
+#01 cirka
+#31 pašte
+#02 adv.
+#32 adverbo
+#04 ungefär, omkring
+#14 2sIr:ka
+#98 2563
+#99 2797
+#54 
+
+#01 cirka~pris
+#31 opre kerel
+#02 subst.
+#32 substantivo
+#04 det pris som en fabrikant, grossist eller branschorganisation rekommenderar köpmännen att ta ut av kunden; bruttopris
+#06 En affär får sälja en vara till högre eller lägre pris än cirkapris.
+#36 Jekh balamo šhaj bičinel jekh djela mai kuči vai mai lezni sar o čačo priso.
+#12 -priset -pris (el. -priser) -prisen (el. -priserna)
+#14 2sIr:kapri:s
+#98 2564
+#99 2798
+#54 
+
+#01 cirkel
+#31 rrata
+#02 subst.
+#32 substantivo
+#04 ring
+#08 (hamna i) en ond cirkel ("fortsatt utveckling till det sämre")
+#38 anklel ande jekh čori rata (" kerel mai čores ")
+#48 210
+#09 bild 31:63
+#39 patreto/figurativno
+#11 halvcirkel
+#41 topaš rata
+#51 1122
+#11 cirkel~rund ~runt
+#41 
+#51 1123
+#12 cirkeln cirklar
+#14 2sIr:kel
+#98 2565
+#99 2799
+#54 
+
+#01 cirkel
+#31 
+#02 subst.
+#32 substantivo
+#04 studiegrupp (utanför skolan)
+#11 studiecirkel
+#41 
+#51 1124
+#11 cirkel~ledare -n
+#41 
+#51 1125
+#12 cirkeln cirklar
+#14 2sIr:kel
+#98 2565
+#99 2800
+#54 
+
+#01 cirklar
+#31 ratozil
+#02 verb
+#32 verbo
+#04 röra sig i cirklar, kretsa
+#07 planet cirklade över flygplatsen
+#37 
+#47 1653
+#10 x & (över B/y)
+#12 cirklade cirklat cirkla(!)
+#14 2sIr:klar
+#98 2566
+#99 2801
+#54 
+
+#01 cirkulation
+#31 cirkuil
+#02 subst.
+#32 substantivo
+#04 det att cirkulera
+#11 cirkulation
+#41 cirkulatia
+#51 1127
+#12 cirkulationen cirkulationer
+#14 sirkula$O:n
+#98 2567
+#99 2802
+#54 krujimos
+
+#01 cirkulerar
+#31 ratuzil
+#02 verb
+#32 verbo
+#04 gå runt, vara i omlopp
+#10 x &
+#12 cirkulerade cirkulerat cirkulera(!)
+#14 sirkulE:rar
+#98 2568
+#99 2803
+#54 
+
+#01 cirkulär
+#31 cirkular
+#02 subst.
+#32 substantivo
+#04 rundskrivelse
+#12 cirkuläret cirkulär cirkulären
+#14 sirkulÄ:r
+#98 2569
+#99 2804
+#54 
+
+#01 cirkus
+#31 cirko
+#02 subst.
+#32 substantivo
+#04 hus el. tält där akrobater och djur etc uppträder
+#05 bildligt även om så kaotiska förhållanden att det väcker löje
+#35 patreto/figurativno
+#07 sammanträdet övergick så småningom till rena cirkusen
+#37 o čidimos gelas opral ai anklista sar jekh cirkuso
+#47 1654
+#11 cirkus~artist -en
+#41 
+#51 1128
+#12 cirkusen cirkusar
+#14 sIr:kus
+#98 2570
+#99 2805
+#54 
+
+#01 cistern
+#31 bazina
+#02 subst.
+#32 substantivo
+#04 stor behållare, stort kärl
+#11 oljecistern
+#41 
+#51 1129
+#12 cisternen cisterner
+#14 sistÄ:r+n
+#98 2571
+#99 2806
+#54 
+
+#01 citat
+#31 sitato
+#02 subst.
+#32 substantivo
+#04 ordagrant återgivet ställe av en skrift eller ett tal
+#07 han svängde sig med citat på främmande språk
+#37 las ai phendas jekh svato pe kaver šib
+#47 1655
+#12 citatet citat citaten
+#14 sitA:t
+#98 2572
+#99 2807
+#54 
+
+#01 citat~tecken
+#31 sitatosko semno
+#02 subst.
+#32 substantivo
+#04 tecknen " " som omger citat el. direkt anföring
+#12 -tecknet -tecken -tecknen
+#14 2sitA:tek:en
+#98 2573
+#99 2808
+#54 
+
+#01 citerar
+#31 siteril
+#02 verb
+#32 verbo
+#04 ordagrant återge
+#10 A & B/x
+#12 citerade citerat citera(!)
+#14 sitE:rar
+#98 2574
+#99 2809
+#54 
+
+#01 citron
+#31 limuja
+#02 subst.
+#32 substantivo
+#04 en sur citrusfrukt
+#09 bild 5:10
+#39 patreto/figurativno
+#11 citron~klyfta -n
+#41 limujako kotor
+#51 1130
+#12 citronen citroner
+#14 sitrO:n
+#98 2575
+#99 2810
+#54  citroma
+
+#01 citrus~frukt
+#31 šukle fruti
+#02 subst.
+#32 substantivo
+#04 frukt av släktet Citrus (med saftigt fruktkött i klyftor)
+#12 -frukten -frukter
+#14 2si:trusfruk:t
+#98 2576
+#99 2811
+#54 
+
+#01 city
+#31 foro
+#02 subst.
+#32 substantivo
+#04 stadskärna
+#14 sIt:y (el. -i)
+#98 2577
+#99 2812
+#54 
+
+#01 civil
+#31 civilo
+#02 adj.
+#32 adjektivo
+#04 som rör medborgare i allmänhet; icke-militär
+#07 civila kläder
+#37 civilna gada
+#47 1656
+#07 vad är du i det civila?
+#37 kai san to ando civilno
+#47 1657
+#11 civil~befolkning -en
+#41 civilna manuš
+#51 1131
+#11 civil~rätt -en
+#41 
+#51 1132
+#11 civil~försvar
+#41 
+#51 1133
+#11 civil~motstånd
+#41 
+#51 1134
+#12 civilt civila
+#14 sivI:l
+#98 2578
+#99 2813
+#54 
+
+#01 civil
+#31 
+#02 adj.
+#32 adjektivo
+#04 borgerlig, icke kyrklig
+#07 civil begravning
+#37 
+#47 1658
+#07 civil vigsel
+#37 
+#47 1659
+#12 civilt civila
+#14 sivI:l
+#98 2578
+#99 2814
+#54 
+
+#01 civil
+#31 bi došalo
+#02 adj.
+#32 adjektivo
+#04 som inte har att göra med brott
+#11 civil~mål
+#41 
+#51 1135
+#11 civil~rätt
+#41 
+#51 1136
+#12 civilt civila
+#14 sivI:l
+#98 2578
+#99 2815
+#54 
+
+#01 civil~ekonom
+#31 civilno ekonomo
+#02 subst.
+#32 substantivo
+#04 person med examen från handelshögskola
+#12 -ekonomen -ekonomer
+#14 2sivI:lekonå:m
+#98 2579
+#99 2816
+#54 
+
+#01 civil~försvar
+#31 civilno firimos
+#02 subst.
+#32 substantivo
+#04 organisation inom totalförsvaret med uppgift att rädda civilbefolkning vid krig, t ex släcka bränder och ge skadade första hjälpen
+#06 Alla svenskar mellan 16 och 65 år omfattas av civilförsvarsplikten.
+#36 Sa le swedanori maškar 16 ai 65 si les le themesko čačipe te avel les o civilno firimos.
+#12 -försvaret
+#14 2sivI:lför+sva:r
+#98 2580
+#99 2817
+#54 
+
+#01 civil~ingenjör
+#31 civilinšinjori
+#02 subst.
+#32 substantivo
+#04 ingenjör med examen från teknisk högskola
+#12 -ingenjör(e)n -ingenjörer
+#14 2sivI:lin$enjö:r
+#98 2581
+#99 2818
+#54 
+
+#01 civilisation
+#31 kulturano
+#02 subst.
+#32 substantivo
+#04 ordnat samhällsliv; kultur, bildning
+#12 civilisationen civilisationer
+#14 sivilisa$O:n
+#98 2582
+#99 2819
+#54  civilisationa
+
+#01 civil~kurage
+#31 civilcorašo
+#02 subst.
+#32 substantivo
+#04 mod att stå för sina ståndpunkter
+#12 kuraget
+#14 2sivI:lkura:$
+#98 2583
+#99 2820
+#54 
+
+#01 civil~stånd
+#31 soski civilicia
+#02 subst.
+#32 substantivo
+#04 en persons ställning i förhållande till äktenskapet (gift, ogift, skild, änka el. änkling)
+#12 -ståndet -stånd -stånden
+#14 2sivI:lstån:d
+#98 2584
+#99 2821
+#54 
+
+#01 cl
+#31 gramučo
+#02 förk.
+#32 skortsomos
+#04 centiliter
+#14 sentilI:ter
+#98 2585
+#99 2822
+#54 
+
+#01 clipper
+#31 
+#02 se klipper
+#32 
+#14 klIp:er
+#98 2586
+#99 2823
+#54 
+
+#01 clips
+#31 zlag
+#02 subst.
+#32 substantivo
+#04 smycke som kläms fast (i öronen)
+#12 clipset clips clipsen
+#14 klip:s
+#98 2587
+#99 2824
+#54 
+
+#01 clitoris
+#31 
+#02 se klitoris
+#32 
+#14 klI:tåris
+#98 2588
+#99 2825
+#54 zenziko
+
+#01 clown
+#31 klono 
+#02 subst.
+#32 substantivo
+#04 komisk cirkusfigur, pajas,
+#11 cirkusclown
+#41 
+#51 1137
+#11 clown~konst -en
+#41 
+#51 1138
+#12 clownen clowner
+#14 kla+on
+#98 2589
+#99 2826
+#54 pajaci
+
+#01 cm
+#31 cm
+#02 förk.
+#32 skortsomos
+#04 centimeter
+#14 sentimE:ter
+#98 2590
+#99 2827
+#54 
+
+#01 Co
+#31 Co
+#02 förk.
+#32 skortsomos
+#04 firma, bolag
+#05 i firmanamn
+#35 ande firmaske anava
+#07 firman Andersson och Co
+#37 e firma Andersson ai Co
+#47 1660
+#14 2kÅm:pani
+#98 2591
+#99 2828
+#54 
+
+#01 cocker~spaniel
+#31 žukel
+#02 subst.
+#32 substantivo
+#04 en hundras
+#12 -spanieln -spaniels
+#14 2kÅk:er+span:jel
+#98 2592
+#99 2829
+#54 
+
+#01 cockpit
+#31 cockpit
+#02 subst.
+#32 substantivo
+#04 förarkabin i flygplan
+#05 engelska
+#35 engelšitsko
+#12 cockpiten cockpitar
+#14 kÅk:pit
+#98 2593
+#99 2830
+#54 
+
+#01 cocktail
+#31 koktajlo
+#02 subst.
+#32 substantivo
+#04 blandad alkoholdrink
+#05 engelska
+#35 engelšitsko
+#11 cocktail~party
+#41 
+#51 1139
+#12 cocktailen cocktailar
+#14 kÅk:tejl
+#98 2594
+#99 2831
+#54 
+
+#01 collage
+#31 collage
+#02 subst.
+#32 substantivo
+#04 konstverk av olika föremål som klistras på varandra
+#12 collaget collage collagen
+#13 kollage
+#14 kålA:$
+#98 2595
+#99 2832
+#54 
+
+#01 collect call
+#31 
+#02 se BA-samtal
+#32 
+#14 kålEk:t kå:l
+#98 2596
+#99 2833
+#54 
+
+#01 college
+#31 universiteto
+#02 subst.
+#32 substantivo
+#04 läroanstalt i Storbritannien och USA
+#05 engelska
+#35 engelšitsko
+#11 college~tröja
+#41 zobono/špenčo
+#51 1140
+#12 colleget college collegen
+#14 kÅl:itc
+#98 2597
+#99 2834
+#54 škola ande anglia ai ande Amerika
+
+#01 collie
+#31 
+#02 subst.
+#32 substantivo
+#04 en hundras
+#12 collien collier
+#14 kÅl:i
+#98 2598
+#99 2835
+#54 jekh žukleski rasa
+
+#01 comeback
+#31 avilo palpale
+#02 subst.
+#32 substantivo
+#04 återkomst
+#05 engelska
+#35 engelšitsko
+#07 pianisten gjorde en efterlängtad comeback
+#37 o pianisto kerdas jekh žukerdo palpalimos
+#47 1661
+#12 comebacken comebacker (el. comebacks)
+#14 kambÄk:
+#98 2599
+#99 2836
+#54 
+
+#01 container
+#31 kontajno
+#02 subst.
+#32 substantivo
+#04 stor behållare, låda
+#09 bild 10:20
+#39 patreto/figurativno
+#11 sopcontainer
+#41 gonojoske kontajno
+#51 1141
+#12 containern containrar
+#14 kåntEj:ner
+#98 2600
+#99 2837
+#54 
+
+#01 controller
+#31 kontrolanto
+#02 subst.
+#32 substantivo
+#04 yrkesman som kontrollerar och analyserar ett företags ekonomi
+#05 engelska
+#35 engelšitsko
+#12 controllern controllers
+#14 kåntrÅl:er
+#98 2601
+#99 2838
+#54 
+
+#01 cool
+#31 barimatengo
+#02 adj.
+#32 adjektivo
+#04 som gör ett svalt och säkert intryck
+#05 vardagligt, engelska
+#35 djesesko, engelšitsko
+#12 coolt coola
+#14 ko:l
+#98 2602
+#99 2839
+#54 
+
+#01 copyright
+#31 
+#02 subst.
+#32 substantivo
+#04 upphovsrätt
+#05 engelska
+#35 engelšitsko
+#12 copyrighten
+#14 kÅp:irajt
+#98 2603
+#99 2840
+#54 
+
+#01 copywriter
+#31 
+#02 subst.
+#32 substantivo
+#04 reklamskribent
+#05 engelska
+#35 engelšitsko
+#12 copywritern copywriters
+#14 kÅp:irajter
+#98 2604
+#99 2841
+#54 
+
+#01 cornflakes
+#31 cukorozosko xaben
+#02 subst.
+#32 substantivo
+#04 majsflingor
+#05 engelska
+#35 engelšitsko
+#14 kÅ:r+nflejks
+#15 plural
+#45 
+#98 2605
+#99 2842
+#54 
+
+#01 cowboy
+#31 guruvnari
+#02 subst.
+#32 substantivo
+#04 amerikansk ridande boskapsskötare
+#05 engelska
+#35 engelšitsko
+#11 cowboy~film -en
+#41 
+#51 1142
+#12 cowboyen cowboyer (el. cowboys)
+#14 kA+obåj
+#98 2606
+#99 2843
+#54 
+
+#01 CP
+#31 CP (nasvalimos)
+#02 förk.
+#32 skortsomos
+#04 cerebral pares
+#06 En (medfödd) hjärnskada som leder till bl a rörelse- och talhinder.
+#36 Jekh (arakado) me godjiasko nasvalimos kai kerel phares te phiren ai te del duma.
+#14 2sE:pe:
+#98 2607
+#99 2844
+#54 
+
+#01 crawl
+#31 masimasko usimos
+#02 subst.
+#32 substantivo
+#04 simsätt där man för armarna växelvis över huvudet och sparkar upp och ner med benen
+#05 engelska
+#35 engelšitsko
+#12 crawlen
+#14 krå:l
+#98 2608
+#99 2845
+#54 
+
+#01 crawlar
+#31 usimos masimasko
+#02 verb
+#32 verbo
+#04 simma crawl
+#10 A &
+#12 crawlade crawlat crawla(!)
+#14 2krÅ:lar
+#98 2609
+#99 2846
+#54 
+
+#01 credo
+#31 pačajimos
+#02 subst.
+#32 substantivo
+#04 personlig tro
+#12 credot credon
+#14 krE:då
+#98 2610
+#99 2847
+#54 kredo
+
+#01 crêpe
+#31 bokoloro
+#02 subst.
+#32 substantivo
+#04 ett slags pannkaka
+#05 franska
+#35 fransosisko
+#11 champinjoncrÃªpes
+#41 
+#51 1143
+#12 crÃªpen crÃªpes
+#14 krep:
+#98 2611
+#99 2848
+#54 
+#00 
+
+#01 croissant
+#31 krusanto
+#02 subst.
+#32 substantivo
+#04 smördegsgiffel
+#05 franska
+#35 fransosisko
+#12 croissanten croissanter
+#14 kroasA@:
+#98 2612
+#99 2849
+#54 
+
+#01 CSN
+#31 CSN
+#02 förk.
+#32 skortsomos
+#04 Centrala studiestödsnämnden
+#06 Central myndighet för frågor om ekonomiskt studiestöd, chefsmyndighet för studiemedelsnämnder och vuxenutbildningsnämnder; stödet ges både i form av lån och bidrag beroende på utbildning.
+#36 
+#14 sentrA:la 2stU:diestö:dsnem:den
+#98 2613
+#99 2850
+#54 
+
+#01 C-språk
+#31 trito šhib ande škola
+#02 subst.
+#32 substantivo
+#04 främmande språk nummer tre i skolan
+#12 C-språket
+#14 2sE:språ:k
+#98 2475
+#99 2705
+#54 
+
+#01 cup
+#31 cupo
+#02 subst.
+#32 substantivo
+#04 tävling om prispokal
+#11 Europacupen
+#41 Europasko cupo
+#51 1144
+#11 cup~final -en
+#41 
+#51 1145
+#12 cupen cuper
+#14 kup:
+#98 2614
+#99 2851
+#54 nerimasko medaliono
+
+#01 curry
+#31 kuri
+#02 subst.
+#32 substantivo
+#04 en gul stark krydda
+#12 curryn
+#14 kUr:y
+#98 2615
+#99 2852
+#54 
+
+#01 cykel 1
+#31 cikla/bicikleta
+#02 subst.
+#32 substantivo
+#04 ett slags trampfordon med två hjul
+#09 bild 18:36
+#39 patreto/figurativno
+#11 barncykel
+#41 glatengi cikla
+#51 1146
+#11 cykel~däck -et
+#41 ciklaski rata
+#51 1147
+#11 racercykel
+#41 
+#51 1148
+#11 sparkcykel
+#41 purengi cikla
+#51 1149
+#12 cykeln cyklar
+#14 sYk:el
+#98 2616
+#99 2853
+#54 
+
+#01 cykel 2
+#31 
+#02 subst.
+#32 substantivo
+#04 följd, kretslopp
+#07 månens cykler
+#37 
+#47 1662
+#11 diktcykel
+#41 
+#51 1150
+#11 cyklisk
+#41 
+#51 1151
+#12 cykeln cykler (el. cyklar)
+#14 (2)sY:kel
+#98 2617
+#99 2854
+#54 
+
+#01 cykel~bana
+#31 cikalako drom
+#02 subst.
+#32 substantivo
+#04 speciell väg eller del av väg för cyklister (och i vissa fall även mopedister); cykelväg
+#09 bild 17:34
+#39 patreto/figurativno
+#12 -banan -banor
+#14 2sYk:elba:na
+#98 2618
+#99 2855
+#54 
+
+#01 cyklar
+#31 ciklil
+#02 verb
+#32 verbo
+#04 åka cykel
+#08 vara ute och cykla ("framföra orimlig åsikt")
+#38 avri ai ciklis ("phenes vareso bi hasnako")
+#48 211
+#10 A &
+#12 cyklade cyklat cykla(!)
+#14 2sYk:lar
+#98 2619
+#99 2856
+#54 
+
+#01 cyklist
+#31 čiklista
+#02 subst.
+#32 substantivo
+#04 person som åker cykel
+#09 bild 17:34, 18:36
+#39 patreto/figurativno
+#12 cyklisten cyklister
+#14 syklIs:t
+#98 2620
+#99 2857
+#54 
+
+#01 cyklop~öga
+#31 pajeski jakh
+#02 subst.
+#32 substantivo
+#04 dykarglasögon med ett stort öga
+#12 -ögat -ögon -ögonen
+#14 2syklÅ:pö:ga
+#98 2621
+#99 2858
+#54 
+
+#01 cylinder
+#31 cilindro
+#02 subst.
+#32 substantivo
+#04 jämntjockt rör, hög hatt
+#09 bild 31:63
+#39 patreto/figurativno
+#11 cylinder~formig -t
+#41 
+#51 1152
+#11 cylinderhatt
+#41 
+#51 1153
+#12 cylindern cylindrar
+#14 sylIn:der
+#98 2622
+#99 2859
+#54 
+
+#01 cyniker
+#31 dikhimasko
+#02 subst.
+#32 substantivo
+#04 en cynisk person
+#12 cynikern cyniker cynikerna
+#14 sY:niker
+#98 2623
+#99 2860
+#54 
+
+#01 cynisk
+#31 bi samasko manuš
+#02 adj.
+#32 adjektivo
+#04 som föraktar människans natur och är likgiltig för andras lidande; illusionslös; hänsynslös
+#07 en cynisk inställning
+#37 
+#47 1663
+#12 cyniskt cyniska
+#14 sY:nisk
+#98 2624
+#99 2861
+#54 
+
+#01 cynism
+#31 sinosizmo
+#02 subst.
+#32 substantivo
+#04 (uttryck för) cynisk inställning
+#12 cynismen cynismer
+#14 synIs:m
+#98 2625
+#99 2862
+#54 
+
+#01 cysta
+#31 gombo nasvalimos
+#02 subst.
+#32 substantivo
+#04 ett slags svulst
+#12 cystan cystor
+#14 2sYs:ta
+#98 2626
+#99 2863
+#54 pumh

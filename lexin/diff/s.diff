@@ -1,0 +1,5254 @@
+--- ../kelderasch_filer/text/s.txt	2025-08-13 17:09:02
++++ swe_kal/s.txt	2025-08-24 21:23:06
+@@ -1 +1 @@
+-﻿#01 s k
++#01 s k
+@@ -10 +10 @@
+-#54 sar si phendo
++#54 sarso phendo
+@@ -44 +44 @@
+-#54 pihenimasko džes
++#54 pihenimasko'žes
+@@ -99 +99 @@
+-#37 o sikaipe dikhadaspe tele khatar le kritikera
++#37 o sikaiipe dikhadaspe tele khatar le kritikera
+@@ -121 +121 @@
+-#31 rumul/rimol
++#31 rumul
+@@ -157 +157 @@
+-#54 Švedisko Akademongo Centralno organizacia
++#54 Švedicko Akademongo Centralno organizacija
+@@ -191 +191 @@
+-#31 sadizmo
++#31 sadismo
+@@ -239,13 +238,0 @@
+-#01 SAF
+-#31 SAF
+-#02 förk.
+-#32 
+-#04 Svenska Arbetsgivareföreningen
+-#06 Den största organisationen för privata arbetsgivare i Sverige.
+-#36 E majbari organizacia pe privatni bučake dinitora ando Švedo.
+-#14 saf:
+-#98 13431
+-#99 14891
+-#54 
+-#97 mini
+-
+@@ -297 +284 @@
+-#37 safto anda jekh narančo
++#37 safto anda ekh narančo
+@@ -322 +309 @@
+-#37 jekh saftošo narančo
++#37 ekh saftošo narančo
+@@ -325 +312 @@
+-#37 jekh saftošo historija
++#37 ekh saftošo historija
+@@ -334 +321 @@
+-#31 paramiči
++#31 paramiča
+@@ -339 +326 @@
+-#37 phen e paramiča pa Lole dikhleski!
++#37 pheje paramiča pa Lole dikheski!
+@@ -345 +332 @@
+-#41 paramičaki kniška
++#41 paramičaki kenjva
+@@ -371 +358 @@
+-#37 jekh paramičako soso
++#37 ekh paramičako soso
+@@ -401 +388 @@
+-#41 khelimasko bajo/igruška
++#41 khelimasko bajo
+@@ -404 +391 @@
+-#41 guglimasko bajo/guglimos
++#41 guglimasko bajo
+@@ -424 +411 @@
+-#37 kudo si jekh kaver buči
++#37 kodo si jekh kaver buči
+@@ -427 +414 @@
+-#37 ža vorta pe djela
++#37 ža vorta po djela
+@@ -430 +417 @@
+-#37 sa jekh buči
++#37 sajekh buči
+@@ -500 +487 @@
+-#37 jekh čačikano debato
++#37 ekh čačikano debato
+@@ -546 +533 @@
+-#54 pharol, brigil, mankil
++#54 pharol, brigil, mankil 
+@@ -555 +542 @@
+-#37 kiposko maj lašo khelitori mankil
++#37 kiposko majlašo khelitori mankil
+@@ -558 +545 @@
+-#37 inke mankil šajipe pe jekh vorbako jekhipe
++#37 inke mankil šajipe pe ekh vorbako jekhipe
+@@ -573 +560 @@
+-#37 jekh devlikano inkeripe
++#37 ekh devlikano inkeripe
+@@ -621 +608 @@
+-#31 ašavel
++#31 lokharel
+@@ -675 +662 @@
+-#41 xabeneski sala
++#41 xabeski sala
+@@ -691 +678 @@
+-#31 saldo
++#31 saldo 
+@@ -758 +745 @@
+-#41 salatako šero
++#41 šalatako šero
+@@ -769 +756 @@
+-#31 salata
++#31 šalata
+@@ -796 +783 @@
+-#31 šukarimaski sala/salono
++#31 šukarimaski sala
+@@ -835 +822 @@
+-#31 zarzari
++#31 
+@@ -866 +853 @@
+-#31 lon/lond
++#31 lon
+@@ -882 +869 @@
+-#41 londeski holba
++#41 londoski holba
+@@ -885 +872 @@
+-#41 londo krestevetso
++#41 londi krastaveco
+@@ -895 +882 @@
+-#31 londjarel
++#31 londarel
+@@ -900 +887 @@
+-#37 londjarelpe o xabe
++#37 londarelpe po xabe
+@@ -921 +908 @@
+-#31 lonesko zarzari
++#31 loneski salsari
+@@ -932 +919 @@
+-#31 londo paj
++#31 londo paj 
+@@ -940 +927 @@
+-#54 marjako paj
++#54 marako paj
+@@ -987 +974 @@
+-#54 kanonosko puškipe te delpe pačiv varekas
++#54 kononosko puškipe te delpe pačiv varekas
+@@ -995 +982 @@
+-#37 kudo krajicko paraxodo salutirisardaspe kusa kanonosko puškipe
++#37 kodo krajicko paraxodo salutirisardaspe kusa kononosko puškipe
+@@ -1005 +992 @@
+-#31 čiken/pomada
++#31 čiken
+@@ -1014 +1001 @@
+-#41 morčako čiken/pomada
++#41 morčako čiken
+@@ -1084 +1071 @@
+-#31 bučazil andekthan
++#31 bučalil andekthan
+@@ -1114 +1101 @@
+-#41 khetanimaski bučaki voja
++#41 khetanimaski bučiki voja
+@@ -1142 +1129 @@
+-#37 ande phangli buči maškar vuloj kai keržilas maj kuč barilas e inflacija
++#37 ande phangli buči maškar ulje ke keržilas maj kuč barilas e inflacija
+@@ -1174 +1161 @@
+-#54 samo, jekh manušikani rasa anda opruni Skandinavia
++#54 samo, jekh manušikani sorta anda opruni Skandinavija
+@@ -1175,0 +1163,2 @@
++#01 Sameland
++
+@@ -1182 +1171 @@
+-#41 khangeriako devlikano khetanipe
++#41 khangerako devlikano khetanipe
+@@ -1222 +1211 @@
+-#37 ando maj lašo khetanimasko ačarimos
++#37 ando majlašo khetanimasko ačarimos
+@@ -1225 +1214 @@
+-#37 khetanimasko ačarimos maškar bučara ai bararitora/muziča
++#37 khetanimasko ačarimos maškar bučara ai bararitora
+@@ -1251 +1240 @@
+-#31 gav. taljo, tajo
++#31 gav. Taljo, tajo
+@@ -1365,0 +1355,2 @@
++#01 samiska
++
+@@ -1367 +1358 @@
+-#31 harmonia, ačarimos
++#31 harmonija, ačarimos
+@@ -1405 +1396 @@
+-#37 vo sas pačako ai inkerdo/kalmo angla šinadi buči
++#37 vov sas pačako ai inkerdo/kalmo angla šinadi buči
+@@ -1426 +1417 @@
+-#31 čidel,
++#31 čidel, 
+@@ -1469 +1460 @@
+-#37 čidipe kal 15
++#37 čidipe ča 15
+@@ -1518 +1509 @@
+-#31 sa jekh
++#31 sajekh
+@@ -1523 +1514 @@
+-#37 kudo si sa jekh manuš sar palunes
++#37 kodo si sajekh manuš sar palunes
+@@ -1526 +1517 @@
+-#37 len si sa jekh roča/kapoto
++#37 len si sajekh roča/kapoto
+@@ -1529 +1520 @@
+-#37 sa jekh ruto xape sar majinti
++#37 sajekh ruto xape sar majinti 
+@@ -1601,0 +1593 @@
++#31 
+@@ -1657 +1649 @@
+-#37 bučarnenge interesura či malaven le parlamentosa
++#37 bučarenge interesura či jekharel le regeringosa
+@@ -1726 +1718 @@
+-#37 kudo naj khanči kadalesa anda kudo so voj phenel
++#37 kodo naj khanči kadalesa ande kodo so voj phenel
+@@ -1732 +1724 @@
+-#54 andekthan panglo, khetanutno phanglipe
++#54 andekthan phanglo, khetanutno phanglipe
+@@ -1774 +1766 @@
+-#37 jekhe šonesko andekthan vakanso
++#37 jekhe šonesko andekthan pherdo slobodija
+@@ -1801 +1793 @@
+-#31 čidipe,
++#31 čidipe, 
+@@ -1827 +1819 @@
+-#31 sandekthan
++#31 saandekthan
+@@ -1832 +1824 @@
+-#37 voj las sandekthan dešujekh doša po ramomos
++#37 voj las saandekthan dešujekh doša po iskiripe
+@@ -1867 +1859 @@
+-#37 jekh andekthan šutipe anda duj firmi
++#37 ekh andekthan šutipe anda duj firmi
+@@ -1910 +1902 @@
+-#37 jekh zuralo malajipe maškar duj autura/vurdona/matori
++#37 ekh zuralo malajipe maškar duj autura/vurdona
+@@ -1924 +1916 @@
+-#37 riziko pe ketaniska marimata
++#37 riziko pe ketanicka marimata
+@@ -1933 +1925 @@
+-#31 khetanes armajozil pes
++#31 khatanes armajozil pes 
+@@ -2031 +2023 @@
+-#37 jekh drago maladjimos
++#37 jekh asamasko bi gindipe/drago maladjimos
+@@ -2063 +2055 @@
+-#31 barxato
++#31 phanruno/barxato
+@@ -2162 +2154 @@
+-#37 khetanimasko khelipe maškar diferentno ferbi
++#37 khetanimasko khelipe maškar sogodicka farbi
+@@ -2227 +2219 @@
+-#31 thaj
++#31 haj
+@@ -2234 +2226 @@
+-#37 anen le amalen ai prinžarden thaj gono xabenesa
++#37 anenpe le amalen ai pinžarde haj xabe
+@@ -2253 +2245 @@
+-#37 jekh vorbipe anda Štockholmo
++#37 jekh vorbipe anda Štokholmo
+@@ -2317 +2309 @@
+-#31 sa jekh vriama
++#31 jokhvarsa/jekh vriama
+@@ -2322 +2314 @@
+-#37 vorta kana reslam kezdisardas o brišind
++#37 jokhvarsa sarso ame reslam kezdisardas o brišind
+@@ -2377 +2369 @@
+-#37 jekh pačivalo khetanipe
++#37 ekh pačivalo khetanipe
+@@ -2403 +2395 @@
+-#54 kudo
++#54 khudo
+@@ -2411 +2403 @@
+-#37 but khetanimaske buča
++#37 buth khetanozimaske buča
+@@ -2426 +2418 @@
+-#38 al čori oži (”avelpe došaljardo”)
++#38 al čori oži ("avelpe došaljardo")
+@@ -2450 +2442 @@
+-#31 kejipe
++#31 kaiipe
+@@ -2497 +2489 @@
+-#54 sastarimasko kher kai inkrenpe nasvalen pe buke
++#54 sasčarimasko kher kai inkrenpe nasvalen pe buke
+@@ -2508 +2500 @@
+-#38 šordžol avri ande čišaj (”ke či avla”)
++#38 šoržol avri ande čišaj ("ke či avla")
+@@ -2531 +2523 @@
+-#41 morčake sandalia
++#41 morčake sandala
+@@ -2544 +2536 @@
+-#04 elegant dam sandal med klack
++#04 elegant damsandal med klack
+@@ -2589 +2581 @@
+-#31 čišajaslo paparišo/hertija
++#31 čišajaslo paparišo
+@@ -2623 +2615 @@
+-#37 sasčarel/vužaren jekh kherengo than
++#37 sasčarel jekh kherengo than
+@@ -2692 +2684 @@
+-#38 te delpe puške ando apadipe (”te del tele, o paraxodo vaj o bero
++#38 te delpe puške ando apadipe ("te del tele, o paraxodo vaj o bero")
+@@ -2730 +2722 @@
+-#31 
++#31   
+@@ -2744 +2736 @@
+-#54 šinajipe, došaripe, tamadipe
++#54 šinajipe, došaljaripe, tamadipe
+@@ -2752 +2744 @@
+-#37 čačes ke tu si te mučis tut?
++#37 si kodo čačes ke tu si te mučis tut?
+@@ -2755 +2747 @@
+-#37 jekh čačo kipo anda čačipe
++#37 ekh čačo kipo anda čačipe
+@@ -2770 +2762 @@
+-#37 jekh čačo kristiano
++#37 ekh čačo kristiano
+@@ -2784 +2776 @@
+-#38 čačikane mure vorbi! ”(kade avla sar so me phendem”)
++#38 čačikane mure vorbi! "(kade avla sar so me phendem")
+@@ -2798 +2790 @@
+-#37 kodo naj čačimasa kanči te asalpe pe
++#37 kodo naj čačimasa khanči te asalpe pe
+@@ -2828 +2820 @@
+-#37 čačipe pa švedisko nazismo
++#37 čačipe pa švedicko nazismo
+@@ -2988 +2980 @@
+-#54 Švedisko socialno demokraticko bučakipartija “ŠSB”
++#54 Švedicko socialnodemokraticko bučakipartija “ŠSB"
+@@ -3003 +2995 @@
+-#31 lažavno
++#31 lažavno 
+@@ -3039 +3031 @@
+-#37 jekh njuzime/dukhado foro
++#37 jekh njuzime foro
+@@ -3108 +3100 @@
+-#11 satellit-TV
++#11 satellit-~TV
+@@ -3143 +3135 @@
+-#31 bendžali žuvlji
++#31 benžali žuvlji
+@@ -3368 +3360 @@
+-#41 bariaki kat
++#41 baraki kat
+@@ -3407 +3399 @@
+-#31 šalo/poša
++#31 šalo
+@@ -3423,0 +3416,2 @@
++#01 SCB
++
+@@ -3560 +3554 @@
+-#41 šaxoski mesalji/phal
++#41 šaxoski mesalji/phalj
+@@ -3630 +3624 @@
+-#54 e phuv ingrel/hunavel e bulldozeresa
++#54 e phuv ingrel/hunavek e bulldozeresa
+@@ -3677 +3671 @@
+-#54 jekh infektiono kai del lole somnuri/pečeti
++#54 jag/lazura lole somnonca
+@@ -3711 +3705 @@
+-#37 boldimaski šema
++#37 boldimasko šema
+@@ -3732 +3726 @@
+-#31 šemisko
++#31 šemicko
+@@ -3804 +3798 @@
+-#31 švajčisko/šveičisko
++#31 švajcicko/šveičisko
+@@ -3836 +3830 @@
+-#31 ruv/žjukel
++#31 ruv
+@@ -3886 +3880 @@
+-#54 Skautisko inkeripe, terne kai sičon te trajin avral
++#54 Skauticko inkeripe, terne kai sičon te trajin avral
+@@ -3920 +3914 @@
+-#54 Švedisko sičardengi maškarutni organizacia
++#54 Švedicko sičardengi maškarutni organizacija
+@@ -3929,2 +3923,2 @@
+-#11 second hand~affär second hand~affären
+-#41 dujto vastesko balamo
++#11 second handaffär
++#41 dujto vasteski balamo
+@@ -3932 +3926 @@
+-#11 second hand~kläder second hand~kläderna
++#11 second handkläder
+@@ -3946 +3940 @@
+-#37 moderni šokaša
++#37 moderni sokaša
+@@ -3970 +3964 @@
+-#37 anglunes xalam ai pala kudo gelam avri
++#37 anglunes xalam ai palakudo gelam avri
+@@ -3990 +3984 @@
+-#54 depatun čara
++#54 depatunčara
+@@ -3994 +3988 @@
+-#31 djekhatar
++#31 dekhatar
+@@ -3999 +3993 @@
+-#37 buth maladjilas djekhatar 1968
++#37 buth maladjilas dekhatar 1968
+@@ -4002 +3996 @@
+-#37 de palpale buth berš djekhatar
++#37 de palpale buth berš dekhatar
+@@ -4005 +3999 @@
+-#37 ži djekhatar maškarutni vrama
++#37 ži dekhatar maškarutni vrama
+@@ -4025 +4019 @@
+-#31 čedula
++#31 cedula
+@@ -4053 +4047 @@
+-#31 šokašesko barardo
++#31 sokašesko barardo
+@@ -4089 +4083 @@
+-#54 baro sunto pačivalo (ande seksualni buča)
++#54 baro sunto pačivalo (ande seksualni buča) 
+@@ -4128 +4122 @@
+-#31 šokašesko siklipe
++#31 sokašesko siklipe
+@@ -4139 +4133 @@
+-#31 šokašisko
++#31 sokašicko
+@@ -4153 +4147 @@
+-#31 šokaši
++#31 sokaši
+@@ -4192 +4186 @@
+-#31 zuralo, thulo
++#31 zuralo, thulo 
+@@ -4217 +4211 @@
+-#31 
++#31   
+@@ -4228 +4222 @@
+-#31 
++#31   
+@@ -4239 +4233 @@
+-#31 berosko čolo/poxhtan
++#31 berosko colho/poxhtan
+@@ -4259 +4253 @@
+-#31 
++#31   
+@@ -4270 +4264 @@
+-#31 
++#31   
+@@ -4286 +4280 @@
+-#37 jekh kuči neripe pe kherutno temo/kipo
++#37 jekh kuči neripe pe kherutno temo
+@@ -4325 +4319 @@
+-#31 
++#31   
+@@ -4343 +4337 @@
+-#31 
++#31   
+@@ -4357 +4351 @@
+-#31 
++#31   
+@@ -4368 +4362 @@
+-#31 
++#31   
+@@ -4396 +4390 @@
+-#31 
++#31   
+@@ -4433 +4427 @@
+-#31 segregatcia
++#31 segregacija
+@@ -4438 +4432 @@
+-#37 segregatcia maškar le parne ai kale
++#37 segregacija maškar le parne ai kale
+@@ -4444 +4438 @@
+-#54 hulajipe
++#54 hulajipe, te inkrelpe sijel
+@@ -4458 +4452 @@
+-#31 seismologisko
++#31 seismologicko
+@@ -4466 +4460 @@
+-#54 kai inkrelpe andekthan kusa o žanglipe pa phuvako izdrajipe
++#54 kai inkrelpe andekthan kusa o žanglipe pa phuvako razipe
+@@ -4479 +4473 @@
+-#31 kirglivo/taxhtaj
++#31 kirglivo
+@@ -4490 +4484 @@
+-#31 
++#31   
+@@ -4506 +4499,0 @@
+-#37 
+@@ -4510 +4503 @@
+-#54 swediska koroni
++#54 swedicka koroni
+@@ -4535 +4528 @@
+-#31 šelipe/seklo
++#31 šelipe
+@@ -4575 +4568 @@
+-#31 
++#31   
+@@ -4671 +4664 @@
+-#54 čino, sunto khetanimasko pačape
++#54 cino, sunto khetanimasko pačape
+@@ -4679 +4672 @@
+-#37 Lole Trušulesko svedisko than
++#37 Lole Trušulesko svedicko than
+@@ -4710 +4703 @@
+-#31 sekulisardo, ljumaslo
++#31 sekulirisardo, ljumaslo
+@@ -4800 +4793 @@
+-#41 kiposko/patretosko sekvenco
++#41 kiposko sekvenco
+@@ -4821 +4814 @@
+-#31 haravli/ašvar
++#31 ašvar
+@@ -4875 +4868 @@
+-#31 
++#31   
+@@ -4952 +4945 @@
+-#31 hodinimasko/vakanciako zakono
++#31 hodonimasko zakono
+@@ -4965 +4958 @@
+-#31 hodonimaski/vakanciaki počin
++#31 hodonimaski počin
+@@ -5060 +5053 @@
+-#54 guglo manro/kolako smentinasa ai akhorenca, postimasko guglipe 
++#54 guglo manro/kolako suntinasa ai akhorenca, postimasko guglipe
+@@ -5072 +5065 @@
+-#31 posno
++#31 kišisardo/pozno
+@@ -5080 +5073 @@
+-#37 voj avilas pra posno
++#37 voj avilas pra kišin/pozno
+@@ -5089 +5082 @@
+-#31 getomos, palunimos
++#31 kišimasko
+@@ -5094 +5087 @@
+-#37 karing kado posno časo
++#37 karing kado kišime časo
+@@ -5097 +5090 @@
+-#37  pe ra
++#37 kišin pe rači
+@@ -5106 +5099 @@
+-#31 bufli vuna
++#31 bulhi vuna
+@@ -5111 +5104 @@
+-#41 talpaki bufli vuna
++#41 talpaki bulhi vuna
+@@ -5186 +5179 @@
+-#31 vunalo/vinalo
++#31 vunašo
+@@ -5193 +5186 @@
+-#37 sano ai vunalo
++#37 sano ai vunašo/vunalo
+@@ -5216 +5209 @@
+-#31 senioro, phurimasko
++#31 senioro
+@@ -5242 +5235 @@
+-#31 palunomasko
++#31 kišimasko
+@@ -5247 +5240 @@
+-#37 jekh pozno žanglipe
++#37 ekh kišime žanglipe
+@@ -5256 +5249 @@
+-#31 
++#31   
+@@ -5261 +5254 @@
+-#37 
++#37  
+@@ -5303 +5296 @@
+-#01 sensitivet
++#01 sensitivitet
+@@ -5337 +5330 @@
+-#31 sensualnio
++#31 sensualno
+@@ -5380 +5373 @@
+-#37 jekh pharimasko/miloso filmo
++#37 ekh pharimasko filmo
+@@ -5386 +5379 @@
+-#54 sentimentalnio
++#54 sentimentalno
+@@ -5449 +5442 @@
+-#37 jekh šudro septemberi
++#37 ekh šudro septemberi
+@@ -5466 +5459 @@
+-#37 voj dikhlas jekhe grastes
++#37 voj šaj dikhlas jekhe grastes
+@@ -5472 +5465 @@
+-#37 dikh pe menča
++#37 dikh pe fudbala/menča
+@@ -5508 +5501 @@
+-#37 me dikhav o bajo kaver fialo
++#37 me dikhav ando bajo pek kaver rig
+@@ -5511 +5504 @@
+-#37 Kade dikhes sar žal kudo
++#37 Kade dikhes sar žal kodo
+@@ -5548,0 +5542,2 @@
++#01 Serbien
++
+@@ -5550 +5545 @@
+-#31 serbisko
++#31 serbicko
+@@ -5560,10 +5555 @@
+-#01 serbo~kroatisk
+-#31 serbokroatiko
+-#02 adj.
+-#32 
+-#04 som avser serbokroatiskan
+-#12 -kroatiskt -kroatiska
+-#14 2sÄr:bokroa:tisk
+-#98 13769
+-#99 15253
+-#54 
++#01 serbiska
+@@ -5571,10 +5557 @@
+-#01 serbo~kroatiska
+-#31 serbokroatiska
+-#02 subst.
+-#32 
+-#04 serbernas och kroaternas språk i f.d Jugoslavien
+-#12 -kroatiskan
+-#14 2sÄrbokroa:tiska
+-#98 13770
+-#99 15254
+-#54 
++#01 serbiska
+@@ -5620 +5597 @@
+-#37 jekh nevi englezisko serija
++#37 jekh nevi englezicko serija
+@@ -5635 +5612 @@
+-#54 pala jekh avres
++#54 palajekhvaripe
+@@ -5707 +5684 @@
+-#54 andekthan boldi hertija savo krečolpe kana putrelpe avri kana šudelpe
++#54 andekthan boldo paparišo savo krecolpe kana putrelpe avri kana šudelpe
+@@ -5718 +5695 @@
+-#54 ratvalo paj savo hasnil pe varesave nasvalimata
++#54 ratvalo paj saco hasnil pe varesave nasvalimata
+@@ -5721 +5698 @@
+-#31 
++#31   
+@@ -5730 +5707 @@
+-#54 serviril, podajil
++#54 serviril, servodel
+@@ -5733 +5710 @@
+-#31 serviril, podajil
++#31 serviril, kandavel
+@@ -5776 +5753 @@
+-#37 voj thoda kafa
++#37 voj  thoda kafa
+@@ -5779 +5756 @@
+-#37 o mas sevilpe paša peke kolompira
++#37 o mas thodape paša pečarde kolompira
+@@ -5817 +5794 @@
+-#41 hertijaki salveta
++#41 paparišuni salveta
+@@ -5827 +5804 @@
+-#54 serveto, kotor kai khoses o muj ai vas pala xabe
++#54 serveto, kotor kai khoses o muh ai vas pala xabe
+@@ -5872 +5849 @@
+-#54 kerajipe, lašaripe matorengo/vurdonengo
++#54 kerajipe, lašaripe vurdonengo
+@@ -5963 +5940 @@
+-#54 servizo, vasura sar porcelano vaj pohara
++#54 servizo, vasura sar porcolano vaj pohara
+@@ -6079 +6056 @@
+-#31 
++#31   
+@@ -6108 +6085 @@
+-#37 jekh irdekešo sikajipe
++#37 jekh irdekešo sikaiipe
+@@ -6181 +6158 @@
+-#31 
++#31   
+@@ -6214 +6191 @@
+-#31 šovteto
++#31 šovtet
+@@ -6331 +6308 @@
+-#54 Švedisko ramomasko čidipe ŠIČ
++#54 Švedicko iskiritoriengo čidipe ŠIČ
+@@ -6382 +6359 @@
+-#54 amerikanisko šingalo
++#54 amerikanicko šingalo
+@@ -6385 +6362 @@
+-#31 šery
++#31 čery
+@@ -6405 +6382 @@
+-#54 modako balamo
++#54 modaki balamo
+@@ -6452 +6429 @@
+-#54 khelimasko sikajipe
++#54 khelimasko sikaiipe
+@@ -6485 +6462 @@
+-#37 vrama angle si phares te drabarelpe pa
++#37 vrama angele si pharel te trabarelpe pa
+@@ -6492 +6469 @@
+-#41 drabaritorkinja/drabaritorka
++#41 drabaritorkinja
+@@ -6517 +6494 @@
+-#31 siksak
++#31 sikcak
+@@ -6521 +6498 @@
+-#38 ando siksak
++#38 ando sikcak
+@@ -6539 +6516 @@
+-#54 Švedisko themesko organo kai žutil pe čore them ande trito lumia
++#54 Švedicko themesko organo kai žutel pe čore them ande trito ljuma
+@@ -6549 +6526 @@
+-#37 pašljov pe rig
++#37 pašljuv pe rig
+@@ -6600 +6577 @@
+-#37 jekh kniška pe 300 riga
++#37 ekh kenjva pe 300 riga
+@@ -6638 +6615 @@
+-#31 
++#31   
+@@ -6670 +6647 @@
+-#54 Švedisko industrijakojekhipe ŠIJ
++#54 Švedicko industrijakojekhipe ŠIJ
+@@ -6692 +6669 @@
+-#41 bičinimaski cifra
++#41 bičinimaki cifra
+@@ -6715 +6692 @@
+-#54 Švedisko institutija pe opinia korodipe Šipo
++#54 Švedicko institutija pe opiniakorodipe Šipo
+@@ -6728 +6705 @@
+-#37 voj avri purisajli
++#37 voj avri phendas pes
+@@ -6778 +6755 @@
+-#37 neve žanimata khatar o parlamento
++#37 neve žanimata khatar o regeringo
+@@ -6797 +6774 @@
+-#31 
++#31   
+@@ -6871 +6848 @@
+-#54 jekh djili kai thon po radio vaj po tv
++#54 angluno agor vaj paluno agor žili
+@@ -6900 +6877 @@
+-#31 sikajimasko
++#31 sikaiimasko
+@@ -6913 +6890 @@
+-#31 sikajimasko
++#31 sikaiimasko
+@@ -6948 +6925 @@
+-#37 kodo si jekh pušipe pe lungo dikhipe
++#37 kodo si ekh pušipe pe lungo dikhipe
+@@ -7086 +7063 @@
+-#37 siril e čišaj maškar le naja
++#37 siril e čišaj opral e naja
+@@ -7131 +7108 @@
+-#37 heringo ai kolompiri
++#37 herinka ai kolompiri
+@@ -7163 +7140 @@
+-#54 raxtari pe žigenjengo šučardo xabe
++#54 raxtari pe alatongo šučaripe
+@@ -7171 +7148 @@
+-#35 kai avel kana e vedaria ai o tunjarniko resažol
++#35 kai avel kana o udut ai o tunjarniko resažol
+@@ -7185 +7162 @@
+-#37 jekh čaro ando čačo rup
++#37 ekh čaro ando čačo rup
+@@ -7207 +7184 @@
+-#31 rup, dujto than
++#31 rup, dujtothan
+@@ -7215 +7192 @@
+-#41 rupuno than
++#41 rupunothan
+@@ -7405 +7382 @@
+-#37 voj ramondas pesko anav
++#37 voj iskirisardas pesko anav
+@@ -7408 +7385 @@
+-#38 pe pesko učipe (”maj učes (but)”)
++#38 pe pesko učipe ("maj učes (but)")
+@@ -7439 +7416 @@
+-#37 jekh šoha načimasko nakhipe pa gostura
++#37 ekh šoha načimasko nakhipe pa gostura
+@@ -7530,0 +7508 @@
++#37 
+@@ -7569 +7546,0 @@
+-#38 
+@@ -7611 +7588 @@
+-#31 
++#31   
+@@ -7665 +7642 @@
+-#31 
++#31   
+@@ -7676 +7653 @@
+-#54 furčavo,djelako
++#54 furčavo, pustijo
+@@ -7715 +7692 @@
+-#54 jekh ideologia savi del čačipe le živodon te al len lengi phuv
++#54 ekh ideologija savi del čačipe le živodon te al len lengi phuv
+@@ -7719 +7696 @@
+-#02 subst.
++#02 förk.
+@@ -7755 +7732 @@
+-#37 o paj pečal maškar le bar
++#37 o paj pičarel maškar le bar
+@@ -7758 +7735 @@
+-#37 o nevipe das/anklista avri
++#37 o nevipe pečajas/anklista avri
+@@ -7893 +7870 @@
+-#54 finlandezisko vorba pe voja le nerimaski
++#54 finlandezicko vorba pe voja le nerimaski
+@@ -7958 +7935 @@
+-#37 beš pala skafidi/sinja
++#37 beš pala mesalji
+@@ -8000 +7977 @@
+-#31 
++#31   
+@@ -8028 +8005 @@
+-#37 le kaltsi bešen/ašen šukares
++#37 e kalca ašel šukares
+@@ -8078 +8055 @@
+-#31 čiden
++#31 čiden 
+@@ -8083 +8060 @@
+-#37 le kaltsi čidel pe kruglom o maškar
++#37 e kalca čidel pe kruglom o maškar
+@@ -8144,10 +8120,0 @@
+-#54 
+-#97 mini
+-
+-#01 SIV
+-#31 
+-#02 se Statens Invandrarverk
+-#32 
+-#14 esi:vE:
+-#98 13910
+-#99 15419
+@@ -8157 +8124 @@
+-#01 SJ
++#01 SJ AB
+@@ -8197 +8164 @@
+-#31 bi samalel,
++#31 bi samalel, 
+@@ -8264 +8231 @@
+-#31 
++#31   
+@@ -8307 +8274 @@
+-#37 mukh e mašes te čirol dešupanž minutsi
++#37 mukh e mašes te čirol dešupanž minutci
+@@ -8391 +8358 @@
+-#31 
++#31   
+@@ -8405 +8372 @@
+-#31 
++#31   
+@@ -8431,15 +8397,0 @@
+-#54 
+-
+-#01 sjuk~bidrag
+-#31 nasvalengo žutipe
+-#02 subst.
+-#32 
+-#04 en tidsbegränsad förmån inom pensionsförsäkringen för den som är mellan 16 och 65 år
+-#06 Man kan få sjukbidrag om förmågan att arbeta är nedsatt med minst hälften och nedsättningen ser ut att bestå en längre tid (minst ett år men inte varaktigt).
+-#36 
+-#09 jfr ^förtidspension^
+-#39 
+-#12 -bidraget -bidrag -bidragen
+-#14 2$U:kbi:dra:g
+-#98 13928
+-#99 15438
+@@ -8447 +8398,0 @@
+-#97 mini
+@@ -8491 +8442 @@
+-#31 
++#31   
+@@ -8502 +8453 @@
+-#31 
++#31   
+@@ -8519 +8470 @@
+-#31 
++#31   
+@@ -8530 +8481 @@
+-#31 
++#31   
+@@ -8581 +8532 @@
+-#31 
++#31   
+@@ -8661 +8612 @@
+-#31 
++#31   
+@@ -8675 +8626 @@
+-#31 
++#31   
+@@ -8699 +8650 @@
+-#31 nasvalo ramome, nasvalo skirime
++#31 nasvalo skirime
+@@ -8704 +8655 @@
+-#37 voj sas nasvali ramome but šon
++#37 
+@@ -8714 +8665 @@
+-#31 nasvalo ramomos
++#31 nasvalo iskiripe
+@@ -8767 +8718 @@
+-#31 nasvalengo žutimos, špita
++#31 nasvalengo inkeripe
+@@ -8772 +8723 @@
+-#37 e moderno špita
++#37 
+@@ -8775 +8726 @@
+-#37 čori špita
++#37 
+@@ -8780 +8731 @@
+-#41 špitaki vulitsa
++#41 
+@@ -8783 +8734 @@
+-#41 špitako than
++#41 
+@@ -8810 +8761 @@
+-#31 
++#31   
+@@ -8824 +8775 @@
+-#31 
++#31   
+@@ -8835 +8786 @@
+-#31 
++#31   
+@@ -8846 +8797 @@
+-#31 
++#31   
+@@ -8878 +8829 @@
+-#37 voj žilabadas uni melodiji
++#37 voj žilabadas varekači melodiji
+@@ -8945 +8896 @@
+-#37 peradimaske berš po thuvaslimasko astarimos
++#37 apadimaske berš po thuvaslimasko astaripe
+@@ -8956 +8907 @@
+-#31 
++#31   
+@@ -9103 +9054 @@
+-#31 animasko ružimos/šlušba
++#31 ožako ružipe/šlošba
+@@ -9113 +9064 @@
+-#01 själ lös
++#01 själlös
+@@ -9152 +9103 @@
+-#37 voj pekhel korko pesko manro
++#37 voj žuril/pekhel korko pesko manro
+@@ -9198 +9149 @@
+-#31 karakteri, korkoresko inkerimos, pačivalimos 
++#31 karakteri, korkoresko inkeripe, pačivalipe
+@@ -9209 +9160 @@
+-#31 korkorengo porončimos
++#31 korkorengo parančolipe
+@@ -9224 +9175 @@
+-#31 korkoro samako
++#31 korkoro samalinipe
+@@ -9235 +9186 @@
+-#31 korkoreski biografija/trajo
++#31 korkoreski boigrafija/trajo
+@@ -9305 +9256 @@
+-#31 
++#31   
+@@ -9338 +9289 @@
+-#31 
++#31   
+@@ -9384 +9335 @@
+-#31 
++#31   
+@@ -9485 +9436 @@
+-#31 korkoro ramome
++#31 užo skirisardo
+@@ -9533 +9484 @@
+-#31 
++#31   
+@@ -9555 +9506 @@
+-#31 
++#31   
+@@ -9580 +9531 @@
+-#31 
++#31   
+@@ -9593 +9544 @@
+-#31 
++#31   
+@@ -9604 +9555 @@
+-#31 
++#31   
+@@ -9698 +9649 @@
+-#31 
++#31   
+@@ -9733 +9684 @@
+-#31 
++#31   
+@@ -9750 +9701 @@
+-#31 
++#31   
+@@ -9795 +9746 @@
+-#31 Sjöräddningen
++#31 Sjöräddningen 
+@@ -9808 +9759 @@
+-#31 pajeske čor, piratura
++#31 pajeske'čor, piratura
+@@ -9948 +9899 @@
+-#31 
++#31   
+@@ -9973 +9924 @@
+-#31 
++#31   
+@@ -10004 +9955 @@
+-#37 kudo si bezex ke voj či biri te avel
++#37 kodo si bezex ke voj či biri te avel
+@@ -10051 +10002 @@
+-#31 irižipe,
++#31 irižipe, 
+@@ -10076 +10027 @@
+-#31 
++#31   
+@@ -10086 +10037 @@
+-#54 te inkrelpe varekas bi dukhako (”delpe varekas žutipe”)
++#54 te inkrelpe varekas bi dukhako ("delpe varekas žutipe")
+@@ -10089 +10040 @@
+-#31 dukhako počinipe
++#31 dukhako počinipe 
+@@ -10120 +10071 @@
+-#31 
++#31   
+@@ -10154 +10105 @@
+-#37 voj las peske jekh bicigla/lovera
++#37 voj arakhadas peske ekh bicigla
+@@ -10176 +10127 @@
+-#37 voj či kamel khanči te kerel kudolesa
++#37 voj či kamel khanči te kerel kodolesa
+@@ -10186 +10137 @@
+-#31 škafo/špajzo
++#31 špajzo
+@@ -10231 +10182 @@
+-#41 lopatako xučilipe
++#41 lapatako xučilipe
+@@ -10246 +10197 @@
+-#41 kherjako astaripe
++#41 kherako astaripe
+@@ -10262 +10213 @@
+-#38 inkrel o šero po vorta (”avel godžaver”)
++#38 inkrel o šero po vorta ("avel gožaver")
+@@ -10277 +10228 @@
+-#37 o parlamento ašilas izdrajime anda opinijake cifri
++#37 regeringo ašilas izdrajime anda opinijakecifri
+@@ -10291 +10242 @@
+-#37 jekh paro nakhipe
++#37 ekh čudalimasko nakhipe
+@@ -10456 +10407 @@
+-#54 ramotori, skiritori
++#54 skiritori
+@@ -10505 +10456 @@
+-#54 jekhe žuklesko bašipe
++#54 ekhe žuklesko bašipe
+@@ -10514 +10465 @@
+-#37 vojake čipimata bašonas/vimlazinas
++#37 huracipimata vimlazinas
+@@ -10578 +10529 @@
+-#31 plašivo
++#31 kušlo
+@@ -10600 +10551 @@
+-#31 kirčil, razil
++#31 kircil, razil
+@@ -10605 +10556 @@
+-#37 feljastri kirčinas ande barval
++#37 feljastri kircinas ande barval
+@@ -10618 +10569 @@
+-#31 šereski morči
++#31 kušljaripe
+@@ -10657 +10608 @@
+-#37 duj zurale izdrajimata samalinepe ando seismologisko institucia ande Uppsala
++#37 duj zurale izdrajimata samalinepe ando seismologisko institucija ande Uppsala
+@@ -10660 +10610,0 @@
+-#37 
+@@ -10676 +10626 @@
+-#37 lažavo kudo kai mukhel pe!
++#37 lažavo kodo kai del pes!
+@@ -10685 +10635 @@
+-#41 lažavesko koltso/šarko
++#41 lažavesko šarko
+@@ -10699 +10649 @@
+-#37 naj tut čisosko lažajipe ando stato?
++#37 naj tut čisosko lažajipe ando tago?
+@@ -10713 +10663 @@
+-#37 la kirčima si jekh čoro hiro
++#37 la kirčima si jekh lažavno hiro
+@@ -10760 +10710 @@
+-#31 bi lažavno
++#31 bi lažavno 
+@@ -10765 +10715 @@
+-#37 o rodipe/mangipe si bi lažavesko
++#37 o rodipe/mangipe si bi'lažavesko
+@@ -10776 +10726 @@
+-#31 
++#31   
+@@ -10794 +10744 @@
+-#37 jekh lažavno muj
++#37 ekh lažavno muj/asape
+@@ -10803 +10753 @@
+-#31 lažavno koltso/šarko
++#31 lažavno šarko
+@@ -10814 +10764 @@
+-#31 
++#31   
+@@ -10831 +10781 @@
+-#54 buna, skandalo, čuda
++#54 buna, skandala, čuda
+@@ -10835 +10785 @@
+-#31 
++#31   
+@@ -10843 +10793 @@
+-#54 bunimasko, ruto, grecošo
++#54 bunimasko, ruto, gracošo
+@@ -10855 +10805 @@
+-#54 žinavel opre versura vaj marimaske vorbi ando takto
++#54 žinavel opre versura vaj marimaskevorbi ando takto
+@@ -10869 +10819 @@
+-#31 Skandinavisko
++#31 Skandinavicko
+@@ -10908 +10858 @@
+-#54 purano avrutno muzeumo kusa žigenjengo parko ando Stokholmo
++#54 purano avrutnomuzeumo kusa alatongoparko ando Štokholmo
+@@ -10956 +10906 @@
+-#41 muzikako kerajipe
++#41 mzikako kerajipe
+@@ -10998 +10948 @@
+-#31 massa, kumpania, čopro
++#31 masi, čopro
+@@ -11008 +10958 @@
+-#41 manušikani kumpania
++#41 manušikano čopro
+@@ -11023 +10973 @@
+-#04 tunn is skorpa ovanpå snötäcke
++#04 tunn isskorpa ovanpå snötäcke
+@@ -11028 +10978 @@
+-#54 pahoski korča opral pa iv
++#54 pahoski korča opral pa šordoljiv
+@@ -11040 +10990 @@
+-#31 skutsome
++#31 kucime
+@@ -11047 +10997 @@
+-#37 jekh skutsome šuri
++#37 ekh kucime šuri
+@@ -11050 +11000 @@
+-#37 skutsome kritika
++#37 kucime kritika
+@@ -11069 +11019 @@
+-#31 godžaver
++#31 gožaver
+@@ -11073,2 +11023,2 @@
+-#11 skarp tänkt
+-#41 godžaver gindosko
++#11 skarptänkt
++#41 gožaver gindosko
+@@ -11084 +11034 @@
+-#31 
++#31   
+@@ -11096 +11046 @@
+-#31 
++#31   
+@@ -11107 +11057 @@
+-#54 godžaveripe
++#54 gožaveripe
+@@ -11158 +11108 @@
+-#31 kekeraška,čoka
++#31 čoka
+@@ -11181 +11131 @@
+-#54 skejtbord, tradimaski pal
++#54 skejtbord, urajimaski phalj
+@@ -11184 +11134 @@
+-#31 barvalipe, mandžin
++#31 barvalipe
+@@ -11194 +11144 @@
+-#37 bari taxa
++#37 učo barvalipe
+@@ -11235 +11185 @@
+-#41 sumnakasko barvalipe
++#41 somnakasko barvalipe
+@@ -11263 +11213 @@
+-#31 
++#31    
+@@ -11275 +11225 @@
+-#31 
++#31   
+@@ -11286 +11236 @@
+-#31 
++#31   
+@@ -11297 +11247 @@
+-#31 
++#31   
+@@ -11320 +11270 @@
+-#31 
++#31   
+@@ -11335 +11285 @@
+-#31 
++#31   
+@@ -11348 +11298 @@
+-#31 
++#31   
+@@ -11357,0 +11308,2 @@
++#01 Skatteverket
++
+@@ -11359 +11311 @@
+-#31 
++#31   
+@@ -11373 +11325 @@
+-#31 
++#31   
+@@ -11385 +11337 @@
+-#31 čidipe, njomipe
++#31 njomipe, čičidipe
+@@ -11413 +11365 @@
+-#31 čidel, morel
++#31 čičidel, njomil
+@@ -11434 +11386 @@
+-#41 xabeneski roj
++#41 xabeski roj
+@@ -11456 +11408 @@
+-#31 pečipe
++#31 pecipe
+@@ -11461 +11413 @@
+-#37 jekh kuči pečipe ando trajo
++#37 jekh kuč pecipe ando trajo
+@@ -11470 +11422 @@
+-#54 vriama, resipe
++#54 vrama, resipe
+@@ -11537 +11489 @@
+-#31 
++#31   
+@@ -11556 +11508 @@
+-#54 raza, amblal, udut
++#54 udut, langa, raza, amblal
+@@ -11565 +11517 @@
+-#41 xoxamni demokratcia
++#41 xoxamni demokracia
+@@ -11576 +11528 @@
+-#04 långt och smalt (metall) stycke på vilket något glider
++#04 långt och smalt (metall)stycke på vilket något glider
+@@ -11578 +11530 @@
+-#37 žežeš žal pe šinji
++#37 gezeši žal pe šini
+@@ -11590 +11542 @@
+-#31 
++#31   
+@@ -11610 +11562 @@
+-#31 
++#31   
+@@ -11624 +11576 @@
+-#31 šinjako kokalo
++#31 šinako kokalo
+@@ -11634 +11586 @@
+-#54 telune punresko thulo kokalo
++#54 telunepunresko thulo kokalo
+@@ -11662 +11614 @@
+-#31 
++#31   
+@@ -11676 +11628 @@
+-#31 paraxodo
++#31 paraxodo, bero
+@@ -11701 +11653 @@
+-#31 
++#31   
+@@ -11718 +11670 @@
+-#31 
++#31   
+@@ -11730 +11682 @@
+-#31 
++#31   
+@@ -11741 +11693 @@
+-#31 
++#31   
+@@ -11755 +11707 @@
+-#31 
++#31   
+@@ -11785 +11737 @@
+-#37 lake nas ko drago e propozitcia
++#37 voj thoda pes bi pačamaski po gindo
+@@ -11795 +11747 @@
+-#31 malažol, pečilpe
++#31 malažol, pecil
+@@ -11800 +11752 @@
+-#37 o bajo malažilas pe pra čoro dikhipe
++#37 o bajo malažilas pe pra čoro dikhipe 
+@@ -11810 +11762 @@
+-#31 phiras
++#31 pheras
+@@ -11821 +11773 @@
+-#54 skurto komedia/asape sikajimasko
++#54 skurto komedija/asape sikaiimasko
+@@ -11863 +11815 @@
+-#37 e matora nas ko laši
++#37 vurdon sas ando čoro inkeripe
+@@ -11911 +11863 @@
+-#37 bišav mange o čil!
++#37 bišav mande o čil!
+@@ -11941 +11893 @@
+-#37 jekh lašo vastesko kerajitori
++#37 ekh lašo vastesko kerajitori
+@@ -11954 +11906 @@
+-#31 
++#31   
+@@ -11982 +11934 @@
+-#54 iveske šinji
++#54 ljiveske šini
+@@ -12107 +12059 @@
+-#41 šelto parujipe (šeltoberš)
++#41 selto parujipe (šeltoberš)
+@@ -12146 +12098 @@
+-#37 jekh parujipe ando lolo
++#37 ekh mezipe ando lolo
+@@ -12155 +12107 @@
+-#31 parujimaski čaja
++#31 parujimaski čija
+@@ -12165 +12117 @@
+-#54 parudi čaja
++#54 parudi čija
+@@ -12169 +12121 @@
+-#31 parujimasko maj baro lov
++#31 parujimasko majbaro lov
+@@ -12180 +12132 @@
+-#31 
++#31   
+@@ -12204 +12156 @@
+-#37 len si hulade kezdimaske droma
++#37 len si hulade kezdimaske drom
+@@ -12282 +12234 @@
+-#31 
++#31   
+@@ -12293 +12245 @@
+-#31 
++#31   
+@@ -12304 +12256 @@
+-#31 
++#31   
+@@ -12315 +12267 @@
+-#31 hulavel/ankalavel
++#31 sijelel/ankalavel
+@@ -12320 +12272 @@
+-#37 ankalavel le maritoren 
++#37 sijelel le maritoren
+@@ -12356 +12308 @@
+-#31 
++#31   
+@@ -12396 +12348 @@
+-#31 djilori
++#31 žilori
+@@ -12407 +12359 @@
+-#31 hulajipe/diferencia
++#31 hulajipe
+@@ -12431 +12383 @@
+-#31 
++#31   
+@@ -12446 +12398 @@
+-#31 huladžon, mukenpe
++#31 ulažon, mukenpe
+@@ -12459 +12411 @@
+-#31 mukhipe/divorsio
++#31 mukipe/divorsio
+@@ -12472 +12424 @@
+-#54 linimasko mukhipe/divorsio
++#54 linimasko'mukipe/divorsio
+@@ -12494 +12446 @@
+-#31 strefajipe/strefajimos
++#31 flimbipe
+@@ -12505 +12457 @@
+-#31 strefial
++#31 flimbil
+@@ -12510 +12462 @@
+-#37 paj strefialas ande khameski raza
++#37 paj flimbilas ando khameski raza
+@@ -12525 +12477 @@
+-#37 O kham pekel anda jekh bi nuvereongo čeri  
++#37 kham pekel anda ekh bi felevosko čer
+@@ -12531 +12483 @@
+-#37 strefial anda loš  
++#37 pekel anda loš
+@@ -12549 +12501 @@
+-#37 pheja/phral xasajle/huladjile
++#37 pheja/phrala xasajle
+@@ -12616 +12568 @@
+-#38 avel morči ai kokala (”avel but čišlo”)
++#38 avel morči ai kokala ("avel but čišlo")
+@@ -12637 +12589 @@
+-#31 
++#31   
+@@ -12676 +12628 @@
+-#54 xučel/xutel opral
++#54 xučel opral
+@@ -12688 +12640 @@
+-#37 sane nuveria
++#37 sane oblakura
+@@ -12737 +12689 @@
+-#31 mel,khul
++#31 xi 
+@@ -12759 +12711 @@
+-#31 
++#31   
+@@ -12818 +12770 @@
+-#31 felija
++#31 seleto, felija
+@@ -12823 +12775 @@
+-#37 jekh feli manro  
++#37 ekh felija manro
+@@ -12839 +12791 @@
+-#31 feli
++#31 ploča, sani, feli
+@@ -12844 +12796 @@
+-#37 čirdel andre pe plastinka
++#37 khel ande pe ploča
+@@ -12884 +12836 @@
+-#54 pačiv
++#54 fešta
+@@ -12917 +12869 @@
+-#31 vazdimasko sastri
++#31 vasdimasko sastri
+@@ -12941 +12893 @@
+-#41 gadesko gulero
++#41 gadeski Gulero/kragna
+@@ -12976 +12928 @@
+-#31 puškažil
++#31 puškedel
+@@ -13010 +12962 @@
+-#37 spide o pijano jekh metero
++#37 spide o pijano jekh metero 
+@@ -13096 +13048 @@
+-#37 voj las ingeripe ži ando foro jekhe vesinostar
++#37 voj las ingeripe ži ando foro ekhe somsidostar
+@@ -13113 +13065 @@
+-#37 šaj ingeres man ži pe stancia?
++#37 šaj tu te phiraves man ži pe stancija?
+@@ -13130 +13082 @@
+-#41 gimnastikake papuča
++#41 gimanskitake papuča
+@@ -13143 +13095 @@
+-#31 
++#31   
+@@ -13157 +13109 @@
+-#31 
++#31   
+@@ -13172 +13124 @@
+-#31 
++#31   
+@@ -13266 +13218 @@
+-#31 
++#31   
+@@ -13301 +13253 @@
+-#37 ande phirasa
++#37 anda phirasa
+@@ -13361 +13313 @@
+-#37 vo atadas peske milivoja
++#37 vo xoxadas peske milivoja
+@@ -13401 +13353 @@
+-#37 jekh phirasengo filmo
++#37 ekh pherasutno filmo
+@@ -13438 +13390 @@
+-#37 jekh čigni škola
++#37 jekh cini škola
+@@ -13462 +13414 @@
+-#41 vučiškola
++#41 učiškola
+@@ -13529 +13481 @@
+-#31 školaki sinja/skafidi/mesali
++#31 školaki mesalji/skafidi
+@@ -13534 +13486 @@
+-#38 bešel pala školaki sinja/skafidi
++#38 bešel pala školaki mesali/skafidi
+@@ -13607 +13559 @@
+-#31 
++#31   
+@@ -13618 +13570 @@
+-#31 
++#31   
+@@ -13709 +13661 @@
+-#36 Le terne šavora šaj kezdin te žan ande škola jekhe beršesa maj sigo te gindina leski dej dad ke vov šaj kerel kudo.
++#36 Le terne šavora šaj kezdin te žan ande škola jekhe beršesa majsigo te gindina leski dej dad ke vov šaj kerel kodo.
+@@ -13734 +13686 @@
+-#36 Le studenton anenpe po buzo vaj po taxi.
++#36 Le sičarde anenpe po buso vaj taxi.
+@@ -13748 +13700 @@
+-#36 Školaki sistritca/žutorkinja žutil vi kana hertelenša nasvalimata malažon.
++#36 Školaki žutorkinja žutil vi kana hertelenša nasvalimata malažon.
+@@ -13771 +13723 @@
+-#31 
++#31   
+@@ -13793 +13745 @@
+-#31 školaki'ručija
++#31 školaki'rucija
+@@ -13796 +13748 @@
+-#04 trötthet att gå i skolan
++#04  trötthet att gå i skolan
+@@ -13799 +13750,0 @@
+-#37 
+@@ -13836 +13787 @@
+-#54 školake šerutne raj
++#54 Školake šerutne raj
+@@ -13851 +13802 @@
+-#31 papučari, šušteri,šapožniko
++#31 papučari, šušteri,šapošniko
+@@ -13863 +13814 @@
+-#31 papučengo kerajitori/šapožniko
++#31 papučengo kerajitori/šapošniko
+@@ -13881 +13832 @@
+-#37 na le muro trajo!
++#37 mekh muro trajo!
+@@ -13924 +13875 @@
+-#31 
++#31   
+@@ -13965 +13916 @@
+-#31 
++#31   
+@@ -13996 +13947 @@
+-#31 
++#31   
+@@ -14016 +13967 @@
+-#31 thuvesko, čimineja, košo
++#31 thuvesko, kimini, košo
+@@ -14036 +13987 @@
+-#31 čiminjakosko užari/košosko užari
++#31 kiminesko užari
+@@ -14058 +14009 @@
+-#31 
++#31   
+@@ -14115 +14066 @@
+-#38 me avav sar jekh goljovo (”anda jekh”)
++#38 me avav sar jekh goljovo ("anda jekh")
+@@ -14145 +14096 @@
+-#31 jiv/iv šudel
++#31 jiv šudel
+@@ -14206 +14157 @@
+-#31 talička/vurdonoro
++#31 talička
+@@ -14231 +14182 @@
+-#31 mudarimaske/plumboske love
++#31 mudarimaske love
+@@ -14238 +14189 @@
+-#54 počin kana mudarenpe varesave žigenjen
++#54 počin kana mudarenpe varesave alaton
+@@ -14246 +14197 @@
+-#37 goljovosko protectoski glaža/vojaga
++#37 goljovosko protectoski glaža
+@@ -14269 +14220 @@
+-#31 lopata
++#31 grebljova/lopata
+@@ -14294 +14245 @@
+-#31 darano
++#31 darajimasko
+@@ -14326 +14277 @@
+-#31 
++#31   
+@@ -14378 +14329 @@
+-#37 jekh bango skamin
++#37 ekh bango skamin
+@@ -14387 +14338 @@
+-#31 
++#31   
+@@ -14409 +14360 @@
+-#31 ranglimaski
++#31 kušipe
+@@ -14494 +14445 @@
+-#31 
++#31   
+@@ -14501 +14452 @@
+-#54 savo čirdel po asape
++#54 savo čirdel po asape, asamasko xoljako
+@@ -14504 +14455 @@
+-#31 peripe/šurdipe
++#31 peripe
+@@ -14544 +14495 @@
+-#31 
++#31   
+@@ -14561 +14512 @@
+-#41 plajako pliznipe/pharajipe
++#41 plajesko pharajipe/plajako pliznimos/pliznipe
+@@ -14599 +14550 @@
+-#31 sikajimasko
++#31 sikaiimasko
+@@ -14604 +14555 @@
+-#37 sikajimaske bi čačimata
++#37 sikaiimaske bi čačimata
+@@ -14615 +14566 @@
+-#31 ramotori, skiritori
++#31 iskiritori
+@@ -14626 +14577 @@
+-#31 lundžarel
++#31   
+@@ -14664 +14615 @@
+-#31 ramomos, skirimos
++#31 skiripe
+@@ -14671 +14622 @@
+-#37 vorbi ai ramomos
++#37 vorbi ai skiripe
+@@ -14674 +14625 @@
+-#41 korengo ramomos
++#41 korengo skripe
+@@ -14677 +14628 @@
+-#41 skirimasko patreto
++#41 skirimasko kipo
+@@ -14686 +14637 @@
+-#31 ramomos
++#31 iskiripe
+@@ -14691 +14642 @@
+-#37 Strinbergeske čidime ramomata
++#37 Strinbergeske čidime iskirimata
+@@ -14703 +14654 @@
+-#31 ramomasko, skirimasko
++#31 skirimasko
+@@ -14708 +14659 @@
+-#37 lel ramomasko žanglipe
++#37 lel skirimasko žanglipe
+@@ -14711 +14662 @@
+-#37 ramomaske zumajimata
++#37 skirimaske zumajimata
+@@ -14721 +14672 @@
+-#31 ramomaski šib
++#31 skirimaski šib
+@@ -14734 +14685 @@
+-#31 ramotori
++#31   
+@@ -14756 +14707 @@
+-#38 paluno čipipe (”maj nevi moda”)
++#38 paluno čipipe ("maj nevi moda")
+@@ -14773 +14724 @@
+-#37 publika mujazisarnas ai čipinas
++#37 publika mujazisarnas ai cipinas 
+@@ -14802 +14753 @@
+-#31 avri dikimasko
++#31 avri dičimasko
+@@ -14841 +14792 @@
+-#31 
++#31   
+@@ -14878 +14829 @@
+-#54 filmoski žutorkinja/sekretarkinja
++#54 filmoski žutorkinja/sekretarkinja 
+@@ -14881 +14832 @@
+-#31 
++#31   
+@@ -14892 +14843 @@
+-#31 ramotori
++#31 skiritori
+@@ -14904 +14855 @@
+-#41 laserosko ramotori
++#41 
+@@ -14914 +14865 @@
+-#31 ramol avri
++#31 skiril avri
+@@ -14919 +14869,0 @@
+-#38 ramol avri pe jekh ramotori
+@@ -14926 +14876 @@
+-#31 ramomaski kniška
++#31 skirimaski kniška
+@@ -14940 +14890 @@
+-#31 ramomaski sinja/skafidi
++#31 skirimaski mesali/skafidi
+@@ -14947 +14897 @@
+-#41 ramomaski sinjaki lada
++#41 skirimaski mesaljaki lada
+@@ -14957 +14907 @@
+-#31 ramomos
++#31 skiripe
+@@ -14980 +14930 @@
+-#37 le šavora sičaren pen te ramon ande škola
++#37 šavora sičaren pen te iskirin ande škola
+@@ -14991 +14941 @@
+-#31 ramol
++#31 skiril
+@@ -14996 +14946 @@
+-#37  ramol lil
++#37 skiril lil
+@@ -15002 +14952 @@
+-#37 ramol jekh kniška
++#37 skiril jekh kniška
+@@ -15005 +14955 @@
+-#37 ramol tele
++#37 
+@@ -15008 +14958 @@
+-#37 ramol pe mašinka
++#37 
+@@ -15011 +14961 @@
+-#38 ramol kontrakto
++#38 
+@@ -15028 +14978 @@
+-#31 ramomata
++#31 skirimata/ramomata
+@@ -15054 +15004 @@
+-#31 ramomasko morčope
++#31 iskirimasko morcope
+@@ -15067 +15017 @@
+-#31 ramomasko žanglo
++#31 iskirimasko žanglo
+@@ -15072 +15022 @@
+-#41 ramomasko žanglimos
++#41 iskirimasko žanglipe
+@@ -15081 +15031 @@
+-#31 ramomaski mašinka
++#31 iskirimaski mašina
+@@ -15098 +15048 @@
+-#31 ramomos
++#31 iskiripe
+@@ -15103 +15053 @@
+-#37 djinimos ai ramomos
++#37 
+@@ -15116 +15066 @@
+-#31 
++#31   
+@@ -15130 +15080 @@
+-#31 
++#31   
+@@ -15162 +15112 @@
+-#31 
++#31   
+@@ -15207 +15157 @@
+-#31 
++#31   
+@@ -15302 +15252 @@
+-#31 
++#31   
+@@ -15412 +15362 @@
+-#37 to mai lokores o radio
++#37 bolde te o radijono
+@@ -15436 +15386 @@
+-#31 sastresko čiditori
++#31 sastresko čičiditori
+@@ -15459 +15409 @@
+-#54 savo lel baro than
++#54 savo lel ande baro than
+@@ -15462 +15412 @@
+-#31 
++#31   
+@@ -15474 +15424 @@
+-#31 
++#31   
+@@ -15485 +15435 @@
+-#31 bi bročome
++#31 bi morčolimasko
+@@ -15496 +15446 @@
+-#31 bročol
++#31 morčolil/bročol
+@@ -15511 +15461 @@
+-#31 bročome/morčolime
++#31 morčolime
+@@ -15516 +15466 @@
+-#37 bročome kaltsi
++#37 morčolime kalci
+@@ -15577 +15527 @@
+-#54 khetanipe pe sa bučake kerajitora tela jekh anav
++#54 khetanipe pe sa bučake kerajitora ande jekh anav
+@@ -15580 +15530 @@
+-#31 
++#31   
+@@ -15591 +15541 @@
+-#54 girčanoski džili/djili
++#54 girčanoski žili
+@@ -15603 +15553 @@
+-#54 anda girčano džilabel/djilabel
++#54 anda girčano žilabel
+@@ -15661 +15611 @@
+-#31 sujitoro/sabovo/portnoj
++#31 sabovo
+@@ -15669 +15619 @@
+-#54 sujitori/sujitoro
++#54 sujitori, suvajitori
+@@ -15673 +15623 @@
+-#31 suvel/sabovil
++#31 sabovil
+@@ -15687 +15637 @@
+-#54 suvel
++#54 suvavel
+@@ -15700 +15650 @@
+-#54 či čirdelpe
++#54 či cirdelpe
+@@ -15710 +15660 @@
+-#37 o vudar phandažilas jekhe bašajimasa
++#37 vudar phandažilas jekhe bašajimasa
+@@ -15760 +15710 @@
+-#37 vov či mukhel vušoro te daraven les
++#37 vov či mukhel te daravel pes ande angli vrama
+@@ -15788 +15738 @@
+-#31 darajimasko plumbo/goljovo
++#31 darajimasko goljovo
+@@ -15796 +15746 @@
+-#54 šuko darajipe
++#54 šušo darajipe
+@@ -15820 +15770 @@
+-#37 jekh vačimaski manušikani masa
++#37 ekh vačimaski manušikani masa
+@@ -15940 +15890 @@
+-#31 vušalin
++#31 šalin
+@@ -15947 +15897 @@
+-#37 beš ande vušalin paša jekh kopači
++#37 beš ando šalin paša jekh kopači
+@@ -15966 +15916 @@
+-#31 vušaravel
++#31 šaravel
+@@ -15977 +15927 @@
+-#54 vušalin del (kerel vušalin)
++#54 šalin del (kerel šalin)
+@@ -15980 +15930 @@
+-#31 vušalino
++#31 šalinalo
+@@ -15999 +15949 @@
+-#41 studimaske unžulimata
++#41 stutijake unžulimata
+@@ -16008 +15958 @@
+-#54 vunžulipe
++#54 unžulipe
+@@ -16017 +15967 @@
+-#37 muri doš sas ke ame reslam pozno
++#37 muri doš sas ke ame reslam kišin
+@@ -16033 +15983 @@
+-#31 vunžilimasko lil
++#31 kamatako lil
+@@ -16041 +15991 @@
+-#54 ramome vorbako lil te počinelpe jekh kamipe lovengo
++#54 skirime vorbako lil te počinelpe jekh kamipe lovengo
+@@ -16044 +15994 @@
+-#31 dumeske kokala
++#31   
+@@ -16058 +16008 @@
+-#31 dumo/phiko
++#31 phiko
+@@ -16072 +16022 @@
+-#31 
++#31   
+@@ -16144 +16094 @@
+-#37 čori vedaria,tuniariko
++#37 kaljadi litrika/ududipe
+@@ -16225 +16175 @@
+-#31 spumaslo thud
++#31 smumaslo thud
+@@ -16259 +16209 @@
+-#54 čirdelpe angle pharimasa thaj čores/tarantogimasa
++#54 cirdelpe angle pharimasa ai tarantogimasa
+@@ -16262 +16212 @@
+-#31 izdrajimasko
++#31 izrajimasko
+@@ -16267 +16217 @@
+-#37 izdrajimaske droma
++#37 izrajimaske drom
+@@ -16295 +16245 @@
+-#37 xurde šorimata ando them
++#37 šorde šorimata ando themandal
+@@ -16309 +16259 @@
+-#54 tele šoripe brišindesko
++#54 tele šoripe bišindesko
+@@ -16318 +16268 @@
+-#37 khosel palia
++#37 khosel palovo
+@@ -16329 +16279 @@
+-#31 khosimaski šotka
++#31 khosimaski četka
+@@ -16367 +16317 @@
+-#31 khosimaski dirza
++#31 khosimasko kotor
+@@ -16381 +16331 @@
+-#31 paraxodo
++#31 beroro
+@@ -16397 +16347 @@
+-#37 vo kerda jekh xučipe radujimastar
++#37 vov kerdaj jekh xučipe ande loš
+@@ -16406 +16356 @@
+-#31 xučel/xutel
++#31 xučel
+@@ -16411 +16361 @@
+-#37 o šošoj xuklas andre ando veš
++#37 šošoj xučlas ande ando veš
+@@ -16421 +16371 @@
+-#31 bi ašajiamsko (brišind)
++#31 bi ašajiamsko  (brišind)
+@@ -16460 +16410 @@
+-#31 pupujitori/pupujitorka
++#31 pupujitori
+@@ -16473 +16423 @@
+-#31 pupujimaske nevimata
++#31 plečkeša nevimata
+@@ -16491 +16441 @@
+-#37 lesko matorako tradipe sikavel baro žanglipe
++#37 lesko autosko tradipe pupujil pa baro šiklipe
+@@ -16502 +16452 @@
+-#31 
++#31   
+@@ -16518 +16468 @@
+-#37 vo spidas man kade ke e kavija pečaja avri
++#37 vov kecisardas man kade ke e kavija pičardas avri
+@@ -16552 +16502 @@
+-#31 kliapka
++#31 kapja
+@@ -16557 +16507 @@
+-#37 jekh klapia šut
++#37 ekh kapja šut
+@@ -16583 +16533 @@
+-#31 čeri
++#31 čer
+@@ -16588 +16538 @@
+-#37 vušoro nuveria
++#37 sane čer
+@@ -16598 +16548 @@
+-#31 čeri
++#31 čer
+@@ -16603 +16553 @@
+-#38 vazdel varekas ži ka čeri
++#38 vasdel varekas ži po čer
+@@ -16606 +16556 @@
+-#38 vačil ži po vučo čeri
++#38 vačil ži po učo čer
+@@ -16616 +16566 @@
+-#31 mašeski zumi
++#31 maseski sumi
+@@ -16628 +16578 @@
+-#31 garajipe/protectiono
++#31 garajipe 
+@@ -16642 +16592 @@
+-#41 brišindesko šarajipe
++#41 brišindimasko šarajipe
+@@ -16659 +16609 @@
+-#37 sama lel o kher te na čordjol
++#37 sama lel o kher te na čordol
+@@ -16673 +16623 @@
+-#31 samalimaski buči
++#31 samalinimaski buči
+@@ -16686 +16636 @@
+-#31 samalimasko žanglipe
++#31 samalinimasko žanglipe
+@@ -16697 +16647 @@
+-#31 samalimasko svinto/sunto
++#31 samalinimasko sunto
+@@ -16738 +16688 @@
+-#31 samalimaski komisia
++#31 samalinimaski komisia
+@@ -16751,14 +16700,0 @@
+-#01 skydds~konsulent
+-#31 
+-#02 subst.
+-#32 
+-#04 tjänsteman som har hand om frivården inom kriminalvården
+-#06 Skyddskonsulenter finns på de flesta större orter och de har stor hjälp av frivilliga övervakare.
+-#36 
+-#12 -konsulenten -konsulenter
+-#14 2$Yd:skånsulen:t
+-#98 14446
+-#99 16004
+-#54 
+-#97 mini
+-
+@@ -16771 +16707 @@
+-#36 Sar bučaki, hodinimaski ai samalimasko zakono.
++#36 Sar bučaki, hodoneski ai samalinimasko zakono.
+@@ -16788 +16724 @@
+-#54 ženo kai lel žutipe kaverestar maj lungo vriama.
++#54 ženo kai le žutipe kaverestar maj lungo vrama.
+@@ -16813 +16749 @@
+-#54 ketanisko than kai themara naštik te inkrenpe
++#54 ketanicko than kai themara naštik te inkrenpe
+@@ -16816 +16752 @@
+-#31 protektciaki/muntumaski soba
++#31 muntumaski soba
+@@ -16864 +16800 @@
+-#31 lopata
++#31 motora
+@@ -16871 +16807 @@
+-#41 meljaki lopata
++#41 melajimaski motora
+@@ -16898 +16834 @@
+-#37 voj das les jekh lažavni jakh
++#37 voj das les ekh lažavni jakh
+@@ -16929 +16865 @@
+-#37 vo žal kusa rigake šarajimata ai či kamel te dikhel o bajo
++#37 vov žal kusa rigake šarajimata ai či kamel te dikhel o bajo
+@@ -16943 +16879 @@
+-#37 tu kames mange jekh dešengi
++#37 tu san mange došalo ekh dešengi
+@@ -16986 +16922 @@
+-#54 musajtime
++#54 musajitime
+@@ -16990 +16926 @@
+-#31 musajimasko došarimos
++#31 musajimasko došsarimos
+@@ -17044 +16980 @@
+-#37 došar tut korkoro!
++#37 došaljar korko tut!
+@@ -17047 +16983 @@
+-#37 vo šudas peske ke but sas les te kerel
++#37 vo šudas pe te but sas les te kerel
+@@ -17068 +17004 @@
+-#41 samalimaski plaka/tabla
++#41 samalinimaski tabla
+@@ -17099 +17035 @@
+-#31 sikajimaski papuša
++#31 sikaiimaski papuša
+@@ -17107 +17043 @@
+-#54 sikajimos xoxhamne manušentsa
++#54 sikaiimos xoxhamne manušesa
+@@ -17110 +17046 @@
+-#31 balamoski feljastra
++#31 balamoki feljastra
+@@ -17144 +17080 @@
+-#54 lažavarel
++#54 lažavel
+@@ -17147 +17083 @@
+-#31 vušaravel/račajvel
++#31 račajvel
+@@ -17220 +17156 @@
+-#38 (resel) ando agoripe (”resel ando palunipe”)
++#38 (resel) ando agoripe ("resel ando palunipe")
+@@ -17228 +17164 @@
+-#31 gribil/sižarel
++#31 sižarel
+@@ -17235 +17171 @@
+-#37 gribil pe te xal
++#37 sižarel pes te xal
+@@ -17248 +17184 @@
+-#31 gribilpe
++#31 sižaravavel
+@@ -17253 +17189 @@
+-#37 ame musaj te gribisame ke či resas ka o buzo
++#37 ame musaj te sižaravas ke či resas o buso
+@@ -17275 +17211 @@
+-#54 šarajimasko kotor
++#54 šarajimasko colho/kotor
+@@ -17283 +17219 @@
+-#37 vo či šudelpe khančestar te lel maj but zor
++#37 vov či šudelpe khančestar le maj but zor/makto
+@@ -17301 +17237 @@
+-#54 kher ži kai čeri
++#54 žiz, kher ži kai čer
+@@ -17304 +17240 @@
+-#31 puškari
++#31 puškari, jagari
+@@ -17318 +17254 @@
+-#31 puškipe
++#31 pučkipe, jagipe
+@@ -17329 +17265 @@
+-#31 puškimaski gropa
++#31 pukimaski gropa
+@@ -17339 +17275 @@
+-#54 šantso kai inkrenaspe telal le ketani tena den pe lende
++#54 inkerdi gropa kai inkrenaspe telal le ketani tena tamadin len
+@@ -17406 +17342 @@
+-#31 sikajimasko manro
++#31 sikaiimasko manro
+@@ -17438 +17374 @@
+-#54 teatriako khelipe
++#54 khelimasko khelipe
+@@ -17441 +17377 @@
+-#31 aktoro
++#31 khelimasko khelitori
+@@ -17456 +17392 @@
+-#31 aktoro
++#31 khelari
+@@ -17473 +17409 @@
+-#35 baxtalipe vorta kana trobul te pes (ričia)
++#35 baxčalipe vorta kana trobul te pelpe
+@@ -17488 +17424 @@
+-#41 kintirimasko čaro
++#41 kintimasko čaro
+@@ -17491 +17427 @@
+-#41 zarosko čaro
++#41 cukrosko čaro
+@@ -17518 +17454 @@
+-#31 pečarel/pabarel
++#31 kušljarel
+@@ -17534 +17470 @@
+-#36 Švedosko maj teluno themesko than.
++#36 Švedosko maj teluni themeskotaljo.
+@@ -17553 +17489 @@
+-#31 skonisko
++#31 skonicko
+@@ -17564 +17500 @@
+-#31 škafo
++#31 šifaneri
+@@ -17590 +17526 @@
+-#31 barethaneski matora/škafoski matora
++#31 barethanesko auto/vurdon
+@@ -17598 +17534 @@
+-#54 bari phandadi matora
++#54 baro phandado tamabilo
+@@ -17619 +17555 @@
+-#41 šorvalo
++#41 šoralo
+@@ -17666 +17602 @@
+-#37 jekh šajimaski košta
++#37 ekh šajimaski košta
+@@ -17680 +17616 @@
+-#37 čačimasa došalo
++#37 čačimasko došaljardo gindo
+@@ -17709 +17645 @@
+-#37 vo čipilas pe peski romni
++#37 vov čipilas pe peski romni
+@@ -17777 +17713 @@
+-#54 rinčidime,černe,šertome
++#54 marhime, šertome
+@@ -17780 +17716 @@
+-#31 
++#31   
+@@ -17795 +17731 @@
+-#31 del po lažav
++#31 lažavel avri/del po lažav
+@@ -17884 +17820 @@
+-#31 dinipe, podarka, ajandiko
++#31 dinipe, ajandiko
+@@ -17906 +17842 @@
+-#37 del love kai khangeri
++#37 del love la khangera
+@@ -17927 +17863 @@
+-#54 rozovo
++#54 lulužalo
+@@ -17931 +17867 @@
+-#31 
++#31   
+@@ -17956 +17892 @@
+-#37 jekh šinimasko hango
++#37 jekh šinajimasko hango
+@@ -17988 +17924 @@
+-#37 le ferbi šinen pe/či malaven
++#37 e farbi hulaven pen/či malaven
+@@ -18060 +17996 @@
+-#41 lampako šarajipe/lampaki stadi
++#41 lampako šarajipe
+@@ -18066 +18002 @@
+-#41 patretosko/kiposko šarajipe
++#41 kiposko šarajipe
+@@ -18112 +18048 @@
+-#31 bričinari/praštia
++#31 bričinari
+@@ -18126 +18062 @@
+-#31 skučipe
++#31 kucipe
+@@ -18131 +18067 @@
+-#37 e šuri xasardas pesko skučipe
++#37 e šuri xasardas pesko kucipe
+@@ -18162 +18098 @@
+-#31 skučol
++#31 kucil
+@@ -18169 +18105 @@
+-#37 skučilpe šura
++#37 kucilpe šura 
+@@ -18172 +18108 @@
+-#37 e analiza trobuj te skučilpe jekh kotor
++#37 e analiza trobuj te kucilpe jekh kotor
+@@ -18187 +18123 @@
+-#37 o parlamento vazdel o tono
++#37 regeringo vasdel o tono
+@@ -18190 +18126 @@
+-#37 zuriardo samalinipe
++#37 zurardo samalinipe
+@@ -18208 +18144 @@
+-#37 lašar tut akana, Martin!
++#37 lašar tut akanakh, Martin!
+@@ -18234 +18170 @@
+-#31 godžaver
++#31 gožaver
+@@ -18241 +18177 @@
+-#37 jekh godžaver šej
++#37 ekh gožaver šej
+@@ -18293 +18229 @@
+-#36 Angla kado khangeriako sunto džes ando Švedo.
++#36 Angla kado khangerako suntožes ando Švedo.
+@@ -18302 +18238 @@
+-#31 glaža/vojaga
++#31 glaža
+@@ -18329 +18265 @@
+-#31 skudo
++#31 branimaski karika
+@@ -18340 +18276 @@
+-#31 braška čičaska/šikenešo žamba
++#31 šikenešo žamba
+@@ -18350 +18286 @@
+-#54 balajaki braška
++#54 balajaki žamba
+@@ -18381 +18317 @@
+-#37 šukar žuvlia
++#37 šukar žuvlja
+@@ -18396 +18332 @@
+-#37 laše milaske džes
++#37 laše milaske žes
+@@ -18399 +18335 @@
+-#37 jekh lašo skamin
++#37 ekh lašo skamin
+@@ -18474 +18410 @@
+-#54 penel vareso maj feder pa varesoste so naj
++#54 penel vareso majfeder pa varesoste so naj 
+@@ -18482 +18418 @@
+-#36 šinajimasko počinipe kerelpe kana či kerelpe skatoski deklaracija sarso trobuj.
++#36 šinajimasko počinipe kerelpe kana či kerelpe skatoskideklaracija sarso trobuj.
+@@ -18622 +18558 @@
+-#37 lel sama (katar) peske bičinimata
++#37 grižil (pa) peske bičinimata
+@@ -18625 +18561 @@
+-#37 xal les leski griža
++#37 grižil pa peste
+@@ -18638 +18574 @@
+-#31 sistritca
++#31 grižitorkinja/grižitorka
+@@ -18648 +18584 @@
+-#54 sistritca/nasvalimaski phen
++#54 nasvalimaski phen
+@@ -18652 +18588 @@
+-#31 stepeno/vorta
++#31 inkerimasko
+@@ -18660 +18596 @@
+-#54 lašo
++#54 grižimasko
+@@ -18682 +18618 @@
+-#37 brišindeske veša šilažon
++#37 brišindeske veš šilažon
+@@ -18752 +18688 @@
+-#37 e matora šudisardas kruglom o koltso
++#37 e matora šudisardas kruglom/kruglom o koltso
+@@ -18846 +18782 @@
+-#37 jekh malajipe po muj
++#37 jekh malalipe po muj
+@@ -18907 +18843 @@
+-#31 šluga
++#31 šloga
+@@ -18961 +18897 @@
+-#31 fugo vorbako
++#31 fuga vorbako
+@@ -19065 +19001 @@
+-#31 maripe (dukumengo)
++#31 maripe (dumukhengo)
+@@ -19141 +19077 @@
+-#31 masari, šonkari
++#31 masari, šinari
+@@ -19152 +19088 @@
+-#31 šonkari/masari
++#31 mesnica/masari
+@@ -19226 +19162 @@
+-#37 bašavel le vasonenca
++#37 bašavel le vasonca
+@@ -19312 +19248 @@
+-#37 voj sas lungo ai sani
++#37 voj sas luno ai sani
+@@ -19394 +19330 @@
+-#37 o dikhipe kovlilo jekh sekunda
++#37 dikhipe kovljarzilas jekh sekunda
+@@ -19455 +19391 @@
+-#31 bi ordinako
++#31 bi grižimasko
+@@ -19460 +19396 @@
+-#37 bi ordinake ramomata/skirimata
++#37 bi grižimaske iskirimata
+@@ -19471 +19407 @@
+-#31 pexhtia
++#31 pexti /pexhtia
+@@ -19476 +19412 @@
+-#38 kerel pexhtia anda varekaste (”te marel varekas sertel sijel”)
++#38 kerel pexhtia anda varekaste ("te marel varekas sertel sijel")
+@@ -19485 +19421 @@
+-#31 balta pajeski/rondavo paj
++#31 rondavo paj
+@@ -19502 +19438 @@
+-#04 snösörja; tö (väder)
++#04 snösörja; tö(väder)
+@@ -19531 +19467 @@
+-#37 tu san kudo kai činžardan tele e skafidi?
++#37 tu san kodo kai činžardan tele e skafidi?
+@@ -19541 +19477 @@
+-#31 meliaško/lučko
++#31 lučko
+@@ -19569,0 +19506 @@
++#41 
+@@ -19611 +19548 @@
+-#37 te trajis ando slugipe tela e moda
++#37 trajilpe ando slugipe ando moderno ginipe
+@@ -19703 +19640 @@
+-#41 zumiaki variška
++#41 zumaki variška
+@@ -19709 +19646 @@
+-#54 bari roj lungone vastaresa
++#54 bari roj lungone inkerimasa
+@@ -19731 +19668 @@
+-#31 šuriako bufari/šuriaki čisi
++#31 (šuraki) čisi
+@@ -19785 +19722 @@
+-#37 o sap ančučisailas khotar
++#37 o sap krecosardaspe khotar
+@@ -19788 +19725 @@
+-#38 kličil pes (”kličil pe tena phenel o čačipe”)
++#38 krecol pes ("čidel pes tena phenel o čačipe")
+@@ -19809 +19746 @@
+-#31 čirdelpe
++#31 čirdelpe 
+@@ -19814 +19751 @@
+-#37 ame čirdam amen ande ande jekh kirčima
++#37 ame cirdam amen ande ande ekh kirčima
+@@ -19821 +19758 @@
+-#54 nakhel, , našel, vurial
++#54 nakhel, , našel, ural
+@@ -19841 +19778 @@
+-#37 voj istrajli ande skeri
++#37 voj istrajli ande trapura/skeri
+@@ -19851 +19788 @@
+-#31 skučime/skučome
++#31 kucime/skučome
+@@ -19863 +19800 @@
+-#31 skučol
++#31 kucil/skučol
+@@ -19868 +19805 @@
+-#37 skučol šuri
++#37 kucil/skučol šuri
+@@ -19879 +19816 @@
+-#31 skutsol/čilagil/
++#31 čilagil/skutsol
+@@ -19905 +19842 @@
+-#54 opral čirdino špenčo/vrišlja bi bajangi
++#54 opral čirdini vrišlja bi bajangi
+@@ -19908,0 +19846,2 @@
++
++#01 snusar
+@@ -19963 +19902 @@
+-#37 melali fantasia
++#37 melali fantazija
+@@ -20080 +20019 @@
+-#31 rojipe, cukipe, suspinil
++#31 rojipe, cukipe,suspinil
+@@ -20120 +20059 @@
+-#37 jekh šukar raklo
++#37 ekh šukar raklo
+@@ -20133 +20072 @@
+-#31 vužo
++#31 užo
+@@ -20241 +20180 @@
+-#41 benzinosko/benzinako xantsipe
++#41 benzinosko/benzinako xantsipe 
+@@ -20251 +20190 @@
+-#31 peko/xanžvalo/skupo
++#31 sunundo
+@@ -20256 +20195 @@
+-#37 pra xanžvale šinajimata
++#37 pra sununde šinajimata
+@@ -20266 +20205 @@
+-#31 xanžvalavel
++#31 xanžvalavel 
+@@ -20303 +20242 @@
+-#31 čigno vešoro
++#31 cino veš
+@@ -20342 +20281 @@
+-#31 škojka
++#31 škorka
+@@ -20369 +20308 @@
+-#37 jekh laši šej
++#37 ekh laši šej
+@@ -20375 +20314 @@
+-#37 lašo le žigenjentca
++#37 lašo pe alatura
+@@ -20378 +20317 @@
+-#37 si khate varisoske laše šavora?
++#37 si khate varekači laše šavora?
+@@ -20397 +20336 @@
+-#54 fugako gezeši/žežeš
++#54 fugako gezeši
+@@ -20515 +20454 @@
+-#31 tang, čidino
++#31 tang, čičidino
+@@ -20522 +20461 @@
+-#37 jekh tang roča
++#37 ekh tang kantuši
+@@ -20528 +20467 @@
+-#37 jekh čigno atveto
++#37 jekh tang phenipe
+@@ -20537 +20476 @@
+-#31 jiv/iv
++#31 jiv
+@@ -20544 +20483 @@
+-#41 nevo jiv
++#41 nevojiv
+@@ -20547 +20486 @@
+-#41 krečunosko jiv
++#41 krečunesko jiv
+@@ -20556 +20495 @@
+-#41 jiveski menča/lopta
++#41 jiveski lobda
+@@ -20717 +20656 @@
+-#31 šukar,rajkano
++#31 šarado,
+@@ -20722 +20661 @@
+-#37 rajkane ferbi
++#37 šarade farbi
+@@ -20731 +20670 @@
+-#31 socialnio,
++#31 socijalno,
+@@ -20752 +20691 @@
+-#31 socialno
++#31 socijalno
+@@ -20776 +20715 @@
+-#31 socialitori,
++#31 socijalitori,
+@@ -20784 +20723 @@
+-#54 socialari
++#54 socijalari
+@@ -20787 +20726 @@
+-#31 socialnio asistento/žutori
++#31 socijalno asistento/žutori
+@@ -20799 +20738 @@
+-#31 socialnio počinipe
++#31 socijalno počinipe
+@@ -20809 +20748 @@
+-#31 social demokrato
++#31 socijaldemokrato
+@@ -20814 +20753 @@
+-#38 Socijalnidemokratura (”Švedoske socijalnidemokraticka bučakipartija (SBP)”
++#38 Socijalnidemokratura ("Švedoske socijalnidemokraticka bučakipartija (SBP)"
+@@ -20824 +20763 @@
+-#31 socialno demokracia
++#31 socijalno demokracija
+@@ -20838,0 +20778,2 @@
++
++#01 Socialdepartementet
+@@ -20841 +20782 @@
+-#31 socialo
++#31 socijalo
+@@ -20864 +20805 @@
+-#31 socialnio sigurancia,
++#31 socijalno sigurancija,
+@@ -20878 +20819 @@
+-#31 socialnio grupa
++#31 socijalno grupa
+@@ -20895 +20836 @@
+-#31 socialnio vučiškola
++#31 socijalno učiškola
+@@ -20955 +20896 @@
+-#37 jekh socialisticko gav
++#37 jekh socialisticko them
+@@ -21162 +21103 @@
+-#31 štrinfa
++#31 štrinflja
+@@ -21169 +21110 @@
+-#41 pošomaki strinfa
++#41 vunaki štrinflja
+@@ -21175 +21116 @@
+-#54 strinfa
++#54 harišna
+@@ -21209 +21150 @@
+-#31 cukro/zaro
++#31 cukro
+@@ -21216 +21157 @@
+-#41 xurdo cukro/zaro
++#41 xurdo cukro
+@@ -21229 +21170 @@
+-#31 cukro/zaro
++#31 cukro
+@@ -21353 +21294 @@
+-#31 rešno/kandino manuš,
++#31 rešno manuš,
+@@ -21396 +21337 @@
+-#37 beš ando kham
++#37 bep ando kham
+@@ -21399 +21340 @@
+-#37 kham thaj vušalin
++#37 kham ai šalin
+@@ -21402 +21343 @@
+-#38 avelpe opre le khamesa (”detehara”)
++#38 avelpe opre le khamesa ("detehara")
+@@ -21425 +21366 @@
+-#37 voj bešli po kham intrego djes
++#37 voj khakhamarel (pes) intrego djes
+@@ -21454 +21395 @@
+-#54 djieske/pereske/djombrake nervi
++#54 djomrake nervi
+@@ -21531 +21472 @@
+-#31 khameske jaški
++#31 khameske okuljara
+@@ -21543 +21484 @@
+-#54 jaški, jakhenge
++#54 jački, jakhenge
+@@ -21554 +21495 @@
+-#37 jekh zuralo vudar
++#37 ekh zuralo vudar
+@@ -21646 +21587 @@
+-#37 jekh khamesko džes
++#37 ekh khamesko žes
+@@ -21666 +21607 @@
+-#54 ženo kai žilabel vaj čirdel jekh solo (korkoro)
++#54 ceno kai žilabel vaj cirdel jekh solo (korkoro)
+@@ -21669 +21610 @@
+-#31 khameski mutsa
++#31 khameski muca
+@@ -21691 +21632 @@
+-#31 vužo
++#31 užo
+@@ -21743 +21684 @@
+-#54 kudo kana xoxavelpe jekha žuvlja pe lako barvalipe
++#54 kodo kana xoxavelpe jekha žuvlja pe lako barvalipe
+@@ -21778 +21719 @@
+-#37 bučazil sar gajdo/sikajitori,
++#37 bučazilpe sar gajdo/sikaiitori,
+@@ -21781 +21722 @@
+-#37 te avilemas sar tu
++#37 te avos me sar tu
+@@ -21784 +21725 @@
+-#37 vo si sa kadia phuro sar peski romni
++#37 vov si sajekh berš sar peski romnji
+@@ -21787 +21728 @@
+-#37 miazol ke či dikhla man
++#37 sas sar voj tena dikhlov man
+@@ -21821 +21762 @@
+-#37 o šavo savo nakhlas si muro phral
++#37 o šavo/murš savo nakhlas si muro phral
+@@ -21824 +21765 @@
+-#37 o kapoto, savo sas galbeno, kerelas 150 koroni
++#37 o kantuši, savo sas galbeno, kerelas 150 koroni
+@@ -21833,0 +21775,10 @@
++#01 Somalia
++
++#01 somalier
++
++#01 somalisk
++
++#01 somaliska
++
++#01 somaliska
++
+@@ -21871 +21822 @@
+-#37 jekh brišindalo milaj
++#37 ekh brišindalo milaj
+@@ -21898 +21849 @@
+-#31 milasko/milajesko gosto
++#31 milasko gosto
+@@ -21953 +21904 @@
+-#31 milaski/milajeski vriama
++#31 milaski vrama
+@@ -21970 +21921 @@
+-#37 me sutem pozno
++#37 me sutemtar kišin
+@@ -21988 +21939 @@
+-#38 ando milaj (”milaj so nakhlas”)
++#38 ando milaj ("milaj so nakhlas")
+@@ -22001 +21952 @@
+-#37 vo si o šav le hazigazdaske
++#37 vov si šavo le hazigazdaske
+@@ -22004 +21955 @@
+-#37 muro čačo šav
++#37 muro čačo šavo
+@@ -22009 +21960 @@
+-#41 nepoto, šavesko šavo
++#41 unoko, šavesko šavo
+@@ -22012 +21963 @@
+-#41 nepoto, šejako šavo
++#41 unoko, šako šavo
+@@ -22015 +21966 @@
+-#41 nepata (šaveski šej)
++#41 unoko, šaveski šej
+@@ -22068 +22019 @@
+-#31 rodelavri
++#31 dikhavel, rodelavri,
+@@ -22086 +22037 @@
+-#31 šaveski šej,nepata
++#31 šaveski šej, unokinja
+@@ -22118 +22069 @@
+-#38 kade si, (“normalnio”)
++#38 pherdo prosto
+@@ -22126 +22077 @@
+-#31 šavesko šavo, nepoto
++#31 šavesko šavo, unoko
+@@ -22147 +22098 @@
+-#37 šilavelpe e phuv/palia
++#37 šilavelpe o palovo
+@@ -22164 +22115 @@
+-#31 motura
++#31 šepruva, šilava
+@@ -22192 +22143 @@
+-#31 gunojeski truba
++#31 gunujesko ande šudimasko than
+@@ -22202 +22153 @@
+-#54 than ande khera kai šudelpe o gunuj andre/tele,
++#54 than ande meletonge khera kai šudelpe o gunuj ande/tele,
+@@ -22206 +22157 @@
+-#31 gunoj,
++#31 gunuj,
+@@ -22211 +22162 @@
+-#37 ža avri e gunujenca
++#37 ža avre e gunujenca
+@@ -22235 +22186 @@
+-#37 jekh tejari zumi
++#37 ekh teljari zumi
+@@ -22246 +22197 @@
+-#41 zumiako tejari/tijari
++#41 zumako teljari
+@@ -22281 +22232 @@
+-#31 gunoj
++#31 gunuj
+@@ -22292 +22243 @@
+-#31 gunojesko bidono
++#31 gunujesko hordovo
+@@ -22324 +22275 @@
+-#37 brigasa ando ilo
++#37 kusa briga ando ilo
+@@ -22330 +22281 @@
+-#41 bi-brigaki 
++#41 brigaki slobodija
+@@ -22383 +22334 @@
+-#31 hirčo
++#31 hirco
+@@ -22393 +22344 @@
+-#54 hirtso/soboloko
++#54 šimijako
+@@ -22465 +22416 @@
+-#31 telalazil/halol
++#31 telalazil
+@@ -22485 +22436 @@
+-#37 ka balamo si čoro alosaripe
++#37 balamo si čoro alosaripe
+@@ -22521 +22472 @@
+-#01 SOS
++#01 SOS Alarm AB
+@@ -22527 +22478 @@
+-#36 SOS arakhelpe opral telefono 112, khote šaj te vorbilpe te lelpe žutipe sar ambulancia, jagake mudaritora thaj šingale.
++#36 SOS arakhelpe opral telefono 112, khote šaj te vorbilpe te lelpe žutipe sar ambulanta, jagakemudaritora ai šingale.
+@@ -22537 +22488 @@
+-#31 social demokrato
++#31 socijal demokrato
+@@ -22566 +22517 @@
+-#37 vužarel o košo/čimineja
++#37 užar o kimini
+@@ -22598 +22549 @@
+-#54 haringo
++#54 morako xurdo dumesko mašo
+@@ -22632 +22583 @@
+-#54 hango
++#54 hango, soundo
+@@ -22635 +22586 @@
+-#31 suveniro
++#31 suveniro 
+@@ -22660 +22611 @@
+-#37 voj sutas mišto intrego rači
++#37 voj sutas mišsto intrego rači
+@@ -22733 +22684 @@
+-#31 sojimasko gono
++#31 sojmasko gono
+@@ -22744 +22695 @@
+-#31 sojimasko vagono
++#31 sojimasko vagonji
+@@ -22803 +22754 @@
+-#31 lopata, motika,
++#31 lapata, motika,
+@@ -22810 +22761 @@
+-#37 tholpe e lopata ande phuv
++#37 tholpe e lapata ande phuv
+@@ -22818 +22769 @@
+-#41 pekimaski lopata
++#41 pekimaski lapata
+@@ -22849 +22800 @@
+-#37 špageti ai masesko solzo
++#37 špageti ai maseskososo
+@@ -22898 +22849 @@
+-#54 luludjango inkeritori,
++#54 luludjengo inkeritori,
+@@ -22946,0 +22898,2 @@
++#01 Spanien
++
+@@ -22948 +22901 @@
+-#31 španjolo
++#31 španjoli
+@@ -22957,0 +22911,2 @@
++#01 spanjorska
++
+@@ -22986 +22941 @@
+-#37 jekh vadra paj
++#37 ekh bradji paj
+@@ -23018 +22973 @@
+-#54 vurdon phanglo grastesa kai čirdel
++#54 vurdon phanglo alatosa kai cirdel
+@@ -23048 +23003 @@
+-#31 španjolisko
++#31 španjolicko
+@@ -23059 +23014 @@
+-#31 španjoliska
++#31 španjolicka
+@@ -23079 +23034 @@
+-#31 čidel, inkrel, garavel
++#31 čidel, inkrel
+@@ -23113 +23068 @@
+-#37 čidel/garavel o vuloj
++#37 inkeravel po ulje/čidel/garavel o vuloj
+@@ -23116 +23071 @@
+-#37 lel sama katar peski zor
++#37 inkeravel pe zor /garavel/lel sama katar peski zor
+@@ -23144 +23099 @@
+-#31 kapilka
++#31 čidimaski čisi
+@@ -23177 +23132 @@
+-#38 (”tele šudo pa buči”)
++#38 lel o rugipe ("tele šudo pa buči")
+@@ -23186 +23141 @@
+-#31 punrengi sanja/sanka
++#31 rugimaski sanka/punrengi sanja
+@@ -23204 +23159 @@
+-#37 o gras rugisardas 
++#37 gras rugisardas palpalekaring
+@@ -23207 +23162 @@
+-#37 inkeripe šudas deše bučaren
++#37 inkeripe rugisardas deše bučaren
+@@ -23218 +23173 @@
+-#31 rugimaski bicikleta
++#31 rugimaski bicigla /bicikleta
+@@ -23229 +23184 @@
+-#31 čigni jagori
++#31 cini langa
+@@ -23236 +23191 @@
+-#37 žal pe čigni jagori
++#37 ža pe cini langa
+@@ -23258 +23213 @@
+-#54 zeleno zečigo anda asparagus sorta
++#54 zeleno zečigo anda Asparagus sorta
+@@ -23262 +23217 @@
+-#31 (garavel/čidel)
++#31 sunundo(garavel/čidel)
+@@ -23293 +23248 @@
+-#31 spartanisko, prosto
++#31 spartanicko, prosto
+@@ -23320 +23275 @@
+-#54 čigni čirikli
++#54 cini barnavo čiriklji
+@@ -23426 +23381 @@
+-#31 specialnio-
++#31 specijal-
+@@ -23442 +23397 @@
+-#31 specialnio,
++#31 specijalnio,
+@@ -23470 +23425 @@
+-#54 specijaliril pes
++#54 špecijaliril pes
+@@ -23499 +23454 @@
+-#37 kirčimako specialiteto si mašenge xabenata
++#37 kirčimako specijaliteto si mašenge xabenata
+@@ -23509 +23464 @@
+-#31 specialnio škola
++#31 specijalno škola
+@@ -23520 +23475 @@
+-#31 specialnio sičaripe
++#31 specijalno sičaripe
+@@ -23538 +23493 @@
+-#37 jekh specialnio ženo
++#37 ekh specijalno ženo
+@@ -23575 +23530 @@
+-#31 specialnio
++#31 specijalno
+@@ -23586 +23541 @@
+-#31 specifikacia
++#31 specifikacija,
+@@ -23594 +23549 @@
+-#54 vužo sikajipe
++#54 užo sikaiipe
+@@ -23604 +23559 @@
+-#54 sikajipe,
++#54 sikaiipe,
+@@ -23607 +23562 @@
+-#31 špeditcia
++#31 špedicija
+@@ -23615 +23570 @@
+-#54 bajongo ingeripe
++#54 bajongo ingeripe/inkeripe
+@@ -23628 +23583 @@
+-#54 motor biciklengo nerimasko tradipe
++#54 motorbiciglengo nerimasko tradipe
+@@ -23638 +23593 @@
+-#37 dikhel pes ande glinda
++#37 dikhlel pes ande glinda
+@@ -23717 +23672 @@
+-#31 spektaklo, čudato sikajipe
++#31 spektaklo, čudako sikaiipe
+@@ -23731 +23686 @@
+-#31 čudato
++#31 čudalo,
+@@ -23742 +23697 @@
+-#54 čudato
++#54 čudako,
+@@ -23755 +23710 @@
+-#54 sa le farbenge razi
++#54 sa e farbenge razi
+@@ -23758 +23713 @@
+-#31 spekulanto
++#31 špekultanto
+@@ -23772 +23727 @@
+-#31 gindo, špekulacia
++#31 gindo, špekulacija
+@@ -23813 +23768 @@
+-#01 spekulrar
++#01 spekulerar
+@@ -23853 +23808 @@
+-#37 le olimpiska khelimata
++#37 le olimpicka khelimata
+@@ -23865 +23820 @@
+-#41 menčako/loptako khelipe
++#41 lobdako khelipe
+@@ -23894 +23849 @@
+-#41 pianosko čirdipe
++#41 pijanosko cirdipe
+@@ -23897 +23852 @@
+-#41 harmonikako čirdipe
++#41 harmonikako cirdipe
+@@ -23940 +23895 @@
+-#31 čirdel, bašavel
++#31 cirdel, bašavel
+@@ -23989 +23944 @@
+-#31 khelitori
++#31 khelari
+@@ -23996 +23951 @@
+-#41 themesko khelitori
++#41 themesko khelari
+@@ -24017 +23972 @@
+-#31 violinista/violinisto
++#31 violinista
+@@ -24158 +24113 @@
+-#37 šuriako nakh/udud/
++#37 šurako udud/nakh
+@@ -24167 +24122 @@
+-#41 karandašesko nakh
++#41 plajbasesko udud /karandašesko nakh 
+@@ -24210 +24165 @@
+-#54 skučol
++#54 kucil
+@@ -24218 +24173 @@
+-#37 vo pusadas jekh baro kotor mas la furkasa
++#37 vov pusadas jekh baro kotor mas la furkasa
+@@ -24254 +24209 @@
+-#31 skučime/skučome
++#31 kucime/skučome
+@@ -24272 +24227 @@
+-#31 skučome sastri
++#31 kucime sastri
+@@ -24301 +24256 @@
+-#31 ger,lepra, ragaljošo nasvalipe,
++#31 ger, ragaljošo nasvalipe,
+@@ -24365 +24320 @@
+-#31 karfome
++#31 karfime/karfome
+@@ -24419 +24374 @@
+-#37 voj pičardas solzo pe skaterka
++#37 voj pičardas solzo pe salveta/skaterka
+@@ -24518 +24473 @@
+-#31 mašengi vunžitca (šudimasko kaš)
++#31 šudimasko kaš (mašengo/vunžitca)
+@@ -24537 +24492 @@
+-#41 industrijako špiono
++#41 industrijakošpiono
+@@ -24565 +24520 @@
+-#37 voj špionizilas pe mande palal e zanaveska/firhango,
++#37 voj špionizilas pe mande palal o firhango,
+@@ -24769 +24724 @@
+-#54 phirasari
++#54 pherasari
+@@ -24772 +24727 @@
+-#31 čepenozil, phandel,
++#31 cepenozil, phandel,
+@@ -24826 +24781 @@
+-#31 desa/defial
++#31 čupa
+@@ -24900 +24855 @@
+-#37 xalav le palia/phuv/palovo
++#37 xalav o palovo
+@@ -25002,2 +24957,2 @@
+-#07 verksamheten sponsras av Volvo
+-#37 o inkeripe sponsoril o Volvo
++#07 verksamheten sponsras av xxxx
++#37 o inkeripe sponsoril o xxxx
+@@ -25021 +24976 @@
+-#37 jekh hertelenešo reakcija
++#37 ekh hertelenešo reakcija
+@@ -25033 +24988 @@
+-#31 spontan, korko andapes,
++#31 spontan, korkoandapes,
+@@ -25089 +25044 @@
+-#54 skučome nakh pe kheria kai hasnalilpe te žal o gras maj zurales
++#54 kucime udud pe khera kai hasnalilpe te žal o gras maj zurales
+@@ -25099 +25054 @@
+-#41 jivesko sporto
++#41 ljivesko sporto
+@@ -25112 +25067 @@
+-#31 sportovo matora
++#31 sport tamabilo
+@@ -25120 +25075 @@
+-#54 sportovo matora
++#54 sport alto/motori
+@@ -25136 +25091 @@
+-#31 sportivo
++#31 sporticko
+@@ -25152 +25107 @@
+-#31 sportisko pihenipe,
++#31 sporticko pihenipe,
+@@ -25163 +25118 @@
+-#31 sportisko
++#31 sporticko
+@@ -25190 +25145 @@
+-#31 opre vazdino
++#31 opre vasdino
+@@ -25215,3 +25170 @@
+-#08 spott och spe ("hån")
+-#38 čungar ai prasape,
+-#48 1459
++#04 spott och spe ("hån")
+@@ -25232 +25185 @@
+-#37 e fabrika čungarel avri jekh nevo tamabilo ande minuta
++#37 e fabrika čungarel avri ekh nevo tamabilo ande minuta
+@@ -25318 +25271 @@
+-#31 pheras/phiras
++#31 pheras
+@@ -25323 +25276 @@
+-#37 kerelpe varekaske jekh pheras
++#37 kerelpe varekaske ekh pheras
+@@ -25392 +25345 @@
+-#31 sprajozil
++#31 sprajolil
+@@ -25411 +25364 @@
+-#37 čiro vastesko ramomos avri pusavel pe sako rig
++#37 čiro vastesko iskiripe avri pusavel pe sako rig
+@@ -25426 +25379 @@
+-#37 jekh avri pusajimaski bur
++#37 ekh avripusajimaski bur
+@@ -25442 +25395 @@
+-#37 jekh pharajipe ande plaj
++#37 ekh pharajipe ando plaj
+@@ -25445 +25398 @@
+-#37 jekh pharajipe ande regeringo
++#37 ekh pharajipe ande regeringo
+@@ -25461 +25414 @@
+-#37 e kalca pharažilas
++#37 kalca pharažilas
+@@ -25511 +25464 @@
+-#37 e kniška si but rispime
++#37 e kenjva si buth avri buljhardi
+@@ -25550 +25503 @@
+-#31 rispimos/rispipe
++#31 buljharipe,
+@@ -25570 +25523 @@
+-#37 me lem tele jekh rispimasko programo pa Internet
++#37 me lem tele jekh ivajimasko programo pa Internet
+@@ -25581 +25534 @@
+-#37 kodo sas jekh baro našipe ande skeri!
++#37 kodo sas jekh baro našipe ande trapura!
+@@ -25623 +25576 @@
+-#37 voj avelas našindoj
++#37 voj avelas našindos
+@@ -25645 +25598 @@
+-#37 naš pala muro špenčo, avesa lašo!
++#37 naš pala muri vrišlja, avesa lašo!
+@@ -25688 +25641 @@
+-#31 rečija
++#31 račija
+@@ -25702 +25655 @@
+-#31 fotošenosko/alkoholosko bov
++#31 račijako bov
+@@ -25710 +25663 @@
+-#54 čino bov kai žal po fotoženo
++#54 cino bov kai žal pe račija
+@@ -25713 +25666 @@
+-#31 rečijako čačipe
++#31 račijako čačipe
+@@ -25742 +25695 @@
+-#38 čupa dilo (”pherdo dilo”)
++#38 čupa dilo ("pherdo dilo")
+@@ -25745 +25698 @@
+-#38 čupa nango (”berkano nango”)
++#38 čupa nango ("čupanango")
+@@ -25754 +25707 @@
+-#31 rantil, čirdel
++#31 rantil, cirdel
+@@ -25759 +25712 @@
+-#37 čirdel ando stato
++#37 cirdel ando tago
+@@ -25789 +25742 @@
+-#37 vo forilaspe ande loš
++#37 vov forilaspe ande loš
+@@ -25809 +25762 @@
+-#31 makel
++#31 makel 
+@@ -25818 +25771 @@
+-#41 jagako folipe/mukhipe,
++#41 jagako folipe/mukipe,
+@@ -25839 +25792 @@
+-#37 o paj avri folias anda tsava/truba
++#37 o paj avri folias anda cavija
+@@ -25858 +25811 @@
+-#37 drab mukhelpe direktno ando rat
++#37 drab mukelpe ande direktno ando rat
+@@ -25876 +25829 @@
+-#37 strejino šib
++#37 strejno šib
+@@ -25882 +25835 @@
+-#41 patretoske/kiposki šib
++#41 kiposki šib
+@@ -25935 +25888 @@
+-#37 voj si la partijako vorbari
++#37 voj/vov si a partijako vorbari
+@@ -25951 +25904 @@
+-#37 vo xuklas opral o paj ande jekh baro xutipe
++#37 vov xučlas opral o paj ande jekh baro našipe
+@@ -25978 +25931 @@
+-#31 xučimaski phal,
++#31 xučimaski phalj, 
+@@ -26010 +25963 @@
+-#37 o bar pharadas e feliastra
++#37 o bar pharadas e feljastra
+@@ -26020 +25973 @@
+-#31 pečetime
++#31 melale farbengo, 
+@@ -26041 +25994 @@
+-#37 e banda pharadjili le šingalenca
++#37 e liga pharadepe le šingalenca,
+@@ -26060 +26013 @@
+-#31 pharavel
++#31 pharavel 
+@@ -26064 +26017 @@
+-#37 kudo pharavel ando vas
++#37 kodo pharavel ando vas
+@@ -26079 +26032 @@
+-#38 thol jag pe love (”xaljarel tele e love sigo”)
++#38 thol jag pe love ("xaljarel tele e lova sigo")
+@@ -26117 +26070 @@
+-#37 e khajni šudel karin godi ande čišaj
++#37 khanji šudel karingodi ande čišaj
+@@ -26141 +26094 @@
+-#31 lista
++#31 lista 
+@@ -26159 +26112 @@
+-#41 hačarimaski rajori
++#41 hačarimaski rajik
+@@ -26211 +26164 @@
+-#31 šaglipe
++#31 šanglipe
+@@ -26243 +26196 @@
+-#37 o košo šandelas avri kalo thuv
++#37 o kimini/torno šandelas avri kalo thuv
+@@ -26250 +26203 @@
+-#54 
++#54
+@@ -26253 +26206 @@
+-#31 šelia
++#31 (firi) sporo, forgači
+@@ -26258 +26211 @@
+-#41 šelia
++#41 firisporo
+@@ -26280 +26233 @@
+-#31 šeliangi phal
++#31 firisporoski phalj
+@@ -26294 +26247 @@
+-#31 vurma, semno
++#31 vurma, somno
+@@ -26304 +26257 @@
+-#37 voj či sikadas či jekh semno darako
++#37 voj či sikadas či jekh somno anda dar
+@@ -26322 +26275 @@
+-#31 šinji
++#31 šini
+@@ -26331 +26284 @@
+-#41 žežešeske šinji
++#41 gezešeske šini
+@@ -26337 +26290 @@
+-#41 rigake šinji
++#41 rigake šini
+@@ -26343 +26296 @@
+-#54 vurma,
++#54 vurma,  
+@@ -26366 +26319 @@
+-#31 rodel opre, vurmazil,
++#31 rodel opre, vurmazil,  
+@@ -26373 +26326 @@
+-#37 voj birisardas te rodel opre peska xasarda šeja
++#37 voj birisardas te rodel opre peska xasarda ša
+@@ -26393 +26346 @@
+-#37 o žežeš gelas avri pa vurma
++#37 o gezeši gelas avri pa vurma
+@@ -26405 +26358 @@
+-#54 tele pa drom, avri pa than,
++#54 tele pa drom, avri pa than,  
+@@ -26422 +26375 @@
+-#31 vurmako vurdon/žežeš
++#31 vurmako vurdon/gezeši,  
+@@ -26436 +26389 @@
+-#31 šinjengo drom
++#31 šinengo drom
+@@ -26500 +26453 @@
+-#31 xurdo,
++#31 xurdo,  
+@@ -26508 +26461 @@
+-#37 kovle dume
++#37 xurde phike
+@@ -26521 +26474 @@
+-#31 čigno šavoro
++#31 xurdo šavoro
+@@ -26565 +26518 @@
+-#31 činozil pes
++#31 činjozil pes
+@@ -26579 +26532 @@
+-#31 čidino
++#31 čičidino
+@@ -26586 +26539 @@
+-#37 kusa čidino žukaripe
++#37 kusa čičidino žukaripe
+@@ -26602 +26555 @@
+-#37 de man čira koroni
++#37 de man jekh cera koroni
+@@ -26611 +26564 @@
+-#31 čidipe
++#31 čičidipe
+@@ -26616 +26569 @@
+-#37 von žukerenas le nervenca čidimasa
++#37 von žukarnas le nervenca čičidimasa
+@@ -26624 +26577 @@
+-#31 darasa, čudasa,
++#31 darasa, čudasa,  
+@@ -26631 +26584 @@
+-#37 jekh darano filmo
++#37 ekh darako filmo
+@@ -26640 +26593 @@
+-#31 čato,
++#31 čato,  
+@@ -26664 +26617 @@
+-#31 čidel
++#31 čičidel
+@@ -26671 +26624 @@
+-#37 putrel opre jekh šelo
++#37 čičidel opre jekh šelo
+@@ -26674 +26627 @@
+-#37 čidel e suliča
++#37 čičide e rovlji,  
+@@ -26677 +26630 @@
+-#37 čide le muskuli
++#37 čičide e muskuli
+@@ -26688 +26641 @@
+-#31 phandel, čidel
++#31 phandel, čičidel
+@@ -26693 +26646 @@
+-#37 phandel pe peste e ski
++#37 phandel pe peste e skiji
+@@ -26696 +26649 @@
+-#37 phande o bužro pe matorako čardako
++#37 phande čičidimes o bužro po vurdonesko tetevo
+@@ -26721 +26674 @@
+-#31 čidipe, dar,
++#31 čičidipe, dar,  
+@@ -26726 +26679 @@
+-#37 ame žukardam le bare čidimasa po rezultato
++#37 ame žukardam le bare čičidimasa po rezultato
+@@ -26729 +26682 @@
+-#41 tele čidipe
++#41 tele čičidipe
+@@ -26735 +26688 @@
+-#54 daraki čuda, daraki voja,
++#54 daraki čuda, daraki voja,  
+@@ -26738 +26691 @@
+-#31 čidimasko buljharipe
++#31 čičidimasko buljharipe
+@@ -26751 +26704 @@
+-#31 
++#31   
+@@ -26762 +26715 @@
+-#31 
++#31  
+@@ -26814 +26767 @@
+-#37 o kamiono ašadas intrego drom
++#37 o kamijono ašadas intrego drom
+@@ -26835 +26788 @@
+-#37 puravel le jakha
++#37 pharav opre e jakha
+@@ -26870 +26823 @@
+-#31 platsko mašo
++#31 palmako mašo
+@@ -26875 +26828 @@
+-#41 platsko mašesko filejo
++#41 palmako mašesko file
+@@ -26884 +26837 @@
+-#31 bičo
++#31 rajik
+@@ -26889 +26842 @@
+-#41 grasteski raj
++#41 grasteski rajik
+@@ -26892 +26845 @@
+-#41 čoxani raj
++#41 čoxani rajik
+@@ -26918 +26871 @@
+-#31 čoxanil,
++#31 čoxanil,  
+@@ -26932 +26885 @@
+-#31 mulo/xučano
++#31 mulo
+@@ -26976 +26929 @@
+-#31 dudum
++#31 zeleno pumpa
+@@ -26988 +26941 @@
+-#31 dudum
++#31 squash
+@@ -27001,13 +26953,0 @@
+-#01 SR-koncernen
+-#31 SR-koncerno
+-#02 förk.
+-#32 
+-#04 Sveriges Radio-koncernen
+-#06 I denna koncern ingår Sveriges Television AB, Sveriges Riksradio AB, Sveriges Lokalradio AB, Sveriges Utbildningsradio AB.
+-#36 
+-#14 2Es:är:
+-#98 15415
+-#99 17063
+-#54 Svedosko Radiosko khetanipe
+-#97 mini
+-
+@@ -27038 +26978 @@
+-#31 vorta,
++#31 vorta,  
+@@ -27045 +26985 @@
+-#37 jekh laši ekonomia
++#37 ekh vorta ekonomia
+@@ -27064 +27004 @@
+-#37 o bajo ando them vortosajlas
++#37 o bajo ande them vortosajlas
+@@ -27084 +27024 @@
+-#31 čopro,
++#31 čopro,  
+@@ -27089 +27029 @@
+-#41 čiriango kuibo
++#41 čirengo čopro
+@@ -27136 +27076 @@
+-#37 foro Geteborg/ Göteborg
++#37 foro Geteborg/ Göteborg 
+@@ -27141 +27081 @@
+-#41 baro foro
++#41 baroforo
+@@ -27162 +27102 @@
+-#37 gata del jekh krisi
++#37 gata del ekh krisi
+@@ -27199 +27139 @@
+-#37 jekh terno bi zorako
++#37 ekh terno bi zorako
+@@ -27208 +27148 @@
+-#31 zakono thol
++#31 zakonothol
+@@ -27228 +27168 @@
+-#37 jekh zuralo vazdipe/vučaripe
++#37 ekh zuralo vasdipe/učaripe
+@@ -27243 +27183 @@
+-#37 jekh kana godimasko lov/počin
++#37 ekh kana godimasko lov/počin
+@@ -27289 +27229 @@
+-#31 forosko patreto
++#31 forosko kipo
+@@ -27376 +27316 @@
+-#31 khančeski figura 
++#31 khančesko figura (zeno)
+@@ -27389 +27329 @@
+-#31 farbengi tabla
++#31 farbarengi tabla
+@@ -27397 +27337 @@
+-#54 inkeripe kana makhelpe jekh patreto
++#54 inkeripe kana makhelpe jekh kipo
+@@ -27411 +27351 @@
+-#31 lokharel,
++#31 lokharel,  
+@@ -27454 +27394 @@
+-#37 voj musajsas te spidel o paraxodo pe phuv
++#37 voj musajsas te spidel ande o bero pe phuv
+@@ -27464 +27404 @@
+-#31 kečil pes
++#31 kecil pes
+@@ -27476 +27416 @@
+-#31 rovli, beli,
++#31 rovlji, beli,  
+@@ -27487 +27427 @@
+-#31 kandelevo
++#31 memeljango
+@@ -27492 +27432 @@
+-#41 memeliango kandelevo
++#41 harčičako memeljango
+@@ -27495 +27435 @@
+-#41 memeliango inkrari
++#41 memeljango inkrari
+@@ -27541 +27481 @@
+-#31 štala
++#31 grastengo kher
+@@ -27581 +27521 @@
+-#41 kopačeski bučuma
++#41 kopačesko bučuma
+@@ -27591 +27531 @@
+-#31 bučuma, vitsa, rasa
++#31 bučuma, vitsa, rasa 
+@@ -27618 +27558 @@
+-#31 bučuma,
++#31 bučuma,  
+@@ -27660 +27600 @@
+-#31 lumbutsil
++#31 lumbutsil 
+@@ -27666 +27606 @@
+-#41 lumbučimos/lumbučipe
++#41 mutipe
+@@ -27684 +27624 @@
+-#38 toržol ai uštavel/malvel pe sa kudo than (”tena miškilpe”)
++#38 toržol ai uštavel/malvel pe sa kudo than ("tena miškilpe")
+@@ -27708 +27648 @@
+-#37 trajin pe jekh vučo inkeripe/rango
++#37 trajin pe jekh učo inkeripe/rango
+@@ -27721 +27661 @@
+-#31 normalnio, standardo
++#31 normalno, standardo
+@@ -27726 +27666 @@
+-#37 jekh normalnio kuxnia
++#37 jekh normalno kuxnia
+@@ -27798 +27738 @@
+-#37 o žežeš tordžol ando Hallsberg
++#37 o geyeši toržol ando Hallsberg
+@@ -27814 +27754 @@
+-#37 voj zumadas te te tordžarel o buzo e vastesa ai čipimasa
++#37 voj zumadas te te toržarel o busa e vastesa ai cipimasa
+@@ -27910 +27850 @@
+-#31 tarantogil
++#31 tarantogil  
+@@ -27922 +27862 @@
+-#54 lopogil,
++#54 lopogil,  
+@@ -27949 +27889 @@
+-#37 zuralo parlamento
++#37 zuralo regeringo
+@@ -28002 +27942 @@
+-#31 zurali biara
++#31 zurali bara
+@@ -28040 +27980 @@
+-#37 voj las jekh lašo astaripe
++#37 voj laš ekh lašo astaripe
+@@ -28080 +28020 @@
+-#31 teliarimaski gropa
++#31 astarimasko astaripe
+@@ -28084 +28024 @@
+-#38 avel ando astarimasko astaripe (”te avel po drom te lel pe”)
++#38 avel ando astarimasko astaripe ("te avel po drom te lel pe")
+@@ -28097 +28037 @@
+-#36 jekh sorta selimasko lov,
++#36 jekh sorta selimasko lov,  
+@@ -28150 +28090 @@
+-#37 britisko them
++#37 briticko them
+@@ -28204,13 +28143,0 @@
+-#01 Statens invandrarverk (SIV)
+-#31 Themeski migraciako than,
+-#02 namn
+-#32 
+-#04 central förvaltningsmyndighet för utlännings-, invandrar- och medborgarskapsfrågor
+-#06 Statens invandrarverk (SIV) prövar ansökningar om visum, uppehålls- och arbetstillstånd samt medborgarskap.
+-#36 
+-#14 stA:tens 2In:vandrarvär:k
+-#98 15481
+-#99 17141
+-#54 
+-#97 mini
+-
+@@ -28225,0 +28153,2 @@
++#01 Statens livsmedelsverk (SLV)
++
+@@ -28238,12 +28166,0 @@
+-#01 Statens vägverk
+-#31 Themesko dromesko than
+-#02 namn
+-#32 
+-#06 Ett statligt ämbetsverk som har ansvar för vägar.
+-#36 
+-#14 stA:tens 2vÄ:gvär:k
+-#98 15484
+-#99 17144
+-#54 
+-#97 mini
+-
+@@ -28251 +28168 @@
+-#31 stancia
++#31 stancija
+@@ -28258 +28175 @@
+-#41 cetralnio stancia
++#41 cetralno stancija
+@@ -28261 +28178 @@
+-#41 stanciako kher
++#41 stancijako kher
+@@ -28271 +28188 @@
+-#31 stancia
++#31 stancija
+@@ -28276 +28193 @@
+-#41 jagaki stancia
++#41 jagaki stancija
+@@ -28279 +28196 @@
+-#41 rajbarengi/šingalengi stancia
++#41 šingalengi stancija
+@@ -28282 +28199 @@
+-#41 televiziaki stancia
++#41 televizijaki stancija
+@@ -28370 +28287 @@
+-#31 inkrari,
++#31 inkrari,  
+@@ -28463 +28380 @@
+-#31 themeske vezera/inkeritora,
++#31 themeske vezera/inkeritora,  
+@@ -28529 +28446 @@
+-#54 taxa so počinelpe e themeske 
++#54 barvalipe/skato so počinelpe e themeske
+@@ -28543 +28460 @@
+-#31 themesko bučari,
++#31 themesko bučari,  
+@@ -28572 +28489 @@
+-#38 ande sikavel (jekhe) sikajimasa/šinajimasa (”te delpe varekas krisi te len pen sama e kavera”)
++#38 ande sikavel (jekhe) sikaiimasa/šinajimasa ("te delpe varekas krisi te len pen sama e kavera")
+@@ -28586 +28503 @@
+-#37 la si rango/statuso sar politikako robo/phangli
++#37 la si rango/statuso sar politikako rabo/phangli
+@@ -28610 +28527 @@
+-#54 vučo rango, pačivalo inkeripe,
++#54 učo rango, pačivalo inkeripe,  
+@@ -28614 +28531 @@
+-#31 skulptura,
++#31 skulptura,  
+@@ -28619 +28536 @@
+-#37 Gustav II Adolf tordžol skulptura po piačo,
++#37 Gustav II Adolf toržol skulptura po pijačo,  
+@@ -28624 +28541 @@
+-#41 marmorisko skulptura,
++#41 marmoricko skulptura,  
+@@ -28634 +28551 @@
+-#31 rovli
++#31 rovlji
+@@ -28641 +28558 @@
+-#41 phirajimaski rovli
++#41 phirimaski0rovlji
+@@ -28644 +28561 @@
+-#41 rovljako xučipe/xutimos
++#41 rovljako xučipe
+@@ -28659 +28576 @@
+-#37 voj ramosardas čores pe sa e phare vorbi
++#37 voj iskirisardas čores pe sa e phare vorbi
+@@ -28670 +28587 @@
+-#31 ramomos, skirimos
++#31 iskiripe
+@@ -28675 +28592 @@
+-#37 pharipe/hango po paluno ramomos
++#37 pharipe/hango po paluno iskiripe
+@@ -28685 +28602 @@
+-#31 bokvengo ramomos, bokvengo skirimos
++#31 iskiripe
+@@ -28690 +28607 @@
+-#41 vorta ramomos
++#41 čačo iskiripe
+@@ -28699 +28616 @@
+-#31 memeli
++#31 memelji
+@@ -28704 +28621 @@
+-#41 memeli,
++#41 memelji,  
+@@ -28742 +28659 @@
+-#41 paso po paso
++#41 pasopopaso
+@@ -28772 +28689 @@
+-#37 o šavo xuklas angle pe ramomaski tabla
++#37 o šavo uštajas angle pe iskirimaski tabla
+@@ -28787 +28704 @@
+-#37 vo musurisardas avri o duripe maškar e khera 
++#37 vov mirisardas avri o duripe maškar e khera
+@@ -28808 +28725 @@
+-#41 ušoro sastreski skara
++#41 ušoro sastreski letra
+@@ -28821 +28738 @@
+-#31 vučarel
++#31 učarel
+@@ -28826 +28743 @@
+-#37 jekh učardo mangipe pala bi votrijime zelenimata
++#37 jekh učardo mangipe pala bi otrovni zelenimata
+@@ -28830 +28747 @@
+-#41 vučaripe
++#41 učaripe
+@@ -28839 +28756 @@
+-#31 vazdel pes
++#31 vasdel pes
+@@ -28868 +28785 @@
+-#41 vetselosko mas
++#41 boržukosko peko,  
+@@ -28898 +28815 @@
+-#31 tipsia
++#31 astači  
+@@ -28944 +28861 @@
+-#37 jekh čapeno punrengi birokratcia,
++#37 ekh capeno punrengi birokracija,  
+@@ -28971 +28888 @@
+-#37 vo mutsosailo kana vo dikhlas man
++#37 vov barosajlas kana vov dikhlas man
+@@ -28978 +28895 @@
+-#54 čepenil/mortsol
++#54 capenil
+@@ -28981 +28898 @@
+-#31 bar
++#31 bàr
+@@ -28986 +28903 @@
+-#37 na šude bar pe čigne čirikla!
++#37 na šude bàr pe cine čiriklja!
+@@ -28989 +28906 @@
+-#41 mesosko/varosko bar
++#41 mesosko bàr
+@@ -28992 +28909 @@
+-#41 baraslo palovo
++#41 bàraslo palovo
+@@ -29002 +28919 @@
+-#31 bar-
++#31 bàr-
+@@ -29021 +28938 @@
+-#31 barazil
++#31 bàrazil
+@@ -29030 +28947,3 @@
+-#54 Hertija kai šai keres kopiji,
++#54 Hertija kai šai keres kopiji,  
++
++#01 stencil
+@@ -29038 +28957 @@
+-#54 vuneto hertiji kai kerelpe lesa kopiji pa ramomata
++#54 vuneto hertiji kai kerelpe lesa kopiji pa iskirimata
+@@ -29041 +28960 @@
+-#31 duplazil, dujazil
++#31 duplazinl, dujazil
+@@ -29094 +29013 @@
+-#37 ame bešas jekhe baresko šudimos khatar e šinji e žežešeske
++#37 ame bešas jekhe baresko šudimos khatar e šini e žežešeske
+@@ -29103 +29022 @@
+-#31 stenografia
++#31 stenografija
+@@ -29171 +29090 @@
+-#37 butali ekonomia,
++#37 butali ekonomija,  
+@@ -29179 +29098 @@
+-#31 jekh formavo, sajekhesko,
++#31 jekhformavo, sajekhesko,  
+@@ -29184 +29103 @@
+-#37 jekh sajekhesko sikajipe
++#37 jekh sajekhesko sikaiipe
+@@ -29222 +29141 @@
+-#31 vužo
++#31 užo
+@@ -29310 +29229 @@
+-#41 birovliako pusajipe,
++#41 birovljako pusajipe,  
+@@ -29371 +29290 @@
+-#54 
++#54  
+@@ -29383 +29302 @@
+-#37 birovli pusadas man
++#37 birulji pusadas man
+@@ -29416 +29335 @@
+-#31 žjaltar
++#31 žaltar
+@@ -29443 +29362 @@
+-#54 vazdel opre
++#54 vasdel opre
+@@ -29515 +29434 @@
+-#37 kudola bur pusaven!
++#37 khote kudola bùr pusaven!
+@@ -29525 +29444 @@
+-#31 rašajengi administratcia,
++#31 rašajengi administracia,  
+@@ -29530 +29449 @@
+-#36 Švedo si hulado ande 13 rašajenge administracji.
++#36 Švedo si hulado ande 13 rašajenge administraciji.
+@@ -29550 +29469 @@
+-#54 čigno karfin
++#54 cino karfin
+@@ -29590 +29509 @@
+-#41 gurumnjangi vurma
++#41 gurmnjangi vurma 
+@@ -29599 +29518 @@
+-#31 anklel
++#31 anklel  
+@@ -29604 +29523 @@
+-#37 voj vhulel avri anda vurdon
++#37 voj  vhulel avri anda vurdon
+@@ -29618 +29537 @@
+-#31 barol
++#31 barol 
+@@ -29655 +29574 @@
+-#31 vhulel opre
++#31  vhulel opre
+@@ -29684 +29603 @@
+-#54 inkeripe ramomasko,
++#54 inkeripe iskirimasko,  
+@@ -29687 +29606 @@
+-#31 inkeripe, inkerimos
++#31 inkeripe
+@@ -29727 +29646 @@
+-#54 izo, gusto, inkeripe,
++#54 izo, gusto, inkeripe,  
+@@ -29789 +29708 @@
+-#37 o phenipe so zurales kovljardo,
++#37 o phenipe so zurales kovljardo,  
+@@ -29828 +29747 @@
+-#31 ašado,
++#31 ašado,  
+@@ -29870 +29789 @@
+-#31 patreto bučanca
++#31 patreto bučanca  
+@@ -29924 +29843 @@
+-#54 barvaliaki pača
++#54 balbaljaki pača
+@@ -29927 +29846 @@
+-#31 buna,
++#31 buna,  
+@@ -29952 +29871 @@
+-#31 bunil,
++#31 bunil,  
+@@ -30016 +29935 @@
+-#31 dukhajimasko,
++#31 dukhajimasko,  
+@@ -30027 +29946 @@
+-#31 khandel
++#31 khadel
+@@ -30044 +29963 @@
+-#37 jekh pherdo bufari
++#37 ekh pherdo budjelari,  
+@@ -30084 +30003 @@
+-#11 stipendie~u elning -en
++#11 stipendie~utdelning
+@@ -30140 +30059 @@
+-#37 čor jekh bicikleta
++#37 čor jekh bicigla /bicikleta
+@@ -30176 +30095 @@
+-#37 voj boldas opre e gata peki bokoli pe jekh čaro
++#37 voj boldas opre e gata peki bokolji pe jekh tacna
+@@ -30318 +30237 @@
+-#37 o rat ašavel pes
++#37 rat ašavel pes
+@@ -30364 +30283 @@
+-#31 STOF
++#31 STOF 
+@@ -30373 +30292 @@
+-#54 Švedosko Tolmačisko khetanipe ŠTOK
++#54 Švedosko Tolmačšickokhetanipe ŠTOK
+@@ -30377 +30296 @@
+-#31 ivand buča,
++#31 ivand buča,  
+@@ -30473 +30392 @@
+-#41 hodinimasko skamin
++#41 pihenimasko skamin
+@@ -30496 +30415 @@
+-#41 sičarimasko skamin,
++#41 sičarimasko skamin,  
+@@ -30506 +30425 @@
+-#31 diloro,
++#31 diloro,  
+@@ -30522 +30441 @@
+-#41 lampako stilbo/banderi
++#41 lampako banderi
+@@ -30525 +30444 @@
+-#41 barako stilbo/banderi
++#41 barako banderi,  
+@@ -30543 +30462 @@
+-#54 thanesko drab,
++#54 thanesko drab,  
+@@ -30638 +30557 @@
+-#31 suvel andre
++#31 suvel ande
+@@ -30643 +30562 @@
+-#37 suvel le štrinfi
++#37 suvel ande štrinflji
+@@ -30659 +30578 @@
+-#37 jekh perdime/temime šerand
++#37 ekh temime šerand
+@@ -30707 +30626 @@
+-#37 ašav la mai anglal sar te avel mai pozno!
++#37 ašav la angla kodo tena avel kišin!
+@@ -30723 +30642 @@
+-#37 voj thol rigate jekh kotor anda počin svako šon
++#37 voj thol rigate ekh kotor anda počin sako šon
+@@ -30733 +30652 @@
+-#31 pheripe,
++#31 pheripe,  
+@@ -30741 +30660 @@
+-#54 temipe,
++#54 temipe,  
+@@ -30752 +30671 @@
+-#54 štoperica,
++#54 štoperica,  
+@@ -30807 +30726 @@
+-#37 jekh baro ramosaritori
++#37 ekh baro iskiritori
+@@ -30822 +30741 @@
+-#37 jekh baro zumajipe
++#37 jekh ašardo zumajipe
+@@ -30839 +30758 @@
+-#54 maj phuri phen
++#54 majphuri phen
+@@ -30872 +30791 @@
+-#54 maj phuro phral
++#54 majphuro phral
+@@ -30946 +30865 @@
+-#37 maj but avlina ande diferento baripe
++#37 maj but vili ande sogodicka barimata
+@@ -30949 +30868 @@
+-#37 savi musura si tut
++#37 savo baripe si tut
+@@ -30955 +30874 @@
+-#41 normalnio baripe
++#41 prosto baripe
+@@ -30986 +30905 @@
+-#41 tomnaiki barval
++#41 tomnako xasaripe
+@@ -31001 +30920 @@
+-#41 bara zorako bloko
++#41 bara zotako bloko
+@@ -31010 +30929 @@
+-#31 barvazil/tormentazil
++#31 xasarisarel,  
+@@ -31020 +30939 @@
+-#37 zurale hačarimata
++#37 xasarimaske hačarimata
+@@ -31027 +30946 @@
+-#54 xasaripej,
++#54 xasaripej,  
+@@ -31030 +30949 @@
+-#31 barvazil/tormentazil
++#31 tamadil
+@@ -31035 +30954 @@
+-#37 le šingale dine pe ambasada
++#37 šingale tamadisarde e ambasada
+@@ -31039 +30958 @@
+-#41 atacko
++#41 tamadipe
+@@ -31048 +30967 @@
+-#31 baro balamo/lavka
++#31 bari balamo
+@@ -31058 +30977 @@
+-#54 nama,
++#54 nama,  
+@@ -31061 +30980 @@
+-#31 barvaliako
++#31 xasarimasko
+@@ -31068 +30987 @@
+-#37 jekh buntujime čidipe
++#37 jekh xasarimasko čidipe
+@@ -31081 +31000 @@
+-#38 kusa fugake pasura (”but sigo”)
++#38 kusa fugake pasura ("but sigo")
+@@ -31111 +31030 @@
+-#31 baro pherdo,
++#31 baro pherdo,  
+@@ -31122 +31041 @@
+-#54 naxalnio,
++#54 naxalno,  
+@@ -31136 +31055 @@
+-#31 bares khelel,
++#31 bares khelel,  
+@@ -31162 +31081 @@
+-#31 hirešo
++#31 hirešo,   
+@@ -31211 +31130 @@
+-#31 hirešo,irdekešo
++#31 irdekešo,  
+@@ -31222 +31141 @@
+-#31 pečipe, malažipe,
++#31 pecipe, malažipe,  
+@@ -31256 +31175 @@
+-#54 štrafo, došaripe
++#54 štrafo, došljaripe
+@@ -31260 +31179 @@
+-#31 šinajipe, došaripe
++#31 šinajipe, došaljaripe
+@@ -31265 +31184 @@
+-#37 duje beršengo štrafo dine/tode
++#37 jekh duje beršengi šinajimaski buči
+@@ -31268 +31187 @@
+-#41 merimasko štrafo
++#41 merimasko šinajipe
+@@ -31271 +31190 @@
+-#41 štrafoski buči
++#41 šinadi buči
+@@ -31286 +31205 @@
+-#37 jekh angla kado štafujime žuvlji
++#37 ekh angla kado šinadi žuvlji
+@@ -31289 +31208 @@
+-#37 o nasulimos pučindjilo štrafosa vriamasa
++#37 bisamalinipe šinadas pes ando lungo,  
+@@ -31310 +31229 @@
+-#31 štrafoski počin
++#31 šinadi kamata,  
+@@ -31321 +31240 @@
+-#31 čidini
++#31 čičidime,  
+@@ -31328 +31247 @@
+-#37 jekh čidime inkeripe
++#37 ekh čičidime inkeripe
+@@ -31340 +31259 @@
+-#31 čidel
++#31 čičidel
+@@ -31345 +31264 @@
+-#37 o gad čidel opral pa kolin
++#37 gad čičidel opral pa kolin
+@@ -31355 +31274 @@
+-#31 pajeski rig, silo,
++#31 pajeski rig, silo,  
+@@ -31360 +31279 @@
+-#37 pašljolpe po silo ai po kham
++#37 pacljolpe po silo ai po kham
+@@ -31381 +31300 @@
+-#31 opredel,
++#31 opredel,  
+@@ -31386 +31305 @@
+-#37 jekh opredino berego
++#37 jekh opredino bero
+@@ -31402 +31321 @@
+-#37 e kris či geli angle
++#37 e vorbi či agorisarde
+@@ -31452 +31371 @@
+-#37 von ankliste pe plaj tela bare činimata
++#37 von nakhle o plaj tela bare činimata
+@@ -31474 +31393 @@
+-#54 godjaveripe,
++#54 godjaveripe,  
+@@ -31477 +31396 @@
+-#31 strategisko, godjaverikano,
++#31 strategicko, godjaverikano,  
+@@ -31491 +31410 @@
+-#31 akanaš,
++#31 akanaš,  
+@@ -31501 +31420 @@
+-#37 vorta so načilas e vriama avri
++#37 akanaš angla vrama načilas avri
+@@ -31521 +31440 @@
+-#54 bi pačivalo ženo kai feri pe peski buči delpe gindo
++#54 bipačivalo ženo kai feri pe peski buči delpe gindo
+@@ -31529 +31448 @@
+-#38 čirde jekh linja opral pa kudo so sas (”te bistrelpe”)
++#38 cirde jrkh linja opral kodo so sas ("te bistrelpe")
+@@ -31532 +31451 @@
+-#38 jekh linja ando žinimos (”vareso so nas ando gindo”)
++#38 jekh linja ando žinimos("vareso so nas ando gindo")
+@@ -31560 +31479 @@
+-#31 
++#31  
+@@ -31568 +31487 @@
+-#54 šavorikane khelimata/phirasa vaj te astardjon,
++#54 šavorikane khelimata/pherasa vaj te astardjon,  
+@@ -31627 +31546 @@
+-#37 e matora štrajkulisardas detehara
++#37 o tamabilo/vurdon štrajkulisardas detehara
+@@ -31644 +31563 @@
+-#37 hačares streso
++#37 hačarekpe streso
+@@ -31657 +31576 @@
+-#31 stresalime
++#31 stresalo
+@@ -31688 +31607 @@
+-#37 e škola stresolil le ternen
++#37 škola stresolil e ternen
+@@ -31719 +31638 @@
+-#37 voj anklelas činosa pe bari plajing
++#37 voj zurardas oprefelo kodole plajeske
+@@ -31737 +31656 @@
+-#37 jekh šordo folipe
++#37 ekh šordo folipe
+@@ -31760 +31679 @@
+-#37 jekh maripe pa principura
++#37 ekh maripe pa principura
+@@ -31787 +31706 @@
+-#37 jekh marimaski žuvlji
++#37 ekh marimaski žuvlji
+@@ -31801 +31720 @@
+-#37 le ketani mardepe tromasa
++#37 ketani mardepe tromasa
+@@ -31823 +31742 @@
+-#54 marelpe
++#54 tamadil
+@@ -31837 +31756 @@
+-#31 marimasko
++#31 tamadimasko
+@@ -31858 +31777 @@
+-#37 andrutne marimata,
++#37 andrutne marimata,  
+@@ -31890 +31809 @@
+-#31 marimasko kečitori
++#31 marimasko kecitori
+@@ -31957 +31876 @@
+-#31 fišiji/fešiji
++#31 kotor
+@@ -31962 +31881 @@
+-#41 paprikako kotor/fišija
++#41 paprikako kotor
+@@ -31971 +31890 @@
+-#31 kotoraslil/fišijil
++#31 kotoraslil
+@@ -31993 +31912 @@
+-#37 jekh kotor lašipe
++#37 ekh kotor lašipe
+@@ -31996 +31915 @@
+-#41 činori vedaria
++#41 kotor udud,  
+@@ -32016 +31935 @@
+-#31 logimasko,
++#31 logimasko,  
+@@ -32030 +31949 @@
+-#31 stripozil, nanžarelpes
++#31 striptozil, nanžarelpes
+@@ -32077 +31996 @@
+-#31 ratesko/barvaliako malajipe
++#31 barvalako malajipe
+@@ -32096 +32015 @@
+-#37 jekh zurali prezentacija ,
++#37 ekh zurali prezentacija , 
+@@ -32105 +32024 @@
+-#31 barimango,
++#31 barimango,  
+@@ -32123 +32042 @@
+-#41 amblajimasko inkeripe
++#41 tregerengo inkeripe
+@@ -32203 +32122 @@
+-#31 guša
++#31 struma
+@@ -32214 +32133 @@
+-#31 štrinfa
++#31 štrinflja
+@@ -32221 +32140 @@
+-#41 pošomaki štrinfa
++#41 vunaki štrinflja
+@@ -32224 +32143 @@
+-#41 čangaki štrinfa
++#41 čangaki štrinflja
+@@ -32227 +32146 @@
+-#41 štrinfaki kaltsa
++#41 štrinfljaki kalca
+@@ -32237 +32156 @@
+-#31 štrinfaki kaltsa
++#31 štrinfljaki kalca
+@@ -32251 +32170 @@
+-#31 štrinfi
++#31 strinflji
+@@ -32255 +32174 @@
+-#38 ža ande štrinfi
++#38 ža ande štrinflji
+@@ -32268 +32187 @@
+-#37 voj vorbilas bi goresko
++#37 voj vorbias khanči
+@@ -32283 +32202 @@
+-#31 či xal griža
++#31 či grižil
+@@ -32310 +32229 @@
+-#31 kor/kirlo/girtiano
++#31 kirlo
+@@ -32317 +32236 @@
+-#41 luftosko girtiano
++#41 luftosko kirlo
+@@ -32355 +32274 @@
+-#54 
++#54  
+@@ -32358 +32277 @@
+-#31 tarantogil,
++#31 tarantogil,  
+@@ -32370 +32289 @@
+-#31 mardipe,
++#31 mardipe,  
+@@ -32377 +32296 @@
+-#37 O Svedo mardjilas ando themeskomaripe po Finlando,
++#37 Svedo mardjilas ando themeskomaripe po Finlando,  
+@@ -32387 +32306 @@
+-#31 šordino,
++#31 šordino,  
+@@ -32399 +32318 @@
+-#31 plančimaski phal
++#31 tinzomaski phalj
+@@ -32409 +32328 @@
+-#54 gadengi plančimaski phal
++#54 gadengi tinzomaski phalj
+@@ -32413 +32332 @@
+-#31 plančil
++#31 khosel, cirdel
+@@ -32418 +32337 @@
+-#37 khosel le paja pa čikat
++#37 khosel tele o paj pa čikat
+@@ -32421 +32340 @@
+-#37 makel e phal la farbasa
++#37 cirdel pa phalj la farbasa
+@@ -32435 +32354 @@
+-#31 plančil
++#31 tinzol
+@@ -32440 +32359 @@
+-#37 plančil gada 
++#37 tinzol gàda
+@@ -32446 +32365 @@
+-#41 plančimaski phal
++#41 tinzomaski phalj
+@@ -32449 +32368 @@
+-#41 plančipe/plančimos
++#41 tinzope
+@@ -32486 +32405 @@
+-#31 xasajvel kusa,
++#31 xasajvel kusa,  
+@@ -32503 +32422 @@
+-#31 somnozil telal,
++#31 somnozil telal,  
+@@ -32517 +32436 @@
+-#31 planča
++#31 tinzomasko sastri,  
+@@ -32553 +32472 @@
+-#41 les koratar
++#41 tasamsko inkeripe
+@@ -32563 +32482 @@
+-#31 sulum,čar,
++#31 sulum, čar,  
+@@ -32625 +32544 @@
+-#31 rajkano, zurales lašo
++#31 rajkano, pra lašo
+@@ -32638 +32557 @@
+-#31 strefial/razil
++#31 pekel
+@@ -32645 +32564 @@
+-#37 o kham pečarelas/razilas pa jekh bi nuverosko čeri
++#37 kham pekelas pa jekh bi felevicko čer
+@@ -32648 +32567 @@
+-#37 lake jakha strefianas
++#37 lake jakha phabonas,  
+@@ -32663 +32582 @@
+-#41 pajeski raza
++#41 pajeskiraza
+@@ -32666 +32585 @@
+-#41 khameski raza
++#41 khameskiraza
+@@ -32710 +32629 @@
+-#31 razako skudo/branipe
++#31 razako branipe,  
+@@ -32725 +32644 @@
+-#38 ande jekh raj (”bi ašajimasko”)
++#38 ande jekh raj ("bi ašajimasko")
+@@ -32744 +32663 @@
+-#41 astaripe durimasko
++#41 durimasko astaripe
+@@ -32769 +32688 @@
+-#31 čirdel, trinzol
++#31 cirdel, tinzol
+@@ -32816 +32735 @@
+-#31 djinel/ginavel andajekh,
++#31 ginavel andajekh,  
+@@ -32828 +32747 @@
+-#31 čirdipe
++#31 cirdipe
+@@ -32839 +32758 @@
+-#31 čirdipe
++#31 cirdipe
+@@ -32847 +32766 @@
+-#54 dromesko čirdipe
++#54 dromesko cirdipe
+@@ -32855 +32774 @@
+-#37 nasul niamuri (dej/dad)
++#37 nasul dejdad
+@@ -32877 +32796 @@
+-#37 jekh zuralo ivend
++#37 ekh zuralo ivend
+@@ -32887 +32806 @@
+-#31 sirma
++#31 cirma, droto,  
+@@ -32910 +32829 @@
+-#31 dombošo,
++#31 dombošo,  
+@@ -32953 +32872 @@
+-#37 rodel pala putaria
++#37 rodel pala zor
+@@ -33001 +32920 @@
+-#31 bulči
++#31 bolci
+@@ -33022 +32941 @@
+-#31 struja,
++#31 struja,  
+@@ -33041 +32960 @@
+-#54 folipe,
++#54 folipe,  
+@@ -33045 +32964 @@
+-#31 litriko,struja
++#31 elektrika, struja
+@@ -33063 +32982 @@
+-#31 litrikoski kočak
++#31 zoraki kočak
+@@ -33073 +32992 @@
+-#54 litrikoski kočak
++#54 elektrikaki kočak
+@@ -33085 +33004 @@
+-#54 kerdo te ašavel somaj čira po paj ai pe barval
++#54 kerdo te ašavel somaj cera po paj ai pe barval
+@@ -33088 +33007 @@
+-#31 folil, šordjol,
++#31 folil, šordjol,  
+@@ -33098 +33017 @@
+-#37 e love šordjon andre
++#37 e love šordjon ande
+@@ -33118 +33037 @@
+-#54 čigno mašo
++#54 cino mašo
+@@ -33157 +33076 @@
+-#31 xurdo zaro
++#31 xurdo cukro,  
+@@ -33179 +33098 @@
+-#54 farbime zaro kai tholpe pe kolača vaj po morozo
++#54 farbime cukro kai tholpe pe kolača vaj po paho/gelato
+@@ -33205 +33124 @@
+-#54 vojako phirajipe ando veš
++#54 vojako phirajipe ando veš 
+@@ -33221 +33140 @@
+-#54 skurci šor vaj skurto šindo dživ
++#54 skurci šor vaj skurto šindo živ
+@@ -33247 +33166 @@
+-#31 strazom
++#31 anda jekh
+@@ -33311 +33230 @@
+-#31 studento,
++#31 studento,  
+@@ -33324 +33243 @@
+-#54 ginajitori,
++#54 ginajitori,  
+@@ -33327 +33246 @@
+-#31 studento
++#31 studento, ginajitori
+@@ -33356 +33275 @@
+-#31 studentosko lil/diplomo
++#31 studentosko lil
+@@ -33372 +33291 @@
+-#36 Studentonge khera si ande regula te lenpe unžule ande forura kai si e vuče školi.
++#36 Studentongekhera si ande regula te lenpe unžule ande forura kai si e učeškoli.
+@@ -33381 +33300 @@
+-#31 studentosko eksamenatcia
++#31 studentosko eksamen
+@@ -33394 +33313 @@
+-#31 studentisko
++#31 studenticko
+@@ -33402 +33321 @@
+-#54 studentalisko
++#54 studentalicko
+@@ -33416 +33335 @@
+-#31 studirimasko,
++#31 studirimasko,  
+@@ -33423 +33342 @@
+-#41 matematiko studento
++#41 
+@@ -33426 +33345 @@
+-#41 studimasko leznimos -pe
++#41 
+@@ -33432 +33351 @@
+-#54 sičarimasko, ginajimasko
++#54 ginajimasko
+@@ -33435 +33354 @@
+-#31 studiril, sičol 
++#31 studiril, ginavel
+@@ -33440 +33359 @@
+-#37 sičol/djinel po universiteto
++#37 ginavel po univerziteto
+@@ -33454 +33373 @@
+-#31 studiril,sičol
++#31 studiril, samalel,  
+@@ -33462 +33381 @@
+-#37 samalel e doša po nasvalimasko bithanipe,
++#37 samalel e doša po nasvalimasko bithanipe,  
+@@ -33484 +33403 @@
+-#31 studimasko lov
++#31 ginajimasko lov
+@@ -33494 +33413 @@
+-#54 studimasko žutipe
++#54 ginajimasko žutipe
+@@ -33530 +33449 @@
+-#31 studimasko žutipe 
++#31 ginajimasko lov
+@@ -33544 +33463 @@
+-#31 studimasko unžulimasko lov
++#31 ginajimasko unžulimasko lov
+@@ -33555 +33474 @@
+-#31 studimaske love
++#31 ginajimasko lov
+@@ -33569 +33488 @@
+-#31 studimasko plano
++#31 ginajimasko plano
+@@ -33580 +33499 @@
+-#31 studimasko rektori/rektoro
++#31 ginajimasko rektori
+@@ -33591 +33510 @@
+-#31 studimasko žutipe 
++#31 ginajimasko lov
+@@ -33627 +33546 @@
+-#31 džinajipe/ginajipe
++#31 ginajipe
+@@ -33649 +33568 @@
+-#31 xutčipe, xutimos
++#31 xutčipe,  
+@@ -33660 +33579 @@
+-#31 xutel/xutčel
++#31 xutčel
+@@ -33665 +33584 @@
+-#37 menča xutel
++#37 lobda xutčel
+@@ -33697 +33616 @@
+-#37 čigne lole kherora
++#37 cine lole kherora
+@@ -33720 +33639 @@
+-#54 čigne kherengo gav
++#54 cine kherengo gav
+@@ -33723 +33642 @@
+-#31 skentil,kecil
++#31 kecil,  
+@@ -33728 +33647 @@
+-#37 skentil o punro
++#37 kecil o punro
+@@ -33748 +33667 @@
+-#31 langal
++#31 tantorgatil,  
+@@ -33757 +33676 @@
+-#54 langal
++#54 tarantogil,  
+@@ -33767 +33686 @@
+-#37 voi mutsosajli
++#37 voj sas muto ai čudaki
+@@ -33796 +33715 @@
+-#41 karandašesko kotor
++#41 plajbasesko kotor
+@@ -33821 +33740 @@
+-#31 vriama
++#31 vrama
+@@ -33826 +33745 @@
+-#37 ande paluni vriama
++#37 ande paluni vrama
+@@ -33829 +33748 @@
+-#37 me avav pa jekh vriama
++#37 me avav pa jekh vrama
+@@ -33835 +33754 @@
+-#41 vorbimaski vriama
++#41 vorbajimaski vrama
+@@ -33838 +33757 @@
+-#41 pušimaski vriama
++#41 pušimaski vrama
+@@ -33853 +33772 @@
+-#37 pašon mai svetlo (parne) djesa
++#37 kodo pašel maj puterde vrami
+@@ -33866 +33785 @@
+-#31 univar
++#31 unjivar
+@@ -33878 +33797 @@
+-#31 univareste
++#31 unjivareste
+@@ -33896 +33815 @@
+-#54 ženo savo paruvel avri e aktoren ande filmura pe nasul ceni
++#54 zeno savo paruvel avri e aktoren ande filmura pe nasul seni/lavajimata
+@@ -33911 +33830 @@
+-#31 xhar
++#31 stulpa
+@@ -33946 +33865 @@
+-#37 but gaže mule ando maripe
++#37 buth gaže mule ando maripe
+@@ -33956 +33875 @@
+-#31 merel
++#31 xarazil,  
+@@ -33961 +33880 @@
+-#37 e plaj perel tele karing o paj
++#37 o plaj xarazil tele po paj
+@@ -33982 +33901 @@
+-#31 brišendeski tsava
++#31 brišendeski cavija
+@@ -33996 +33915 @@
+-#31 brišendeski tsava
++#31 brišendeski cavija
+@@ -34007 +33926 @@
+-#31 pučardo,barimatango
++#31 pustijo
+@@ -34018 +33937 @@
+-#31 oktagoni,
++#31 oktagoni,  
+@@ -34029 +33948 @@
+-#31 ašolpe (kotoresko)
++#31 ašope (kotoresko)
+@@ -34055 +33974 @@
+-#31 vazdel andre
++#31 vasdel andre
+@@ -34060 +33979 @@
+-#37 vo thodas andre le bufaria ande matora
++#37 vov rakisardas ande e tašni ando vurdon
+@@ -34070 +33989 @@
+-#31 vazdimasko bučari pe paraxoduri
++#31 vasdimasko bučari pe paraxodori
+@@ -34097 +34016 @@
+-#37 le phabaja keren duj kroni o kotor
++#37 phabaja keren duj koroni kotor
+@@ -34126 +34045 @@
+-#37 hulavel tele jekh phuv/bar
++#37 hulavel tele ekh phuv
+@@ -34154 +34073 @@
+-#41 teatriako kothor
++#41 
+@@ -34157 +34076 @@
+-#41 bučako kothor
++#41 
+@@ -34160 +34079 @@
+-#41 masesko kothor
++#41 
+@@ -34231 +34150 @@
+-#31 vazdimaske rovlia
++#31 vasdimaske rovlja
+@@ -34236 +34155 @@
+-#37 ža pe vasdimaske rovlia
++#37 ža pe vasdimaske rovlja
+@@ -34262 +34181 @@
+-#31 makh
++#31 mač
+@@ -34267 +34186 @@
+-#41 grastani makh
++#41 grastani mač
+@@ -34294 +34213 @@
+-#37 inkrel jekh paraxodo/bero
++#37 inkrel ekh bero
+@@ -34337 +34256 @@
+-#54 paraxodoski/beroski čači rig
++#54 beroski čači rig
+@@ -34340 +34259 @@
+-#31 bandjaripe,
++#31 bandjaripe,  
+@@ -34347 +34266 @@
+-#41 biciklako vastari
++#41 biciglako bandjaripe,  
+@@ -34357 +34276 @@
+-#31 bordo
++#31 vezera
+@@ -34375 +34294 @@
+-#31 bordo
++#31 vezera
+@@ -34383 +34302 @@
+-#41 kerajimasko bordo
++#41 kerajimaske vezera
+@@ -34395 +34314 @@
+-#31 bordoski forma
++#31 vezetimaski forma
+@@ -34406 +34325 @@
+-#31 bordari
++#31 vezeri
+@@ -34472 +34391 @@
+-#41 roplanoski zor
++#41 ruplanoski zor
+@@ -34478 +34397 @@
+-#41 rajbarengi/šingalengi zor
++#41 šingalengi zor
+@@ -34493 +34412 @@
+-#37 voj čačardas/sikadas le patretosko čačipe,
++#37 voj čačardas/sikavadas e kiposko čačipe,  
+@@ -34500 +34419 @@
+-#54 sikavavel,
++#54 sikavavel,  
+@@ -34504 +34423 @@
+-#31 zuriarel
++#31 zurarel
+@@ -34537 +34456 @@
+-#54 pirajitori,kormanari
++#54 kormanari,  
+@@ -34540 +34459 @@
+-#31 pirajimaski rovli
++#31 kormanoski rovlji
+@@ -34547 +34466 @@
+-#37 la pirajimaska rovliasa vo birisardas te peravel tele o roplano po kipo a televiziako
++#37 la kormanoska rovljasa vov birisardas te peravle tele o ruplano po kipo a televizijako
+@@ -34554 +34473 @@
+-#31 čapeno
++#31 cepeno
+@@ -34559 +34478 @@
+-#37 čapeni vuni
++#37 capeni vuni
+@@ -34562 +34481 @@
+-#37 e naja ašile čapeni anda baro šil
++#37 e naja ašile capeni anda baro šil
+@@ -34579 +34498 @@
+-#37 jekh laši prezentacia
++#37 ekh laši prezentacija
+@@ -34588 +34507 @@
+-#31 maštovo šavoro
++#31 moštoho šavoro
+@@ -34600 +34519 @@
+-#31 maštovo dad
++#31 moštoho dad
+@@ -34614 +34533 @@
+-#31 bi partiako, bi čačikano
++#31 bi partjako, bi čačikano
+@@ -34628 +34547 @@
+-#31 maštivo dej 
++#31 moštoho dej
+@@ -34642 +34561 @@
+-#31 zuralo šeresko
++#31 barimango
+@@ -34653 +34572 @@
+-#31 čepenil
++#31 capenil
+@@ -34658 +34577 @@
+-#37 e naja čepenisajle ando šil
++#37 e naja capenisajle ando šil
+@@ -34680 +34599 @@
+-#31 pe kana godi
++#31  pe kana godi 
+@@ -34696 +34615 @@
+-#31 retetenja
++#31 retitenja
+@@ -34718 +34637 @@
+-#41 sastreski industria
++#41 sastreski industrija
+@@ -34739 +34658 @@
+-#31 či mukhel pe
++#31 zuraravel pes
+@@ -34744 +34663 @@
+-#37 vo zumadas te del pe palpale pa sa e kritika
++#37 vov zumadas te zurararel pes angla sa e kritika
+@@ -34773 +34692 @@
+-#38 avel avri anda šajipe te (”tena biril”)
++#38 avel avri anda šajipe te ("tena biril")
+@@ -34776 +34695 @@
+-#38 avel ando šajipe te (”avel šajimasko”)
++#38 avel ando šajipe te ("avel šajimasko")
+@@ -34787 +34706 @@
+-#31 vučipe, opripe,
++#31 učipe, opripe,  
+@@ -34794 +34713 @@
+-#37 inkerel kontra pe dušmanura
++#37 inkrel učipe pe dušmanura
+@@ -34797 +34716 @@
+-#41 khamesko vazdipe,vučipe
++#41 khamesko učipe
+@@ -34800 +34719 @@
+-#41 pajesko vučipe
++#41 pajesko učipe
+@@ -34810 +34729 @@
+-#31 bazaresko,piačosko than
++#31 pijacosko than
+@@ -34843 +34762 @@
+-#31 solaxaripe,
++#31 solaxaripe,  
+@@ -34891 +34810 @@
+-#31 stilbo
++#31 banderi,  
+@@ -34901 +34820 @@
+-#41 sastruno stilbo
++#41 sastruno banderi
+@@ -34904 +34823 @@
+-#41 stiagosko stilbo/banderi
++#41 Stiagosko/flakosko banderi,  
+@@ -34929 +34848 @@
+-#31 bi mukipe,
++#31 bi mukipe,  
+@@ -34966 +34885 @@
+-#37 e holba,glaža tordjol pe skafidi/sinja
++#37 glaža tordjol pe skafidi/sinja
+@@ -35071 +34990 @@
+-#37 o thud inkrel pes štar djes ando frižideri/šudritori
++#37 thud inkrel pes štar djes ando frižideri/šudritori
+@@ -35094 +35013 @@
+-#31 palpale ašadjol
++#31 palpale ašadol
+@@ -35186 +35105 @@
+-#31 dopo
++#31 kovači
+@@ -35231 +35150 @@
+-#31 vužari,grižitori
++#31 vužari
+@@ -35259 +35178 @@
+-#54 vužaritorka/grižitorka
++#54 vužaritorka
+@@ -35262 +35181 @@
+-#31 vužarimos,grižimos
++#31 vužarimos
+@@ -35276 +35195 @@
+-#31 mindigimasko,
++#31 mindigimasko,  
+@@ -35288 +35207 @@
+-#31 vužarimasko škafo,fijoko
++#31 vužarimasko škafo  
+@@ -35327 +35246 @@
+-#31 mutsome
++#31 mutcome
+@@ -35332 +35251 @@
+-#37 vo mutsosailo pala o pušipe
++#37 vov sas pherdo mucime anda pušipe
+@@ -35351 +35270 @@
+-#37 te avilemas me ande čiro than
++#37 me te avilemas ande čiro than
+@@ -35360 +35279 @@
+-#41 hodinimasko than
++#41 pihenimasko than
+@@ -35395 +35314 @@
+-#37 thol o tejari pe skafedi/sinja
++#37  thol o tejari pe skafedi/sinja
+@@ -35401 +35320 @@
+-#37 tordjol pe naja
++#37 thol pes pe naja
+@@ -35439 +35358 @@
+-#54 thol
++#54 thol,  
+@@ -35459 +35378 @@
+-#31 lašarel andre
++#31 lašarel ande
+@@ -35464 +35383 @@
+-#37 lašarel o radio
++#37 lašarel ande o radijono
+@@ -35482 +35401 @@
+-#37 sikajipe si tele ašado anda nasvalipe
++#37 sikaiipe si tele ašado anda nasvalipe
+@@ -35492 +35411 @@
+-#31 kerel pe,makliarel pe
++#31 žanavel pes ande
+@@ -35509 +35428 @@
+-#37 paruvel ande peski produktcia
++#37 paruvel opral peski prodikcija
+@@ -35531 +35450 @@
+-#31 makliarel pes
++#31 makhljarel pes
+@@ -35558 +35477 @@
+-#54 doš kerel,
++#54 doš kerel,  
+@@ -35562 +35481 @@
+-#31 kerel,
++#31 kerel,  
+@@ -35599 +35518 @@
+-#31 tholpe
++#31 tholpe 
+@@ -35604 +35523 @@
+-#37 tholpe anda peske kolegi/vortača
++#37 tholpe anda peske frenori/kolegi/vortača
+@@ -35639 +35558 @@
+-#37 sikavel avri e patretsi,kipura
++#37 sikavel avri e kipura
+@@ -35659 +35578 @@
+-#54 
++#54  
+@@ -35717 +35636 @@
+-#31 toržope,
++#31 toržope,  
+@@ -35739 +35658 @@
+-#41 kerajimaski konstruktcia
++#41 kerajimasko rakipe/konstruktcia
+@@ -35877 +35796 @@
+-#54 čačarel,
++#54 čačarel,  
+@@ -35886 +35805 @@
+-#37 vortarel o piano
++#37 vortarel o pijano
+@@ -35992 +35911 @@
+-#31 pečatako počinipe
++#31 pečaktako počinipe
+@@ -36024 +35943 @@
+-#37 pečardela sar čorni,
++#37 voj pečatisajli sar čor,  
+@@ -36034 +35953 @@
+-#31 mindigimasko,
++#31 mindigimasko,  
+@@ -36051 +35970 @@
+-#54 vidjikimasko,
++#54 vidjikimasko,  
+@@ -36069 +35988 @@
+-#37 phandav e feliastra!
++#37 phandav e feljastra!
+@@ -36120 +36039 @@
+-#31 sirmaki bar
++#31 sirma, bar
+@@ -36127 +36046 @@
+-#41 litrikoski bar
++#41 elektrikaki/strujaki bar
+@@ -36137 +36056 @@
+-#31 kaplia, pičope,
++#31 kaplia, pičope,  
+@@ -36164 +36083 @@
+-#37 o paj pičajas pe laki bunda
++#37 o paj pičajas pe laki kapa
+@@ -36174 +36093 @@
+-#31 pičarel, činžarel,
++#31 pičarel, činžarel,  
+@@ -36179 +36098 @@
+-#37 vo pičardas paj pe mande
++#37 vov pičardas paj pe mande
+@@ -36214 +36133 @@
+-#31 zuriarel
++#31 zurarel
+@@ -36219 +36138 @@
+-#37 jekh zuriarimasko drab
++#37 ekh zurarimasko drab
+@@ -36235 +36154 @@
+-#31 zuriarel
++#31 zurarel
+@@ -36301 +36220 @@
+-#37 lelpe inkeripe po zido
++#37 lelpe inkeripe po falo
+@@ -36304 +36223 @@
+-#41 kniškengo/kenjvengo inkeripe
++#41 kenjvengo inkeripe
+@@ -36345 +36264 @@
+-#31 barimango,pučardo
++#31 barimango
+@@ -36365 +36284 @@
+-#37 vo inkerdjilas katar o zido/falo
++#37 vov inkerdas pes phares po falo
+@@ -36388 +36307 @@
+-#37 sava partija žutis tu ando alope?
++#37 sava partija žutis tu ando alope/glasope?
+@@ -36411 +36330 @@
+-#31 žutimasko sičaripe,
++#31 žutimasko sičaripe,  
+@@ -36425 +36344 @@
+-#31 buna,
++#31 buna,  
+@@ -36474 +36393 @@
+-#31 melalo
++#31 melao
+@@ -36495 +36414 @@
+-#37 kerel jekh čordipe
++#37 kerel ekh čoripe
+@@ -36498 +36417 @@
+-#41 matorako čordipe
++#41 vurdonesko čoripe
+@@ -36514 +36433 @@
+-#31 vačimos/vačipe
++#31 phari odji, njivipe,  
+@@ -36525 +36444 @@
+-#31 vačil
++#31 vačil  
+@@ -36549 +36468 @@
+-#31 prikaza, pustija,
++#31 prikaza, pustija,  
+@@ -36553 +36472 @@
+-#38 žal ande pustija (”tena perel avri mišto”)
++#38 žal ande pustija ("tena perel avri mišto")
+@@ -36579 +36498 @@
+-#54 
++#54
+@@ -36621 +36540 @@
+-#31 rucavil,
++#31 rucavil,  
+@@ -36628 +36547 @@
+-#37 na mišajiman!
++#37 na ručar! /mišajiman!  
+@@ -36635 +36554 @@
+-#41 mišajipe
++#41 rucaripe /mišajipe
+@@ -36661 +36580 @@
+-#31 rimome
++#31 romupe
+@@ -36723 +36642 @@
+-#37 roplano pelas pa Alpi
++#37 ruplano pelas pa Alpi
+@@ -36747 +36666 @@
+-#37 voj fuga das kai o buso/voi gribisaili kai o buzzo
++#37 voj fuga das kai o buso
+@@ -36757 +36676 @@
+-#31 perimaski šipka/stadi
++#31 perimaski šipka
+@@ -36830 +36749 @@
+-#38 drukil andekthan varekasa (”hertelen malavel varekas”)
++#38 drukil andekthan varekasa ("hertelen malavel varekas")
+@@ -36881 +36800 @@
+-#37 me arakhlem opre jekhe purane školake amales
++#37 me arakhlem opre ekhe purane školake amales
+@@ -36903 +36822 @@
+-#54 serel, avel opre (pe godji),
++#54 serel, avel opre (pe godji),  
+@@ -36992 +36911 @@
+-#31 del zor,
++#31 del zor,  
+@@ -37007 +36926 @@
+-#31 inkerimasko pilono
++#31 inkerimasko pilono  
+@@ -37055 +36974 @@
+-#54  pharo phiripe
++#54 pharo phiripe
+@@ -37084 +37003 @@
+-#31 kaver kultura,
++#31 kaver kultura,  
+@@ -37153 +37072 @@
+-#31 substantivo,
++#31 substantivo,  
+@@ -37203,2 +37122,2 @@
+-#31 subtrakcija
+-#02 verb
++#31 subtrakcija,  
++#02 subst.
+@@ -37207,0 +37127 @@
++#41 
+@@ -37241 +37161 @@
+-#54 themesko žutipe ande veresave buča (lovenca),
++#54 themesko žutipe ande veresave buča (lovenca),  
+@@ -37244 +37164 @@
+-#31 šilajimasko,
++#31 šilasjimasko,  
+@@ -37295 +37215 @@
+-#31 vriamako, lokho,
++#31 vramako, lokho,  
+@@ -37326 +37246 @@
+-#31 vačil
++#31 cugecil /vačil  
+@@ -37331 +37251 @@
+-#37 voj vačilas zurales
++#37 voj zurales cugecil 
+@@ -37342 +37262 @@
+-#31 čiripe,
++#31 čiripe,  
+@@ -37361 +37281 @@
+-#41 khosguma  (khosimaski guma)
++#41 khosguma
+@@ -37375 +37295 @@
+-#41 račaki pačiv,
++#41 račaki pačiv,  
+@@ -37416 +37336 @@
+-#31 bi užo, (turburo)
++#31 bi užo,  
+@@ -37424 +37344 @@
+-#37 le marturos sas jekh turburo patreto pa so kerdjilas
++#37 le marturos sas jekh bi užo patreto pa so kerdjilas
+@@ -37430 +37350 @@
+-#54 tamno,
++#54 tamno,  
+@@ -37503 +37423 @@
+-#38 avel kivanime pe (”te al voja te, mankil pala”)
++#38 avel kivanime pe ("te al voja te, mankil pala")
+@@ -37513 +37433 @@
+-#31 kivanime,
++#31 kivanime,  
+@@ -37517 +37437 @@
+-#38 xasarel o kivanipe (”xasarel e voja”)
++#38 xasarel o kivanipe ("xasarel e voja")
+@@ -37676 +37596 @@
+-#54 drab so djal pe infekcija,
++#54 drab so djal pe infekcija,  
+@@ -37703 +37623 @@
+-#37 jekh kančeski suma
++#37 jekh khančeski suma
+@@ -37732 +37652 @@
+-#37 jekh skurto opral nakhipe
++#37 jekh skurto opralnakhipe
+@@ -37790 +37710 @@
+-#31 močvara,
++#31 močvara,  
+@@ -37841 +37761 @@
+-#37 jekh sasti anima/dušo ando jekh sasto stato,
++#37 jekh sasti anima/dušo ando jekh sasto stato,  
+@@ -37943 +37863 @@
+-#31 defial/desa lašo
++#31 pra lašo
+@@ -38011 +37931 @@
+-#31 mačarno
++#31 mačarno 
+@@ -38021 +37941 @@
+-#54 pianco, pitori, mačarno,
++#54 pijanco, pitori, mačarno,  
+@@ -38029 +37949 @@
+-#37 o thud šuklilo
++#37 thud šuklilo
+@@ -38071 +37991 @@
+-#37 sostar san rovljardo?
++#37 sostar san tu rovljardo?
+@@ -38116 +38035,0 @@
+-#38 
+@@ -38120 +38039 @@
+-#54 talasil, rodel,
++#54 talasil, rodel,  
+@@ -38157 +38076 @@
+-#31 ruto, rovljado,
++#31 ruto, rovljado,  
+@@ -38222 +38141 @@
+-#31 počinipe, sunujipe,
++#31 počinipe, sunujipe,  
+@@ -38241 +38160 @@
+-#36 Jekh norlandicko specijaliteto.
++#36 Ekh norlandicko specijaliteto.
+@@ -38250 +38169 @@
+-#31 zugo,
++#31 zugo,  
+@@ -38270 +38189 @@
+-#31 šušogil,
++#31 šušogil,  
+@@ -38299 +38218 @@
+-#31 sumjako,
++#31 sumjako,  
+@@ -38304 +38223 @@
+-#37 jekh sumjalo ženo
++#37 jekh sumjalo zeno
+@@ -38380 +38299 @@
+-#31 apadipe, xar,
++#31 apadipe, xar,  
+@@ -38407 +38326 @@
+-#31 kovlo, slabo,
++#31 kovlo, slabo,  
+@@ -38469 +38388 @@
+-#37 jekh kovli sung pa avdjin,
++#37 jekh kovli sung pa avdjin,  
+@@ -38497 +38416 @@
+-#31 kovlo godjako,
++#31 kovlo godjako,  
+@@ -38513 +38432 @@
+-#31 liginil
++#31 liginil 
+@@ -38549 +38468 @@
+-#37 jekh lanžošo milasko žes
++#37 ekh lanžošo milasko žes
+@@ -38576 +38495 @@
+-#31 fečka, lasta,
++#31 fečka, lasta,  
+@@ -38681 +38600 @@
+-#54 
++#54
+@@ -38691 +38610 @@
+-#37 le talazuri talazinas
++#37 le talasuri talasinas
+@@ -38709 +38628 @@
+-#37 xabe musaj te šudrol maj sigo sarso xas
++#37 xabe musaj te šudrol majsigo sarso xas
+@@ -38739 +38658 @@
+-#31 bulgujil
++#31 bulgujil 
+@@ -38751 +38670 @@
+-#31 bulgujil
++#31 bulgujil  
+@@ -38762 +38681 @@
+-#31 burača
++#31 buraca
+@@ -38767 +38686 @@
+-#37 čidelpe muri ai burači
++#37 čidelpe ribizli ai buraci
+@@ -38772 +38691 @@
+-#41 xamaske burača
++#41 xamaske buraca
+@@ -38775 +38694 @@
+-#41 buračengo nasvalipe
++#41 buracengo nasvalipe
+@@ -38816 +38735 @@
+-#31 papinaki djili
++#31 papinaki žili/djili
+@@ -38900 +38819 @@
+-#37 pheja
++#37 phejja
+@@ -38919 +38838 @@
+-#37 šavora samaline po xabe pe kurkesko agor
++#37 šavora samaline po xabe pe kurkesko agor 
+@@ -39049 +38968 @@
+-#31 kala morčako/melaxno
++#31 kala morčako
+@@ -39106 +39025 @@
+-#54 ženo kai daravel/prasal peska raklja
++#54 zeno kai daravel/prasal peska raklja
+@@ -39176 +39095 @@
+-#31 zarzari
++#31 zarzari  
+@@ -39248 +39167 @@
+-#31 sizečigo,
++#31 sizečigo,  
+@@ -39259 +39178 @@
+-#31 švengleziska
++#31 švenglezicka
+@@ -39267 +39186 @@
+-#54 hamime švediska ai engleziska
++#54 hamime švedicka ai englezicka
+@@ -39286 +39205 @@
+-#37 švedisko manuš
++#37 švedicko manuš
+@@ -39296 +39215 @@
+-#31 švedisko
++#31 švedicko
+@@ -39308 +39227 @@
+-#31 švediska
++#31 švedicka
+@@ -39313 +39232 @@
+-#41 švedisko sičaripe
++#41 švedicko sičaripe
+@@ -39322,2 +39241,4 @@
+-#01 Svenska akademien
+-#31 Švedisko akademija
++#01 svenska
++
++#01 Svenska Akademien
++#31 Švedicko akademija
+@@ -39335,9 +39255,0 @@
+-#01 Svenska Arbetsgivareföreningen
+-#31 
+-#02 se SAF
+-#32 
+-#14 2svEn:ska 2Ar:be:tsji:var(e)före:ni@en
+-#98 16121
+-#99 17878
+-#54 
+-
+@@ -39366,0 +39279,2 @@
++#01 Svenskt Näringsliv
++
+@@ -39368 +39282 @@
+-#31 čirdipe,
++#31 čirdipe,  
+@@ -39392 +39306 @@
+-#54 
++#54
+@@ -39458,0 +39373,6 @@
++#01 Sverige
++
++#01 Sveriges Radio AB
++
++#01 Sveriges Television AB
++
+@@ -39484 +39404 @@
+-#31 pajaslo
++#31 pajaslo  
+@@ -39578 +39498 @@
+-#54 dukhavel,
++#54 dukhavel,  
+@@ -39629 +39549 @@
+-#31 zalil,
++#31 zalil,  
+@@ -39763 +39683 @@
+-#31 šudimos,
++#31 šudimos,  
+@@ -39779 +39699 @@
+-#37 šudel pe opre ando zen/njergo,
++#37 šudel pe opre ando zen/njergo,  
+@@ -39794 +39714 @@
+-#35 maj but pa buča kai rimonpe vaj kai čorenpe
++#35 maj buth pa buča kai rimonpe vaj kai čorenpe
+@@ -39983 +39903 @@
+-#31 armandino, solaxardo,
++#31 armandino, solaxardo,  
+@@ -40021 +39941 @@
+-#31 šogorisko politika
++#31 šogoricko politika
+@@ -40045 +39965 @@
+-#54 thulipe, khoj
++#54 thulipe, khoji,  
+@@ -40048 +39968 @@
+-#31 bričinari/praštia
++#31 bričinari/praštia  
+@@ -40070 +39990 @@
+-#37 jekh pharo ramomos
++#37 jekh pharo iskiripe
+@@ -40289,0 +40210 @@
++#41 
+@@ -40319 +40240 @@
+-#31 bandjaripe,
++#31 bandjaripe,  
+@@ -40351 +40272 @@
+-#37 e opinija bandjardas
++#37 e opinija bandjardas 
+@@ -40529 +40450 @@
+-#31 solaxarde dej dad   (sokro-sakra)
++#31 solaxarde dej dad
+@@ -40560 +40481 @@
+-#41 birovliango kuibo
++#41 birovliango kuibo 
+@@ -40566 +40487 @@
+-#54 grupo žigenji so huran
++#54 grupo zigenji so huran
+@@ -40656 +40577 @@
+-#31 kaliarel
++#31 kalarel
+@@ -40671 +40592 @@
+-#31 kaliarel tele
++#31 kalarel tele
+@@ -40731 +40652 @@
+-#31 sudo, teluni rig,
++#31 sudo, teluni rig,  
+@@ -40744 +40665 @@
+-#31 sudo, sudisko
++#31 sudo, sudicko
+@@ -40758 +40679 @@
+-#31 sudlisko
++#31 sudlicko
+@@ -40763 +40684 @@
+-#37 sudlisko barval
++#37 sudlicko barval
+@@ -40772 +40693 @@
+-#31 sudlandisko
++#31 sudlandicko
+@@ -40794 +40715 @@
+-#31 sudvesto,
++#31 sudvesto,  
+@@ -40805 +40726 @@
+-#31 sifilico,
++#31 sifilico,  
+@@ -40817 +40738 @@
+-#31 gindol
++#31 gindol  
+@@ -40837 +40758 @@
+-#54 gindil, mezil,
++#54 gindil, mezil, 
+@@ -40899 +40820 @@
+-#31 pextia
++#31 pexta, pextia, pexte
+@@ -40913 +40834 @@
+-#31 čoro birto
++#31 čori birto 
+@@ -40935 +40856 @@
+-#54 lekvaril, pextalil, šukljarel,
++#54 lekvaril, pextalil, šukljarel,  
+@@ -40938 +40859 @@
+-#31 šujimaski mašinka
++#31 šujimaski mašina
+@@ -40960 +40881 @@
+-#54 organizmosko trajo/phanglipe andekthan,
++#54 organizmosko trajo/phanglipe andekthan,  
+@@ -40997 +40918 @@
+-#54 mezipe, ikono,
++#54 mezipe, ikono,  
+@@ -41019 +40940 @@
+-#54 sikavel
++#54 sikavel  
+@@ -41022 +40943 @@
+-#31 simbolisko
++#31 simbolicko
+@@ -41033 +40954 @@
+-#54 sikajimasko,
++#54 sikaiimasko,  
+@@ -41073 +40994 @@
+-#31 simpatija, pačiv
++#31 simpatija, pačiv,  
+@@ -41105 +41026 @@
+-#54 čirdel karing versave
++#54 čirdel karing versave,  
+@@ -41108 +41029 @@
+-#31 dragostimasko, pačivalo,
++#31 dragostimasko, pačivalo,  
+@@ -41119 +41040 @@
+-#54 simpatiko
++#54 simpaticko
+@@ -41133 +41054 @@
+-#31 simpatizoro
++#31 simpatizeri
+@@ -41162 +41083 @@
+-#37 kana folil o nakh si jekh simptomo/sikajipe pe trozna
++#37 kana folil o nakh si jekh simptomo/sikaiipe pe trozna 
+@@ -41172 +41093 @@
+-#54 sikajipe
++#54 sikaiipe
+@@ -41203 +41124 @@
+-#37 jekh šukar dikhipe
++#37 ekh šukar dikhipe
+@@ -41267 +41188 @@
+-#31 dikhajimasko
++#31 dikhajimasko, dičimasko,  
+@@ -41289 +41210 @@
+-#54 sikajimasa
++#54 sikaiimasa
+@@ -41302 +41223 @@
+-#54 centralnio boljica/sačarimasko kher pe jakha
++#54 centralno boljica/sasčarimasko kher pe jakha
+@@ -41381 +41302 @@
+-#54 nasvalimasko sikajipe
++#54 nasvalimasko sikaiipe
+@@ -41412 +41333 @@
+-#54 xasavel
++#54 xasajvel
+@@ -41472 +41393 @@
+-#31 vorta,
++#31 vorta,  
+@@ -41497 +41418 @@
+-#31 khangeriako čidipe
++#31 khangerako čidipe
+@@ -41505 +41426 @@
+-#54 
++#54
+@@ -41532 +41453 @@
+-#31 semnomasko than
++#31 somnomasko than
+@@ -41552 +41473 @@
+-#37 o šenuto dičilas aba karing o horisonto
++#37 šunitiko dičilas aba karing o horisonto
+@@ -41562 +41483 @@
+-#31 koro,
++#31 koro,  
+@@ -41570 +41491 @@
+-#54 čores dikhel, jakhengo dukhado,
++#54 čores dikhel, jakhengo dukhado,  
+@@ -41644 +41565 @@
+-#31 sintetiko
++#31 sinteticko
+@@ -41739 +41660 @@
+-#37 o šinimos musajsas te suvelpe andekthan
++#37 šinimos musajsas te suvelpe andekthan
+@@ -41895 +41816 @@
+-#41 čignore phral pheja
++#41 cignore phral pheja
+@@ -41962 +41883 @@
+-#37 žesale buča,
++#37 žesale buča,  
+@@ -41971 +41892 @@
+-#54 inkeripe,
++#54 inkeripe,  
+@@ -41979 +41900 @@
+-#37 sosa lestut tu pe slobodno vriama?
++#37 sosa lestut tu pe slobodno vrama?
+@@ -42041 +41962 @@
+-#31 sistematiko
++#31 sistematicko
+@@ -42066 +41987 @@
+-#31 systemosko balamo
++#31 systemoski balamo
+@@ -42119 +42040 @@
+-#41 čigni phej
++#41 cini phej
+@@ -42141 +42062 @@
+-#41 sistritca
++#41 sasčarimaski/špitaki phej  
+@@ -42210 +42131 @@
+-#37 kade šil sas ta voj pahosardas peske naja le punrenge
++#37 kade šil sas ke voj pahosardas peske naja pe punre
+@@ -42213 +42134 @@
+-#38 najis kade but
++#38 najis kade buth
+@@ -42228 +42149 @@
+-#37 kana voj avilas angle atunči sas kodo phandado
++#37 kana voj abilas angle atunči sas kodo phandado
+@@ -42244 +42165 @@
+-#37 me reslem ande vriama kade me avilem ande
++#37 me reslem ande vrama kade me avilem ande
+@@ -42277 +42198 @@
+-#37 me činav kasavo vurdon/matora
++#37 me činav kasavo vurdon
+@@ -42299 +42220 @@
+-#41 tumniaki semuntsa
++#41 tomnaki semuntsa
+@@ -42330 +42251 @@
+-#54 karing, paše,
++#54 karing, paše,  
+@@ -42356 +42277 @@
+-#31 firizo
++#31 firisi
+@@ -42402 +42323 @@
+-#31 firizosko than
++#31 firisesko than
+@@ -42561 +42482 @@
+-#54 gili,
++#54 gili,  
+@@ -42570 +42491 @@
+-#37 žilabe jekh žili,
++#37 žilabe jekh žili,  
+@@ -42634 +42555 @@
+-#37 kade but trobul o manuš te žanel,
++#37 kade buth trobul o manuš te žanel,  
+@@ -42708 +42629 @@
+-#37 but dukhade ai mule
++#37 buth dukhade ai mule
+@@ -42738 +42659 @@
+-#37 voj dukhavel man kana godi došarimasa
++#37 voj dukhavel man kana godi došarimasa  
+@@ -42784 +42705 @@
+-#31 solzo
++#31 soso
+@@ -42789 +42710 @@
+-#41 peko solzo
++#41 peko soso
+@@ -42792 +42713 @@
+-#41 mašengo solzo
++#41 mašengo soso
+@@ -42804 +42725 @@
+-#54 izo,
++#54 izo,  
+@@ -42830 +42751 @@
+-#54 meg či, tena avla,
++#54 meg či, tena avla,  
+@@ -42848 +42769 @@
+-#37 me avava khote te či maladjola vareso,
++#37 me avava khote te či maladjola vareso,  
+@@ -42866 +42787 @@
+-#54 so žanav,
++#54 so žanav,  
+@@ -42869 +42790 @@
+-#31 selduj,
++#31 selduj,  
+@@ -42902 +42823 @@
+-#31 perel tele
++#31 perel tele 
+@@ -42916 +42837 @@
+-#54 
++#54
+@@ -42950 +42871 @@
+-#54 mago, semo,
++#54 mago, semo,  
+@@ -43047 +42968 @@
+-#54 xalpe,
++#54 xalpe,  
+@@ -43253 +43173,0 @@
+-#41 
+@@ -43301 +43221 @@
+-#37 ame si bistošan but te sičuvas jekhvarendar
++#37 ame si bistošan buth te sirjuvas jekhvarendar
+@@ -43376 +43296 @@
+-#54 pajesko žukel,
++#54 pajesko žukel,  
+@@ -43494 +43414 @@
+-#31 kompania,
++#31 kompania,   
+@@ -43516 +43436 @@
+-#54 khetanipe, čapato,
++#54 khetanipe, čapato,  
+@@ -43550 +43470 @@
+-#31 resel,
++#31 resel,   
+@@ -43565 +43485 @@
+-#31 resimasko/kumpaniako
++#31 resimasko/kumpaniako 
+@@ -43578 +43498 @@
+-#31 khetanimasko drom
++#31 khetanimasko drom 
+@@ -43592 +43512 @@
+-#31 kumpaniako nasvalo,
++#31 kumpaniako nasvalo,   
+@@ -43603 +43523 @@
+-#31 khetanimasko khelipe
++#31 khetanimasko khelipe 
+@@ -43614 +43534 @@
+-#31 čudato
++#31 čudako
+@@ -43697 +43617 @@
+-#37 račake nevimata bišavenpe/sikavenpe inja časongo
++#37 ratjake nevimata bišavenpe/sikavenpe inja časongo
+@@ -43726 +43646 @@
+-#37 a firma si jekh bišajimaski lista pe penge činajitorenge e-lila
++#37 a firma si ekh bišajimaski lista pe penge činajitorenge e-lila
+@@ -43761 +43681 @@
+-#41 dublo pato
++#41 duplo pato
+@@ -43774 +43694 @@
+-#31 patoski vriama
++#31 patoski vrama
+@@ -43781 +43701 @@
+-#54 sojimaski vriama
++#54 sojimaski vrama
+@@ -43849 +43769 @@
+-#31 xar, apadipe,
++#31 xar, apadipe,  
+@@ -43918 +43838 @@
+-#54 činjarel, teljarel,
++#54 činjarel, teljarel,  
+@@ -43922 +43842 @@
+-#31 SÄPO,
++#31 SÄPO,  
+@@ -43963 +43883 @@
+-#54 hulavel,
++#54 hulavel,  
+@@ -44005 +43925 @@
+-#54 romesko thaj romnjako hulado lov so počinelpe e themeske palpale,
++#54 romesko tha romnjako hulado lov so počinelpe e themeske palpale,  
+@@ -44014 +43934 @@
+-#37 voj nas učes lošaki pe pačivako sikajipe
++#37 voj nas učes lošaki pe pačivako sikaiipe
+@@ -44032 +43952 @@
+-#54 kaveripe, kaver mezipe,
++#54 kaveripe, kaver mezipe,  
+@@ -44036 +43956 @@
+-#31 čudato
++#31 čudalo
+@@ -44050 +43970 @@
+-#31 avri alome,
++#31 avri alome,  
+@@ -44062 +43982 @@
+-#54 harnjiko,
++#54 harnjiko,  
+@@ -44098 +44018 @@
+-#31 avri alome,
++#31 avri alome,  
+@@ -44116 +44036 @@
+-#31 avrialome,
++#31 avrialome,  
+@@ -44286 +44206 @@
+-#54 sikaiipe, inkeripe,
++#54 sikaiipe, inkeripe,  
+@@ -44313 +44233 @@
+-#38 thol jag pe (”phabarel”)
++#38 thol jag pe ("phabarel")
+@@ -44316 +44236 @@
+-#38 de fuga (ža de) ”(ža, zurar o žape”)
++#38 de fuga (ža de) "(ža, zurar o žape")
+@@ -44451 +44371 @@
+-#54 starajilpe te haliarel,
++#54 starajilpe te haliarel,  
+@@ -44563 +44483 @@
+-#31 teluni rig, sudo
++#31 teluni rig, sudo 
+@@ -44643 +44563 @@
+-#31 rodari, mangari,
++#31 rodari, mangari,  
+@@ -44734 +44654 @@
+-#54 po internet kana rodes vareso sar pa ”Google”
++#54 po internet kana rodes vareso sar pa "Google"
+@@ -44737 +44657 @@
+-#31 rodimaski buči,
++#31 rodimaski buči,   
+@@ -44789 +44709 @@
+-#31 lučko, čingo
++#31 lučko, čindo
+@@ -44931 +44851 @@
+-#54 sovljari,
++#54 sovljari,  
+@@ -45021 +44941 @@
+-#54 rimome,
++#54 rimome,  
+@@ -45232,0 +45153,2 @@
++
++﻿

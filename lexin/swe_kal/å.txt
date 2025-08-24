@@ -1,0 +1,2605 @@
+#01 å 1
+#31 oj
+#02 interj.
+#32 interjektiono
+#05 utrop av förvåning, glädje, ilska
+#35 
+#13 åh
+#14 å:
+#98 19193
+#99 21310
+#54 
+
+#01 å 1
+#31 te zuralelpe o divano
+#02 interj.
+#32 interjektiono
+#05 används för att förstärka (eller uttrycka reservation) vid ^ja, nej, jo^; ofta samskrivet
+#35 
+#13 åh
+#14 å:
+#98 19193
+#99 21311
+#54 
+
+#01 å 2
+#31 ai vi
+#02 prep.
+#32 prepositiono
+#04 på
+#05 ålderdomligt utom i vissa fraser
+#35 
+#08 å ena sidan ... å andra sidan ("dels ... dels")
+#38 
+#48 1887
+#14 å:
+#98 19194
+#99 21312
+#54 
+
+#01 å 3
+#31 cigno pai
+#02 subst.
+#32 substantivo
+#04 mindre vattendrag; ström
+#08 gå över ån efter vatten ("söka något längre bort än nödvändigt")
+#38 
+#48 1888
+#09 bild 22:44
+#39 
+#12 ån åar
+#14 å:
+#98 19195
+#99 21313
+#54 
+#97 mini
+
+#01 åberopar
+#31 
+#02 verb
+#32 verbo
+#04 hänvisa till, stödja sig på
+#07 myndigheten åberopade säkerhetsskäl
+#37 
+#47 12044
+#10 A & x
+#12 åberopade åberopat åberopa(!)
+#14 2Å:bero:par
+#98 19196
+#99 21314
+#54 
+
+#01 åbäke
+#31 
+#02 subst.
+#32 substantivo
+#04 stort och svårhanterligt föremål
+#05 vardagligt
+#35 
+#12 åbäket åbäken åbäkena
+#14 2Å:bä:ke
+#98 19197
+#99 21315
+#54 
+
+#01 åder
+#31 vuna,vina
+#02 subst.
+#32 substantivo
+#04 kanal för blodet i kroppen
+#09 bild 3:6
+#39 
+#11 blodåder
+#41 rateski vuna
+#51 7955
+#11 åder~bråck  et
+#41 
+#51 7956
+#11 åder~förkalkning  en
+#41 
+#51 7957
+#11 åder~förkalkad
+#41 
+#51 7958
+#12 ådern (el. ådran) ådror
+#13 ådra
+#14 Å:der
+#98 19198
+#99 21316
+#54 
+#97 mini
+
+#01 åder
+#31 vina
+#02 subst.
+#32 substantivo
+#04 smal strimma i annat material
+#11 guldåder
+#41 
+#51 7959
+#11 malmåder
+#41 
+#51 7960
+#12 ådern (el. ådran) ådror
+#13 ådra
+#14 Å:der
+#98 19198
+#99 21317
+#54 
+#97 mini
+
+#01 åderlåter
+#31 del pesko rat
+#02 verb
+#32 verbo
+#04 tappa (någon) på blod
+#05 vanligen bildligt "avlägsna (något) värdefullt"
+#35 
+#07 Sverige har åderlåtits på unga forskare
+#37 
+#47 12045
+#10 A & B (på x)
+#12 åderlät åderlåtit åderlåt! åderlåta
+#14 2Å:der+lå:ter
+#98 19199
+#99 21319
+#54 
+
+#01 ådra
+#31 vuna,vina
+#02 subst.
+#32 substantivo
+#04 anlag, läggning
+#07 hon har en poetisk ådra
+#37 
+#47 12046
+#11 berättarådra
+#41 
+#51 7961
+#12 ådran
+#14 2Å:dra
+#98 19200
+#99 21320
+#54 
+
+#01 ådrar sig
+#31 cirdel pe peste
+#02 verb
+#32 verbo
+#04 råka ut för
+#07 ådra sig en förkylning
+#37 cirdel jekh trosna pe peste
+#47 12047
+#07 föraren ådrog sig lindriga skador
+#37 
+#47 12048
+#10 A & x
+#12 ådrog ådragit ådra(ga)
+
+#14 2Å:dra:r+sej
+#98 19201
+#99 21321
+#54 
+
+#01 åhörar~dag
+#31 baro školako djes
+#02 subst.
+#32 substantivo
+#04 dag i skolan då föräldrar kan lyssna till lektionerna
+#12  dagen  dagar
+#14 2Å:hö:rar+da:g
+#98 19202
+#99 21322
+#54 
+
+#01 åhörare
+#31 auditori,ašunitori
+#02 subst.
+#32 substantivo
+#04 person som lyssnar på något
+#11 åhörar~skara
+#41 
+#51 7962
+#12 åhörar(e)n åhörare åhörarna
+#14 2Å:hö:rare
+#98 19203
+#99 21323
+#54 
+
+#01 åk 1
+#31 angluno berš (skurtimaski vorba)
+#02 förk.
+#32 skortsomos
+#04 årskurs
+#14 2Å:r+skur+s:
+#98 19204
+#99 21324
+#54 
+
+#01 åk 2
+#31 matora,vurdon
+#02 subst.
+#32 substantivo
+#04 fordon
+#05 vardagligt
+#35 
+#12 åket åk åken
+#14 å:k
+#98 19205
+#99 21325
+#54 
+
+#01 åk 2
+#31 
+#02 subst.
+#32 substantivo
+#04 enstaka tävlingslopp
+#05 på t. ex. skidor, skridskor
+#35 
+#12 åket åk åken
+#14 å:k
+#98 19205
+#99 21326
+#54 
+
+#01 åkallar
+#31 akharel mai baro ažutimos
+#02 verb
+#32 verbo
+#04 söka hjälp hos högre makt e dyl
+#07 åkalla högre makter
+#37 
+#47 12049
+#10 A & B/x
+#12 åkallade åkallat åkalla(!)
+#14 2Å:kal:ar
+#98 19206
+#99 21327
+#54 
+
+#01 åker 1
+#31 kimpo
+#02 subst.
+#32 substantivo
+#04 jord som man odlar på; (större) område för odling, fält
+#09 bild 22:44, 29:58
+#39 
+#11 veteåker
+#41 
+#51 7963
+#11 åker~bruk  et
+#41 
+#51 7964
+#11 åker~jord  en
+#41 
+#51 7965
+#11 åker~mark  en
+#41 
+#51 7966
+#12 åkern åkrar
+#14 Å:ker
+#98 19207
+#99 21328
+#54 
+#97 mini
+
+#01 åker 2
+#31 tradel
+#02 verb
+#32 verbo
+#04 färdas (med fordon)
+#07 åka skidor
+#37 
+#47 12050
+#07 åka bil
+#37 
+#47 12051
+#07 åka till Stockholm
+#37 
+#47 12052
+#10 A & (med) x
+#12 åkte åkt åk! åka
+#14 Å:ker
+#98 19208
+#99 21329
+#54 
+#97 mini
+
+#01 åker 2
+#31 mučilpe,vurajlas,hurial
+#02 verb
+#32 verbo
+#04 förflyttas (oavsiktligt)
+#07 boken åkte i golvet
+#37 
+#47 12053
+#10 x &
+#12 åkte åkt åk! åka
+#14 Å:ker
+#98 19208
+#99 21330
+#54 
+#97 mini
+
+#01 åker dit
+#31 astarde les,astaren le
+#02 verb
+#32 verbo
+#04 åka fast
+#10 A &
+#12 åkte åkt åk! åka
+#14 å:ker+dI:t
+#98 19209
+#99 21331
+#54 
+
+#01 åker fast
+#31 astarde le raj bare,astaren le rajbare
+#02 verb
+#32 verbo
+#04 bli tagen (av polisen)
+#05 vardagligt
+#35 
+#07 han åkte fast för fortkörning
+#37 
+#47 12054
+#10 A &
+#12 åkte åkt åk! åka
+#14 å:kerfAs:t
+#98 19210
+#99 21332
+#54 
+
+#01 åker på
+#31 pelas pe kadia, kerdolpe
+#02 verb
+#32 verbo
+#04 råka ut för, drabbas av
+#05 vardagligt
+#35 
+#07 åka på en smäll
+#37 
+#47 12055
+#10 A & x
+#12 åkte åkt åk! åka
+#14 å:kerpÅ:
+#98 19211
+#99 21333
+#54 
+
+#01 åkeri
+#31 transportoski firma
+#02 subst.
+#32 substantivo
+#04 transportfirma
+#12 åkeri(e)t åkerier
+#14 å:kerI:
+#98 19212
+#99 21334
+#54 
+
+#01 åklagare
+#31 procuratori
+#02 subst.
+#32 substantivo
+#04 jurist som inför domstol för talan om ansvar för brott
+#11 riks~åklagare
+#41 
+#51 7967
+#11 åklagar~myndighet  en
+#41 
+#51 7968
+#12 åklagar(e)n åklagare åklagarna
+#14 2Å:kla:gare
+#98 19213
+#99 21335
+#54 
+
+#01 åkomma
+#31 vušoro nasvalimos
+#02 subst.
+#32 substantivo
+#04 lindrig sjukdom
+#11 magåkomma
+#41 
+#51 7969
+#12 åkomman åkommor
+#14 2Å:kåm:a
+#98 19214
+#99 21336
+#54 
+
+#01 åk~sjuk
+#31 kamel te šadelpe pala o drom po paraxodo
+#02 adj.
+#32 adjektivo
+#04 illamående vid resa
+#11 åksjuka
+#41 tradimasko nasvalimos
+#51 7970
+#12  sjukt  sjuka
+#14 2Å:k$u:k
+#98 19215
+#99 21337
+#54 
+
+#01 ål
+#31 cipari
+#02 subst.
+#32 substantivo
+#04 en fisk som ser ut som en orm (särskilt Anguilla anguilla)
+#08 hal som en ål ("listig och opålitlig")
+#38 
+#48 1889
+#09 bild 25:51
+#39 
+#11 ål~fiskare  n
+#41 
+#51 7971
+#12 ålen ålar
+#14 å:l
+#98 19216
+#99 21338
+#54 
+#97 mini
+
+#01 ålar
+#31 sar o sap lo
+#02 verb
+#32 verbo
+#04 röra sig som en ål
+#07 åla sig fram i gräset
+#37 
+#47 12056
+#10 A &
+#12 ålade ålat åla(!)
+#14 2Å:lar
+#98 19217
+#99 21339
+#54 
+
+#01 ålder
+#31 berš
+#02 subst.
+#32 substantivo
+#04 antal levnadsår som man har uppnått
+#07 vid 75 års ålder
+#37 paša 75 berš
+#47 12057
+#07 barn i åldern 6--8 år
+#37 glati ande berš 6-8 
+#47 12058
+#11 medelålder
+#41 maškarune berš
+#51 7972
+#11 skolålder
+#41 školake berš
+#51 7973
+#11 pensionsålder
+#41 pensionake berš
+#51 7974
+#11 ålders~grupp
+#41 beršengi grupa
+#51 7975
+#11 ålders~pension
+#41 
+#51 7976
+#11 ålders~krämpor
+#41 
+#51 7977
+#12 åldern åldrar
+#14 Ål:der
+#98 19218
+#99 21340
+#54 
+#97 mini
+
+#01 ålder
+#31 vriama,jekh perioda beršengi
+#02 subst.
+#32 substantivo
+#04 period, epok
+#11 atomålder
+#41 
+#51 7978
+#11 stenålder
+#41 
+#51 7979
+#12 åldern åldrar
+#14 Ål:der
+#15 endast i sms
+#45 
+#98 19218
+#99 21341
+#54 
+#97 mini
+
+#01 ålderdom
+#31 pel purimata
+#02 subst.
+#32 substantivo
+#04 den tid då man är gammal, hög ålder
+#12 ålderdomen
+#14 2Ål:der+dom:
+#98 19219
+#99 21342
+#54 
+
+#01 ålderdomlig
+#31 purikano, phurikano
+#02 adj.
+#32 adjektivo
+#04 som vittnar om hög ålder; urmodig
+#07 ålderdomligt språkbruk
+#37 
+#47 12059
+#12 ålderdomligt ålderdomliga
+#14 2Ål:der+dom:lig
+#98 19220
+#99 21343
+#54 
+
+#01 ålderdoms~hem
+#31 phurengo kher
+#02 subst.
+#32 substantivo
+
+#04 kollektivt hem (som drivs av kommunen) för gamla människor som inte kan klara sig i sina egna hem
+#05 icke officiell term
+#35 
+#09 jfr ^servicehus^
+#39 
+#12  hemmet  hem  hemmen
+#14 2Ål:der+domshem:
+#98 19221
+#99 21344
+#54 
+#97 mini
+
+#01 ålders~pension
+#31 phurengi pensiona
+#02 subst.
+#32 substantivo
+#04 den del av folkpensionen och tilläggspensionen (ATP) som utgår då den allmänna pensionsåldern uppnåtts
+#06 Från det att man fyller 65 år har man rätt till denna pension, men man kan själv bestämma när man vill ta ut pensionen mellan 60 och 70 års ålder.
+#36 
+#09 se ^pension^
+#39 
+#14 2Ål:der+span$o:n
+#98 19222
+#99 21345
+#54 
+#97 mini
+
+#01 ålders~streck
+#31 beršengi granica
+#02 subst.
+#32 substantivo
+#04 åldersgräns
+#07 han faller snart för åldersstrecket
+#37 
+#47 12060
+#12  strecket  streck  strecken
+#14 2Ål:der+strek:
+#98 19223
+#99 21346
+#54 
+
+#01 åldras
+#31 phurol
+#02 verb
+#32 verbo
+#04 bli gammal
+#10 A &
+#12 åldrades åldrats åldras
+#14 2Ål:dras
+#98 19224
+#99 21347
+#54 
+
+#01 åldrig
+#31 phuro, phuri
+#02 adj.
+#32 adjektivo
+#04 gammal
+#05 om människa
+#35 
+#12 åldrigt åldriga
+#14 2Ål:drig
+#98 19225
+#99 21348
+#54 
+
+#01 åldring
+#31 phuro, phuri
+#02 subst.
+#32 substantivo
+#04 gammal person
+#12 åldringen åldringar
+#14 2Ål:dri@
+#98 19226
+#99 21349
+#54 
+
+#01 åldrings~vård
+#31 phurengo kher,phurengi špita
+#02 subst.
+#32 substantivo
+#04 äldreomsorg
+#05 tidigare officiell term
+#35 
+#12  vården
+#14 2Ål:dri@svå:r+d
+#98 19227
+#99 21350
+#54 
+
+#01 åliggande
+#31 obligatsia
+#02 subst.
+#32 substantivo
+#04 plikt, skyldighet
+#07 han skötte inte sina åligganden
+#37 
+#47 12061
+#12 åliggandet åligganden åliggandena
+#14 2Å:lig:ande
+#98 19228
+#99 21351
+#54 
+
+#01 åligger
+#31 
+#02 verb
+#32 verbo
+#04 vara en plikt för, fordras av
+#07 det åligger styrelsen att kalla till årsmöte
+#37 
+#47 12062
+#10 det & A att + INF
+#12 ålåg ålegat åligga
+#14 2Å:lig:er
+#98 19229
+#99 21352
+#54 
+
+#01 ålägger
+#31 
+#02 verb
+#32 verbo
+#04 beordra (enligt lag)
+#07 firman ålades att betala skadestånd
+#37 
+#47 12063
+#10 A & B x/att + INF
+#12 ålade ålagt ålägg! ålägga
+#14 2Å:leg:er
+#98 19230
+#99 21353
+#54 
+
+#01 ånga
+#31 vaporo
+#02 subst.
+#32 substantivo
+#04 (moln av) vatten el. annan vätska i gasform
+#11 vattenånga
+#41 
+#51 7980
+#11 ång~maskin  en
+#41 
+#51 7981
+#11 ång~båt  en
+#41 
+#51 7982
+#12 ångan ångor
+#14 2Å@:a
+#98 19231
+#99 21354
+#54 
+
+#01 ångar
+#31 thuvlarel
+#02 verb
+#32 verbo
+#04 ge ifrån sig ånga, ryka
+#07 ångande varm
+#37 
+#47 12064
+#10 x &
+#12 ångade ångat ånga
+#14 2Å@:ar
+#98 19232
+#99 21355
+#54 
+
+#01 ångar
+#31 o žežeš zjal po vaporo
+#02 verb
+#32 verbo
+#04 förflytta sig med ångkraft
+#07 tåget ångade in på stationen
+#37 
+#47 12065
+#10 x &
+#12 ångade ångat ånga
+#14 2Å@:ar
+#15 med partikel
+#45 
+#98 19232
+#99 21356
+#54 
+
+#01 ånger
+#31 kijimos
+#02 subst.
+#32 substantivo
+#04 sorg över något fel man gjort; grämelse
+#11 ånger~full  t
+#41 
+#51 7983
+#12 ångern
+#14 Å@:er
+#98 19233
+#99 21357
+#54 
+
+#01 ånger~blankett
+#31 
+#02 se ångervecka
+#32 
+#14 2Å@:erbla@ket:
+#98 19234
+#99 21358
+#54 
+
+#01 Ångermanland
+#31 Ångermanland (anav)
+#02 namn
+#32 nam
+#06 Ett landskap i Norrland.
+#36 
+#14 Å@:ermanland
+#98 19235
+#99 21359
+#54 
+#97 mini
+
+#01 ånger~vecka
+#31 kijimasko kurko
+#02 subst.
+#32 substantivo
+#04 den vecka efter ett köp då köparen har rätt att låta köpet gå tillbaka
+#06 Gäller endast vid tillfällig försäljning; säljaren är skyldig att ge köparen en avbeställningsblankett (^ångerblankett^) där det står vilka rättigheter köparen har och hur man gör om man inte vill behålla varan (se ^hemförsäljning^).
+#36 
+#12  veckan
+#14 2Å@:ervek:a
+#98 19236
+#99 21360
+#54 
+#97 mini
+
+#01 ångest
+#31 kijimos,depresia
+#02 subst.
+#32 substantivo
+#04 känsla av stark oro el. fruktan
+#07 hon greps av ångest och oro inför framtiden
+#37 
+#47 12066
+#11 ångest~fylld
+#41 
+#51 7984
+#12 ångesten
+#14 Å@:est
+#98 19237
+#99 21361
+#54 
+#97 mini
+
+#01 ångrar
+#31 kijilpe, kijim ma
+#02 verb
+#32 verbo
+#04 känna ånger över, vara ledsen för (något man gjort)
+#07 jag ångrar att jag lovade komma
+#37 
+#47 12067
+#08 ångra sig ("ändra mening")
+#38 kijilpe
+#48 1890
+#10 A & x/att + S; A & sig
+#12 ångrade ångrat ångra(!)
+#14 2Å@:rar
+#98 19238
+#99 21362
+#54 
+#97 mini
+
+#01 ång~vält
+#31 baro traktoro kai ličarel o drom
+#02 subst.
+#32 substantivo
+#04 maskin med stor cylinder som sammanpackar vägunderlag (numera dieseldriven)
+#05 ofta bildligt
+#35 
+#07 han gick fram som en ångvält mot sina motståndare
+#37 
+#47 12068
+#12  välten  vältar
+#14 2Å@:vel:t
+#98 19239
+#99 21363
+#54 
+
+#01 ånyo
+#31 de neves
+#02 adv.
+#32 adverbo
+#04 på nytt
+#14 2ånY:o
+#98 19240
+#99 21364
+#54 
+
+#01 år
+#31 jekh berš
+#02 subst.
+#32 substantivo
+#04 den tid det tar för jorden att gå runt solen (365 dagar); tiden från 1 januari till 31 december
+#07 år 2000
+#37 berš 2000
+#47 12069
+#07 jag är 24 år gammal
+#37 me sim 24 berš phuro
+#47 12070
+#07 i år
+#37 kado berš
+#47 12071
+#07 året runt
+#37 antrego berš
+#47 12072
+#07 förra året
+#37 o kaver berš
+#47 12073
+#07 under årens lopp
+#37 andel le berš
+#47 12074
+#09 bild 30:60
+#39 
+#11 kalenderår
+#41 
+#51 7985
+#11 budgetår
+#41 
+#51 7986
+#11 studieår
+#41 
+#51 7987
+#11 tjänsteår
+#41 
+#51 7988
+#11 års~inkomst  en
+#41 
+#51 7989
+#11 10 års~åldern
+#41 
+#51 7990
+#11 års~avgift
+#41 
+#51 7991
+#12 året år åren
+#14 å:r
+#98 19241
+#99 21365
+#54 
+#97 mini
+
+#01 åra
+#31 paieski lopata ka čuno
+#02 subst.
+#32 substantivo
+#04 redskap att ro med
+#12 åran åror
+#14 2Å:ra
+#98 19242
+#99 21366
+#54 
+
+#01 åra~tal
+#31 andel but berš
+#02 subst.
+#32 substantivo
+#08 i åratal ("under många år")
+#38 
+#48 1891
+#14 2Å:rata:l
+#98 19243
+#99 21367
+#54 
+
+#01 åretrunt-
+#31 sa o berš
+#02 förled
+#32 
+#04 som kan användas hela året
+#11 åretrunt~bostad
+#41 
+#51 7992
+#14 2å:retrUn:t 
+#98 19244
+#99 21368
+#54 
+
+#01 år~gång
+#31 jekh data o berš
+#02 subst.
+#32 substantivo
+#04 ett års produktion (av tidskrift, vin etc)
+#12  gången  gångar
+#14 2Å:rgå@:
+#98 19245
+#99 21369
+#54 
+
+#01 år~hundrade
+#31 jekh šel berš
+#02 subst.
+#32 substantivo
+#04 tid av hundra år, sekel
+#12  hundradet  hundraden  hundradena
+#14 2Å:rhun:drade
+#98 19246
+#99 21370
+#54 
+#97 mini
+
+#01 årlig
+#31 svako berš
+#02 adj.
+#32 adjektivo
+#04 som inträffar varje år
+#07 årlig ökning
+#37 
+#47 12075
+#07 årlig förlust
+#37 
+#47 12076
+#12 årligt årliga
+#14 2Å:r+lig
+#98 19247
+#99 21371
+#54 
+
+#01 årlig kontrollbesiktning
+#31 svako berš kontrola pe matora
+#02 se
+#09 se ^kontrollbesiktning^
+#39 
+#14 2Å:r+lig 2kåntrÅl:besik:tni@
+#98 19248
+#99 21372
+#54 
+
+#01 årligen
+#31 svako berš, jekh data o berš
+#02 adv.
+#32 adverbo
+#04 (för) varje år
+#07 årligen återkommande
+#37 
+#47 12077
+#14 2Å:r+ligen
+#98 19249
+#99 21373
+#54 
+
+#01 års
+#31 ande kadia vriama le beršeski
+#02 adv.
+#32 adverbo
+#08 så här års ("vid den här tiden på året")
+#38 
+#48 1892
+#14 å:r+s
+#98 19250
+#99 21374
+#54 
+
+#01 års~bok
+#31 beršeski kniška
+#02 subst.
+#32 substantivo
+#04 bok som innehåller de viktigaste händelserna under ett år; bok som ges ut varje år
+#12  boken  böcker
+#14 2Å:r+sbo:k
+#98 19251
+#99 21375
+#54 
+
+#01 års~dag
+#31 beršesko djes
+#02 subst.
+#32 substantivo
+#04 dag då något viktigt inträffat för ett eller flera år sedan
+#12  dagen  dagar
+#14 2Å:r+sda:g
+#98 19252
+#99 21376
+#54 
+
+#01 års~kull
+#31 jekhe beršeski generationa
+#02 subst.
+#32 substantivo
+#04 personer som är födda samma år eller slutar en kurs samma år e dyl
+#12  kullen  kullar
+#14 2Å:r+skul:
+#98 19253
+#99 21377
+#54 
+
+#01 års~kurs
+#31 beršeski klasa (skola)
+#02 subst.
+#32 substantivo
+#04 studieår i skolan, klass
+#12  kursen  kurser
+#14 2Å:r+skur+s:
+#98 19254
+#99 21378
+#54 
+#97 mini
+
+#01 års~möte
+#31 beršesko čidimos
+#02 subst.
+#32 substantivo
+#04 årligt möte för medlemmarna i en förening då styrelse väljs, räkenskaper granskas etc
+#12  mötet  möten  mötena
+#14 2Å:r+smö:te
+#98 19255
+#99 21379
+#54 
+
+#01 års~skifte
+#31 beršesko parduimos (parujimos)
+#02 subst.
+#32 substantivo
+#04 övergång från ett år till ett annat
+#12  skiftet  skiften  skiftena
+#14 2Å:r+s$if:te
+#98 19256
+#99 21380
+#54 
+
+#01 års~tid
+#31 e vramia le beršeski
+#02 subst.
+#32 substantivo
+#04 tid på året (sommar, höst, vinter, vår)
+#09 bild 30:60
+#39 
+#12  tiden  tider
+#14 2Å:r+sti:d
+#98 19257
+#99 21381
+#54 
+#97 mini
+
+#01 år~tal
+#31 le berš
+#02 subst.
+#32 substantivo
+#04 den siffra som anger år (efter en viss tideräkning)
+#07 årtalet 1984
+#37 
+#47 12078
+#12  talet  tal  talen
+#14 2Å:r+ta:l
+#98 19258
+#99 21382
+#54 
+
+#01 år~tionde
+#31 deš berš,decinium
+#02 subst.
+#32 substantivo
+#04 period av tio år, decennium
+#12  tiondet  tionden  tiondena
+#14 2Å:r+ti:ånde
+#98 19259
+#99 21383
+#54 
+
+#01 år~tusende
+#31 jekh mija berš,milenium
+#02 subst.
+#32 substantivo
+#04 period av tusen år
+#12  tusendet  tusenden  tusendena
+#14 2Å:r+tu:sende
+#98 19260
+#99 21384
+#54 
+
+#01 ås
+#31 e rig la plajaki
+#02 subst.
+#32 substantivo
+#04 höjdsträckning i naturen, bergsrygg
+#09 bild 22:44
+#39 
+#11 bergsås
+#41 
+#51 7993
+#11 takås
+#41 
+#51 7994
+#12 åsen åsar
+#14 å:s
+#98 19261
+#99 21385
+#54 
+#97 mini
+
+#01 åsidosätter
+#31 thol rigate,
+#02 verb
+#32 verbo
+#04 försumma
+#07 säkerheten i arbetet blir lätt åsidosatt
+#37 
+#47 12079
+#10 A & x
+#12 åsidosatte åsidosatt åsidosätt! åsidosätta
+#14 2åsI:doset:er
+#98 19262
+#99 21386
+#54 
+
+#01 åsikt
+#31 opinja
+#02 subst.
+#32 substantivo
+#04 det som man tror om något, mening, uppfattning
+#07 politiska åsikter
+#37 
+#47 12080
+#07 vi har olika åsikter om barnuppfostran
+#37 
+#47 12081
+#11 åsikts~registrering  en
+#41 
+#51 7995
+#12 åsikten åsikter
+#14 2Å:sik:t
+#98 19263
+#99 21387
+#54 
+#97 mini
+
+#01 åska
+#31 ronžeto
+#02 subst.
+#32 substantivo
+#04 oväder med blixtar och muller, åskväder
+#05 även bildligt om starka ljud
+#35 
+#09 bild 32:64
+#39 
+#11 applådåska
+#41 
+#51 7996
+#11 åsk~moln  et
+#41 
+#51 7997
+#11 åsk~ledare  n
+#41 
+#51 7998
+#12 åskan
+#14 2Ås:ka
+#98 19264
+#99 21388
+#54 
+#97 mini
+
+#01 åskar
+#31 ronžal
+#02 verb
+#32 verbo
+#04 blixtra och mullra
+#10 det &
+#12 åskade åskat åska
+#14 2Ås:kar
+#98 19265
+#99 21389
+#54 
+
+#01 åskådare
+#31 dikhitori
+#02 subst.
+#32 substantivo
+#04 person som tittar på
+#11 åskådar~läktare  n
+#41 
+#51 7999
+#12 åskådar(e)n åskådare åskådarna
+#14 2Å:skå:dare
+#98 19266
+#99 21390
+#54 
+#97 mini
+
+#01 åskådlig
+#31 vušoro, jasno
+#02 adj.
+#32 adjektivo
+#04 lätt att förstå, tydlig
+#11 åskådlighet  en
+#41 
+#51 8000
+#12 åskådligt åskådliga
+#14 2Å:skå:dlig
+#98 19267
+#99 21391
+#54 
+
+#01 åskådliggör
+#31 ker vušoro,kher jasno
+#02 verb
+#32 verbo
+#04 göra åskådlig
+#07 principen kan åskådliggöras genom följande exempel
+#37 
+#47 12082
+#10 A & x
+#12 åskådliggjorde åskådliggjort åskådliggör! åskådliggöra
+#14 2Å:skå:dligjö:r
+#98 19268
+#99 21392
+#54 
+
+#01 åskådning
+#31 visona,pačape
+#02 subst.
+#32 substantivo
+#04 sätt att se på omvärlden, föreställning, tro
+#11 livsåskådning
+#41 
+#51 8001
+#12 åskådningen åskådningar
+#14 2Å:skå:dni@
+#98 19269
+#99 21393
+#54 
+
+#01 åsna
+#31 magari
+#02 subst.
+#32 substantivo
+#04 hästdjuret Equus asinus
+#05 bildligt "enfaldig person"
+#35 
+#11 mulåsna
+#41 
+#51 8002
+#11 åsne~spark  en
+#41 
+#51 8003
+#12 åsnan åsnor
+#14 2Å:sna
+#98 19270
+#99 21394
+#54 
+
+#01 åstadkommer
+#31 kerel
+#02 verb
+#32 verbo
+#04 uträtta, prestera; förorsaka
+#07 är detta det bästa du kan åstadkomma?
+#37 kado si o mai lašo si biris te keres
+#47 12083
+#07 beskedet åstadkom stor förvirring
+#37 
+#47 12084
+#10 A & x; x & y
+#12 åstadkom åstadkommit åstadkom! åstadkomma
+#14 2Å:sta(:d)kåm:er
+#98 19271
+#99 21395
+#54 
+
+#01 åsyftar
+#31 gindov ma,gindil pe
+#02 verb
+#32 verbo
+#04 avse
+#07 med "en viss person" åsyftar jag min far
+#37 
+#47 12085
+#10 A & B/x
+#12 åsyftade åsyftat åsyfta(!)
+#14 2Å:syf:tar
+#98 19272
+#99 21396
+#54 
+
+#01 åsyn
+#31 dikhimos
+#02 subst.
+#32 substantivo
+#04 syn, anblick
+#07 i (el. inför) allas åsyn
+#37 
+#47 12086
+#12 åsynen
+#14 2Å:sy:n
+#98 19273
+#99 21397
+#54 
+
+#01 åt 1
+#31 xala
+#02 se äter
+#32 
+#14 å:t
+#98 19274
+#99 21398
+#54 
+#97 mini
+
+#01 åt 2
+#31 paše
+#02 adv.
+#32 adverbo
+#04 nära, inpå
+#07 komma åt
+#37 
+#47 12087
+#07 sitta åt
+#37 bešel paše
+#47 12088
+#07 ta åt sig
+#37 xolajvol
+#47 12089
+#14 å:t
+#15 verbpartikel
+#45 
+#98 19275
+#99 21399
+#54 
+
+#01 åt 3
+#31 karing
+#02 prep.
+#32 prepositiono
+#04 i riktning mot
+#07 gå åt sidan
+#37 
+#47 12090
+#07 gå åt andra hållet
+#37 žač pe kaver rig
+#47 12091
+#07 huset ligger åt norr
+#37 
+#47 12092
+#14 å:t
+#98 19276
+#99 21400
+#54 
+#97 mini
+
+#01 åt 3
+#31 kai,pe
+#02 prep.
+#32 prepositiono
+#05 anger föremålet för en verksamhet
+#35 
+#07 glädja sig åt
+#37 radujilpe
+#47 12093
+#07 ägna sig åt
+#37 
+#47 12094
+#07 ge sitt stöd åt en sak
+#37 
+#47 12095
+#14 å:t
+#98 19276
+#99 21401
+#54 
+#97 mini
+
+#01 åtagande
+#31 starajimos
+#02 subst.
+#32 substantivo
+#04 det som någon lovar att utföra
+#07 ett frivilligt åtagande
+#37 
+#47 12096
+#12 åtagandet åtaganden åtagandena
+#14 2Å:ta:gande
+#98 19277
+#99 21402
+#54 
+
+#01 åtagit
+#31 
+#02 se åtar sig
+#32 
+#14 2Å:ta:git
+#98 19278
+#99 21403
+#54 
+
+#01 åtal
+#31 pe kris
+#02 subst.
+#32 substantivo
+#04 anklagelse inför domstol
+#07 allmänt åtal
+#37 
+#47 12097
+#07 direktören riskerar åtal för stöld
+#37 
+#47 12098
+#07 åklagaren väckte åtal mot 30 åringen
+#37 
+#47 12099
+#11 åtals~eftergift  en
+#41 
+#51 8004
+#12 åtalet åtal åtalen
+#14 2Å:ta:l
+#98 19279
+#99 21404
+#54 
+#97 mini
+
+#01 åtalar
+#31 del ande e kris
+#02 verb
+#32 verbo
+#04 anklaga inför domstol
+#06 Åklagaren åtalar en brottsmisstänkt person om denne anser att det finns tillräcklig bevisning för fällande dom.
+#36 
+#07 de tre männen står åtalade för mordförsök
+#37 
+#47 12100
+#10 A & B (för x)
+#12 åtalade åtalat åtala(!)
+#14 2Å:ta:lar
+#98 19280
+#99 21405
+#54 
+#97 mini
+
+#01 åtanke
+#31 ande o gindo,prinžarimos
+#02 subst.
+#32 substantivo
+#04 minne, hågkomst
+#07 jag ska ha ditt förslag i åtanke
+#37 
+#47 12101
+#12 åtanken
+#14 2Å:ta@:ke
+#98 19281
+#99 21406
+#54 
+
+#01 åtar sig
+#31 starajil pe,lel pe peste e buči
+#02 verb
+#32 verbo
+#04 ta som sin uppgift, lova (att göra)
+#07 åta sig ett uppdrag
+#37 
+#47 12102
+#10 A & x/att + INF
+#12 åtog åtagit åta(!)
+#13 åtager
+#14 2Å:ta:r+sej
+#98 19282
+#99 21407
+#54 
+
+#01 åtbörd
+#31 miškimos
+#02 subst.
+#32 substantivo
+#04 tecken med kroppen, gest
+#07 hon sträckte upp händerna i en förtvivlad åtbörd
+#37 
+#47 12103
+#12 åtbörden åtbörder
+#14 2Å:tbö:r+d
+#98 19283
+#99 21408
+#54 
+
+#01 åter
+#31 pale
+#02 adv.
+#32 adverbo
+#04 än en gång, igen, på nytt
+#07 våren är åter här!
+#37 
+#47 12104
+#07 tusen och åter tusen människor
+#37 
+#47 12105
+#14 Å:ter
+#15 ofta i sms
+#45 
+#98 19284
+#99 21409
+#54 
+
+#01 åter
+#31 palpale
+#02 adv.
+#32 adverbo
+#04 tillbaka
+#07 välkommen åter!
+#37 
+#47 12106
+#07 åter till verkligheten!
+#37 palpale kai o čačimos
+#47 12107
+#11 åter~betala  de
+#41 
+#51 8005
+#14 Å:ter
+#15 ofta i sms
+#45 
+#98 19284
+#99 21410
+#54 
+
+#01 återanpassar
+#31 del pale ando trajo o normalo
+#02 verb
+#32 verbo
+#04 anpassa (socialt utstötta personer) till normalt samhällsliv
+#10 A & B (till x)
+#12 återanpassade återanpassat återanpassa(!)
+#14 2Å:teranpas:ar
+#98 19285
+#99 21411
+#54 
+
+#01 återanvänder
+#31 
+#02 verb
+#32 verbo
+#04 använda (förbrukningsmaterial) på nytt
+#07 genom källsortering kan avfallet återanvändas
+#37 
+#47 12108
+#11 återanvändning
+#41 
+#51 8006
+#12 återanvände återanvänt återanvänd! återanvända
+#14 2Å:teranven:der
+#98 19286
+#99 21412
+#54 
+
+#01 återberättar
+#31 repetil, phenel mai jekh data
+#02 verb
+#32 verbo
+#04 berätta i andra hand, återge, relatera
+#10 A & x
+#12 återberättade återberättat återberätta(!)
+#14 2Å:terberet:ar
+#98 19287
+#99 21413
+#54 
+
+#01 återbesök
+#31 palpale pe kontrola
+#02 subst.
+#32 substantivo
+#04 förnyat besök
+#05 särskilt om läkarbesök etc
+#35 
+#12 återbesöket återbesök återbesöken
+#14 2Å:terbesö:k
+#98 19288
+#99 21414
+#54 
+
+#01 återbetalar
+#31 počinel palpale
+#02 verb
+#32 verbo
+#04 betala tillbaka
+#07 skulden skall återbetalas på tre år
+#37 
+#47 12109
+#10 A & x (till B)
+#12 återbetalade återbetalat återbetala(!)
+#14 2Å:terbeta:lar
+#98 19289
+#99 21415
+#54 
+
+#01 återblick
+#31 dikhel palpale
+#02 subst.
+#32 substantivo
+#04 skildring av något som hänt i det förflutna
+#07 programmet skildrar TV:s historia i återblickar
+#37 
+#47 12110
+#12 återblicken återblickar
+#14 2Å:terblik:
+#98 19290
+#99 21416
+#54 
+
+#01 återbruk
+#31 
+#02 subst.
+#32 substantivo
+#04 återanvändning
+#12 återbruket
+#14 2Å:terbru:k
+#98 19291
+#99 21417
+#54 
+
+#01 återbud
+#31 
+#02 subst.
+#32 substantivo
+#04 meddelande att man inte kan komma
+#07 lämna återbud
+#37 
+#47 12111
+#12 återbudet återbud återbuden
+#14 2Å:terbu:d
+#98 19292
+#99 21418
+#54 atveto kana naštil o manuš te avel
+#97 mini
+
+#01 återbäring
+#31 palpale počin lovengo
+#02 subst.
+#32 substantivo
+#04 återbetalning av pengar
+#06 Återbäring av för mycket inbetald skatt kallas ^skatteåterbäring^; vissa affärer lämnar återbäring, dvs en bestämd procent på köpesumman under ett år; kunden får då visa upp köpekvitton.
+#36 
+#12 återbäringen återbäringar
+#14 2Å:terbä:ri@
+#98 19293
+#99 21419
+#54 
+#97 mini
+
+#01 återfall
+#31 pale palpale ando bajo(problemo)
+#02 subst.
+#32 substantivo
+#04 återvändande (till brott, missbruk etc)
+#05 även om sjukdom "uppträdande på nytt"
+#35 
+#11 återfallsförbrytare
+#41 
+#51 8007
+#11 återfalls~procent  en
+#41 
+#51 8008
+#12 återfallet återfall återfallen
+#14 2Å:terfal:
+#98 19294
+#99 21420
+#54 
+
+#01 återfinner
+#31 arakhla pale de neves
+#02 verb
+#32 verbo
+#04 finna på nytt, hitta (igen)
+#05 i passiv särskilt "finnas, märkas"
+#35 
+#07 den försvunna flickan har återfunnits oskadd
+#37 
+#47 12112
+#07 bland de inbjudna gästerna återfinns kungen och drottningen
+#37 
+#47 12113
+#10 A & x/B
+#12 återfann återfunnit återfinn! återfinna
+#14 2Å:terfin:er
+#98 19295
+#99 21421
+#54 
+
+#01 återfår
+#31 lel palpale,
+#02 verb
+#32 verbo
+#04 få tillbaka
+#07 hon återfick medvetandet först efter ett dygn
+#37 
+#47 12114
+#10 A & x
+#12 återfick återfått återfå
+#14 2Å:terfå:r
+#98 19296
+#99 21422
+#54 
+
+#01 återför
+#31 ingerel palpale
+#02 verb
+#32 verbo
+#04 föra tillbaka
+#07 handskrifterna har nu återförts till Island
+#37 
+#47 12115
+#10 A & x/B
+#12 återförde återfört återför! återföra
+#14 2Å:terfö:r
+#98 19297
+#99 21423
+#54 
+
+#01 återförenas
+#31 pale andek than,palpale čidimos
+#02 verb
+#32 verbo
+#04 sammanföras igen, träffas igen
+#07 återförenas med sin familj
+#37 
+#47 12116
+#10 A & med B; A och B &
+#11 återförening
+#41 
+#51 8009
+#12 återförenades återförenats återförenas
+#14 2Å:terföre:nas
+#98 19298
+#99 21424
+#54 
+
+#01 återförsäljare
+#31 šeftari
+#02 subst.
+#32 substantivo
+#04 detaljhandlare
+#07 han är återförsäljare för xxxx
+#37 
+#47 12117
+#12 återförsäljar(e)n återförsäljare återförsäljarna
+#14 2Å:terför+sel:jare
+#98 19299
+#99 21425
+#54 
+
+#01 återger
+#31 phenel,mothol
+#02 verb
+#32 verbo
+#04 berätta om, skildra
+#07 händelsen återges i dagens tidningar
+#37 
+#47 12118
+#10 A & x
+#11 återgivning  en
+#41 
+#51 8010
+#12 återgav återgivit återge(!) (el. återgiv! återgiva)
+#14 2Å:terje:
+#98 19300
+#99 21426
+#54 
+
+#01 återgång
+#31 zjal palpale,del palpale
+#02 subst.
+#32 substantivo
+#04 det att återgå till tidigare läge e dyl
+#05 speciellt "ogiltigförklaring av ett avtal"
+#35 
+#12 återgången
+#14 2Å:tergå@:
+#98 19301
+#99 21427
+#54 
+
+#01 återgår
+#31 zjal palpale
+#02 verb
+#32 verbo
+#04 gå tillbaka
+#07 återgå till arbetet
+#37 
+#47 12119
+#07 allt återgick till det normala
+#37 
+#47 12120
+#10 A & till x/att + INF; x & till y
+#12 återgick återgått återgå(!)
+#14 2Å:tergå:r
+#98 19302
+#99 21428
+#54 
+
+#01 återgäldar
+#31 počinelpe palpal
+#02 verb
+#32 verbo
+#04 betala tillbaka
+#05 bildligt "ge likvärdigt utbyte för"
+#35 
+#07 jag återgäldade hans komplimanger
+#37 
+#47 12121
+#10 A & x
+#12 återgäldade återgäldat återgälda(!)
+#14 2Å:terjel:dar
+#98 19303
+#99 21429
+#54 
+
+#01 återhållsam
+#31 inkerel pes palpale, rezervato
+#02 adj.
+#32 adjektivo
+#04 som håller igen, måttfull, restriktiv
+#11 återhållsamhet  en
+#41 
+#51 8011
+#12 återhållsamt återhållsamma
+#14 2Å:terhålsam:
+#98 19304
+#99 21430
+#54 
+
+#01 återhämtar sig
+#31 zuravol pale, lel zor
+#02 verb
+#32 verbo
+#04 få krafterna tillbaka
+#07 återhämta sig efter en sjukdom
+#37 
+#47 12122
+#10 A &
+#11 återhämtning  en
+#41 
+#51 8012
+#12 återhämtade återhämtat återhämta(!)
+#14 2Å:terhem:tar+sej
+#98 19305
+#99 21431
+#54 
+
+#01 återhörande
+#31 mai ašunduvas
+#02 subst.
+#32 substantivo
+#08 på återhörande! ("vi hörs igen")
+#38 dikas amen
+#48 1893
+#14 2Å:terhö:rande
+#98 19306
+#99 21432
+#54 
+
+#01 återigen
+#31 pale,mai jekh data
+#02 adv.
+#32 adverbo
+#04 ännu en gång
+#07 nu är vintern här återigen
+#37 akana pale o ivend kate
+#47 12123
+#14 Å:terijen:
+#98 19307
+#99 21433
+#54 
+
+#01 återkommer
+#31 avel palpale, avav palpale
+#02 verb
+#32 verbo
+#04 komma tillbaka
+#07 återkomma till Sverige
+#37 
+#47 12124
+#07 ett ständigt återkommande påstående
+#37 
+#47 12125
+#10 A & till x; x &
+#12 återkom återkommit återkom! återkomma
+#14 2Å:terkåm:er
+#98 19308
+#99 21434
+#54 
+
+#01 återkomst
+#31 avel khere palpale
+#02 subst.
+#32 substantivo
+#04 återvändande, hemkomst
+#12 återkomsten
+#14 2Å:terkåm:st
+#98 19309
+#99 21435
+#54 
+
+#01 återkoppling
+#31 pale vasdel pe e buči
+#02 subst.
+#32 substantivo
+#04 påverkan på en verksamhet av tidigare resultat
+#12 återkopplingen återkopplingar
+#14 2Å:terkåp:li@
+#98 19310
+#99 21436
+#54 
+
+#01 återresa
+#31 palpale drom, drom palpale
+#02 subst.
+#32 substantivo
+#04 resa tillbaka, återfärd
+#12 återresan återresor
+#14 2Å:tere:sa
+#98 19311
+#99 21437
+#54 
+
+#01 återseende
+#31 mai dikhas amen,mai arakadjuvaza
+#02 subst.
+#32 substantivo
+#04 sammanträffande på nytt
+#08 på återseende! ("vi träffas igen")
+#38 
+#48 1894
+#12 återseendet
+#14 2Å:ter+se:ende
+#98 19312
+#99 21438
+#54 
+
+#01 återser
+#31 dikasa de neves,dikel pale
+#02 verb
+#32 verbo
+#04 få se på nytt
+#07 han fick aldrig återse sitt hemland
+#37 
+#47 12126
+#10 A & B/x
+#12 återsåg återsett återse
+#14 2Å:ter+se:r
+#98 19313
+#99 21439
+#54 
+
+#01 återspeglar
+#31 reflectil
+#02 verb
+#32 verbo
+#04 ge en spegelbild av, reflektera
+#05 även bildligt
+#35 
+#07 tidningens politiska åsikter återspeglas i nyhetsmaterialet
+#37 
+#47 12127
+#10 x & y
+#11 återspegling  en
+#41 
+#51 8013
+#12 återspeglade återspeglat återspegla
+#14 2Å:ter+spe:glar
+#98 19314
+#99 21440
+#54 
+
+#01 återstod 1
+#31 
+#02 se återstår
+#32 
+#14 2Å:ter+sto:d
+#98 19315
+#99 21441
+#54 
+#97 mini
+
+#01 återstod 2
+#31 so mai si, o rezto
+#02 subst.
+#32 substantivo
+#04 det som finns kvar, rest
+#07 återstoden av pengarna
+#37 
+#47 12128
+#07 återstoden av 1900 talet
+#37 
+#47 12129
+#12 återstoden återstoder
+#14 2Å:ter+sto:d
+#98 19316
+#99 21442
+#54 
+
+#01 återstår
+#31 mai si inke, so mai si opral
+#02 verb
+#32 verbo
+#04 finnas kvar, vara över
+#07 det återstår bara tre dagar till valet
+#37 
+#47 12130
+#07 det återstår att se vem som vinner
+#37 
+#47 12131
+#10 x &
+#12 återstod återstått återstå
+#14 2Å:ter+stå:r
+#98 19317
+#99 21443
+#54 
+#97 mini
+
+#01 återställare
+#31 jekh rečia vortomaski
+#02 subst.
+#32 substantivo
+#04 lite alkohol som skall lindra baksmälla
+#05 vardagligt
+#35 
+#12 återställar(e)n återställare återställarna
+#14 2Å:ter+stel:are
+#98 19318
+#99 21444
+#54 
+
+#01 återställd
+#31 pale sasto, sastilo
+#02 adj.
+#32 adjektivo
+#04 åter frisk (efter sjukdom etc)
+#07 jag är nu helt återställd efter min knäskada
+#37 
+#47 12132
+#12 återställt återställda
+#14 2Å:ter+stel:d
+#98 19319
+#99 21445
+#54 
+#97 mini
+
+#01 återställer
+#31 thol palpale, reparil
+#02 verb
+#32 verbo
+#04 sätta i ursprungligt skick, reparera
+#07 återställa jorden efter uranbrytning
+#37 
+#47 12133
+#07 återställa ordningen
+#37 
+#47 12134
+#10 A & x
+#12 återställde återställt återställ! återställa
+#14 2Å:ter+stel:er
+#98 19320
+#99 21446
+#54 
+
+#01 återtåg
+#31 del (den) pes palpale
+#02 subst.
+#32 substantivo
+#04 reträtt
+#12 återtåget återtåg återtågen
+#14 2Å:ter+tå:g
+#98 19321
+#99 21447
+#54 
+
+#01 återverkan
+#31 o konsekvenzo
+#02 subst.
+#32 substantivo
+#04 konsekvens, följd
+#07 kriget fick svåra återverkningar
+#37 
+#47 12135
+#12 återverkan återverkningar
+#14 2Å:tervär:kan
+#15 mest i plural
+#45 
+#98 19322
+#99 21448
+#54 
+
+#01 återverkning
+#31 e konsekvencia
+#02 subst.
+#32 substantivo
+#04 återverkan
+#12 återverkningen återverkningar
+#14 2Å:tervär:kni@
+#98 19323
+#99 21449
+#54 
+
+#01 återvinner
+#31 neril palpale
+#02 verb
+#32 verbo
+#04 få tillbaka
+#07 återvinna krafterna
+#37 
+#47 12136
+#10 A & x
+#12 återvann återvunnit återvinn! återvinna
+#14 2Å:tervin:er
+#98 19324
+#99 21450
+#54 
+
+#01 återvinner
+#31 lašarel (palpale), lašarav
+#02 verb
+#32 verbo
+#04 bearbeta (en begagnad vara) så att den kan användas på nytt
+#07 återvinna papper
+#37 
+#47 12137
+#10 A & x
+#12 återvann återvunnit återvinn! återvinna
+#14 2Å:tervin:er
+#98 19324
+#99 21451
+#54 
+
+#01 återvinning
+#31 lašarimos,lašaripe
+#02 subst.
+#32 substantivo
+#04 bearbetning av en begagnad vara så att den kan användas på nytt
+#07 återvinning av papper
+#37 
+#47 12138
+#12 återvinningen
+#14 2Å:tervin:i@
+#98 19325
+#99 21452
+#54 
+
+#01 återvänder
+#31 zjal palpale
+#02 verb
+#32 verbo
+#04 bege sig tillbaka
+#07 återvända hem
+#37 
+#47 12139
+#07 han återvände till Grekland efter några år i Sverige
+#37 vo boldas palpale ando Grekland pala čera berš ando Švedo
+#47 12140
+#10 A & till + PLATS
+#12 återvände återvänt återvänd! återvända
+#14 2Å:terven:der
+#98 19326
+#99 21453
+#54 
+
+#01 återvändo
+#31 palpale boldimos
+#02 subst.
+#32 substantivo
+#08 utan återvändo ("utan möjlighet att vända tillbaka")
+#38 bi boldimos palpale
+#48 1895
+#14 2Å:terven:do
+#98 19327
+#99 21454
+#54 
+
+#01 återvänds~gata
+#31 jekhe dromeski vulitsa
+#02 subst.
+#32 substantivo
+#04 gata med endast en infart och utfart
+#12  gatan  gator
+#14 2Å:tervendsga:ta
+#98 19328
+#99 21455
+#54 
+#97 mini
+
+#01 återväxt
+#31 pale barol
+#02 subst.
+#32 substantivo
+#04 det att växa upp på nytt; det som vuxit upp på nytt
+#05 bildligt "förnyelse"
+#35 
+#07 återväxten bland skomakare är dålig
+#37 
+#47 12141
+#12 återväxten
+#14 2Å:tervek:st
+#98 19329
+#99 21456
+#54 
+
+#01 åtföljer
+#31 zjal mit
+#02 verb
+#32 verbo
+#04 följa tillsammans med
+#07 han anlände till Wien åtföljd av sin 80-årige far
+#37 vo areslo ando Wien mit peske 80 dešto dad
+#47 12142
+#10 A & B; x & y
+#12 åtföljde åtföljt åtfölj! åtfölja
+#14 2Å:tföl:jer
+#98 19330
+#99 21457
+#54 
+
+#01 åtgång
+#31 bičinimos
+#02 subst.
+#32 substantivo
+#04 förbrukning
+#07 minskad åtgång på mjölk
+#37 xansardo bičinimos po thud
+#47 12143
+#12 åtgången
+#14 2Å:tgå@:
+#98 19331
+#99 21458
+#54 
+
+#01 åtgången
+#31 mardo
+#02 adj.
+#32 adjektivo
+#08 illa åtgången ("illa behandlad, svårt skadad")
+#38 
+#48 1896
+#12 åtgånget åtgångna
+#14 2Å:tgå@:en
+#98 19332
+#99 21459
+#54 
+
+#01 åtgärd
+#31 anklimos
+#02 subst.
+#32 substantivo
+#04 handling (för att nå ett visst syfte), ingripande, behandling
+#07 förebyggande åtgärder
+#37 
+#47 12144
+#07 vi måste vidta snabba åtgärder för att förbättra landets ekonomi
+#37 
+#47 12145
+#11 kraftåtgärd
+#41 
+#51 8014
+#11 motåtgärd
+#41 
+#51 8015
+#11 åtgärdspaket
+#41 
+#51 8016
+#12 åtgärden åtgärder
+#14 2Å:tjä:r+d
+#98 19333
+#99 21460
+#54 
+#97 mini
+
+#01 åtgärdar
+#31 paruvel
+#02 verb
+#32 verbo
+#04 vidta åtgärder med, ta itu med
+#07 felen måste åtgärdas omedelbart
+#37 le doša musaj te anklen vareso lentsa
+#47 12146
+#10 A & x
+#12 åtgärdade åtgärdat åtgärda(!)
+#14 2Å:tjä:r+dar
+#98 19334
+#99 21461
+#54 
+
+#01 åthävor
+#31 
+#02 subst.
+#32 substantivo
+#04 (överdrivet) sätt att uppföra sig
+#07 han talade lugnt och utan åthävor
+#37 
+#47 12147
+#14 2Å:thä:vor
+#15 plural
+#45 
+#98 19335
+#99 21462
+#54 
+
+#01 åtkomlig
+#31 kai šaj arakes
+#02 adj.
+#32 adjektivo
+#04 som kan nås, tillgänglig
+#11 svåråtkomlig
+#41 phares te arakes
+#51 8017
+#12 åtkomligt åtkomliga
+#14 2Å:tkåm:lig
+#98 19336
+#99 21463
+#54 
+
+#01 åtlöje
+#31 lažajimos
+#02 subst.
+#32 substantivo
+#04 föremål för andras föraktfulla skratt
+#07 göra sig till åtlöje
+#37 kerel pes lažav
+#47 12148
+#12 åtlöjet
+#14 2Å:tlöj:e
+#98 19337
+#99 21464
+#54 
+
+#01 åtminstone
+#31 barom
+#02 adv.
+#32 adverbo
+#04 minst
+#05 även utvidgat "i varje fall"
+#35 
+#07 vi träffas åtminstone en gång om året
+#37 ame arakadovas barom jekh data ando berš
+#47 12149
+#07 Sverige har ett bra fotbollslag, åtminstone på papperet
+#37 Švedo si len jekh lašo fotbolosko kipo, barom pe ram
+#47 12150
+#14 2å:tmIn:stone
+#98 19338
+#99 21465
+#54 
+#97 mini
+
+#01 åtnjuter
+#31 lel
+#02 verb
+#32 verbo
+#04 få, erhålla
+#07 organisationen åtnjuter stort anseende
+#37 
+#47 12151
+#10 A & x
+#12 åtnjöt åtnjutit åtnjut! åtnjuta
+#14 2Å:tnju:ter
+#98 19339
+#99 21466
+#54 
+
+#01 åtog
+#31 
+#02 se åtar sig
+#32 
+#14 2Å:to:g
+#98 19340
+#99 21467
+#54 
+
+#01 åtrå
+#31 mankil kamimasa
+#02 subst.
+#32 substantivo
+#04 häftig längtan, passion
+#12 åtrån
+#14 2Å:trå:
+#98 19341
+#99 21468
+#54 
+
+#01 åtrår
+#31 mankil zurales
+#02 verb
+#32 verbo
+#04 häftigt längta efter, älska passionerat
+#07 den hett åtrådda regeringsmakten
+#37 
+#47 12152
+#10 A & B
+#12 åtrådde åtrått åtrå(!)
+#14 2Å:trå:r
+#98 19342
+#99 21469
+#54 
+
+#01 åtrå~värd
+#31 prinžardo
+#02 adj.
+#32 adjektivo
+#04 som många vill ha, eftertraktad
+#07 det åtråvärda olympiska mästerskapet
+#37 o prinžardo olympiadosko khelimos
+#47 12153
+#12  värt  värda
+#14 2Å:trå:vä:r+d
+#98 19343
+#99 21470
+#54 
+
+#01 åtskillig
+#31 but
+#02 pron.
+#32 pronomeno
+#04 en hel del, mycket
+#05 mest i plural "många"
+#35 
+#07 efter åtskillig tvekan
+#37 but pala but gindori
+#47 12154
+#07 vid åtskilliga tillfällen
+#37 
+#47 12155
+#07 åtskilliga av eleverna
+#37 but andal le disiplori
+#47 12156
+#12 åtskilligt åtskilliga
+#14 2Å:t$il:ig
+#98 19344
+#99 21471
+#54 
+
+#01 åtskilligt
+#31 deza but
+#02 adv.
+#32 adverbo
+#04 mycket
+#07 han är åtskilligt yngre än sin bror
+#37 vo lo desa but mai terno katar pesko phral
+#47 12157
+#14 2Å:t$il:i(k)t
+#98 19345
+#99 21472
+#54 
+
+#01 åtskillnad
+#31 diferensia
+#02 subst.
+#32 substantivo
+#04 skillnad
+#07 läkaren gjorde ingen åtskillnad mellan rika och fattiga patienter
+#37 o doktoro či kerda diferansia maškar le barvale aj le čore
+#47 12158
+#12 åtskillnaden
+#14 2Å:t$il:nad
+#98 19346
+#99 21473
+#54 
+
+#01 åtstramning
+#31 xansimos anda love
+#02 subst.
+#32 substantivo
+#04 minskning av ekonomiska resurser
+#11 åtstramnings~politik
+#41 
+#51 8018
+#12 åtstramningen åtstramningar
+#14 2Å:tstra:mni@
+#98 19347
+#99 21474
+#54 
+
+#01 åtta 1
+#31 oxhto
+#02 räkn.
+#32 
+#04 8
+#11 åttatimmars~dag
+#41 oxto časongo djes
+#51 8019
+#11 åtta~årig
+#41 oxtongo  i
+#51 8020
+#14 2Åt:a
+#98 19348
+#99 21475
+#54 
+#97 mini
+
+#01 åtta 2
+#31 oxtali
+#02 subst.
+#32 substantivo
+#04 siffran 8; nummer 8 i ordningen
+#12 åttan åttor
+#14 2Åt:a
+#98 19349
+#99 21476
+#54 
+#97 mini
+
+#01 åttio
+#31 oxtovardeš
+#02 räkn.
+#32 
+#04 80
+#11 åttio~tal  et
+#41 
+#51 8021
+#13 åtti
+#14 2Åt:i(o)
+#98 19350
+#99 21477
+#54 
+#97 mini
+
+#01 åttionde
+#31 oxtotavardešto
+#02 räkn.
+#32 
+#04 på plats nummer 80
+#14 2Åt:jånde
+#98 19351
+#99 21478
+#54 
+#97 mini
+
+#01 åttonde
+#31 oxtoto
+#02 räkn.
+#32 
+#04 på plats nummer 8
+#14 2Åt:ånde
+#98 19352
+#99 21479
+#54 
+#97 mini
+
+#01 åttondel
+#31 jekh andal oxto, oxtoko
+#02 subst.
+#32 substantivo
+#04 en av åtta
+#12 åttondelen åttondelar
+#14 2Åt:ånde:l
+#98 19353
+#99 21480
+#54 
+
+#01 åverkan
+#31 phagajimos
+#02 subst.
+#32 substantivo
+#04 skadegörelse
+#07 han åtalades för åverkan på stadens planteringar
+#37 
+#47 12159
+#12 åverkan
+#14 2Å:vär:kan
+#98 19354
+#99 21481
+#54 
+#97 mini

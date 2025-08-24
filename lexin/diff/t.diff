@@ -1,0 +1,825 @@
+--- ../kelderasch_filer/text/t.txt	2025-08-13 17:09:05
++++ swe_kal/t.txt	2025-08-24 21:23:07
+@@ -1 +1 @@
+-﻿#01 t ex
++#01 t ex
+@@ -49 +49 @@
+-#41 časoski tabela
++#41 
+@@ -52 +52 @@
+-#41 multiplikatsiaki tabela
++#41 
+@@ -75 +75 @@
+-#41 drabengo
++#41 
+@@ -93 +93 @@
+-#54 (musora) kai o gazeto le themesko
++#54 e muzora (musora) kai o gazeto le themesko
+@@ -203 +203 @@
+-#38 či mangel
++#38 
+@@ -206 +206 @@
+-#38 akseptil
++#38 
+@@ -436 +436 @@
+-#31 kanre
++#31 khanre
+@@ -450 +450 @@
+-#31 kanralo, kanrale
++#31 khanralo, khanrale
+@@ -462 +462 @@
+-#31 sastruni ai kanrali bar
++#31 sastruni ai khanrali bhar
+@@ -516 +516 @@
+-#31 daxho/ /čardako/kriša
++#31 thaxo, kjertaxo /čardako/kriša
+@@ -552,0 +553 @@
++
+@@ -631 +632 @@
+-#54 diplomatiko
++#54 diplomatico
+@@ -655 +656 @@
+-#31 bi taktosko
++#31 bi tactoko
+@@ -691 +692 @@
+-#31 divinil 
++#31 divinil (diviniv)
+@@ -744 +745 @@
+-#54 djinimos pe le šifri vai numeria
++#54 djinimos pel le šifri vai numeri (numrori)
+@@ -908 +909 @@
+-#54 kadia phenelpe (motholpe)
++#54 kadia phenelpe(motholpe)
+@@ -922 +923 @@
+-#31 čiken
++#31 čiken, tjiken
+@@ -966 +967 @@
+-#54 parno pulvero (varo) kai thol/ šhol o manuš pe le vast
++#54 parno pulvero kai thol/ šhol o manuš pe le vast
+@@ -1227 +1228 @@
+-#31 dandengo xalajimos
++#31 
+@@ -1261 +1262 @@
+-#31 dandengi krema
++#31 dandengi crema
+@@ -1275 +1276 @@
+-#31 žinžia
++#31 gingia/žinžia
+@@ -1297 +1298 @@
+-#54 jekh dandengo nasvalimos kai peren le dand avri andal le žinžiji 
++#54 jekh dandengo nasvalimos kai peren le dand avri andal le žinžiji (djindjie)
+@@ -1300 +1301 @@
+-#31 dandisto, dandengo doktoro
++#31 dandengo doktoro
+@@ -1305 +1306 @@
+-#41 dandistosko škola
++#41 
+@@ -1331 +1332 @@
+-#31 dandengo kaštoro, dandengi čipliga
++#31 dandengi čipliga
+@@ -1376 +1377 @@
+-#31 dandenge lašharimaske sirmi
++#31 dandengi lašharimaske sirmi
+@@ -1387 +1388 @@
+-#31 dandengo thav
++#31 dandengo tav
+@@ -1455 +1456 @@
+-#41 pianoski kočak
++#41 
+@@ -1458 +1459 @@
+-#41 ramomaski mašinaski kočak
++#41 
+@@ -1461 +1462 @@
+-#41 kočakengi sinja
++#41 
+@@ -1510 +1511 @@
+-#31 bočonko, bidono, reservari
++#31 bočonko, rezervari
+@@ -1549 +1550 @@
+-#37 pherel e matora
++#37 
+@@ -1713 +1714 @@
+-#31 phurimaski, phurikani
++#31 phurimaski, phurikanes
+@@ -1750 +1751 @@
+-#31 tapeta/špaleria
++#31 tapeta
+@@ -2476 +2477 @@
+-#31 tattaro, sinto, romano tjavo,
++#31 tattaro, sinto, romano tjavo, šhavo
+@@ -2614,2 +2615,2 @@
+-#01 T bana
+-#31 žežeš metrosko
++#01 T-bana
++#31 djedješ/žežeš metrosko
+@@ -2621 +2622 @@
+-#12 T banan T banor
++#12 T-banan T-banor
+@@ -2905 +2906 @@
+-#31 rišoro
++#31 risjoro (rišoro)
+@@ -2916 +2917 @@
+-#31 čajosko tijari
++#31 čajosko thijari
+@@ -2998 +2999 @@
+-#31 tejpil/klejol
++#31 tejpil
+@@ -3138 +3139 @@
+-#01 tele 
++#01 tele-
+@@ -3345 +3346 @@
+-#31 telefonoski centrala (stantcia)
++#31 telefonoski centrala (stantzia)
+@@ -3682 +3683 @@
+-#54 bužanglimasko/bužanglimasa
++#54 (buzjanlimasko, buzjanlimaska/bužanglimasko/bužanglimasa
+@@ -3700 +3701 @@
+-#31 harčiči/arčiči
++#31 hartjitji/harčiči/arčiči
+@@ -3736 +3737 @@
+-#54 manuš kai djilabel bare glasosa
++#54 manuš kai djilabel bare glazosa
+@@ -3840 +3841 @@
+-#31 teorimasko, teoretiko
++#31 teorimasko, teoretisko
+@@ -4123 +4124 @@
+-#12 terrassen, terrasser
++#12 terrassen terrasser
+@@ -4265 +4266 @@
+-#31 čajoski roj/rojori
++#31 čajoski roj/rojori/čajoski roj
+@@ -4444 +4445 @@
+-#31 textuil
++#31 textoil
+@@ -4476 +4477 @@
+-#31 poxhtana, gada fabrikake
++#31 poxhtana, ghada fabrikake
+@@ -4487 +4488 @@
+-#01 text TV
++#01 text-TV
+@@ -4603 +4604 @@
+-#01 tijara
++#01 tiara
+@@ -4615 +4616 @@
+-#31 miškimos
++#31 mishkimos/miškimos
+@@ -4640 +4641 @@
+-#31 časosko bašimos
++#31 časosko bashajimos/bašimos
+@@ -4651 +4652 @@
+-#31 vriama, čajto
++#31 vriama, tzajto/čajto
+@@ -4777 +4778 @@
+-#31 čajtungo/gazeto
++#31 tsajtongo/čajtungo/gazeto
+@@ -4817 +4818 @@
+-#31 vorta po časo
++#31 ka vorta caso/vorta po časo
+@@ -4856 +4857 @@
+-#31 pe vriama
++#31 pe e vriama
+@@ -4945 +4946 @@
+-#31 vriamaki buči/vriamako studio
++#31 vriamaski buči
+@@ -5045 +5046 @@
+-#31 muto bešhel, či phenel kanči
++#31 muto bešhel, či phenel kanci
+@@ -5060 +5061 @@
+-#31 korovečil/korovečo.mangel love
++#31 korovetjil/korovečil/korovetjo/korovečo.mangel love
+@@ -5220 +5221 @@
+-#31 ži kai,žipon
++#31 ži kai.žipon
+@@ -5257 +5258 @@
+-#31 sar kai mezol pe/sar dičolpe
++#31 sar kai mezol pe
+@@ -5479 +5480 @@
+-#31 bajo, aksidanto
++#31 bajo, aksedento/aksidanto
+@@ -5507 +5508 @@
+-#31 del avri,hulavel avri
++#31 del les, del avri.hulavel avri
+@@ -5635 +5636 @@
+-#31 garajimos/ garado than
++#31 garajimos/ garadothan
+@@ -5779 +5780 @@
+-#31 pušlo, pušle
++#31 pušhlo, pušhle
+@@ -6214 +6215 @@
+-#31 kimpo, than, platso
++#31 kimpo, than, platzo
+@@ -6316 +6317 @@
+-#31 akharel, akharen, akharav
++#31 akhar, akharel, akharen, akharav
+@@ -6437 +6438 @@
+-#31 prasajimos, akušimos, akušipe
++#31 prasajimos, akušhimos, akušhipe
+@@ -6550 +6551 @@
+-#31 del godji, rekomendil, rekomendatsia
++#31 del godji, recomendil, recomendantsia
+@@ -6587 +6588 @@
+-#31 bi garantiako, bi responsablo
++#31 bi garantsiako, bi responsblo
+@@ -6603 +6604 @@
+-#31 del ando gor
++#31 del ando ghor
+@@ -6914 +6915 @@
+-#31 preznail, rekonil
++#31 preznail, recunail
+@@ -7004 +7005 @@
+-#31 zuralo sičarimos, ordina, 
++#31 zuralo sičarimos, ordina, ()
+@@ -7053 +7054 @@
+-#31 actsia 
++#31 actsia ()
+@@ -7089 +7090 @@
+-#31 phenel, mothol 
++#31 phenel, mothol ()
+@@ -7104 +7105 @@
+-#31 plačal
++#31 platjal
+@@ -7130 +7131 @@
+-#31 bučol
++#31 butjol
+@@ -7177 +7178 @@
+-#31 slobodia 
++#31 slobodia ()
+@@ -7237 +7238 @@
+-#31 ando gindo, planuime
++#31 ando gindo, planoime
+@@ -7319 +7320 @@
+-#31 kerel, lašarel
++#31 kerel, lašharel
+@@ -7437 +7438 @@
+-#31 slobodil, permitil, si slobodo
++#31 permitil, si slobodo
+@@ -7442 +7443 @@
+-#37 voj či meklas les te žal avri korkoro
++#37 
+@@ -7445 +7446 @@
+-#37 duhanoski slobodia
++#37 
+@@ -7520 +7521 @@
+-#31 praktuil, prakteseril
++#31 practuil, practeseril
+@@ -7535 +7536 @@
+-#31 praktime
++#31 practime
+@@ -7546 +7547 @@
+-#31 praktika
++#31 practica
+@@ -7577 +7578 @@
+-#37 barol e familja
++#37 
+@@ -7592 +7593 @@
+-#37 Baxtalo krečuno mangel familja Andersson!
++#37 
+@@ -7603 +7604 @@
+-#31 časo signalosko, timer
++#31 timer
+@@ -7616 +7617 @@
+-#31 planta aromatiko
++#31 planta aromatico
+@@ -7637 +7638 @@
+-#37 uni čašura buči/uni časoske buča
++#37 uni čašora buči
+@@ -7651 +7652 @@
+-#41 libero časo
++#41 
+@@ -7654 +7655 @@
+-#41 časoski pučin
++#41 
+@@ -7690 +7691 @@
+-#31 počindo po/ando časo/časoski pučin
++#31 počindo po/ando časo
+@@ -7702 +7703 @@
+-#31 bilal, biliarel, bilavel
++#31 bilal, bilarel, bilavel
+@@ -7741 +7742 @@
+-#35 pal čerhaja ai jakha
++#35 
+@@ -7761 +7762 @@
+-#37 želi ai buča
++#37 
+@@ -7784 +7785 @@
+-#31 leznimata
++#31 leznimata, s (54 ang bazarenge želi)
+@@ -7792 +7793 @@
+-#54 bazarenge buča
++#54 
+@@ -7842 +7843 @@
+-#31 čikatoski rig
++#31 
+@@ -7903 +7904 @@
+-#31 skutsomos, skutsipe
++#31 skutosomos, skutsipe
+@@ -7925 +7926 @@
+-#41 gunojesko than
++#41 
+@@ -7934 +7935 @@
+-#31 kamionoski skara
++#31 )
+@@ -7945 +7946 @@
+-#31 peravel, šudel tele/del mujal
++#31 peravel, šudel tele
+@@ -7953 +7954 @@
+-#37 šudel gunoja
++#37 
+@@ -7997 +7998 @@
+-#31 tipso kelimasko
++#31 tipo kelimasko
+@@ -8023,10 +8023,0 @@
+-#54 
+-
+-#01 Tips~tjänst AB
+-#31 
+-#02 namn
+-#32 
+-#04 statligt aktiebolag som anordnar vadhållning i samband med idrottstävlingar, främst fotbollsmatcher, samt arrangerar nummerdragningar (Lotto)
+-#14 2tIp:scen:st
+-#98 16950
+-#99 18813
+@@ -8341 +8332 @@
+-#31 diljarel
++#31 dilarel
+@@ -8464 +8455 @@
+-#31 thulo, thuli
++#31 thulo, thuli, pharo, phari
+@@ -8560 +8551 @@
+-#01 tjugon(de)dag Knut
++#01 tjugondag Knut
+@@ -8708 +8699 @@
+-#01 tjuv 
++#01 tjuv-
+@@ -8771 +8762 @@
+-#01 tjyv 
++#01 tjyv-
+@@ -8773 +8764 @@
+-#02 se tjuv 
++#02 se tjuv-
+@@ -8862 +8853 @@
+-#31 sluga
++#31 sloga
+@@ -8965 +8956 @@
+-#31 asigurako azjutimos (vice versa) bučaki trajoski suranca
++#31 asigurako azjutimos (vice versa)
+@@ -9071 +9062 @@
+-#31 khere katar buči
++#31 khere anda buči
+@@ -9157 +9148 @@
+-#11 toalett~stol  en
++#11 toalett~stol
+@@ -9186 +9177 @@
+-#31 žuvliano hurajimos, žuvlikane gada
++#31 žuvliano hurajimos, žuvlikane ghada
+@@ -9251 +9242 @@
+-#31 papuka puterdi
++#31 papuča puterdi
+@@ -9396 +9387 @@
+-#31 tolmači
++#31 tolmačil
+@@ -9540 +9531 @@
+-#31 peredaika
++#31 peredaika, paradika, 
+@@ -9622 +9613 @@
+-#31 bar, phuv
++#31 bhar, phuv
+@@ -9678 +9669 @@
+-#31 certifikatcia kai bar (arendaski)
++#31 certificat kai bhar (arendaski)
+@@ -9692 +9683 @@
+-#31 beršeski taxa kai e bar
++#31 beršeski taxa kai e bhar
+@@ -9838 +9829 @@
+-#31 tonosko mašo, mašo po tono/atuno
++#31 tonosko mašo, mašo po tono
+@@ -9888,14 +9878,0 @@
+-#54 
+-
+-#01  tonnare
+-#31 
+-#02 efterled
+-#32 
+-#04 fartyg som väger x ton
+-#11 100 000 tonnare  n
+-#41 
+-#51 7296
+-#12  tonnaren  tonnarna
+-#14  tån:are
+-#98 17066
+-#99 18942
+@@ -10015 +9992 @@
+-#31 gad bi bajengo/liftiko
++#31 gad bi bajengo
+@@ -10026 +10003 @@
+-#01 topp 
++#01 topp-
+@@ -10066 +10043 @@
+-#37 du lašo san!/manai sar tu!/či mai avesa!
++#37 du lašo san!
+@@ -10068 +10045 @@
+-#11 toppen~jobb  et
++#11 toppen~jobb
+@@ -10141 +10118 @@
+-#31 bazari, piatso, forumo
++#31 basari, piatso, forumo
+@@ -10188 +10165 @@
+-#31 šukimos
++#31 šhukimos
+@@ -10273 +10250 @@
+-#31 šučarimaski mašinka
++#31 šučarimaski mašhinka
+@@ -10451 +10428 @@
+-#31 žoja
++#31 žoija
+@@ -10465 +10442 @@
+-#31 mašo
++#31 mašho
+@@ -10537 +10514 @@
+-#31 phuviako gunoj
++#31 phuvako gonoj
+@@ -10568 +10545 @@
+-#31 kusa, totalnio
++#31 kusa, totalno
+@@ -10663 +10640 @@
+-#31 azbal, azbada
++#31 azbal, azbada, azbaia
+@@ -10702 +10679 @@
+-#54 (pusa bal, bal)
++#54 (pusa bal, bhal)
+@@ -10798 +10775 @@
+-#31 trafikanto, pirimasko
++#31 traficanto, pirimasko
+@@ -10812 +10789 @@
+-#31 trafikil
++#31 traficil
+@@ -10832 +10809 @@
+-#31 trafikosko asuransa, tradimaski garantia
++#31 traficosko azuransa, tradimaski garantia
+@@ -10854 +10831 @@
+-#31 trafikako gazda (shefo)
++#31 traficako gazda (shefo)
+@@ -10865 +10842 @@
+-#31 trafikoske lampi
++#31 traficoki lampori
+@@ -10879 +10856 @@
+-#31 trafikoske plaki (semnuri)
++#31 traficoke plaki (semnori)
+@@ -10893 +10870 @@
+-#31 trafikaki skola
++#31 traficaki skola
+@@ -10904 +10881 @@
+-#31 trafikokso rajbaro
++#31 traficoko rajbaro
+@@ -10988 +10965 @@
+-#31 vurdonoro, revelka, rimorka
++#31 vurdonoro, revelka, trailo
+@@ -10999 +10976 @@
+-#31 trailero/rimorka
++#31 trailero
+@@ -11010 +10987 @@
+-#31 daravel, daraven, činuil, trakaserin
++#31 daravel, daraven, činuil, tracaserin
+@@ -11598 +11575 @@
+-#31 frandokari
++#31 frandukari
+@@ -11635 +11612 @@
+-#31 poniava dirzaki, dirzaki ponavia
++#31 ponava dirzaski, dirzaski ponavia
+@@ -11782 +11759 @@
+-#31 našel, našavel
++#31 našhel, našavel
+@@ -11844 +11821 @@
+-#31 parujimos, parujipe
++#31 parojimos, parojipe
+@@ -11897 +11874 @@
+-#08 tredje världen ("u länderna")
++#08 tredje världen ("u-länderna")
+@@ -11929 +11906 @@
+-#31 trutsomos, trotsiala, kontra
++#31 trotsomos, trotsiala, kontra
+@@ -11940 +11917 @@
+-#31 trotsujipe
++#31 trotsolilpe
+@@ -11963 +11940 @@
+-#31 trianglo, triangelo
++#31 trianglo, triangelo, triunglo
+@@ -11974 +11951 @@
+-#31 trin firtaria, trin furtaria
++#31 trin firtari, trin firturi
+@@ -11991 +11968 @@
+-#31 trencho/gabardina
++#31 trencho
+@@ -12004 +11981 @@
+-#31 raxami/gabardina
++#31 raxami
+@@ -12043 +12020 @@
+-#31 trinalo kher, trine sobensa
++#31 trinalo kher, trine zobensa
+@@ -12054 +12031 @@
+-#31 buči ande trinende
++#31 buči ande trinede
+@@ -12068 +12045 @@
+-#31 treanda, trianda, 
++#31 treanda, trianda, trenda
+@@ -12113 +12090 @@
+-#31 o dešhutrito, po dešutrito
++#31 o dešhotrito, po dešutrito
+@@ -12358 +12335 @@
+-#31 lašarel, zuriarel
++#31 lašarel, zurarel
+@@ -12370 +12347 @@
+-#31 šinel
++#31 skutsol, šinel
+@@ -12450 +12427 @@
+-#31 vazdel opre
++#31 vasdel opre
+@@ -13026 +13003 @@
+-#36 Naprimer Svenska kyrkan, puterde religioni khangera, katolisko, mosaisko ai mai but khangeria.
++#36 Na primer Svenska kyrkan, puterde religioni khangera, katolisko, mosaisko ai mai but khangeria.
+@@ -13046 +13023 @@
+-#31 sa jekh, makar
++#31 sa jek, makar
+@@ -13096 +13073 @@
+-#31 potrujime buntujime
++#31 potrojime buntujime
+@@ -13192 +13169 @@
+-#31 džilori
++#31 žilori
+@@ -13308 +13285 @@
+-#31 akharel andek than
++#31 akharel, akharel andek than
+@@ -13334 +13311 @@
+-#31 trumpeta/tuturiaza
++#31 trumpeta
+@@ -13432 +13409 @@
+-#41 rateski zor/rateski preciona/precia
++#41 rateski zor
+@@ -13458 +13435 @@
+-#31 pečata, pečutime
++#31 pečata, p ečutime
+@@ -13477 +13454 @@
+-#31 zurales, zorasa
++#31 zorales, zorasa
+@@ -13567 +13544 @@
+-#31 presime džela
++#31 presime žela
+@@ -13602 +13579 @@
+-#31 pača, mištimos
++#31 pača, mišhtimos
+@@ -13684 +13661 @@
+-#31 getolpe, lel te del gata, lel te getol
++#31 getolpe, lel te del ghata, lel te getol
+@@ -13905 +13882 @@
+-#31 zurale šeresko, prostovato
++#31 zurale šheresko, prostovato
+@@ -13936 +13913 @@
+-#31 kopači, salka, kašt
++#31 kopači, salka, kašht
+@@ -13975 +13952 @@
+-#31 zjal
++#31 zjal, žal
+@@ -14082 +14059 @@
+-#31 malaves vorta maškaral
++#31 malaves vorta mašhkaral
+@@ -14123 +14100 @@
+-#31 arakhadjovas
++#31 arakhadjovav
+@@ -14139 +14116 @@
+-#31 energisko (či čijol)(čirado)
++#31 energisko (či čijol)
+@@ -14150 +14127 @@
+-#31 slavo
++#31 slavo, robo
+@@ -14193 +14170 @@
+-#31 instructoro
++#31 instructuro
+@@ -14297 +14274 @@
+-#31 dorisarel
++#31 dorisarel, dorisardem
+@@ -14369 +14346 @@
+-#31 kaštuni papuka, tofla
++#31 kaštuni papuca, tofla
+@@ -14419 +14396 @@
+-#31 vušharavel, nakavel
++#31 vušharavel, nackavel
+@@ -14643 +14620 @@
+-#31 čijarel
++#31 čijarel, čijarel
+@@ -14722 +14699 @@
+-#01 T shirt
++#01 T-shirt
+@@ -14798 +14775 @@
+-#31 thuba (instrumento djilako)
++#31 thuba (instrumento djilasko)
+@@ -14826 +14803 @@
+-#31 bi darano, bi darako, barimatango
++#31 bi darano, bi darako, bharimatango
+@@ -14842 +14819 @@
+-#31 šukar, moderno, 
++#31 šhukar, moderno, 
+@@ -14875 +14852 @@
+-#31 barimatango, barikano
++#31 bharimatango, barikano
+@@ -14889 +14866 @@
+-#31 barimatango, barimango
++#31 bharimatango, bharimango
+@@ -15026 +15003 @@
+-#31 granitsako rajbaro
++#31 granitsasko rajbaro (ketana)
+@@ -15039 +15016 @@
+-#31 luludji tulpani
++#31 lolodji tulpani
+@@ -15056 +15033 @@
+-#31 musura/mizura
++#31 muzura/mizura
+@@ -15173 +15150 @@
+-#31 čingar, bunto
++#31 čingar, buntho
+@@ -15273 +15250 @@
+-#31 muto, mutsol, bi šibako
++#31 muto, mutsol, bi šhibako
+@@ -15356 +15333 @@
+-#31 sane, sanes, šukes
++#31 sane, sanes, šhukes
+@@ -15446 +15423 @@
+-#31 djedješ forosko, pudrumosko žežeš, metro
++#31 djedješ forosko, pudrumosko djedješ/žežeš, metro
+@@ -15463 +15440 @@
+-#31 phuv, bar pe muzura
++#31 phuv, bhar pe muzura
+@@ -15487 +15464 @@
+-#31 tope, thodine bal/piluka
++#31 tope, thodine bal
+@@ -15682 +15659 @@
+-#31 turistosko birou, turisitosko informatsiako kher
++#31 turistoco birou, turisitoco informatsiako kher
+@@ -15713 +15690 @@
+-#99 Â 
++#99 Â 
+@@ -15728 +15705 @@
+-#31 turkisko šib
++#31 kurkisko šib
+@@ -15735 +15712 @@
+-#99 Â 
++#99 Â 
+@@ -15746 +15723 @@
+-#99 Â 
++#99 Â 
+@@ -16033,2 +16010,2 @@
+-#01 tv avgift
+-#31 tevesko počinimos
++#01 tv-avgift
++#31 tv počinimos
+@@ -16047 +16024 @@
+-#01 tve 
++#01 tve-
+@@ -16202 +16179 @@
+-#31 bilal
++#31 bilal, biljal
+@@ -16268 +16245 @@
+-#31 čingar, konflikto, diskutsia
++#31 čingar, konflicto, diskutsia
+@@ -16369 +16346 @@
+-#01 TV licens
++#01 TV-licens
+@@ -16425 +16402 @@
+-#31 bicikleta
++#31 bicecleta
+@@ -16461 +16438 @@
+-#31 pe sila, pe zor, pe musaj
++#31 pe zila, pe zor, pe musaj
+@@ -16511 +16488 @@
+-#31 phanglimasko špenčo, gad (se54)
++#31 phanglimasko spenso, ghad (se54)
+@@ -16540 +16517 @@
+-#31 duj sobi, duje sobensa
++#31 duj zobi, duje zobensa
+@@ -16551 +16528 @@
+-#31 buči ande donde, duj buca
++#31 buci ande donde, duj buca
+@@ -16562 +16539 @@
+-#31 duje šibengo
++#31 duje šibango
+@@ -16611 +16588 @@
+-#31 maškaraki vulitsa/rigaki vulitca
++#31 maškaraki vulitsa
+@@ -16650 +16627 @@
+-#31 direkto ašadas, direkt stop
++#31 direkto ašada s, direkt stop
+@@ -16822 +16799 @@
+-#31 soba kai xalavelpe gada
++#31 zoba kai xalavelpe ghada
+@@ -16836 +16813 @@
+-#31 tazo thojimasko
++#31 thazo thojimasko
+@@ -16850 +16827 @@
+-#31 te, ke,
++#31 te, khe,
+@@ -16947 +16924 @@
+-#31 miazol, mizilpe
++#31 miazol, mezolpe
+@@ -16962 +16939 @@
+-#31 tolmačil
++#31 tolmačil, tolmatjil
+@@ -16977 +16954 @@
+-#31 sikavel, sikadjol pe, dičolpe
++#31 sikavel, sikadjol pe, dičolpe, ditjolpe
+@@ -17181 +17158 @@
+-#31 presuil, phariarel
++#31 presoil, phararel
+@@ -17242 +17219 @@
+-#31 sa jekh fialo, tipiko
++#31 sa ek fialo, tipiko
+@@ -17284 +17261 @@
+-#31 firilpe, našel
++#31 firilpe s, našhel
+@@ -17310 +17287 @@
+-#31 niamtso, niamtsisko, prajzano, njamtsari
++#31 njamtso, njamtsisko, prajzano, njamtsari
+@@ -17343 +17320 @@
+-#31 miro, tjixo,čixo
++#31 miro, mirno, tjixo
+@@ -17378 +17355 @@
+-#31 ašavel
++#31 ašavel, ašhav
+@@ -17419 +17396 @@
+-#31 naj voja te purin
++#31 naj voja te porin
+@@ -17433 +17410 @@
+-#31 ašel
++#31 ašel, ašhav
+@@ -17545 +17522 @@
+-#31 revdil, revdiv
++#31 revdil, revdiv, toleril, toleriv, toleris
+@@ -17564 +17541 @@
+-#31 revdil
++#31 revdil, toleril
+@@ -17612 +17589 @@
+-#31 revdil/bari ravda 
++#31 Revdil/bari ravda 
+@@ -17792 +17769 @@
+-#31 vušaravel
++#31 vušaravel, vušharav
+@@ -17819 +17796 @@
+-#54 si dosta?
++#54 si dosta??si pe došta
+@@ -17822 +17799 @@
+-#31 phurengi raxami,/ivendeski raxami
++#31 phurengi raxami, bunda phurengi
+@@ -17858 +17835 @@
+-#31 garantia 
++#31 garantia ()
+@@ -17970 +17947 @@
+-#31 briketo,mečero,jagako,žapanitška
++#31 briketo,mečero,jagako, sapanitška
+@@ -18135 +18112 @@
+-#31 šajke, kam, faima ,amborim
++#31 šajke, kham, faima,amborim
+@@ -18169 +18146 @@
+-#11 tänkandet
++#11 tänkande  t
+@@ -18185 +18162 @@
+-#37 me site žavtar akana
++#37 me ste žavtar akana
+@@ -18335 +18312 @@
+-#31 činujime, nasvalo, avri slabome
++#31 cinujime, nasvalo, avri slabome
+@@ -18346 +18323 @@
+-#54 avri šutjardo, mudardo, manaj kanči anda les
++#54 avri šutjardo, mudardo, manaj kanci anda les
+@@ -18528 +18505 @@
+-#31 kursa
++#31 cursa
+@@ -18545 +18522 @@
+-#31 pe kursa
++#31 pe cursa
+@@ -18556 +18533 @@
+-#11 tävlanden
++#11 tävlande  n
+@@ -18566 +18543 @@
+-#31 kursa
++#31 cursa
+@@ -18623 +18600 @@
+-#31 kai tsirdel pe avri
++#31 kai tsirdel pes avri
+@@ -18699 +18676 @@
+-#31 čaplado, prostovato, diloro
++#31 čaplado, prostovato, diloro, tjaplado
+@@ -18712 +18689 @@
+-#31 prosto
++#31 dilivanes, prosto
+@@ -18724 +18701 @@
+-#01 törn/kanro
++#01 törn
+@@ -18762 +18739 @@
+-#31 kanre
++#31 khanre
+@@ -18789 +18766 @@
+-#31 truš
++#31 trušh
+@@ -18805 +18782 @@
+-#31 trušalo
++#31 trušhalo
+@@ -18862 +18838,0 @@
+-
