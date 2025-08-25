@@ -569,8 +569,66 @@ Eter lite emacsslöjd:
 Kollar lite detaljer:
 
 
+** <2025-08-25 Mon>
+
+*** De 524 transtoolorden
+Här vet jag inte alls hur jag ska göra. Det är väldigt många
+parametrar!
+
+Det mest konkreta hittill är Jacobs förslag att filtrera fram de
+översatta svenska orden och slå upp dem i typ somaliska för att se att
+de finns i ordbas 3.
+
+*** Checkar av de ofullkommligheter som Viggo upptäckte för några år sedan:
+
+**** Alla ord mellan slipover och snusar saknas.
+
+**** Ord som inte finns kvar i svenska ordbasen:
+SAF
+serbo~kroatisk
+serbo~kroatiska
+SIV
+SJ
+sjuk~bidrag
+skydds~konsulent
+SOS
+SR-koncernen
+Statens invandrarverk (SIV)
+Statens vägverk
+Svenska Arbetsgivareföreningen
+
+**** Felstavningar:
+#01 sensitivet
+-->
+#01 sensitivitet
+
+#01 själ lös
+-->
+#01 själlös
+
+#01 spekulrar
+-->
+#01 spekulerar
+
+#11 stipendie~u elning -en
+-->
+#11 stipendie~utdelning -en
+
+#07 ett tvåårigt straff u ömdes
+-->
+#07 ett tvåårigt straff utdömdes
+
+#07 verksamheten sponsras av Volvo
+#37 o inkeripe sponsoril o Volvo
+-->
+#07 verksamheten sponsras av xxxx
+#37 o inkeripe sponsoril o xxxx
 
 
+**** Fel fält: 
+#38 är översättning av idiom, och det får inte förekomma om det inte finns ett svenskt idiom före. Här kommer #38 efter #04 som är ordförklaring:
+#04 spott och spe ("hån")
+#38 čungar ai prasape,
 
 
 
