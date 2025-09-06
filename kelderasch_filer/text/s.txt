@@ -24999,8 +24999,8 @@
 #02 verb
 #32 
 #04 vara sponsor (för)
-#07 verksamheten sponsras av Volvo
-#37 o inkeripe sponsoril o Volvo
+#07 verksamheten sponsras av xxxx
+#37 o inkeripe sponsoril o xxxx
 #47 9579
 #10 A & B/x
 #11 sponsring
