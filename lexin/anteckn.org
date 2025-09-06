@@ -581,7 +581,44 @@ de finns i ordbas 3.
 
 *** Checkar av de ofullkommligheter som Viggo upptäckte för några år sedan:
 
-**** Alla ord mellan slipover och snusar saknas.
+**** DONE Alla ord mellan slipover och snusar saknas.
+<2025-09-06 Sat>
+
+#+begin_src bash
+grep '<Word '  ../../lexinextra-dictionaries/dictionaries/combined/swe_fin.xml | \
+perl -nE '/Value="(.*?)"/ and say $1' | \
+raku -e '$*IN.slurp.match(/"slipover" \s*? <(.+?)> "snusar"/).Str.say' | \
+egrep -v '^\s*$' > slipover-snusar_swefin
+#+end_src
+
+Sen lite slöjande av resultatfilen till:
+#+begin_src 
+#01 sned
+#01 snedsprång
+#01 snedsteg
+#01 snedstreck
+#01 snedtänder
+#01 sned~vrider
+...
+#+end_src
+
+Och:
+#+begin_src bash
+cd ../kelderasch_filer/text/
+fgrep -f../../lexin/slipover-snusar_swefin * 
+#+end_src
+
+som ger:
+#+begin_src 
+s.txt:#01 snusar
+s.txt:#01 snus~förnuftig
+s.txt:#01 snusk
+s.txt:#01 snusk~hummer
+s.txt:#01 snuskig
+s.txt:#01 snus~torr
+#+end_src
+
+Alltså inga ord mellan /slipover/ och /snusar/ gömda på fel ställle.
 
 **** Ord som inte finns kvar i svenska ordbasen:
 SAF
