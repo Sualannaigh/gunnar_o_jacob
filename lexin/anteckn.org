@@ -634,28 +634,29 @@ Statens invandrarverk (SIV)
 Statens vägverk
 Svenska Arbetsgivareföreningen
 
-**** Felstavningar:
-#01 sensitivet
+**** DONE Felstavningar:
+
+***** DONE #01 sensitivet
 -->
 #01 sensitivitet
 
-#01 själ lös
+***** DONE #01 själ lös
 -->
 #01 själlös
 
-#01 spekulrar
+***** DONE #01 spekulrar
 -->
 #01 spekulerar
 
-#11 stipendie~u elning -en
+***** DONE #11 stipendie~u elning -en
 -->
 #11 stipendie~utdelning -en
 
-#07 ett tvåårigt straff u ömdes
+***** DONE #07 ett tvåårigt straff u ömdes
 -->
 #07 ett tvåårigt straff utdömdes
 
-#07 verksamheten sponsras av Volvo
+***** DONE #07 verksamheten sponsras av Volvo
 #37 o inkeripe sponsoril o Volvo
 -->
 #07 verksamheten sponsras av xxxx

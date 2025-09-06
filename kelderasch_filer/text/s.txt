@@ -5300,7 +5300,7 @@
 #99 15234
 #54 
 
-#01 sensitivet
+#01 sensitivitet
 #31 baro dukhado, baro hačarimasko
 #02 subst.
 #32 
@@ -9110,7 +9110,7 @@
 #99 15483
 #54 
 
-#01 själ lös
+#01 själlös
 #31 bi ožako
 #02 adj.
 #32 
@@ -23810,7 +23810,7 @@
 #99 16851
 #54 
 
-#01 spekulrar
+#01 spekulerar
 #31 gindil, špekulazil
 #02 verb
 #32 
@@ -30081,7 +30081,7 @@
 #07 få stipendium
 #37 
 #47 9763
-#11 stipendie~u elning -en
+#11 stipendie~utdelning -en
 #41 stipendijako avri hulajipe
 #51 6744
 #12 stipendiet stipendier
