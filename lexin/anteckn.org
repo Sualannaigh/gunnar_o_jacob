@@ -499,7 +499,7 @@ De långa raderna i d är inget syntaaxproblem utan bara väldigt
 babbliga förklaringar.
 
 ** <2025-08-24 Sun>
-Innan jag började prata meed Viggo iigen vile jag ha lite bättre
+Innan jag började prata med Viggo igen ville jag ha lite bättre
 koll på skillnaderna melllan de olika materialen igen:
 
 #+begin_src bash
@@ -567,11 +567,13 @@ Eter lite emacsslöjd:
 
 
 Kollar lite detaljer:
+- Så gott som alltid skillnader i översättningar. Mestaadels
+  grafematiska skillnader.
 
 
 ** <2025-08-25 Mon>
 
-*** De 524 transtoolorden
+*** DONE De 524 transtoolorden
 Här vet jag inte alls hur jag ska göra. Det är väldigt många
 parametrar!
 
@@ -579,7 +581,10 @@ Det mest konkreta hittill är Jacobs förslag att filtrera fram de
 översatta svenska orden och slå upp dem i typ somaliska för att se att
 de finns i ordbas 3.
 
-*** Checkar av de ofullkommligheter som Viggo upptäckte för några år sedan:
+<2025-09-08 Mon>
+Dessa ord bestämde vi i förra veckan att vi skullle ignorera.
+
+*** DONE Checkar av de ofullkommligheter som Viggo upptäckte för några år sedan:
 
 **** DONE Alla ord mellan slipover och snusar saknas.
 <2025-09-06 Sat>
@@ -620,19 +625,21 @@ s.txt:#01 snus~torr
 
 Alltså inga ord mellan /slipover/ och /snusar/ gömda på fel ställle.
 
-**** Ord som inte finns kvar i svenska ordbasen:
-SAF
-serbo~kroatisk
-serbo~kroatiska
-SIV
-SJ
-sjuk~bidrag
-skydds~konsulent
-SOS
-SR-koncernen
-Statens invandrarverk (SIV)
-Statens vägverk
-Svenska Arbetsgivareföreningen
+**** DONE Ord som inte finns kvar i svenska ordbasen:
+Ta bort!
+
+***** DONE SAF
+***** DONE serbo~kroatisk
+***** DONE serbo~kroatiska
+***** DONE SIV
+***** DONE SJ
+***** DONE sjuk~bidrag
+***** DONE skydds~konsulent
+***** DONE SOS
+***** DONE SR-koncernen
+***** DONE Statens invandrarverk (SIV)
+***** DONE Statens vägverk
+***** DONE Svenska Arbetsgivareföreningen
 
 **** DONE Felstavningar:
 
@@ -662,11 +669,11 @@ Svenska Arbetsgivareföreningen
 #07 verksamheten sponsras av xxxx
 #37 o inkeripe sponsoril o xxxx
 
-
-**** Fel fält: 
+**** DONE Fel fält: 
 #38 är översättning av idiom, och det får inte förekomma om det inte finns ett svenskt idiom före. Här kommer #38 efter #04 som är ordförklaring:
 #04 spott och spe ("hån")
 #38 čungar ai prasape,
+
 
 
 

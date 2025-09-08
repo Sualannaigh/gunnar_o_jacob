@@ -236,19 +236,6 @@
 #99 14890
 #54 
 
-#01 SAF
-#31 SAF
-#02 förk.
-#32 
-#04 Svenska Arbetsgivareföreningen
-#06 Den största organisationen för privata arbetsgivare i Sverige.
-#36 E majbari organizacia pe privatni bučake dinitora ando Švedo.
-#14 saf:
-#98 13431
-#99 14891
-#54 
-#97 mini
-
 #01 safari
 #31 safari
 #02 subst.
@@ -5557,28 +5544,6 @@
 #99 15252
 #54 
 
-#01 serbo~kroatisk
-#31 serbokroatiko
-#02 adj.
-#32 
-#04 som avser serbokroatiskan
-#12 -kroatiskt -kroatiska
-#14 2sÄr:bokroa:tisk
-#98 13769
-#99 15253
-#54 
-
-#01 serbo~kroatiska
-#31 serbokroatiska
-#02 subst.
-#32 
-#04 serbernas och kroaternas språk i f.d Jugoslavien
-#12 -kroatiskan
-#14 2sÄrbokroa:tiska
-#98 13770
-#99 15254
-#54 
-
 #01 serenad
 #31 djiliaki pačiv
 #02 subst.
@@ -8144,29 +8109,6 @@
 #54 
 #97 mini
 
-#01 SIV
-#31 
-#02 se Statens Invandrarverk
-#32 
-#14 esi:vE:
-#98 13910
-#99 15419
-#54 
-#97 mini
-
-#01 SJ
-#31 SJ
-#02 förk.
-#32 
-#04 Statens Järnvägar
-#06 Affärsdrivande statligt verk som bedriver person- och godstrafik med tåg, bussar och färjor.
-#36 
-#14 2Esji:
-#98 13911
-#99 15420
-#54 Statosko žežešeske šinengo drom SG
-#97 mini
-
 #01 sjabbel
 #31 bi samalinipe
 #02 subst.
@@ -8429,22 +8371,6 @@
 #98 13927
 #99 15437
 #54 
-
-#01 sjuk~bidrag
-#31 nasvalengo žutipe
-#02 subst.
-#32 
-#04 en tidsbegränsad förmån inom pensionsförsäkringen för den som är mellan 16 och 65 år
-#06 Man kan få sjukbidrag om förmågan att arbeta är nedsatt med minst hälften och nedsättningen ser ut att bestå en längre tid (minst ett år men inte varaktigt).
-#36 
-#09 jfr ^förtidspension^
-#39 
-#12 -bidraget -bidrag -bidragen
-#14 2$U:kbi:dra:g
-#98 13928
-#99 15438
-#54 
-#97 mini
 
 #01 sjukdom
 #31 nasvalipe
@@ -16748,20 +16674,6 @@
 #54 
 #97 mini
 
-#01 skydds~konsulent
-#31 
-#02 subst.
-#32 
-#04 tjänsteman som har hand om frivården inom kriminalvården
-#06 Skyddskonsulenter finns på de flesta större orter och de har stor hjälp av frivilliga övervakare.
-#36 
-#12 -konsulenten -konsulenter
-#14 2$Yd:skånsulen:t
-#98 14446
-#99 16004
-#54 
-#97 mini
-
 #01 skydds~lag
 #31 žutimasko zakono
 #02 subst.
@@ -22518,21 +22430,6 @@
 #99 16762
 #54 sortimento
 
-#01 SOS
-#31 SOS
-#02 förk.
-#32 
-#04 Samhällets olycks- och säkerhetstjänst
-#06 SOS nås genom telefonnumret 112, dit man kan ringa om man behöver få hjälp av t ex ambulans, brandkår eller polis.
-#36 SOS arakhelpe opral telefono 112, khote šaj te vorbilpe te lelpe žutipe sar ambulancia, jagake mudaritora thaj šingale.
-#09 bild 4:8
-#39 
-#14 eso:Es:
-#98 15146
-#99 16763
-#54 
-#97 mini
-
 #01 sosse
 #31 social demokrato
 #02 subst.
@@ -25213,7 +25110,7 @@
 #02 subst.
 #32 
 #08 spott och spe ("hån")
-#38 čungar ai prasape,
+#38 čungar ai prasape
 #48 1459
 #12 spottet (el. spotten)
 #14 spåt:
@@ -26998,19 +26895,6 @@
 #54 
 #97 mini
 
-#01 SR-koncernen
-#31 SR-koncerno
-#02 förk.
-#32 
-#04 Sveriges Radio-koncernen
-#06 I denna koncern ingår Sveriges Television AB, Sveriges Riksradio AB, Sveriges Lokalradio AB, Sveriges Utbildningsradio AB.
-#36 
-#14 2Es:är:
-#98 15415
-#99 17063
-#54 Svedosko Radiosko khetanipe
-#97 mini
-
 #01 st
 #31 kotora
 #02 förk.
@@ -28201,19 +28085,6 @@
 #99 17140
 #54 
 
-#01 Statens invandrarverk (SIV)
-#31 Themeski migraciako than,
-#02 namn
-#32 
-#04 central förvaltningsmyndighet för utlännings-, invandrar- och medborgarskapsfrågor
-#06 Statens invandrarverk (SIV) prövar ansökningar om visum, uppehålls- och arbetstillstånd samt medborgarskap.
-#36 
-#14 stA:tens 2In:vandrarvär:k
-#98 15481
-#99 17141
-#54 
-#97 mini
-
 #01 Statens järnvägar
 #31 
 #02 se SJ
@@ -28232,18 +28103,6 @@
 #14 stA:tens 2natU:rvå:r+dsvär:k
 #98 15483
 #99 17143
-#54 
-#97 mini
-
-#01 Statens vägverk
-#31 Themesko dromesko than
-#02 namn
-#32 
-#06 Ett statligt ämbetsverk som har ansvar för vägar.
-#36 
-#14 stA:tens 2vÄ:gvär:k
-#98 15484
-#99 17144
 #54 
 #97 mini
 
@@ -39331,15 +39190,6 @@
 #99 17877
 #54 
 #97 mini
-
-#01 Svenska Arbetsgivareföreningen
-#31 
-#02 se SAF
-#32 
-#14 2svEn:ska 2Ar:be:tsji:var(e)före:ni@en
-#98 16121
-#99 17878
-#54 
 
 #01 Svenska institutet
 #31 Švedosko instituto
