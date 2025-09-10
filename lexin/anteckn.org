@@ -742,3 +742,24 @@ Gunnar
 
 
 
+** <2025-09-10 Wed>                                            :omflyttning:
+Jag har flyttat runt en del filer och kataloger till en ny katalog
+=lexin/kelderasch=. Detta ger en struktur som nedan:
+#+begin_src bash :results raw
+cd ..
+tree -d
+#+end_src
+
+#+RESULTS:
+: .
+: └── lexin
+:     └── kelderasch
+:         ├── diff
+:         ├── kelderasch_filer
+:         │   └── text
+:         └── swe_kal
+: 
+: 6 directories
+
+Detta ger till följ att många/alla sökvägar refererade ovan i
+anteckningarna kan vara felaktiga och måste korrigeras!
