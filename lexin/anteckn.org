@@ -1,4 +1,6 @@
-* <2025-04-09 Wed> GE                                                :frågor:
+
+* kelderasch
+** <2025-04-09 Wed> GE                                              :frågor:
 
 1. Behöver det färdiga lexikonet verkligen passera genom transtool och
    därmmed vara beroende av de begränsningar som ordbasen där ger? Eller
@@ -14,7 +16,7 @@
    - idiom
    - annat?
      
-* <2025-04-17 Thu> GE
+** <2025-04-17 Thu> GE
 Lite kollar på täckningen för aktuell lexin sv-uppslag (unnder S) i
 kelderashdaata:
 
@@ -100,7 +102,7 @@ swe_swe (igen):
 :  200       "Status": "no unique matching"
 :   45       "Status": "no matching"
 
-* <2025-04-29 Tue>╭                                              :viggo_json:
+** <2025-04-29 Tue>                                             :viggo_json:
 Jag hade problem med att få körning mot =LSL3= dvs. =swe_fin= att gå
 igenom. Efter ganska mycket letande hittade jag det i brister i den
 json som produceras av lexins (json)-API.
@@ -126,7 +128,7 @@ den escapade motsvarigheten, men ska kontakta Viggo i ärendet,
 fler kan ju få problem, exempelvis =lexin.se= som vad jag förstår
 använder json-apiet ....
 
-* <2025-05-07 Wed>
+** <2025-05-07 Wed>
 Jag hittar allt fler fall där sökningar på det svenska uppslaget inte
 ger det svar (beträffande ID och VariantID) som på nåt
 tillfredställande sätt motsvarar informationen i
@@ -149,7 +151,7 @@ for f in  ../kelderasch_filer/*.json; do  cat $f | raku -MJSON::Fast -e 'for $*I
    2407
 #+end_src
 
-* <2025-05-14 Wed> GE                                                 :Viggo:
+** <2025-05-14 Wed> GE                                               :Viggo:
 
 Viggo berättade att haan redan gjort en parser för "radformatet" och
 producerat en xmlfil. Dock hittade han då ett antal fel i indata:
@@ -175,7 +177,7 @@ de saknade orden:
 
 Alltså 367 ord.
 
-* <2025-05-15 Thu> GE
+** <2025-05-15 Thu> GE
 Jag har diffat lite impressionistiskt på Viggos fil
 =lexinextra/dictionaries/swe_kal.txt= och våra/Bakis filer och tycker
 mig se skilllnader åt båda håll. Alltså "våra" verkar bättre/nyare
@@ -307,17 +309,16 @@ False
 : More
 : More
 
-* <2025-05-28 Wed> GE                                                 :Viggo:
+** <2025-05-28 Wed> GE                                               :Viggo:
 Lite mer konversation med Viggo:
 
-* <2025-06-12 Thu>
+** <2025-06-12 Thu>
 småstartat diffning genmot Viggos swe_kal.txt:
 #+begin_src bash
 cat swe_kal.txt | head -100 | raku -e '$*IN.slurp.split(/^^[\h*\n]+/).map: { my %h = do for .split(/\h*\n\h*/, :skip-empty) -> $r {  my ($k, $v) = $r.split: /\h+/, 2; $k => $v }; dd %h}'
 #+end_src
 
-
-* <2025-06-25 Wed>
+** <2025-06-25 Wed>
 Viggo:
 
 Här är den beskrivning av formatet som jag hittade. Förmodligen används inte alla koder i det aktuella lexikonet.
@@ -441,12 +442,12 @@ strukturella fel (jag har några från Viggofillen) och sen leverera
 innehållet som det ser ut nu.
 #+end_quote
 
-* <2025-08-13 Wed>
+** <2025-08-13 Wed>                                               :leverans:
 Igång igen efter sommmaren. Det verkar efter funderingar på
 ovanstående under sommaren som att det är exakt det skisserade som
 ska göras. 
 
-** DONE ny textkonvertering (med soffice)
+*** DONE ny textkonvertering (med soffice)
 Detta för att alla tomrader verkar ha försvunnit i förra (pandoc-?)
 konverteringen.
 #+begin_src bash
@@ -498,7 +499,7 @@ file kelderasch_filer/text/*.txt
 De långa raderna i d är inget syntaaxproblem utan bara väldigt
 babbliga förklaringar.
 
-** <2025-08-24 Sun>
+*** <2025-08-24 Sun>
 Innan jag började prata med Viggo igen ville jag ha lite bättre
 koll på skillnaderna melllan de olika materialen igen:
 
@@ -571,9 +572,9 @@ Kollar lite detaljer:
   grafematiska skillnader.
 
 
-** <2025-08-25 Mon>
+*** <2025-08-25 Mon>
 
-*** DONE De 524 transtoolorden
+**** DONE De 524 transtoolorden
 Här vet jag inte alls hur jag ska göra. Det är väldigt många
 parametrar!
 
@@ -584,9 +585,9 @@ de finns i ordbas 3.
 <2025-09-08 Mon>
 Dessa ord bestämde vi i förra veckan att vi skullle ignorera.
 
-*** DONE Checkar av de ofullkommligheter som Viggo upptäckte för några år sedan:
+**** DONE Checkar av de ofullkommligheter som Viggo upptäckte för några år sedan:
 
-**** DONE Alla ord mellan slipover och snusar saknas.
+***** DONE Alla ord mellan slipover och snusar saknas.
 <2025-09-06 Sat>
 
 #+begin_src bash
@@ -625,80 +626,119 @@ s.txt:#01 snus~torr
 
 Alltså inga ord mellan /slipover/ och /snusar/ gömda på fel ställle.
 
-**** DONE Ord som inte finns kvar i svenska ordbasen:
+***** DONE Ord som inte finns kvar i svenska ordbasen:
 Ta bort!
 
-***** DONE SAF
-***** DONE serbo~kroatisk
-***** DONE serbo~kroatiska
-***** DONE SIV
-***** DONE SJ
-***** DONE sjuk~bidrag
-***** DONE skydds~konsulent
-***** DONE SOS
-***** DONE SR-koncernen
-***** DONE Statens invandrarverk (SIV)
-***** DONE Statens vägverk
-***** DONE Svenska Arbetsgivareföreningen
+****** DONE SAF
+****** DONE serbo~kroatisk
+****** DONE serbo~kroatiska
+****** DONE SIV
+****** DONE SJ
+****** DONE sjuk~bidrag
+****** DONE skydds~konsulent
+****** DONE SOS
+****** DONE SR-koncernen
+****** DONE Statens invandrarverk (SIV)
+****** DONE Statens vägverk
+****** DONE Svenska Arbetsgivareföreningen
 
-**** DONE Felstavningar:
+***** DONE Felstavningar:
 
-***** DONE #01 sensitivet
+****** DONE #01 sensitivet
 -->
 #01 sensitivitet
 
-***** DONE #01 själ lös
+****** DONE #01 själ lös
 -->
 #01 själlös
 
-***** DONE #01 spekulrar
+****** DONE #01 spekulrar
 -->
 #01 spekulerar
 
-***** DONE #11 stipendie~u elning -en
+****** DONE #11 stipendie~u elning -en
 -->
 #11 stipendie~utdelning -en
 
-***** DONE #07 ett tvåårigt straff u ömdes
+****** DONE #07 ett tvåårigt straff u ömdes
 -->
 #07 ett tvåårigt straff utdömdes
 
-***** DONE #07 verksamheten sponsras av Volvo
+****** DONE #07 verksamheten sponsras av Volvo
 #37 o inkeripe sponsoril o Volvo
 -->
 #07 verksamheten sponsras av xxxx
 #37 o inkeripe sponsoril o xxxx
 
-**** DONE Fel fält: 
+***** DONE Fel fält: 
 #38 är översättning av idiom, och det får inte förekomma om det inte finns ett svenskt idiom före. Här kommer #38 efter #04 som är ordförklaring:
 #04 spott och spe ("hån")
 #38 čungar ai prasape,
 
 
+*** <2025-09-10 Wed>                                            :leverrans:
+Efter avklarat manuellt redigeringsarbete ovan dags för leverans:
 
+#+begin_src bash
+cd  ../../../lexinextra/dictionaries/
+cp -pr ../../aktuella_proj/gunnar_o_jacob/kelderasch_filer/text swe_kal-text-250910
+svn add swe_kal-text-250910/
+svn ci -m 'swe_kal-filer för lexinimport' swe_kal-text-250910/
 
+#+end_src
 
+#+begin_src 
+dding         swe_kal-text-250910
+Adding         swe_kal-text-250910/a.txt
+Adding         swe_kal-text-250910/b.txt
+Adding         swe_kal-text-250910/c.txt
+Adding         swe_kal-text-250910/d.txt
+Adding         swe_kal-text-250910/e.txt
+Adding         swe_kal-text-250910/f.txt
+Adding         swe_kal-text-250910/g.txt
+Adding         swe_kal-text-250910/h.txt
+Adding         swe_kal-text-250910/i.txt
+Adding         swe_kal-text-250910/j.txt
+Adding         swe_kal-text-250910/k.txt
+Adding         swe_kal-text-250910/l.txt
+Adding         swe_kal-text-250910/m.txt
+Adding         swe_kal-text-250910/n.txt
+Adding         swe_kal-text-250910/o.txt
+Adding         swe_kal-text-250910/p.txt
+Adding         swe_kal-text-250910/q.txt
+Adding         swe_kal-text-250910/r.txt
+Adding         swe_kal-text-250910/s.txt
+Adding         swe_kal-text-250910/t.txt
+Adding         swe_kal-text-250910/u.txt
+Adding         swe_kal-text-250910/v.txt
+Adding         swe_kal-text-250910/w.txt
+Adding         swe_kal-text-250910/x.txt
+Adding         swe_kal-text-250910/y.txt
+Adding         swe_kal-text-250910/z.txt
+Adding         swe_kal-text-250910/ä.txt
+Adding         swe_kal-text-250910/å.txt
+Adding         swe_kal-text-250910/ö.txt
+Transmitting file data .............................done
+Committing transaction...
+Committed revision 237.
+#+end_src
 
+Brev till Viggo:
+#+begin_quote
+Hejsan!
 
+Nu har jag checkat in lexinextra/dictionaries/swe_kal-text-250910/ för
+fortsatt processning. Dom ansvariga ber mig poängtera att det av
+intern- och språkpolitiska skäl är viktigt att arli- och
+kelderaschmaterialen offentliggörs/publiceras samtidigt, så det är bra
+om detta material inte blir tillgängligt externt riktigt ännu om det
+är ok.
 
+Vi fortsätter nu med att exportera ett fräscht arlilexikon ur Bakis
+privata transtoolinstans. (Om vi kommer ihåg hur man gör ...)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Gunnar
+#+end_quote
 
 
 
