@@ -756,10 +756,92 @@ tree -d
 :     └── kelderasch
 :         ├── diff
 :         ├── kelderasch_filer
-:         │   └── text
+:         │   └── text
 :         └── swe_kal
 : 
 : 6 directories
 
 Detta ger till följ att många/alla sökvägar refererade ovan i
 anteckningarna kan vara felaktiga och måste korrigeras!
+
+** <2025-09-18 Thu>
+Viggos svar på "leveransmejlet" ovan <2025-09-13 Sat>:
+
+#+begin_quote
+Jag har gått igenom kelderashfilerna och rättat alla återstående fel i
+länkningen till svenska ordbasen, vilket fortfarande var väldigt
+många. Till exempel hade bindestreck försvunnit. Jag har lagt in en
+testversion av ordlista på testservern så att ni kan kolla på det:
+https://folkets5.sys.kth.se/lexin/ (sist i språklistan).
+
+Det är 3078 ord av 21624 ord i svenska ordbasen som saknar
+översättning, bland annat ett stort antal vanliga ord på b (bra, brak,
+brand, bredd, brist, bro, broms, brott). Jag tror att många användare
+kommer att tycka att ordboken därför är ofullständig. Jag har samlat
+alla ord som saknar översättning i swe_kal-text-250910/oöversatta.txt
+Om översättare ska jobba vidare med materialet MÅSTE dom jobba i min
+rättade version swe_kal-text-250910/kal.txt Jag tänker inte gå igenom
+och rätta alla felaktigheter för hand i det gamla materialet en gång
+till!
+
+När lexikonet läggs upp i Lexin behöver jag följande
+information: 
+- Svenskt namn på språket (kelderash, kalderash eller
+  kelderasch?)
+- Adjektivform för språket (kelderashisk?)
+- Namn på översättaren/översättarna
+- Namn på granskaren
+#+end_quote
+
+** <2025-09-18 Thu>
+Med anledning av de oöversatta orden nämnda i Viggos svar ovan börjar
+jag kolla nedan om det finns några spår i våra material efter dem.
+
+*** antal oöversatta per initialbokstav
+#+begin_src bash
+# svn up .../lexinextra/dictionaries
+cat ../../lexinextra-dictionaries/dictionaries/swe_kal-text-250910/oöversatta.txt | cut -f2 -d' ' | raku -ne '.substr(0,1).uc.say' | uniq -c
+#+end_src
+
+#+RESULTS:
+| 341 | A |
+| 516 | B |
+|  10 | C |
+|  44 | D |
+|  11 | E |
+| 186 | F |
+|  44 | G |
+|  27 | H |
+|  23 | I |
+|  15 | J |
+| 287 | K |
+| 159 | L |
+| 167 | M |
+| 113 | N |
+| 150 | O |
+| 304 | P |
+| 118 | R |
+| 393 | S |
+|  65 | T |
+|  18 | U |
+|  63 | V |
+|   4 | Y |
+|   5 | Å |
+|   3 | Ä |
+|  23 | Ö |
+
+*** "halvöversatta" polysemer och helt oöversatta uppslag
+#+begin_src baash
+cat ../../lexinextra-dictionaries/dictionaries/swe_kal-text-250910/oöversatta.txt | raku -ne 'say .trim ~ q<\s*$>' > /tmp/oöver.regex 
+#+end_src
+
+#+begin_src bash
+egrep -h -A1  -f /tmp/oöver.regex kelderasch/kelderasch_filer/text/*.txt | raku kelderasch/halv-och-översatta.raku > /tmp/zzz
+egrep -h -A1  -f /tmp/oöver.regex kelderasch/kelderasch_filer/text/*.txt | raku kelderasch/halv-och-översatta.raku | cut -f3 | sunis
+#+end_src
+
+: 2704 oöversatt 
+:  234 ÖVERSATT 
+:   55 Array (= oöversatt)
+:    1 "#31 " ???
+
