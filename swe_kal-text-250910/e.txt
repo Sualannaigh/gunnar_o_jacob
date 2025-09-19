@@ -1,0 +1,6527 @@
+﻿#01 e
+#31 e (tono)
+#02 subst.
+#32 substantivo
+#04 tredje tonen i C-durskalan
+#05 musikterm
+#35 musikakiterma
+#14 e:
+#98 2
+#99 4
+#54 jekh tono ande e terma la musikaki
+
+#01 e m
+#31 pala mezmeri
+#02 förk.
+#32 skortsomos
+#04 eftermiddagen
+#13 em.
+#14 2Ef:termida:(ge)n el. -mid:an
+#98 3331
+#99 3668
+#54 pala o medzito
+
+#01 e o
+#31 extra ordinaro
+#02 förk.
+#32 skortsomos
+#04 extra ordinarie
+#05 i tjänstebeteckningar
+#35 ande le bučakesemnori 
+#13 e.o.
+#14 2Ek:stra or+dinA:rje
+#98 3332
+#99 3669
+#54 notoria bučaske
+
+#01 e-
+#31 značil skurto
+#02 förk.
+#32 skortsomos
+#04 förkortning för ^elektronisk^, förled i sammansättningar, t ex ^e-post, e-adress, e-tidning^
+#14 2e:-
+#54 skurtsomos kai e vorba ”elektronisko” na primer, ”e-pošta”, e-adresa, e-gazeto
+
+#01 ebb
+#31 xanciol
+#02 subst.
+#32 substantivo
+#04 lågt tidvatten
+#05 bildligt "brist"
+#35 patreto/figurativno
+#08 det är ebb i kassan ("det finns inga pengar i kassan")
+#38 kanči manaj ande kasa (”manaj love ande kasa”)
+#48 280
+#09 motsats ^flod^
+#39 
+#12 ebben
+#14 eb:
+#98 3333
+#99 3670
+#54 xancilia, xanci
+
+#01 e-brev~låda
+#31 e poštaki lada 
+#02 subst.
+#32 substantivo
+#04 förvaringsplats för e-brev
+#12 -lådan -lådor
+#14 2E:bre:vlå:da
+#54 jekh rig/bokso ando computeri/data kai garavelpes peske e-lila/majlori
+
+#01 ed
+#31 amran
+#02 subst.
+#32 substantivo
+#04 svärord, förbannelse
+#12 eden eder
+#14 e:d
+#98 3334
+#99 3671
+#54 proxlimos
+
+#01 ed
+#31 zolax
+#02 subst.
+#32 substantivo
+#04 högtidligt löfte
+#07 gå ed på (något)
+#37 kana zolaxalpe o manuš (pe/ande varisoste)
+#47 2185
+#11 ed~svuren
+#41 zolaxardo
+#51 1505
+#12 eden eder
+#14 e:d
+#98 3334
+#99 3672
+#54 
+
+#01 edda
+#31 edda
+#02 subst.
+#32 substantivo
+#04 ett av två fornisländska diktverk (om gudar och hjältar)
+#12 eddan eddor
+#14 2Ed:a
+#98 3335
+#99 3673
+#54 
+
+#01 eder
+#31 
+#02 se er
+#32 
+#14 E:der
+#98 3336
+#99 3674
+#54 
+
+#01 EEG
+#31 EEG
+#02 förk.
+#32 skortsomos
+#04 metod att mäta hjärnans elektriska aktivitet; kurvan som registrerar hjärnans elektriska aktivitet
+#14 e:e:gE:
+#98 3337
+#99 3675
+#54 jekh metoda kai regristeril pe la godžaki aktiviteta/aktiviteto
+
+#01 effekt
+#31 zor
+#02 subst.
+#32 substantivo
+#04 verkan, intryck; kraft
+#07 krisen har ännu inte fått full effekt
+#37 e buči inke či las pherdo zor ai efekto
+#47 2186
+#11 skrämseleffekt
+#41 darajimaski zor
+#51 1506
+#11 effekt~full -t
+#41 pherdo zor
+#51 1507
+#12 effekten effekter
+#14 efEk:t
+#98 3338
+#99 3676
+#54 rezultato,efekto
+
+#01 effekt
+#31 prama
+#02 subst.
+#32 substantivo
+#04 tillhörighet, bagage
+#11 effekt~förvaring -en
+#41 pramasko inkerimos
+#51 1508
+#12 effekten effekter
+#14 efEk:t
+#15 mest i plural
+#45 mai but ando pluralo
+#98 3338
+#99 3677
+#54 džela, bagašo  (”čiro bagašo vaj džela si garado”)
+
+#01 effektiv
+#31 efektivno
+#02 adj.
+#32 adjektivo
+#04 som ger bra resultat, verkningsfull
+#12 effektivt effektiva
+#14 efektI:v (el. Ef:-)
+#98 3339
+#99 3678
+#54 del de-bonda, anklel po mištomos
+#97 mini
+
+#01 effektiviserar
+#31 efektisarel
+#02 verb
+#32 verbo
+#04 göra (mer) effektiv
+#10 A & x
+#11 effektivisering
+#41 o efektemismo
+#51 1509
+#12 effektiviserade effektiviserat effektivisera(!)
+#14 efektivisE:rar
+#98 3340
+#99 3679
+#54 kana o manuš mangel variso te anklel mai mišto mai efektivno
+
+#01 effektivitet
+#31 efektiviteto
+#02 subst.
+#32 substantivo
+#04 det att fungera effektivt, verkningsgrad
+#07 träning kan öka hjärtats effektivitet
+#37 o sporto šaj vasdel le ilesko efektiveto
+#47 2187
+#12 effektiviteten
+#14 efektivitE:t
+#98 3341
+#99 3680
+#54 
+
+#01 efter 1
+#31 pala kado
+#02 adv.
+#32 adverbo
+#07 han dök upp dagen efter och bad om ursäkt
+#37 vo avilo pe teharin ai manglas peske jertimos
+#47 2188
+#07 ge efter (för)
+#37 das pe palpale
+#47 2189
+#07 tänka efter
+#37 del pe gindo,gindol pe
+#47 2190
+#09 jfr ^efter^ prep. ^1^
+#39 
+#14 Ef:ter
+#15 mest som verbpartikel
+#45 mai but sar po verboskopartikelo
+#98 3342
+#99 3681
+#54 
+#97 mini
+
+#01 efter 2
+#31 atunči
+#02 konj.
+#32 konjuktiono
+#04 sedan
+#05 vardagligt
+#35 džesesko
+#07 efter det att jag hade gått började festen
+#37 pala kodia kana gelemtar laspe e pačiv
+#47 2191
+#14 (2)Ef:ter
+#98 3343
+#99 3682
+#54 
+#97 mini
+
+#01 efter 3
+#31 pala
+#02 prep.
+#32 prepositiono
+#04 senare än; bakom
+#05 bildligt "i enlighet med"
+#35 patreto/figurativno
+#07 efter kriget
+#37 pala o marimos
+#47 2192
+#07 han kom tillbaka efter en timme
+#37 vo avilo palpale pala jekh časo
+#47 2193
+#07 han stod efter mig i kön
+#37 vo bešelas pala mande 
+#47 2194
+#07 år efter år
+#37 berš pala berš
+#47 2195
+#07 han kom efter det att festen hade börjat
+#37 vo avilo pala e paciv kana laspe
+#47 2196
+#07 städa efter sig
+#37 vužarel pala peste
+#47 2197
+#08 sjunga efter noter
+#38 džilabel pala notori
+#48 281
+#08 anpassa sig efter (någons önskemål)
+#38 les tu tut pala varikaste (pala varikasko rudžimos)
+#48 282
+#14 (2)Ef:ter
+#98 3344
+#99 3683
+#54 
+#97 mini
+
+#01 efter 3
+#31 rodel
+#02 prep.
+#32 prepositiono
+#04 för att finna; med avseende på
+#07 längta efter (någon)
+#37 duringisardas te rodel (varikas)
+#47 2198
+#07 söka efter (någon)
+#37 rodel pala
+#47 2199
+#07 sträva efter (att)
+#37 rodel zurales (te)
+#47 2200
+#07 jag är på jakt efter en ny cykel
+#37 me sim po rodimos pala jekh nevi bisikleta/sikla
+#47 2201
+#07 ringa efter polisen
+#37 rodel te akharel/marel pala le rajbare
+#47 2202
+#14 Ef:ter
+#98 3344
+#99 3684
+#54 
+#97 mini
+
+#01 efter hand
+#31 pala kodia
+#02 adv.
+#32 adverbo
+#04 så småningom
+#07 svaren kommer in efter hand
+#37 le atveturi aven andre pala kodja
+#47 2203
+#13 efterhand
+#14 efterhAn:d
+#98 3345
+#99 3685
+#54 
+
+#01 efterapar
+#31 marel muj
+#02 verb
+#32 verbo
+#04 imitera på ett osjälvständigt sätt
+#05 nedsättande
+#35 prasajimos/prasajipe
+#10 A & B/x
+#11 efterapning
+#41 imitatsia
+#51 1510
+#12 efterapade efterapat efterapa(!)
+#14 2Ef:tera:par
+#98 3346
+#99 3686
+#54 
+
+#01 efterbliven
+#31 prosto
+#02 adj.
+#32 adjektivo
+#04 psykiskt utvecklingsstörd
+#05 äldre uttryck
+#35 purane vorbi
+#07 ett efterblivet barn
+#37 jekh prustutso glata
+#47 2204
+#12 efterblivet efterblivna
+#14 2Ef:terbli:ven
+#98 3347
+#99 3687
+#54 prostutco, prostuvano
+
+#01 efterdyning
+#31 pale kerdžol
+#02 subst.
+#32 substantivo
+#04 följd
+#07 valkampanjens efterdyningar
+#37 
+#47 2205
+#12 efterdyningen efterdyningar
+#14 2Ef:ter+dy:ni@
+#15 mest i plural
+#45 mai but ande pluralo
+#98 3348
+#99 3688
+#54 
+
+#01 efterforskning
+#31 rodipe
+#02 subst.
+#32 substantivo
+#04 letning, efterspaning
+#07 brevet har vid efterforskningar påträffats i ett arkiv
+#37 o lil arakhadilo ande jekh arkivo
+#47 2206
+#12 efterforskningen efterforskningar
+#14 2Ef:terfår+s:kni@
+#98 3349
+#99 3689
+#54 dujto rodimos
+
+#01 efterfrågan
+#31 pušipe
+#02 subst.
+#32 substantivo
+#04 (konsumentens) lust att köpa
+#07 efterfrågan på småhus har ökat
+#37 pušimata pala e tsingore khera barile 
+#47 2207
+#07 tillgång och efterfrågan
+#37 
+#47 2208
+#12 efterfrågan efterfrågningar
+#14 2Ef:terfrå:gan
+#98 3350
+#99 3690
+#54 pušimos
+
+#01 efterfrågar
+#31 pušel pe
+#02 verb
+#32 verbo
+#04 fråga efter, begära
+#07 en efterfrågad vara
+#37 jekh pušimaski džela
+#47 2209
+#10 A & x
+#12 efterfrågade efterfrågat efterfråga(!)
+#14 2Ef:terfrå:gar
+#15 mest i lös sms
+#45 
+#98 3351
+#99 3691
+#54 
+
+#01 efterföljande
+#31 so avel mai palal
+#02 adj.
+#32 adjektivo
+#04 som kommer senare
+#07 de efterföljande dagarna kändes som en evighet
+#37 le džesa kai avenas ačardonas sar jekh veko
+#47 2210
+#14 2Ef:terföl:jande
+#98 3352
+#99 3692
+#54 
+
+#01 efterföljd
+#31 sa jekh fialo 
+#02 subst.
+#32 substantivo
+#04 fortsättning i samma anda
+#07 exemplet manar till efterföljd
+#37 
+#47 2211
+#12 efterföljden efterföljder
+#14 2Ef:terföl:jd
+#98 3353
+#99 3693
+#54 pale kadia
+
+#01 eftergift
+#31 pagarajimos
+#02 subst.
+#32 substantivo
+#04 det att överge sin egen ståndpunkt för att tillfredsställa någon annan
+#07 vi är beredda att göra vissa eftergifter
+#37 
+#47 2212
+#09 jfr ^ge efter^
+#39 
+#11 åtalseftergift
+#41 
+#51 1511
+#12 eftergiften eftergifter
+#14 2Ef:terjif:t
+#98 3354
+#99 3694
+#54 
+#97 mini
+
+#01 eftergiven
+#31 lašo manušesko
+#02 adj.
+#32 adjektivo
+#04 foglig
+#11 eftergiven~het
+#41 
+#51 1512
+#12 eftergivet eftergivna
+#14 2Ef:terji:ven
+#98 3355
+#99 3695
+#54 
+
+#01 efterhand 1
+#31 akanaš
+#02 adv.
+#32 adverbo
+#04 så småningom
+#08 komma i efterhand ("komma i sämre ställning")
+#38 avel pala kodia (”avel ande jekh čoro čajto
+#48 283
+#13 efter hand
+#14 efterhAn:d
+#98 3356
+#99 3696
+#54 pala kodia
+
+#01 efterhand 2
+#31 mai palal
+#02 subst.
+#32 substantivo
+#08 (höra något) i efterhand ("efteråt, vid ett senare tillfälle")
+#38 ašunel vareso pala kodia
+#48 284
+#09 jfr ^efter hand^
+#39 
+#14 2Ef:terhan:d
+#98 3357
+#99 3697
+#54 
+
+#01 efterhängsen
+#31 lipsime
+#02 adj.
+#32 adjektivo
+#04 som inte slutar; påträngande
+#07 en efterhängsen beundrare
+#37 
+#47 2213
+#07 en efterhängsen förkylning
+#37 
+#47 2214
+#12 efterhängset efterhängsna
+#14 2Ef:terhe@:sen
+#98 3358
+#99 3698
+#54 
+
+#01 efterhärmning
+#31 imitationo
+#02 subst.
+#32 substantivo
+#04 imitation
+#12 efterhärmningen efterhärmningar
+#14 2Ef:terhär:mni@
+#98 3359
+#99 3699
+#54 
+
+#01 efterkrigstid
+#31 pala marimos
+#02 subst.
+#32 substantivo
+#04 tiden närmast efter (andra världs)kriget
+#12 efterkrigstiden
+#14 2Ef:terkriksti:d
+#98 3360
+#99 3700
+#54 
+
+#01 efterkälken
+#31 ašajimos
+#02 subst.
+#32 substantivo
+#08 (hamna el. komma) på efterkälken ("bli efter (i en tävling el. ett arbete)")
+#38 
+#48 285
+#14 2Ef:tercel:ken
+#98 3361
+#99 3701
+#54 
+
+#01 efterlevande
+#31 niamo
+#02 subst.
+#32 substantivo
+#04 närmast anhörig till en person som dött
+#14 2Ef:ter+le:vande
+#98 3362
+#99 3702
+#54 
+
+#01 efterlevandepension
+#31 familijaki pensia
+#02 subst.
+#32 nam
+#06 De pensionsformer inom den allmänna försäkringen som omfattar änkepension och barnpension. Tidigare benämnt familjepension
+#36 
+#14 2Ef:ter+le:vandepan$o:n
+#54 
+
+#01 efterlevnad
+#31 zakonosko inkerimos
+#02 subst.
+#32 substantivo
+#04 iakttagande, åtlydnad
+#07 bristande efterlevnad av lagen
+#37 
+#47 2215
+#12 efterlevnaden
+#14 2Ef:ter+le:vnad
+#98 3363
+#99 3703
+#54 
+
+#01 efterlyser
+#31 rodelpe
+#02 verb
+#32 verbo
+#04 offentligt söka efter; fråga efter
+#07 jag efterlyser effektivare ljuddämpare
+#37 
+#47 2216
+#07 han var efterlyst av polisen
+#37 vo sas rodino katar le rajbare  
+#47 2217
+#10 A & x
+#11 efterlysning
+#41 rodelpe
+#51 1513
+#12 efterlyste efterlyst efterlys! efterlysa
+#14 2Ef:ter+ly:ser
+#98 3364
+#99 3704
+#54 
+#97 mini
+
+#01 efterlämnar
+#31 mukel 
+#02 verb
+#32 verbo
+#04 lämna kvar, lämna i arv
+#07 han efterlämnar hustru och två barn
+#37 Mukla pala peste peska romia duje glaten
+#47 2218
+#10 A & B/x
+#12 efterlämnade efterlämnat efterlämna(!)
+#14 2Ef:ter+lem:nar
+#98 3365
+#99 3705
+#54 
+
+#01 efterlängtad
+#31 doringdo
+#02 adj.
+#32 adjektivo
+#04 som man väntar ivrigt på
+#07 ett efterlängtat avbrott
+#37 jekh ažukerdo ašajimos
+#47 2219
+#12 efterlängtat efterlängtade
+#14 2Ef:ter+le@:tad
+#98 3366
+#99 3706
+#54 doringdimos
+
+#01 eftermiddag
+#31 pala mizmeri
+#02 subst.
+#32 substantivo
+#04 tiden från klockan tolv till kvällen
+#09 bild 30:61
+#39 patreto/figurativno
+#11 eftermiddags~kaffe -t
+#41 kafa pala mizmeri
+#51 1514
+#12 eftermiddagen eftermiddagar
+#14 2Ef:termida:g el. -mid:a
+#98 3367
+#99 3707
+#54 pala madsito
+#97 mini
+
+#01 efternamn
+#31 dujto anav
+#02 subst.
+#32 substantivo
+#04 släktnamn
+#07 han heter Lundkvist i efternamn
+#37 vo bušol Lundkvist ando dujto anav
+#47 2220
+#12 efternamnet efternamn efternamnen
+#14 2Ef:ter+nam:n
+#98 3368
+#99 3708
+#54 anav la familjiako
+#97 mini
+
+#01 efterräkning
+#31 paluno štrafo
+#02 subst.
+#32 substantivo
+#04 straff, påföljd
+#12 efterräkningen efterräkningar
+#14 2Ef:terä:kni@
+#98 3369
+#99 3709
+#54 
+
+#01 efterrätt
+#31 deserto
+#02 subst.
+#32 substantivo
+#04 rätt som avslutar måltiden, dessert
+#12 efterrätten efterrätter
+#14 2Ef:teret:
+#98 3370
+#99 3710
+#54 
+#97 mini
+
+#01 eftersatt
+#31 xasardo
+#02 adj.
+#32 adjektivo
+#04 försummad
+#07 vården på avdelningen har blivit eftersatt
+#37 
+#47 2221
+#12 eftersatt eftersatta
+#14 2Ef:ter+sat:
+#98 3371
+#99 3711
+#54 
+
+#01 efterskott
+#31 pala kudia
+#02 subst.
+#32 substantivo
+#04 efterhand 1
+#05 motsats "förskott"
+#35 ”maj anglal”
+#07 betalning i efterskott
+#37 pučinimos mai palal
+#47 2222
+#14 2Ef:ter+skåt:
+#98 3372
+#99 3712
+#54 
+
+#01 efterskänker
+#31 mukel kadia
+#02 verb
+#32 verbo
+#04 avstå från att kräva tillbaka (en skuld)
+#10 A & x
+#12 efterskänkte efterskänkt efterskänk! efterskänka
+#14 2Ef:ter$e@:ker
+#98 3373
+#99 3713
+#54 
+
+#01 eftersläng
+#31 del dab
+#02 subst.
+#32 substantivo
+#04 fult angrepp i sport
+#12 efterslängen efterslängar
+#14 2Ef:ter+sle@:
+#98 3374
+#99 3714
+#54 
+
+#01 eftersläntrare
+#31 
+#02 subst.
+#32 substantivo
+#04 någon el. något som blir efter
+#12 eftersläntraren eftersläntrare eftersläntrarna
+#14 2Ef:ter+slen:trare
+#98 3375
+#99 3715
+#54 varikon kai ašel sa palal
+
+#01 eftersläpning
+#31 
+#02 se släpar efter
+#32 
+#14 2Ef:ter+slä:pni@
+#98 3376
+#99 3716
+#54 
+
+#01 eftersmak
+#31 paluno gusto
+#02 subst.
+#32 substantivo
+#04 smak som man känner sedan man ätit el. druckit något
+#05 även bildligt
+#35 vi patreto/figurativno
+#07 en besk eftersmak
+#37 jekh kerko paluno gusto
+#47 2223
+#12 eftersmaken
+#14 2Ef:ter+sma:k
+#98 3377
+#99 3717
+#54 
+
+#01 eftersnack
+#31 divano mai palal
+#02 subst.
+#32 substantivo
+#04 samtal efter ngn händelse (om den händelsen)
+#05 vardagligt
+#35 džesesko
+#12 eftersnacket
+#14 2Ef:ter+snak:
+#98 3378
+#99 3718
+#54 
+
+#01 eftersom
+#31 de pala kudia
+#02 konj.
+#32 konjuktiono
+#04 därför att, emedan
+#14 Ef:ter+såm
+#98 3379
+#99 3719
+#54 anda kudia
+#97 mini
+
+#01 eftersom
+#31 ande kudia
+#02 konj.
+#32 konjuktiono
+#05 i vissa uttryck
+#35 
+#08 allt eftersom ("i takt med att")
+#38 po lokores (”anda kudia”)
+#48 286
+#14 Ef:ter+såm:
+#98 3379
+#99 3720
+#54 
+#97 mini
+
+#01 efterspanar
+#31 rodel
+#02 verb
+#32 verbo
+#04 leta efter, söka efter
+#07 en efterspanad man
+#37 jekh rodino manuš
+#47 2224
+#10 A & B/x
+#12 efterspanade efterspanat efterspana(!)
+#14 2Ef:ter+spa:nar
+#15 även lös sms
+#45 
+#98 3380
+#99 3721
+#54 
+
+#01 efterspel
+#31 bi lašo efekto
+#02 subst.
+#32 substantivo
+#04 efterräkning, fortsättning
+#07 rättsligt efterspel
+#37 
+#47 2225
+#12 efterspelet
+#14 2Ef:ter+spe:l
+#98 3381
+#99 3722
+#54 
+
+#01 eftersträvar
+#31 rodel te aresel
+#02 verb
+#32 verbo
+#04 sträva (efter) att nå, eftertrakta
+#10 A & x
+#11 eftersträvansvärd
+#41 
+#51 1515
+#12 eftersträvade eftersträvat eftersträva(!)
+#14 2Ef:ter+strä:var
+#15 även lös sms
+#45 
+#98 3382
+#99 3723
+#54 
+
+#01 eftersänder
+#31 tradel/bišavel mai angle
+#02 verb
+#32 verbo
+#04 skicka vidare (till annan adress)
+#05 om post
+#35 pa pošta
+#07 har du eftersänt posten?
+#37 tradan mai dur e pošta?
+#47 2226
+#10 A & x
+#12 eftersände eftersänt eftersänd! eftersända
+#14 2Ef:ter+sen:der
+#98 3383
+#99 3724
+#54
+
+#01 eftersökt
+#31 dragosto
+#02 adj.
+#32 adjektivo
+#04 som många vill ha, omtyckt
+#05 mest om varor
+#35 mai but pa dželi
+#12 eftersökt eftersökta
+#14 2Ef:ter+sö:kt
+#98 3384
+#99 3725
+#54 
+
+#01 eftertanke
+#31 zuralo gindo
+#02 subst.
+#32 substantivo
+#04 grundligt övervägande
+#07 vid närmare eftertanke
+#37 mai paše pala gindo
+#47 2227
+#12 eftertanken
+#14 2Ef:ter+ta@:ke
+#98 3385
+#99 3726
+#54 
+
+#01 eftertraktar
+#31 rodel
+#02 verb
+#32 verbo
+#04 sträva efter, vilja ha
+#07 en eftertraktad vara
+#37 jekh rodini džela
+#47 2228
+#10 A & B/x
+#12 eftertraktade eftertraktat eftertrakta(!)
+#14 2Ef:ter+trak:tar
+#98 3386
+#99 3727
+#54 
+
+#01 eftertryck
+#31 pečitujimos
+#02 subst.
+#32 substantivo
+#04 extra kraftigt understrykande
+#07 ge eftertryck (åt något)
+#37 del jazno mai zor (pa varisoste)
+#47 2229
+#07 säga något med eftertryck
+#37 phenel vareso vorta ai konkretno
+#47 2230
+#14 2Ef:ter+tryk:
+#98 3387
+#99 3728
+#54 konkretno
+
+#01 eftertrycklig
+#31 pečituime
+#02 adj.
+#32 adjektivo
+#04 som sker med eftertryck
+#12 eftertryckligt eftertryckliga
+#14 2Ef:ter+tryk:lig
+#98 3388
+#99 3729
+#54 
+
+#01 efterträdare
+#31
+#02 subst.
+#32 substantivo
+#04 person som övertar en annans plats
+#12 efterträdar(e)n efterträdare efterträdarna
+#14 2Ef:ter+trä:dare
+#98 3389
+#99 3730
+#54 manuš kai lel o than pala jekh aver
+
+#01 efterträder
+#31 lel than
+#02 verb
+#32 verbo
+#04 ta platsen efter (någon annan)
+#10 A & B
+#12 efterträdde efterträtt efterträd! efterträda
+#14 2Ef:ter+trä:der
+#98 3390
+#99 3731
+#54 manuš kai lel varekasko than 
+#97 mini
+
+#01 eftertänksam
+#31 godžaver
+#02 adj.
+#32 adjektivo
+#04 som handlar med eftertanke
+#12 eftertänksamt eftertänksamma
+#14 2Ef:ter+te@ksam: 
+#98 3391
+#99 3732
+#54 kerel godžasa, kai del pe gindo mai anglal  sar te kerel
+
+#01 eftervård
+#31 pašlarimos/arakhajimos pala operacia/operatsia
+#02 subst.
+#32 substantivo
+#04 vård efter en operation
+#12 eftervården
+#14 2Ef:tervå:r+d
+#98 3392
+#99 3733
+#54 jekh manuš kai naklas operatsia trubul les/la ažutimos
+
+#01 eftervärld
+#31 e nevi generatsia
+#02 subst.
+#32 substantivo
+#04 kommande släkten
+#07 den dödes arv till eftervärlden
+#37 le mulesko gono/mandžin kai e paluni luma
+#47 2231
+#12 eftervärlden
+#14 2Ef:tervä:r+d
+#98 3393
+#99 3734
+#54 
+
+#01 efteråt
+#31 pala kudia
+#02 adv.
+#32 adverbo
+#04 senare, efter den tiden
+#07 han kom fram efteråt och tackade henne för föredraget
+#37 vo avilo angle ai najisardas lake anda o divano
+#47 2232
+#14 2Ef:terå:t
+#98 3394
+#99 3735
+#54 mai palal
+#97 mini
+
+#01 eftr
+#31 kai lel pala avreste
+#02 förk.
+#32 skortsomos
+#04 efterträdare
+#05 i firmanamn
+#35 
+#14 2Ef:ter+trä:dare
+#98 3395
+#99 3736
+#54 manuš kai avel ai lel naprimer o than vaj e buči pala kaver manuš
+
+#01 egen
+#31 pesko
+#02 adj.
+#32 adjektivo
+#04 som man rår om, personlig
+#07 hon gjorde det av egen fri vilja
+#37 voj kerdas kodia anda peste
+#47 2233
+#07 han gav sig ut på egen hand
+#37 vo gelas korkoro avri pe pesko vast
+#47 2234
+#07 hon slutade på egen begäran
+#37 vo ašadas korkoro pe peski korkoro sama
+#47 2235
+#07 för egen del är jag emot förslaget
+#37 me anda mande korkoro či mangav kado gindo/propotitsia
+#47 2236
+#11 egen~namn -et
+#41 personalno-anav
+#51 1516
+#12 eget egna
+#14 2E:gen
+#98 3396
+#99 3737
+#54 variso kai si čiro variso kai tu korkoro porončis opral
+#97 mini
+
+#01 egen
+#31 čudato
+#02 adj.
+#32 adjektivo
+#04 underlig, egendomlig
+#07 han har alltid verkat lite egen
+#37 vo kana kodi miazolas ai sas peske korkoro/čudato
+#47 2237
+#12 eget egna
+#14 2E:gen
+#98 3396
+#99 3738
+#54 čudato, ”sar kana jekh manuš si sa korkoro si čudato”
+#97 mini
+
+#01 egen~art
+#31 individjialno 
+#02 subst.
+#32 substantivo
+#04 individualitet
+#11 egenart~ad -at
+#41 
+#51 1517
+#12 -arten
+#14 2E:gena:r+t
+#98 3397
+#99 3739
+#54 
+
+#01 egen~avgift
+#31 korkoro počinimos
+#02 subst.
+#32 substantivo
+#04 sociala avgifter o dyl som egen företagare betalar
+#12 -avgiften -avgifter
+#14 2E:gena:vjif:t
+#15 mest i plural
+#45 mai but ando pluralo
+#98 3398
+#99 3740
+#54 
+
+#01 egendom
+#31 propijeta/propitorio
+#02 subst.
+#32 substantivo
+#04 tillhörighet, ägodel; fastighet på landet
+#07 kibbutzen är en koloni där all egendom ägs gemensamt
+#37 
+#47 2238
+#07 han äger stora egendomar på landsbygden
+#37 les si leste bare propijetori/propitoria pe le gava
+#47 2239
+#07 enskild egendom
+#37 privatno propijiteto /propitoria
+#47 12512
+#07 fast egendom
+#37 propijeto/propitorio
+#47 12513
+#11 egendoms~lös -t
+#41 bi propijetosko 
+#51 1518
+#12 egendomen egendomar
+#14 2E:gendom:
+#98 3399
+#99 3741
+#54 so si pesko korkoro
+#97 mini
+
+#01 egendomlig
+#31 čudato
+#02 adj.
+#32 adjektivo
+#04 konstig, underlig
+#12 egendomligt egendomliga
+#14 2E:gendom:lig
+#98 3400
+#99 3742
+#54 čuda,čudates,čudatsi
+
+#01 egenhet
+#31 čudates
+#02 subst.
+#32 substantivo
+#04 avvikande egenskap
+#12 egenheten egenheter
+#14 2E:genhe:t
+#98 3401
+#99 3743
+#54 
+
+#01 egen~händig
+#31 korkoro vastentsa
+#02 adj.
+#32 adjektivo
+#04 utförd med egna händer
+#07 ett egenhändigt skrivet tacktal
+#37 jekh personalnio najisimasko divano 
+#47 2240
+#12 -händigt -händiga
+#14 2E:genhen:dig
+#98 3402
+#99 3744
+#54 
+#97 mini
+
+#01 egen~mäktig
+#31 barimatengo
+#02 adj.
+#32 adjektivo
+#04 självrådig, maktfullkomlig
+#07 egenmäktigt förfarande
+#37 barimatengo sikajimos
+#47 2241
+#12 -mäktigt -mäktiga
+#14 2E:genmek:tig
+#98 3403
+#99 3745
+#54 
+
+#01 egen~namn
+#31 angluno anav
+#02 subst.
+#32 substantivo
+#04 någons el. någots namn, t ex Anita, Kiruna, SAAB
+#12 -namnet -namn -namnen
+#14 2E:genam:n
+#98 3404
+#99 3746
+#54 
+
+#01 egen~nytta
+#31 egoismo, korkorimos
+#02 subst.
+#32 substantivo
+#04 egoism, själviskhet
+#11 egennyttig -t
+#41 
+#51 1519
+#12 -nyttan
+#14 2E:genyt:a
+#98 3405
+#99 3747
+#54 
+
+#01 egen~sinnig
+#31 tukuto
+#02 adj.
+#32 adjektivo
+#04 som inte lyssnar på andra, envis
+#12 -sinnigt -sinniga
+#14 2E:gensin:ig
+#98 3406
+#99 3748
+#54 zurale šeresko
+
+#01 egenskap
+#31 kvaliteto
+#02 subst.
+#32 substantivo
+#04 beskaffenhet, kännetecken; sätt att vara
+#07 det nya brödet har helt andra egenskaper
+#37 o nevo manro si les aver kvaliteto
+#47 2242
+#07 han har många goda egenskaper
+#37 leste si but laše kvalitetura
+#47 2243
+#11 vägegenskaper
+#41 dromeske karektismo
+#51 1520
+#12 egenskapen egenskaper
+#14 2E:genska:p
+#98 3407
+#99 3749
+#54 
+#97 mini
+
+#01 egenskap
+#31 žanglipe
+#02 subst.
+#32 substantivo
+#05 i vissa uttryck
+#35 ande le uni vorbi
+#08 (göra något) i egenskap av ("såsom") (ordförande)
+#38 
+#48 287
+#12 egenskapen egenskaper
+#14 2E:genska:p
+#98 3407
+#99 3750
+#54 
+#97 mini
+
+#01 egentlig
+#31 čačo
+#02 adj.
+#32 adjektivo
+#04 riktig, verklig
+#07 någon egentlig diskussion har inte förekommit
+#37 
+#47 2244
+#07 i egentlig mening
+#37 
+#47 2245
+#12 egentligt egentliga
+#14 ejEn:tlig
+#98 3408
+#99 3751
+#54 realno
+
+#01 egentligen
+#31 čačimasa
+#02 adv.
+#32 adverbo
+#04 i själva verket
+#07 bullret är egentligen det enda som stör mig
+#37 o bašajimos si čačimasa kai ferdi mešajil man
+#47 2246
+#14 ejEn:tligen
+#98 3409
+#99 3752
+#54 
+#97 mini
+
+#01 egg
+#31 kanto
+#02 subst.
+#32 substantivo
+#04 vass kant på skärande verktyg
+#09 bild 14:28
+#39 patreto/figurativno
+#11 knivsegg
+#41 šuriako vušt
+#51 1521
+#12 eggen eggar
+#14 eg:
+#98 3410
+#99 3753
+#54 
+#97 mini
+
+#01 eggar
+#31 vasdel opre
+#02 verb
+#32 verbo
+#04 hetsa, uppmuntra
+#07 han eggade henne till stordåd
+#37
+#47 2247
+#10 A & B (till) att+INF
+#12 eggade eggat egga(!)
+#14 2Eg:ar
+#98 3411
+#99 3754
+#54 
+
+#01 egnahem
+#31 čigne khera
+#02 subst.
+#32 substantivo
+#04 småhus, villor
+#11 egnahems~förening -en
+#41 
+#51 1522
+#12 egnahemmen
+#14 e:gnahEm:
+#15 plural
+#45 mai but pluralo
+#98 3412
+#99 3755
+#54 
+
+#01 ego
+#31 me
+#02 subst.
+#32 substantivo
+#04 jag
+#08 alter ego ("(någons) andra jag")
+#38 kaver ego
+#48 288
+#14 E:go
+#98 3413
+#99 3756
+#54 
+
+#01 egocentrisk
+#31 pesko korkoro
+#02 adj.
+#32 adjektivo
+#04 självupptagen
+#12 egocentriskt egocentriska
+#14 egosEn:trisk
+#98 3414
+#99 3757
+#54 
+
+#01 egoism
+#31 egoismo
+#02 subst.
+#32 substantivo
+#04 själviskhet
+#12 egoismen
+#14 egoIs:m
+#98 3415
+#99 3758
+#54 
+
+#01 egoist
+#31 egoisto, gindo pe peste korkoro, korkorimos
+#02 subst.
+#32 substantivo
+#04 självisk person
+#11 egoistisk -t
+#41 
+#51 1523
+#12 egoisten egoister
+#14 egoIs:t
+#98 3416
+#99 3759
+#54 zuralo šeresko
+
+#01 ego~tripp
+#31 
+#02 subst.
+#32 substantivo
+#04 något man gör enbart för att tillfredsställa sin självkänsla
+#05 vardagligt
+#35 
+#11 egotripp~ad -at
+#41 
+#51 1524
+#12 -trippen -trippar
+#14 2E:gotrip:
+#98 3417
+#99 3760
+#54 
+
+#01 egyptier
+#31 egiptiano
+#02 subst.
+#32 substantivo
+#04 person från Egypten
+#12 egyptiern egyptier
+#14 ejYp:tsier
+#98 3418
+#99 3761
+#54 manuš kai avel anda egiptia/egiptio 
+
+#01 ej
+#31 niči
+#02 adv.
+#32 adverbo
+#04 inte, icke
+#07 vi måste avgöra om frågan ska tas upp eller ej
+#37 si te anas desisia te si te avela o pušimos primime vaj niči
+#47 2248
+#14 ej:
+#98 3419
+#99 3762
+#54 
+#97 mini
+
+#01 ejder
+#31 mariaki ratsa
+#02 subst.
+#32 substantivo
+#04 andfågeln Somateria mollissima
+#09 bild 25:51
+#39 patreto/figurativno
+#11 ejder~dun
+#41 
+#51 1525
+#12 ejdern ejdrar
+#14 Ej:der
+#98 3420
+#99 3763
+#54 
+#97 mini
+
+#01 ek
+#31 žtrežari, kašt
+#02 subst.
+#32 substantivo
+#04 trädet Quercus
+#09 bild 23:46
+#39 patreto/figurativno
+#11 ek~bord
+#41 kašteski sinja
+#51 1526
+#11 ek~fat
+#41 
+#51 1527
+#11 ek~ollon
+#41 
+#51 1528
+#12 eken ekar
+#14 e:k
+#98 3421
+#99 3764
+#54 
+#97 mini
+
+#01 eka
+#31 čigno paraxodo/lotka/čuno
+#02 subst.
+#32 substantivo
+#04 ett slags roddbåt
+#12 ekan ekor
+#14 2E:ka
+#98 3422
+#99 3765
+#54 
+
+#01 ekar
+#31 dujto bašamos
+#02 verb
+#32 verbo
+#04 ge eko, låta om igen
+#07 dörren slog igen så det ekade
+#37 o vudar bašlas ta bašlas duvares
+#47 2249
+#10 x &
+#12 ekade ekat eka
+#14 2E:kar
+#98 3423
+#99 3766
+#54 
+
+#01 eker
+#31 jekh sastruni rata
+#02 subst.
+#32 substantivo
+#04 pinne som går från nav till ring i ett hjul
+#09 bild 18:36
+#39 patreto/figurativno
+#11 cykeleker
+#41 
+#51 1529
+#12 ekern ekrar
+#14 E:ker
+#15 mest i plural
+#45 
+#98 3424
+#99 3767
+#54 
+#97 mini
+
+#01 EKG
+#31 EKG
+#02 förk.
+#32 skortsomos
+#04 metod att på elektrisk väg mäta hjärtats verksamhet
+#14 e:kå:gE:
+#98 3425
+#99 3768
+#54 
+#97 mini
+
+#01 ekipage
+#31 vordon grastentsa
+#02 subst.
+#32 substantivo
+#04 fin vagn (med hästar); häst med ryttare
+#12 ekipaget ekipage ekipagen
+#14 ekipA:$
+#98 3426
+#99 3769
+#54 
+
+#01 ekipering
+#31 balamo gadengo
+#02 subst.
+#32 substantivo
+#04 utrustning (kläder och skor); affär med ekipering
+#11 damekipering
+#41 žvuliango gadengo balamo
+#51 1530
+#11 herrekipering
+#41 muršengo/muršikano gadengo balamo
+#51 1531
+#12 ekiperingen ekiperingar
+#14 ekipE:ri@
+#98 3427
+#99 3770
+#54 
+
+#01 eko
+#31 glaso kai avel palpale
+#02 subst.
+#32 substantivo
+#04 återkastat ljud
+#05 även bildligt
+#35 vi patreto/figurativno
+#07 skandalen gav eko i vida kretsar
+#37 
+#47 2250
+#12 ekot ekon
+#14 E:ko
+#98 3428
+#99 3771
+#54 
+
+#01 eko-
+#31 
+#02 förled
+#32 
+#04 ekologisk
+#11 eko~system
+#41 
+#51 1532
+#14 2E:ko
+#98 3429
+#99 3772
+#54 
+
+#01 eko-
+#31 ekonomia
+#02 förled
+#32 
+#04 ekonomisk
+#11 eko~brott
+#41 
+#51 1533
+#14 2E:ko
+#98 3429
+#99 3773
+#54 
+
+#01 ekologi
+#31 ekologia
+#02 subst.
+#32 substantivo
+#04 läran om sambandet mellan allt levande och omgivningen
+#11 ekologisk
+#41 ekologisko
+#51 1534
+#12 ekologi(e)n
+#14 ekologI:
+#98 3430
+#99 3774
+#54 
+
+#01 ekonom
+#31 ekonomo, lovengo
+#02 subst.
+#32 substantivo
+#04 person som yrkesmässigt sysslar med ekonomi
+#12 ekonomen ekonomer
+#14 ekonÅ:m
+#98 3431
+#99 3775
+#54 
+
+#01 ekonomi
+#31 ekonomia
+#02 subst.
+#32 substantivo
+#04 sätt att använda pengar; finanser
+#07 kommunernas ekonomi har försämrats under året
+#37 le forongi ekonomia rimosaili telal o berš
+#47 2251
+#11 nationalekonomi
+#41 nationalno ekonomia
+#51 1535
+#11 företagsekonomi
+#41 kompaniaki ekonomia
+#51 1536
+#11 ekonomi~minister
+#41 ekonomiako ministro
+#51 1537
+#12 ekonomi(e)n
+#14 ekonomI:
+#98 3432
+#99 3776
+#54 
+#97 mini
+
+#01 ekonomi
+#31 ekonomia khereski
+#02 subst.
+#32 substantivo
+#04 sparsamhet, hushållning
+#11 värmeekonomi
+#41 tačimaski ekonomia
+#51 1538
+#12 ekonomi(e)n
+#14 ekonomI:
+#98 3432
+#99 3777
+#54 
+#97 mini
+
+#01 ekonomi~biträde
+#31 ekonomiako ažutori
+#02 subst.
+#32 substantivo
+#04 hjälpreda i storkök (på ålderdomshem m m)
+#12 -biträdet -biträden -biträdena
+#14 2ekonomI:bi:trä:de
+#98 3433
+#99 3778
+#54 
+
+#01 ekonomi~klass
+#31 ekonomisko klasa
+#02 subst.
+#32 substantivo
+#04 billig prisklass inom flyget
+#12 -klassen
+#14 2ekonåmI:klas:
+#98 3434
+#99 3779
+#54 
+
+#01 ekonomisk
+#31 ekonomia
+#02 adj.
+#32 adjektivo
+#04 som rör ekonomi, finansiell
+#07 en ekonomisk förlust
+#37 jekh ekonomikako xasarimos
+#47 2252  
+#07 ekonomiskt brott
+#37 ekonomiko čordenimos
+#47 2253
+#12 ekonomiskt ekonomiska
+#14 ekonÅ:misk
+#98 3435
+#99 3780
+#54 
+#97 mini
+
+#01 ekonomisk
+#31 ekonomisko
+#02 adj.
+#32 adjektivo
+#04 sparsam
+#07 jag är inte så ekonomisk som min bror
+#37 či sim me sa kade ekonomiko sar muro pral
+#47 2254
+#12 ekonomiskt ekonomiska
+#14 ekonÅ:misk
+#98 3435
+#99 3781
+#54 
+#97 mini
+
+#01 ekorre
+#31 hirtso
+#02 subst.
+#32 substantivo
+#04 liten gnagare som klättrar i träd
+#09 bild 27:54
+#39 patreto/figurativno
+#11 ekorr~skinn
+#41 
+#51 1539
+#12 ekorren ekorrar
+#14 2Ek:år:e
+#98 3436
+#99 3782
+#54 
+#97 mini
+
+#01 ekorr~hjul
+#31 bi hasnako
+#02 subst.
+#32 substantivo
+#04 situation där man anstränger sig mycket utan resultat
+#07 jag upplevde mitt arbete som ett ekorrhjul
+#37 me kerdem muri buči bi hasnako
+#47 2255
+#12 -hjulet
+#14 2Ek:årju:l
+#15 i vissa fraser
+#45 
+#98 3437
+#99 3783
+#54 
+
+#01 eksem
+#31 eksemo/eksema
+#02 subst.
+#32 substantivo
+#04 utslag på huden
+#12 eksemet eksem eksemen
+#14 eksE:m
+#98 3438
+#99 3784
+#54 
+#97 mini
+
+#01 ekumenisk
+#31 ekumenisko
+#02 adj.
+#32 adjektivo
+#04 allmänkyrklig, som omfattar alla kristna kyrkor
+#12 ekumeniskt ekumeniska
+#14 ekumE:nisk
+#98 3439
+#99 3785
+#54 
+
+#01 ekvation
+#31 ekvationo
+#02 subst.
+#32 substantivo
+#04 uttryck där två matematiska storheter likställs
+#05 även bildligt
+#35 vi patreto/figurativno
+#07 ekvationen gick ihop
+#37 o ekvationo gelas andekthan
+#47 2256
+#12 ekvationen ekvationer
+#14 ekva$O:n
+#98 3440
+#99 3786
+#54 
+
+#01 ekvator
+#31 ekvatoro
+#02 subst.
+#32 substantivo
+#04 en tänkt linje runt jorden lika långt från bägge poler
+#12 ekvatorn
+#14 2ekvA:tor
+#15 mest i bestämd form
+#45 
+#98 3441
+#99 3787
+#54 
+
+#01 el
+#31 eletriko
+#02 förk.
+#32 
+#04 elektricitet
+#11 el~ransonering
+#41 
+#51 1540
+#11 el~chock
+#41 elektrikosko vužtajipe
+#51 1541
+#11 el~gitarr
+#41 elektrisko gitara
+#51 1542
+#11 el~kraft
+#41 elektrisko zor
+#51 1543
+#11 el~visp
+#41 elektrikaki roj
+#51 1544
+#11 hushållsel
+#41 
+#51 1545
+#11 kärnkraftsel
+#41 
+#51 1546
+#12 elen
+#14 e:l
+#15 mest i sms
+#45 
+#98 3442
+#99 3788
+#54 
+#97 mini
+
+#01 elak
+#31 jagalo, vuruto
+#02 adj.
+#32 adjektivo
+#04 som vill andra människor illa
+#07 hon var elak mot sina små syskon
+#37 voj sas jagali karing peske čigne pral ai pheja
+#47 2257
+#10 & (mot B)
+#12 elakt elaka
+#14 2E:lak
+#98 3443
+#99 3789
+#54 
+#97 mini
+
+#01 elakartad
+#31 čoro
+#02 adj.
+#32 adjektivo
+#04 farlig, svår
+#07 en elakartad svulst
+#37 
+#47 2258
+#09 motsats ^godartad^
+#39 
+#12 elakartat elakartade
+#14 2E:laka:r+tad
+#98 3444
+#99 3790
+#54 vuruto, bi lašo, nasul
+#97 mini
+
+#01 elakhet
+#31 nasulimos
+#02 subst.
+#32 substantivo
+#04 det att vara elak, ondska; elak kommentar
+#07 säga elakheter om någon
+#37 phenel nasulimos pa varekaste
+#47 2259
+#12 elakheten elakheter
+#14 2E:lakhe:t
+#98 3445
+#99 3791
+#54 
+
+#01 elaking
+#31 manuš nasul
+#02 subst.
+#32 substantivo
+#04 elak person
+#05 vardagligt
+#35 džesesko
+#12 elakingen elakingar
+#14 E:la(:)ki@
+#98 3446
+#99 3792
+#54 
+
+#01 elastisk
+#31 elastisko
+#02 adj.
+#32 adjektivo
+#04 tänjbar
+#07 jag fick en elastisk binda om min vrickade fot
+#37 
+#47 2260
+#12 elastiskt elastiska
+#14 elAs:tisk
+#98 3447
+#99 3793
+#54 
+
+#01 eld
+#31 jag
+#02 subst.
+#32 substantivo
+#04 flamma, låga; brinnande material
+#08 fatta eld ("börja brinna")
+#38 phabol jag (”lel pe te phabol”)
+#48 289
+#08 bli eld o. lågor ("bli mycket entusiastisk")
+#38 anklel jag ai para
+#48 290
+#09 bild 4:8
+#39 patreto/figurativno
+#11 elds~våda -n
+#41 
+#51 1547
+#12 elden eldar
+#14 el:d
+#98 3448
+#99 3794
+#54 
+#97 mini
+
+#01 eld
+#31 del puške
+#02 subst.
+#32 substantivo
+#04 skottlossning
+#07 ge eld
+#37 del jag
+#47 2261
+#07 eld upphör!
+#37 jag ašadžol!
+#47 2262
+#11 eld~strid
+#41 jagako maripe
+#51 1548
+#11 eld~vapen
+#41 
+#51 1549
+#12 elden eldar
+#14 el:d
+#98 3448
+#99 3795
+#54 
+#97 mini
+
+#01 eldar
+#31 phabarel
+#02 verb
+#32 verbo
+#04 hålla en eld igång, driva (en värmeanläggning); bränna
+#05 bildligt "hänföra"
+#35 patreto/figurativno
+#07 elda upp skräp
+#37 phabarel gunoj
+#47 2263
+#07 eldas det här kraftverket med kol eller olja?
+#37 
+#47 2264
+#08 elda upp sig ("bli hänförd el. upphetsad")
+#38 phabarel pes
+#48 291
+#10 A & (x); A & upp x/b
+#12 eldade eldat elda(!)
+#14 2El:dar
+#98 3449
+#99 3796
+#54 
+#97 mini
+
+#01 eldbegängelse~byrå
+#31 gropomasko buro/birovo
+#02 subst.
+#32 substantivo
+#04 begravningsbyrå som bl a ordnar med kremering av avlidna personer
+#12 -byrån -byråer
+#14 2El:dbeje@elseby:rå
+#98 3450
+#99 3797
+#54 
+
+#01 eld~dop
+#31 o pervo zumajimos
+#02 subst.
+#32 substantivo
+#04 första allvarliga prövning
+#07 få sitt elddop
+#37 lel pesko zumajimos
+#47 2265
+#12 -dopet -dop -dopen
+#14 2El:do:p
+#98 3451
+#99 3798
+#54 
+
+#01 eld~farlig
+#31 vušoro lel jag
+#02 adj.
+#32 adjektivo
+#04 som lätt fattar eld
+#07 ett eldfarligt material
+#37 jekh materialo kai lel vušoro jag
+#47 2266
+#12 -farligt -farliga
+#14 2El:dfa:r+lig
+#98 3452
+#99 3799
+#54 
+
+#01 eld~fast
+#31 bi te phabol
+#02 adj.
+#32 adjektivo
+#04 som tål ugnsvärme
+#07 eldfasta fat
+#37 
+#47 2267
+#12 -fast -fasta
+#14 2El:dfas:t
+#98 3453
+#99 3800
+#54 
+
+#01 eld~fängd
+#31 fugo xolji
+#02 adj.
+#32 adjektivo
+#04 lättantändlig
+#05 bildligt "hetsig"
+#35 patreto/figurativno ”nervime” 
+#07 eldfängt humör
+#37 
+#47 2268
+#12 -fängt -fängda
+#14 2El:dfe@:d
+#98 3454
+#99 3801
+#54 
+
+#01 eld~givning
+#31 puškimos
+#02 subst.
+#32 substantivo
+#04 skottlossning
+#12 -givningen
+#14 2El:dji:vni@
+#98 3455
+#99 3802
+#54 
+
+#01 eld~hav
+#31 bari jag
+#02 subst.
+#32 substantivo
+#04 mycket stor och häftig brand
+#12 -havet
+#14 2El:dha:v
+#98 3456
+#99 3803
+#54 
+
+#01 eldning
+#31 tačarimos
+#02 subst.
+#32 substantivo
+#04 (skötsel av) uppvärmning
+#11 eldnings~olja -n
+#41 
+#51 1550
+#12 eldningen
+#14 2El:dni@
+#98 3457
+#99 3804
+#54 
+
+#01 eldorado
+#31 baxtalimos
+#02 subst.
+#32 substantivo
+#04 paradis, lyckoland
+#07 ett eldorado för frimärkssamlare
+#37 
+#47 2269
+#12 eldoradot eldoradon eldoradona
+#14 eldorA:do
+#98 3458
+#99 3805
+#54 
+
+#01 eld~prov
+#31 paro zumajimos
+#02 subst.
+#32 substantivo
+#04 svårt prov
+#12 -provet -prov -proven
+#14 2El:dpro:v
+#98 3459
+#99 3806
+#54 
+
+#01 eld~själ
+#31 anda sa o ilo
+#02 subst.
+#32 substantivo
+#04 person med brinnande intresse (för något)
+#07 hon fungerade som eldsjälen i föreningen
+#37 
+#47 2270
+#12 -själen -själar
+#14 2El:d$ä:l
+#98 3460
+#99 3807
+#54 
+
+#01 eld~stad
+#31 jagako foro
+#02 subst.
+#32 substantivo
+#04 ställe där man eldar (spis, kamin, ugn)
+#12 -staden -städer
+#14 2El:dsta:d
+#98 3461
+#99 3808
+#54 
+
+#01 elds~våda
+#31 e jag
+#02 subst.
+#32 substantivo
+#04 brand
+#07 flera mindre eldsvådor uppstod vid åskvädret
+#37 pherdo mai čigne jaga ankliste ando rondžeto
+#47 2271
+#12 -vådan -vådor
+#14 2El:dsvå:da
+#98 3462
+#99 3809
+#54 
+
+#01 elefant
+#31 elefanto
+#02 subst.
+#32 substantivo
+#04 det största nu levande landdjuret
+#12 elefanten elefanter
+#14 elefAn:t
+#98 3463
+#99 3810
+#54 
+#97 mini
+
+#01 elegans
+#31 eleganzo
+#02 subst.
+#32 substantivo
+#04 det att vara elegant
+#12 elegansen
+#14 elegAn:s (el. -A@s)
+#98 3464
+#99 3811
+#54 
+
+#01 elegant
+#31 šukar
+#02 adj.
+#32 adjektivo
+#04 fin och smakfull
+#07 en elegant kostym
+#37 jekh šukar kostymo
+#47 2272
+#12 elegant eleganta
+#14 elegAn:t (el. -A@:t)
+#98 3465
+#99 3812
+#54 
+#97 mini
+
+#01 elektricitet
+#31 energia
+#02 subst.
+#32 substantivo
+#04 ett slags energi, ström
+#12 elektriciteten
+#14 elektrisitE:t
+#98 3466
+#99 3813
+#54 
+#97 mini
+
+#01 elektriker
+#31 kerel buči po elektriko
+#02 subst.
+#32 substantivo
+#04 person som yrkesmässigt gör elinstallationer
+#12 elektrikern elektriker elektrikerna
+#14 elEk:triker
+#98 3467
+#99 3814
+#54 
+#97 mini
+
+#01 elektrisk
+#31 si elektrisko/elektriko/litriko
+#02 adj.
+#32 adjektivo
+#04 som har med elektricitet att göra
+#12 elektriskt elektriska
+#14 elEk:trisk
+#98 3468
+#99 3815
+#54 
+#97 mini
+
+#01 elektron
+#31 elektrono
+#02 subst.
+#32 substantivo
+#04 elektriskt laddad partikel som rör sig runt atomkärnan
+#11 elektron~ugn -en
+#41 
+#51 1551
+#12 elektronen elektroner
+#14 elektrÅ:n
+#98 3469
+#99 3816
+#54 
+
+#01 elektronik
+#31 elektronika
+#02 subst.
+#32 substantivo
+#04 gren av elektrotekniken, som sysslar med utveckling och användning av apparater med t.ex. elektronrör och fotoceller
+#12 elektroniken
+#14 elektronI:k
+#98 3470
+#99 3817
+#54 
+
+#01 elektronik
+#31 elektronika
+#02 subst.
+#32 substantivo
+#04 innehållet (transistorer etc) i elektroniska apparater
+#12 elektroniken
+#14 elektronI:k
+#98 3470
+#99 3818
+#54 
+
+#01 elektronisk
+#31 elektronisko
+#02 adj.
+#32 adjektivo
+#04 som avser eller utnyttjar elektronik
+#07 elektronisk utrustning
+#37 elektroniska dželi
+#47 2273
+#07 elektronisk musik
+#37 elektronisko džili
+#47 2274
+#12 elektroniskt elektroniska
+#14 elektrÅ:nisk
+#98 3471
+#99 3819
+#54 
+
+#01 element
+#31 phuv
+#02 subst.
+#32 substantivo
+#04 ämne; omgivning
+#07 de fyra elementen (jord, vatten, luft, eld)
+#37 le štar elementi ( phuv, paj, barval, jag)
+#47 2275
+#07 vara i sitt rätta element
+#37 te avel pesko vorta elemento
+#47 2276
+#12 elementet element elementen
+#14 elemEn:t
+#98 3472
+#99 3820
+#54 
+#97 mini
+
+#01 element
+#31 tačarimasko bov
+#02 subst.
+#32 substantivo
+#04 apparat för uppvärmning
+#07 stäng av elementet!
+#37 mudar o bov kai tačarel!
+#47 2277
+#09 bild 11:22
+#39 patreto/figurativno
+#11 värmeelement
+#41 tačarimasko bov
+#51 1552
+#12 elementet element elementen
+#14 elemEn:t
+#98 3472
+#99 3821
+#54 bov so mekel tačimos
+#97 mini
+
+#01 element
+#31 
+#02 subst.
+#32 substantivo
+#04 (bestånds)del
+#07 man hänvisade till de konservativa elementen i befolkningen
+#37 
+#47 2278
+#11 oroselement
+#41 
+#51 1553
+#11 betongelement
+#41 
+#51 1554
+#11 element~hus -et
+#41 
+#51 1555
+#12 elementet element elementen
+#14 elemEn:t
+#98 3472
+#99 3822
+#54 
+#97 mini
+
+#01 elementär
+#31 fundamentalnio
+#02 adj.
+#32 adjektivo
+#04 grundläggande
+#07 elementära kunskaper
+#37 fundamentalni žanglimata
+#47 2279
+#12 elementärt elementära
+#14 elementÄ:r
+#98 3473
+#99 3823
+#54 
+
+#01 elev
+#31 studento/sičaritovo/disiplo
+#02 subst.
+#32 substantivo
+#04 person som lär sig, lärjunge
+#07 elev i gymnasiet
+#37 studento ando gymnasio
+#47 2280
+#07 elev på grundskolans högstadium
+#37 
+#47 2281
+#07 hon var elev till Picasso
+#37 voj sas studento kai o Picasso
+#47 2282
+#09 bild 15:30
+#39 patreto/figurativno
+#11 sjuksköterskeelev
+#41 
+#51 1556
+#12 eleven elever
+#14 elE:v
+#98 3474
+#99 3824
+#54 
+#97 mini
+
+#01 elev~råd
+#31 disiplongi/studentongi grupa 
+#02 subst.
+#32 substantivo
+#04 samling av valda elevrepresentanter från varje klass i en skola
+#06 Elevrådet är kontaktorgan mellan elever och skolledning.
+#36 Displongi grupa si sar jekh kontakto maškar le disiplori ai la školake raj.
+#12 -rådet -råd -råden
+#14 2elE:vrå:d
+#98 3475
+#99 3825
+#54 
+#97 mini
+
+#01 elfenben
+#31 kokala elefantoske
+#02 subst.
+#32 substantivo
+#04 material från elefantbetar
+#12 elfenbenet
+#14 2El:fenbe:n
+#98 3476
+#99 3826
+#54 
+
+#01 elfte
+#31 dešujekhto
+#02 räkn.
+#32 genj
+#04 på plats nummer 11
+#08 i elfte timmen ("i sista stund")
+#38 ando dešujekhto časo
+#48 292
+#14 2El:fte
+#98 3477
+#99 3827
+#54 
+
+#01 eliminerar
+#31 lel tele
+#02 verb
+#32 verbo
+#04 ta bort, avlägsna
+#07 eliminera en felkälla
+#37 
+#47 2283
+#10 A & x
+#12 eliminerade eliminerat eliminera(!)
+#14 eliminE:rar
+#98 3478
+#99 3828
+#54 
+
+#01 elit
+#31 le mai laše manuš
+#02 subst.
+#32 substantivo
+#04 de bästa (personerna) inom en grupp
+#07 han tillhör eliten i svensk idrott
+#37 vo si anda le mai laše ande švedisko idroto/sporto
+#47 2284
+#11 idrottselit
+#41 
+#51 1557
+#11 elit~idrott
+#41 
+#51 1558
+#12 eliten eliter
+#14 elI:t
+#98 3479
+#99 3829
+#54 
+
+#01 eljest
+#31 vaj 
+#02 adv.
+#32 adverbo
+#04 annars
+#05 något ålderdomligt
+#35 
+#14 El:jest
+#98 3480
+#99 3830
+#54 
+
+#01 eller
+#31 vajke
+#02 konj.
+#32 konjuktiono
+#05 anger alternativ
+#35 del ažutimos
+#07 du eller jag måste gå
+#37 me vaj tu musaj te žjas
+#47 2285
+#07 vill du ha te eller kaffe?
+#37 kames čajo vaj kafa
+#47 2286
+#07 det är varken dyrt eller billigt
+#37 si parke mai kuči vaj mai lesni
+#47 2287
+#07 jag har rätt, eller hur?
+#37 si man čačimos,na?
+#47 2288
+#07 en mer eller mindre spelar ingen roll
+#37 jekh mai but vaj mai cera či kerel bari buči
+#47 2289
+#14 El:er
+#98 3481
+#99 3831
+#54 
+#97 mini
+
+#01 ellips
+#31 
+#02 subst.
+#32 substantivo
+#04 oval
+#09 bild 31:63
+#39 patreto/figurativno
+#12 ellipsen ellipser
+#14 elIp:s
+#98 3482
+#99 3832
+#54 
+#97 mini
+
+#01 el~ljus
+#31 elektronisko vedžiara/vediara
+#02 subst.
+#32 substantivo
+#04 elektriskt ljus
+#11 elljus~spår
+#41 
+#51 1559
+#12 -ljuset
+#14 2E:lju:s
+#98 3483
+#99 3833
+#54 
+
+#01 el~mätare
+#31 elektriko mesura
+#02 subst.
+#32 substantivo
+#04 apparat som mäter förbrukning av elektrisk ström
+#09 bild 12:25
+#39 patreto/figurativno
+#12 -mätar(e)n -mätare -mätarna
+#14 2E:lmä:tare
+#98 3484
+#99 3834
+#54 
+#97 mini
+
+#01 eloge
+#31 luvudimos
+#02 subst.
+#32 substantivo
+#04 beröm, lovord
+#07 ge någon en eloge
+#37 del varekas luvudipe
+#47 2290
+#12 elogen eloger
+#14 elÅ:$
+#98 3485
+#99 3835
+#54 
+
+#01 el~sits
+#31 elektrisko skamin
+#02 subst.
+#32 substantivo
+#04 elektriskt uppvärmd sittdyna (i bil)
+#12 -sitsen -sitsar
+#14 2E:lsit:s
+#98 3486
+#99 3836
+#54 
+
+#01 elva 1
+#31 dešujekh
+#02 räkn.
+#32 genj
+#04 11
+#14 2El:va
+#98 3487
+#99 3837
+#54 
+#97 mini
+
+#01 elva 2
+#31 o dešujekhto
+#02 subst.
+#32 substantivo
+#04 siffran 11; nummer 11 i ordningen
+#12 elvan elvor
+#14 2E:lva
+#98 3488
+#99 3838
+#54 
+#97 mini
+
+#01 el~verk
+#31 fabrika kai kerel elektriko
+#02 subst.
+#32 substantivo
+#04 företag där man producerar elektrisk ström
+#12 -verket -verk -verken
+#14 2E:lvär:k
+#98 3489
+#99 3839
+#54 
+
+#01 elände
+#31 čorimos
+#02 subst.
+#32 substantivo
+#04 svårt tillstånd, nöd
+#07 till råga på allt elände började det regna
+#37 pe o čorimos mai laspe te del brešin
+#47 2291
+#12 eländet
+#14 2E:len:de
+#98 3490
+#99 3840
+#54 
+
+#01 eländig
+#31 čoro
+#02 adj.
+#32 adjektivo
+#04 som lever under svåra förhållanden
+#07 barnen växte upp under eländiga förhållanden
+#37 le glati barile ando čorimos
+#47 2292
+#07 jag känner mig eländig idag!
+#37 me ačarav man čoro adžes!
+#47 2293
+#12 eländigt eländiga
+#14 2E:len:dig
+#98 3491
+#99 3841
+#54 
+
+#01 EM
+#31 europako khelipe
+#02 förk.
+#32 skurtsomos
+#04 europamästerskap
+#14 2E:em:
+#98 3492
+#99 3842
+#54 
+
+#01 emalj
+#31 emajlo
+#02 subst.
+#32 substantivo
+#04 glasliknande skikt (på metallföremål); tändernas yttersta lager
+#11 tandemalj
+#41 
+#51 1560
+#11 emalj~målning -en
+#41 
+#51 1561
+#12 emaljen emaljer
+#14 emAl:j
+#98 3493
+#99 3843
+#54 
+
+#01 emancipation
+#31 liberta
+#02 subst.
+#32 substantivo
+#04 frigörelse; frigjordhet
+#07 kvinnans emancipation
+#37 žvuliasko/žuvliako liberta
+#47 2294
+#12 emancipationen
+#14 emansipa$O:n
+#98 3494
+#99 3844
+#54 
+
+#01 emballage
+#31 paketto
+#02 subst.
+#32 substantivo
+#04 omslag, förpackning
+#12 emballaget emballage emballagen
+#14 embalA:$ (el. am-)
+#98 3495
+#99 3845
+#54 
+
+#01 embargo
+#31 embargo
+#02 subst.
+#32 substantivo
+#04 förbud mot handel (med ett land)
+#11 oljeembargo
+#41 
+#51 1562
+#12 embargot embargon
+#14 embAr:go
+#98 3496
+#99 3846
+#54 
+
+#01 embryo
+#31 embryo
+#02 subst.
+#32 substantivo
+#04 djur el. växt i allra tidigaste stadier
+#05 bildligt "början"
+#35 patreto/patretosko/figurativno ”o pervo”
+#12 embryot embryon
+#14 Em:bryo
+#98 3497
+#99 3847
+#54 
+
+#01 emedan
+#31 te anda
+#02 konj.
+#32 konjuktiono
+#04 därför att
+#14 2emE:dan
+#98 3498
+#99 3848
+#54 
+
+#01 emellan 1
+#31 maškar
+#02 se sitter emellan
+#32 dikh bešen maškar
+#14 2emEl:an
+#98 3499
+#99 3849
+#54 
+
+#01 emellan 2
+#31 maškaral
+#02 prep.
+#32 prepositiono
+#04 mellan
+#07 vi bodde mitt emellan två städer
+#37 ame bešasas maškaral duj forori
+#47 2295
+#07 oss emellan sagt
+#37 maškaral amendar phendo
+#47 2296
+#14 2emEl:an
+#15 även efter sitt huvudord
+#45 vi pala pesko baro divano
+#98 3500
+#99 3850
+#54 
+
+#01 emellanåt
+#31 kana ai kana
+#02 adv.
+#32 adverbo
+#04 ibland, då och då
+#07 pensionärerna tog sig emellanåt en svängom
+#37 le pure pirenas kana ai kana
+#47 2297
+#14 2emEl:anå:t
+#98 3501
+#99 3851
+#54 
+
+#01 emellertid
+#31 numa
+#02 adv.
+#32 adverbo
+#04 dock
+#07 det visade sig emellertid att uppgifterna var falska
+#37 sikadaspe/sikadžila la vriamasa  ke le žanglimata/informacji sas xoxavne
+#47 2298
+#14 emEl:er+ti:d
+#98 3502
+#99 3852
+#54 
+#97 mini
+
+#01 emigrant
+#31 themari
+#02 subst.
+#32 substantivo
+#04 utvandrare
+#12 emigranten emigranter
+#14 emigrAn:t
+#98 3503
+#99 3853
+#54 
+
+#01 emigration
+#31 imigrationo
+#02 subst.
+#32 substantivo
+#04 utvandring
+#12 emigrationen
+#14 emigra$O:n
+#98 3504
+#99 3854
+#54 
+
+#01 emigrerar
+#31 imgreril
+#02 verb
+#32 verbo
+#04 utvandra
+#10 A &
+#12 emigrerade emigrerat emigrera(!)
+#14 emigrE:rar
+#98 3505
+#99 3855
+#54 
+#97 mini
+
+#01 eminent
+#31 vestome
+#02 adj.
+#32 adjektivo
+#04 mycket framstående
+#12 eminent eminenta
+#14 eminEn:t
+#98 3506
+#99 3856
+#54 
+
+#01 emission
+#31 emissiono
+#02 subst.
+#32 substantivo
+#04 det att ge ut sedlar, obligationer el. aktier
+#11 aktieemission
+#41 
+#51 1563
+#11 nyemission
+#41 
+#51 1564
+#12 emissionen emissioner
+#14 emi$O:n
+#98 3507
+#99 3857
+#54 
+
+#01 emot
+#31 muj mostar
+#02 adv.
+#32 adverbo
+#04 mot
+#08 mitt emot ("på motsatta sidan")
+#38 muj mostar(”pe kaver ring”)
+#48 293
+#08 stå emot ("inte ge vika för")
+#38 
+#48 294
+#14 emO:t
+#15 ofta som verbpartikel
+#45 
+#98 3508
+#99 3858
+#54 
+#97 mini
+
+#01 emotionell
+#31 azbado
+#02 adj.
+#32 adjektivo
+#04 känslomässig
+#12 emotionellt emotionella
+#14 emot$onEl:
+#98 3509
+#99 3859
+#54 
+
+#01 emotser
+#31 ažukerel
+#02 verb
+#32 verbo
+#04 vänta (sig), se fram emot
+#07 vi emotser ert svar
+#37 ame ažukeras tumaro atveto
+#47 2299
+#10 A & x
+#12 emotsåg emotsett emotse(!)
+#14 2E:mo:tse:r
+#98 3510
+#99 3860
+#54 
+
+#01 empirisk
+#31 žanglo
+#02 adj.
+#32 adjektivo
+#04 som grundar sig på erfarenhet
+#12 empiriskt empiriska
+#14 empI:risk
+#98 3511
+#99 3861
+#54 
+
+#01 en 1
+#31 jekh
+#02 räkn.
+#32 genj
+#04 1
+#07 det hände bara en gång
+#37 jekh data kerdžilas kado
+#47 2303
+#12 ett
+#14 en:
+#15 betonat
+#45 
+#98 3515
+#99 3865
+#54 
+#97 mini
+
+#01 en 2
+#31 ande jekh
+#02 obestämd artikel
+#32 na žanglo artikli
+#07 en stor skog
+#37 jekh baro veš
+#47 2301
+#12 ett
+#14 en:
+#98 3513
+#99 3863
+#54 
+#97 mini
+
+#01 en 3
+#31 manuš
+#02 pron.
+#32 pronomeno
+#04 man
+#07 det förargar en att höra sådant
+#37 xoliarel ferdi te ašunel o manuš
+#47 2302
+#12 ens
+#14 en:
+#15 obestämt; ej som subjekht
+#45 
+#98 3514
+#99 3864
+#54 
+#97 mini
+
+#01 en 4
+#31 pašte
+#02 adv.
+#32 adverbo
+#04 omkring, cirka
+#05 vardagligt
+#35 džesesko
+#07 vi var väl en 5--6 stycken
+#37 ame samas pašte 5-6 džene/žene
+#47 2300
+#14 en:
+#98 3512
+#99 3862
+#54 
+#97 mini
+
+#01 en 5
+#31 kopači
+#02 subst.
+#32 substantivo
+#04 barrträdet Juniperus communis
+#09 bild 23:46
+#39 patreto/figurativno
+#11 en~bär -et
+#41 
+#51 1565
+#11 en~ris
+#41 
+#51 1566
+#12 enen enar
+#14 e:n
+#98 3516
+#99 3866
+#54 
+#97 mini
+
+#01 en face
+#31 angla muj
+#02 adv.
+#32 adverbo
+#04 rakt framifrån
+#05 franska; motsats "i profil"
+#35 
+#14 a@fAs:
+#98 3517
+#99 3867
+#54 
+
+#01 ena
+#31 jekh andal duj
+#02 pron.
+#32 pronomeno
+#04 en av två
+#05 anger motsats
+#35 
+#07 varken det ena eller det andra
+#37 vajke jekh andal duj/či jekh anda le duj
+#47 2304
+#08 den enes bröd, den andres död ("vad som gynnar en, missgynnar en annan")
+#38 jekhesko manro , ai le dujesko/kavresko merimos(”so ažutil jekhes, či ažutil le avres”)
+#48 295
+#12 ene
+#14 2E:na
+#98 3518
+#99 3868
+#54 
+#97 mini
+
+#01 enahanda
+#31 bi dragosto
+#02 adj.
+#32 adjektivo
+#04 enformig
+#07 fritiden blir en kontrast till den enahanda tillvaron på fabriken
+#37 
+#47 2305
+#14 2E:nahan:da
+#98 3519
+#99 3869
+#54 
+
+#01 en~aktare
+#31 jekh akto spektakolo
+#02 subst.
+#32 substantivo
+#04 skådespel i en akt
+#12 -aktaren -aktare -aktarna
+#14 2E:nak:tare
+#98 3520
+#99 3870
+#54 
+
+#01 enar
+#31 čidimos
+#02 verb
+#32 verbo
+#04 göra enig, förena
+#07 partierna hade enats om ett förslag
+#37 le partiuri ašile pe jekh gindo
+#47 2306
+#07 låt oss enas om att säga nej!
+#37 mek ašaš te penas na!
+#47 2307
+#10 A och B & sig (om x/att+SATS/att+INF)
+#12 enade enat ena(!)
+#14 2E:nar
+#98 3521
+#99 3871
+#54 
+#97 mini
+
+#01 en~armad
+#31 jekhe vastesko
+#02 adj.
+#32 adjektivo
+#04 som (bara) har en arm
+#08 enarmad bandit ("spelautomat med spak att dra i")
+#38 jekhe vastesko bandito(”khelimasko automato me jekh vast kai cirden pe”)
+#48 296
+#12 -armat -armade
+#14 2E:nar:mad
+#98 3522
+#99 3872
+#54 
+
+#01 enastående
+#31 čudako/čudato
+#02 adj.
+#32 adjektivo
+#04 som är utan like, unik
+#07 en enastående dag!
+#37 jekh čudako džes
+#47 2308
+#14 2E:nastå:ende
+#98 3523
+#99 3873
+#54 
+#97 mini
+
+#01 enbart
+#31 ferdi
+#02 adv.
+#32 adverbo
+#04 bara
+#07 ökningen gäller enbart andra kvartalet
+#37 
+#47 2309
+#14 2E:nba:r+t
+#98 3524
+#99 3874
+#54 
+#97 mini
+
+#01 enbent
+#31 jekhe purneske/punresko
+#02 adj.
+#32 adjektivo
+#04 som har (bara) ett ben
+#12 enbent enbena
+#14 2E:nbe:nt
+#98 3525
+#99 3875
+#54 
+
+#01 encyklopedi
+#31 baro lexikono
+#02 subst.
+#32 substantivo
+#04 uppslagsverk
+#12 encyklopedi(e)n encyklopedier
+#14 ensyklopedI:
+#98 3526
+#99 3876
+#54 
+
+#01 enda
+#31 numa kado
+#02 adj.
+#32 adjektivo
+#04 ensam i sitt slag
+#07 jag läste den enda bok som fanns i väntrummet
+#37 me džindem numa kudia kniška kai sas len ande le ažukerimaski soba
+#47 2310
+#12 ende
+#14 2En:da
+#98 3527
+#99 3877
+#54 
+#97 mini
+
+#01 endast
+#31 ferdi 
+#02 adv.
+#32 adverbo
+#04 bara, enbart, blott
+#14 2En:dast
+#98 3528
+#99 3878
+#54 
+#97 mini
+
+#01 endera
+#31 jekh andal
+#02 pron.
+#32 pronomeno
+#04 en av dem, en av de två
+#08 endera dagen ("någon av de kommande dagarna")
+#38 jekh andal džesa (”jekh andal le džesa kai avena”)
+#48 297
+#14 En:dera
+#98 3529
+#99 3879
+#54 
+
+#01 endräkt
+#31 andek than
+#02 subst.
+#32 substantivo
+#04 enighet
+#05 högtidligt
+#35 
+#12 endräkten
+#14 2E:ndrek:t
+#98 3530
+#99 3880
+#54 
+
+#01 energi
+#31 energia
+#02 subst.
+#32 substantivo
+#04 en persons arbetsförmåga
+#07 på morgnarna kände han sig fylld av energi och livslust
+#37 diminiači ačarelaspe vo pherdo anda energia
+#47 2311
+#11 energi~knippe
+#41 
+#51 1567
+#12 energi(e)n
+#14 enär$I:
+#98 3531
+#99 3881
+#54 
+#97 mini
+
+#01 energi
+#31 zor 
+#02 subst.
+#32 substantivo
+#04 kraft (som driver maskiner)
+#07 mycket energi går åt för uppvärmning av våra hus
+#37 but energia žal kaj amare khera
+#47 2312
+#09 bild 31:62
+#39 patreto/figurativno
+#11 atomenergi
+#41 
+#51 1568
+#11 energi~försörjning -en
+#41 
+#51 1569
+#11 energi~kris
+#41 energiako xajimos
+#51 1570
+#11 energi~källa
+#41 
+#51 1571
+#12 energi(e)n
+#14 ener$I:
+#98 3531
+#99 3882
+#54 
+#97 mini
+
+#01 energi~knippe
+#31 zurales energiako manuš
+#02 subst.
+#32 substantivo
+#04 mycket energisk person
+#12 -knippet -knippen
+#14 2enär$I:knip:e
+#98 3533
+#99 3884
+#54 
+
+#01 energisk
+#31 energisko
+#02 adj.
+#32 adjektivo
+#04 som har el. kräver energi, ihärdig, arbetsam
+#07 man gör energiska ansträngningar för att bekämpa oljeskadorna
+#37 
+#47 2313
+#12 energiskt energiska
+#14 enÄr:gisk
+#98 3534
+#99 3885
+#54 
+
+#01 enfaldig
+#31 prosto
+#02 adj.
+#32 adjektivo
+#04 lättlurad, dum
+#12 enfaldigt enfaldiga
+#14 2E:nfal:dig
+#98 3537
+#99 3888
+#54 
+
+#01 enfant terrible
+#31 čudato manuš
+#02 subst.
+#32 substantivo
+#04 person som chockerar sin omgivning
+#05 franska
+#35 fransosisko
+#14 a@fA@: terIb:l
+#98 3538
+#99 3889
+#54 
+
+#01 enformig
+#31 zurale šeresko
+#02 adj.
+#32 adjektivo
+#04 långtråkig, utan omväxling
+#11 enformighet -en
+#41 
+#51 1572
+#12 enformigt enformiga
+#14 2E:nfår:mig
+#98 3539
+#99 3890
+#54 
+
+#01 enfärgad
+#31 jekhe farbasko
+#02 adj.
+#32 adjektivo
+#04 som har (bara) en färg
+#12 enfärgat enfärgade
+#14 2E:nfär:jad
+#98 3540
+#99 3891
+#54 
+
+#01 engagemang
+#31 ande buči
+#02 subst.
+#32 substantivo
+#04 (tillfällig) anställning
+#07 sångerskan hade svårt att få engagemang
+#37 e džilabatorajka sas lake trudno te lel buči
+#47 2314
+#12 engagemanget engagemang engagemangen
+#14 a@ga$emA@:
+#98 3541
+#99 3892
+#54 
+
+#01 engagemang
+#31 intereso
+#02 subst.
+#32 substantivo
+#04 inlevelse, intresse
+#07 hon visade ett djupt engagemang i miljöfrågor
+#37 voj sikavelas jekh baro intereso andel pušimata pa natura
+#47 2315
+#12 engagemanget engagemang engagemangen
+#14 a@ga$emA@:
+#98 3541
+#99 3893
+#54 
+
+#01 engagerar
+#31 del buči
+#02 verb
+#32 verbo
+#04 anställer
+#10 A & B
+#12 engagerade engagerat engagera(!)
+#14 a@ga$E:rar
+#98 3542
+#99 3894
+#54 
+
+#01 engagerar
+#31 intereseril
+#02 verb
+#32 verbo
+#04 intresserar
+#07 musiken engagerar honom fullständigt
+#37 e muzika/džili interesil les but
+#47 2316
+#10 A/x & B
+#12 engagerade engagerat engagera(!)
+#14 a@ga$E:rar
+#98 3542
+#99 3895
+#54 
+
+#01 engagerar sig
+#31 interesil pes
+#02 verb
+#32 verbo
+#04 intresserar sig
+#07 de engagerade sig för de internationella problemen
+#37 von interesisajle anda le internationalni problemi
+#47 2317
+#10 A & (för x)
+#12 engagerade engagerat engagera(!)
+#14 a@ga$E:rar+sej
+#98 3543
+#99 3896
+#54 
+
+#01 engelsk
+#31 engelšisko/engležisko
+#02 adj.
+#32 adjektivo
+#04 som avser England eller engelska språket
+#11 engelsk~språkig -t
+#41 angliasko šibasko
+#51 1573
+#12 engelskt engelska
+#14 E@:elsk
+#98 3544
+#99 3897
+#54 manuš kai avel anda Englanto vajke kai del duma e šib
+
+#01 engelska
+#31 engelšisko) 
+#02 subst.
+#32 substantivo
+#04 språk som talas i England (m fl länder)
+#12 engelskan
+#14 E@:elska
+#98 3545
+#99 3898
+#54 
+#97 mini
+
+#01 engelska
+#31 englandlajka/engležaika
+#02 subst.
+#32 substantivo
+#04 kvinna från England
+#12 engelskan engelskor
+#14 E@:elska
+#98 3545
+#99 3898
+#54 žuvli kai avel anda Englanto
+#97 mini
+
+#01 engels~man
+#31 englantano
+#02 subst.
+#32 substantivo
+#04 (manlig) person från England
+#12 -mannen -män -männen
+#14 2E@:elsman:
+#98 3546
+#99 3899
+#54 murš kai avel anda Englanto
+
+#01 England
+#31 Englanto/Anglia
+#02 namn
+#32 nam
+#04 land som ingår i Storbritannien
+#14 E@:land
+#98 
+#99 Â 
+#54 
+
+#01 engångs-
+#31 pe jekh data
+#02 förled
+#32 
+#04 som sker el. används etc bara en gång
+#11 engångs~företeelse -n
+#41 numa pe jekh data
+#51 1574
+#11 engångs~förpackning -en
+#41 jekh data paketo
+#51 1575
+#11 engångs~bestick
+#41 furka ai šuri pe jekh data
+#51 1576
+#11 engångs~bruk
+#41 jekhe datasko
+#51 1577
+#11 engångs~flaska
+#41 jekhe dataski holba
+#51 1578
+#14 2E:ngå@s-
+#98 3547
+#99 3900
+#54 
+
+#01 enhet
+#31 jekh čigno grupo katar jekh baro grupo
+#02 subst.
+#32 substantivo
+#04 (minsta) sammanhängande helhet inom en större grupp
+#07 bolaget bestod av flera smärre enheter
+#37 
+#47 2318
+#12 enheten enheter
+#14 2E:nhe:t
+#98 3548
+#99 3901
+#54 
+#97 mini
+
+#01 enhet
+#31 
+#02 subst.
+#32 substantivo
+#04 tal el. mängd som används som standard vid jämförelser
+#11 mätenhet
+#41 
+#51 1579
+#12 enheten enheter
+#14 2E:nhe:t
+#98 3548
+#99 3902
+#54 
+#97 mini
+
+#01 enhetlig
+#31 pe jekh gindo
+#02 adj.
+#32 adjektivo
+#04 som utgör en enhet, likartad
+#12 enhetligt enhetliga
+#14 2E:nhe:tlig
+#98 3549
+#99 3903
+#54 
+
+#01 enhällig
+#31 savore pe jekh gindo
+#02 adj.
+#32 adjektivo
+#04 med allas röster, samstämmig
+#07 ett enhälligt beslut
+#37 
+#47 2319
+#12 enhälligt enhälliga
+#14 2E:nhel:ig
+#98 3550
+#99 3904
+#54 
+#97 mini
+
+#01 enig
+#31 dakordo
+#02 adj.
+#32 adjektivo
+#04 överens, sams
+#07 man var rörande enig om beslutet
+#37 
+#47 2320
+#12 enigt eniga
+#14 2E:nig
+#98 3551
+#99 3905
+#54 
+#97 mini
+
+#01 enighet
+#31 unita
+#02 subst.
+#32 substantivo
+#04 sammanhållning, samstämmighet
+#07 det råder total enighet om kraven
+#37 
+#47 2321
+#12 enigheten
+#14 2E:nighe:t
+#98 3552
+#99 3906
+#54 
+
+#01 enkel
+#31 vušoro
+#02 adj.
+#32 adjektivo
+#04 lätt att förstå, okomplicerad
+#07 ge en enkel förklaring
+#37 de jekh vušoro mothajimos/splikimos
+#47 2322
+#08 en enkel match ("en lätt sak")
+#38 jekh vušoro khelimos (”jekh vušuro džela”)
+#48 298
+#08 (jag var) helt enkelt ("rätt och slätt") (rädd)
+#38 me simas čačimasa darano
+#48 299
+#09 motsats ^svår^
+#39 
+#12 enkelt enkla
+#14 E@:kel
+#98 3553
+#99 3907
+#54 
+#97 mini
+
+#01 enkel
+#31 normalno
+#02 adj.
+#32 adjektivo
+#04 anspråkslös, naturlig
+#07 en fattig och enkel flicka
+#37 jekh čori ai normalnio/simplo šhej
+#47 2323
+#07 enkla vanor
+#37 
+#47 2324
+#12 enkelt enkla
+#14 E@:kel
+#98 3553
+#99 3908
+#54 
+#97 mini
+
+#01 enkel
+#31 jekh drom
+#02 adj.
+#32 adjektivo
+#04 inte dubbel
+#07 enkel biljett
+#37 jekhe dromesko ticketa
+#47 2325
+#08 enkel majoritet ("majoritet med endast något mer än hälften av rösterna")
+#38 
+#48 300
+#09 motsats ^dubbel^
+#39 
+#11 enkel~rum -met
+#41 
+#51 1580
+#12 enkelt enkla
+#14 E@:kel
+#98 3553
+#99 3909
+#54 
+#97 mini
+
+#01 enkelhet
+#31 ando vušoro
+#02 subst.
+#32 substantivo
+#04 lätthet; anspråkslöshet
+#07 det blir en middag i all enkelhet
+#37 
+#47 2326
+#12 enkelheten
+#14 2E@:kelhe:t
+#98 3554
+#99 3910
+#54 
+
+#01 enkel~riktad
+#31 jekhe dromesko
+#02 adj.
+#32 adjektivo
+#04 som bara får köras åt ett håll
+#07 en enkelriktad gata
+#37 jekhe dromeski vulitsa
+#47 2327
+#12 -riktat -riktade
+#14 2E@:kelrik:tad
+#98 3555
+#99 3911
+#54 
+
+#01 enkel~spårig
+#31 jekhe dromeski šina/vurma
+#02 adj.
+#32 adjektivo
+#04 som har ett spår
+#05 bildligt "trångsynt, ensidig"
+#35 patreto/figurativno
+#07 enkelspårig järnväg
+#37 
+#47 2328
+#12 -spårigt -spåriga
+#14 2E@:kelspå:rig
+#98 3556
+#99 3912
+#54 
+
+#01 enklav
+#31 foro ande aver foro
+#02 subst.
+#32 substantivo
+#04 en del av en stat som omges av en annan stat
+#05 även bildligt
+#35 vi patreto/figurativno
+#12 enklaven enklaver
+#14 e@klA:v
+#98 3557
+#99 3913
+#54 
+
+#01 en~krona
+#31 jekh krono
+#02 subst.
+#32 substantivo
+#04 ett mynt (= hundra öre)
+#09 bild 16:33
+#39 patreto/figurativno
+#12 -kronan -kronor
+#14 2E:nkro:na
+#98 3558
+#99 3914
+#54 
+#97 mini
+
+#01 enkät
+#31 pušimos
+#02 subst.
+#32 substantivo
+#04 rundfråga, opinionsundersökning
+#12 enkäten enkäter
+#14 a@kÄ:t
+#98 3559
+#99 3915
+#54 opiniaski vorba
+
+#01 enl.
+#31 sar kai
+#02 förk.
+#32 skortsomos
+#04 enligt
+#14 2E:nli(k)t
+#98 3560
+#99 3916
+#54 
+
+#01 enlighet
+#31 unita
+#02 subst.
+#32 substantivo
+#08 i enlighet med ("enligt") (överenskommelsen)
+#38 
+#48 301
+#14 2E:nlighet
+#98 3561
+#99 3917
+#54 
+
+#01 enligt
+#31 sar kai ašilem
+#02 prep.
+#32 prepositiono
+#04 i överensstämmelse med, efter, på grund av
+#07 enligt alla beräkningar
+#37 
+#47 2329
+#14 2E:nli(g)t
+#98 3562
+#99 3918
+#54 
+#97 mini
+
+#01 en~mans-
+#31 katar jekh manuš
+#02 förled
+#32 jekhtobati
+#04 som utförs av el. gäller en person
+#11 enmans~show
+#41 
+#51 1581
+#11 enmans~utredare
+#41 
+#51 1582
+#14 2E:nman:s-
+#98 3563
+#99 3919
+#54 
+
+#01 enorm
+#31 desa baro
+#02 adj.
+#32 adjektivo
+#04 mycket stor
+#12 enormt enorma
+#14 enÅr:m
+#98 3564
+#99 3920
+#54 
+#97 mini
+
+#01 en~rum
+#31 korkoro te des duma vare kasa
+#02 subst.
+#32 substantivo
+#08 (tala) i enrum ("utan att någon annan hör på, enskilt")
+#38 den duma ande jekh soba(”bi te ašunel varekon aver, korkoro”)
+#48 302
+#14 2E:nrum:
+#98 3565
+#99 3921
+#54 
+
+#01 ens
+#31 čina
+#02 adv.
+#32 adverbo
+#08 (hon fick) inte ens ("inte så mycket som") (en ursäkt)
+#38 
+#48 303
+#14 en:s
+#98 3566
+#99 3922
+#54 
+
+#01 en~sak
+#31 džela
+#02 subst.
+#32 substantivo
+#08 det är min ensak ("det angår bara mig")
+#38 
+#48 304
+#14 2E:nsa:k
+#98 3567
+#99 3923
+#54 
+
+#01 ensam
+#31 korkoro
+#02 adj.
+#32 adjektivo
+#04 utan sällskap; isolerad
+#07 han var ensam i rummet
+#37 vo sas korkoro ande soba
+#47 2330
+#07 känna sig ensam och övergiven
+#37 ačarel pes korkoro ai bi kanikasko
+#47 2331
+#11 ensam~varg
+#41 
+#51 1583
+#12 ensamt ensamma
+#14 2En:sam:
+#98 3568
+#99 3924
+#54 
+#97 mini
+
+#01 ensamhet
+#31 korkorimos
+#02 subst.
+#32 substantivo
+#04 avskildhet, isolering
+#12 ensamheten
+#14 2En:samhe:t
+#98 3569
+#99 3925
+#54 
+
+#01 ensam~stående
+#31 trail korkoro
+#02 adj.
+#32 adjektivo
+#04 som bor utan annan vuxen
+#07 en ensamstående äldre man
+#37 korkoro phuro manuš
+#47 2332
+#07 ensamstående mor
+#37 korkoro dej
+#47 2333
+#14 2En:samstå:ende
+#98 3570
+#99 3926
+#54 
+#97 mini
+
+#01 ense
+#31 andek than
+#02 adj.
+#32 adjektivo
+#08 vara ense ("vara överens") om (något)
+#38 pe jekh gindo
+#48 305
+#10 A och B är & om x/att+SATS
+#14 2En:se
+#98 3571
+#99 3927
+#54 
+#97 mini
+
+#01 ensemble
+#31 grupo muzikako/teatrosko
+#02 subst.
+#32 substantivo
+#04 musik- el. teatergrupp
+#12 ensemblen ensembler
+#14 a@sAm:bel
+#98 3572
+#99 3928
+#54 
+
+#01 en~sidig
+#31 numa jekha rigasa
+#02 adj.
+#32 adjektivo
+#04 som bara berör ena sidan; partisk, trångsynt
+#07 en ensidig redogörelse
+#37 
+#47 2334
+#12 -sidigt -sidiga
+#14 2E:nsi:dig
+#98 3573
+#99 3929
+#54 
+
+#01 en~skild
+#31 privatno
+#02 adj.
+#32 adjektivo
+#04 privat; enstaka
+#07 enskilt samtal
+#37 korkoro svato
+#47 2335
+#07 varje enskild medlem får säga vad han el. hon vill
+#37 
+#47 2336
+#12 -skilt -skilda
+#14 2E:n$il:d
+#98 3574
+#99 3930
+#54 
+#97 mini
+
+#01 enslig
+#31 garado
+#02 adj.
+#32 adjektivo
+#04 som har isolerat läge; ensam
+#12 ensligt ensliga
+#14 2E:nslig
+#98 3575
+#99 3931
+#54 
+#97 mini
+
+#01 ensling
+#31 vešuno
+#02 subst.
+#32 substantivo
+#04 enstöring
+#12 enslingen enslingar
+#14 En:sli@
+#98 3576
+#99 3932
+#54 
+
+#01 enstaka
+#31 pesko korkoro
+#02 adj.
+#32 adjektivo
+#04 ensam, enda, enskild, för sig
+#07 någon enstaka gång
+#37 kana ai kana
+#47 2337
+#14 2E:nsta:ka
+#15 oböjligt
+#45 
+#98 3577
+#99 3933
+#54 
+
+#01 en~stämmig
+#31 pe jekh vorba
+#02 adj.
+#32 adjektivo
+#04 samstämmig, enhällig
+#12 -stämmigt -stämmiga
+#14 2E:nstem:ig
+#98 3578
+#99 3934
+#54 
+
+#01 enstöring
+#31 korkoro manuš
+#02 subst.
+#32 substantivo
+#04 (av egen vilja) ensam person
+#12 enstöringen enstöringar
+#14 2E:nstö:ri@
+#98 3579
+#99 3935
+#54 
+
+#01 entledigar
+#31 šudino tele katar e buči
+#02 verb
+#32 verbo
+#04 avskeda
+#10 A & B
+#12 entledigade entledigat entlediga(!)
+#14 entlE:digar
+#98 3580
+#99 3936
+#54 
+
+#01 entre
+#31 vudar andre 
+#02 subst.
+#32 substantivo
+#04 ingång
+#07 västra entren
+#37 
+#47 2338
+#11 huvudentre
+#41 o baro vudar
+#51 1584
+#12 entren entreer
+#14 a@trE:
+#98 3581
+#99 3937
+#54 vudar avri
+
+#01 entre
+#31 entre počinimasko
+#02 subst.
+#32 substantivo
+#04 avgift (för inträde), inträde
+#07 fri entre
+#37 ivia entre
+#47 2339
+#12 entren entreer
+#14 a@trE:
+#98 3581
+#99 3938
+#54 
+
+#01 entreprenad
+#31 divano bučaki počin/(kontrakto bučako)
+#02 subst.
+#32 substantivo
+#04 avtal om arbete mot en viss betalning
+#11 entreprenad~firma -n
+#41 
+#51 1585
+#12 entreprenaden entreprenader
+#14 a@treprenA:d (el. en-)
+#98 3582
+#99 3939
+#54 
+
+#01 entreprenör
+#31 manuš kai kerel lil antrepenado
+#02 subst.
+#32 substantivo
+#04 person som åtar sig entreprenad
+#12 entreprenören entreprenörer
+#14 a@treprenÖ:r (el. en-)
+#98 3583
+#99 3940
+#54 
+
+#01 enträgen
+#31 zuralo šeresko
+#02 adj.
+#32 adjektivo
+#04 envis, outtröttlig
+#07 en enträgen begäran
+#37 
+#47 2340
+#12 enträget enträgna
+#14 2E:nträ:gen
+#98 3584
+#99 3941
+#54 
+
+#01 entusiasm
+#31 dragostimos
+#02 subst.
+#32 substantivo
+#04 förtjusning, hänförelse, iver
+#12 entusiasmen
+#14 a@tusiAs:m (el. en-)
+#98 3585
+#99 3942
+#54 
+
+#01 entusiastisk
+#31 dragosto/vojaki
+#02 adj.
+#32 adjektivo
+#04 förtjust, hänförd
+#07 hon blev entusiastisk över förslaget
+#37 voj anklisti dragosto/vojaki pala kado gindo
+#47 2341
+#10 & (för/ över x)
+#12 entusiastiskt entusiastiska
+#14 a@tusiAs:tisk (el. en-)
+#98 3586
+#99 3943
+#54 
+
+#01 entydig
+#31 xaljarimasko
+#02 adj.
+#32 adjektivo
+#04 som kan förstås på endast ett sätt
+#12 entydigt entydiga
+#14 2E:nty:dig
+#98 3587
+#99 3944
+#54 
+
+#01 envar
+#31 svako jekh
+#02 pron.
+#32 pronomeno
+#04 var och en, alla
+#05 högtidligt
+#35 
+#14 envA:r
+#98 3588
+#99 3945
+#54 
+
+#01 enveten
+#31 tukoto 
+#02 adj.
+#32 adjektivo
+#04 envis
+#07 en enveten mygga
+#37 
+#47 2342
+#12 envetet envetna
+#14 2E:nve:ten
+#98 3589
+#99 3946
+#54 
+
+#01 environg
+#31 krugliom
+#02 subst.
+#32 substantivo
+#04 omgivning
+#07 i environgerna
+#37 
+#47 2343
+#12 environgen environger
+#14 a@virÅ@:
+#98 3590
+#99 3947
+#54 
+
+#01 envis
+#31 tukoto
+#02 adj.
+#32 adjektivo
+#04 som inte ger sig, enveten, ihärdig
+#07 föra en envis kamp
+#37 
+#47 2344
+#07 en envis hosta
+#37 jekh zuralo xasajimos/xasamos
+#47 2345
+#12 envist envisa
+#14 2E:nvi:s
+#98 3591
+#99 3948
+#54 zuralo šeresko
+#97 mini
+
+#01 envisas
+#31 pe zorate
+#02 verb
+#32 verbo
+#04 vara påstridig, trilskas
+#07 han envisas med att cykla på fel sida
+#37 vo kerelas pe zor te ciklil pe kaver rig
+#47 2346
+#10 A & (med att + INF)
+#12 envisades envisats envisas(!)
+#14 2E:nvi:sas
+#98 3592
+#99 3949
+#54 
+
+#01 envishet
+#31 pe zorate
+#02 subst.
+#32 substantivo
+#04 envetenhet, ihärdighet, tjurskallighet
+#12 envisheten
+#14 2E:nvi:she:t
+#98 3593
+#99 3950
+#54 
+
+#01 envålds~härskare
+#31 korkoro birevo
+#02 subst.
+#32 substantivo
+#04 härskare med oinskränkt makt
+#12 -härskaren -härskare -härskarna
+#14 2E:nvåldshär+s:kare
+#98 3594
+#99 3951
+#54 
+
+#01 envälde
+#31 manuš kai porončil korkoro
+#02 subst.
+#32 substantivo
+#04 styrelseform där en person har all makt
+#12 enväldet
+#14 2E:nvel:de
+#98 3595
+#99 3952
+#54 
+
+#01 enväldig
+#31 kai porončil korkoro
+#02 adj.
+#32 adjektivo
+#04 som bestämmer ensam
+#07 en enväldig domare
+#37 jekh korkoro porončimasko krisinitori
+#47 2347
+#12 enväldigt enväldiga
+#14 2E:nvel:dig
+#98 3596
+#99 3953
+#54 
+
+#01 enzym
+#31 enzymo
+#02 subst.
+#32 substantivo
+#04 ett sammansatt organiskt ämne som påverkar vissa kemiska processer (t ex matsmältningen)
+#12 enzymet enzym enzymen (el. enzymer enzymerna)
+#14 en(t)sY:m
+#98 3597
+#99 3954
+#54 
+
+#01 epidemi
+#31 epedemi
+#02 subst.
+#32 substantivo
+#04 sjukdom som sprids till många människor, farsot
+#07 risken för epidemier är stor i värmen
+#37 
+#47 2348
+#11 influensaepidemi
+#41 
+#51 1586
+#12 epidemi(e)n epidemier
+#14 epidemI:
+#98 3598
+#99 3955
+#54 nasvalimos
+#97 mini 
+
+#01 epik
+#31 penel paramiči
+#02 adj.
+#32 adjektivo
+#04 berättande diktning
+#12 episkt episka
+#14 E:pik
+#98 
+#99 
+#54 
+
+#01 epilepsi
+#31 nasvalimos pe nervi, epilepsia
+#02 subst.
+#32 substantivo
+#04 en nervsjukdom med krampanfall
+#11 epilepsi~anfall -et
+#41 
+#51 1587
+#12 epilepsi(e)n
+#14 epilepsI:
+#98 3599
+#99 3956
+#54 epilepsi
+
+#01 epileptiker
+#31 epileptiko 
+#02 subst.
+#32 substantivo
+#04 person som lider av epilepsi
+#12 epileptikern epileptiker epileptikerna
+#14 epilEp:tiker
+#98 3600
+#99 3957
+#54 nasvaličošo manuš
+
+#01 epileptisk
+#31 epileptiko
+#02 adj.
+#32 adjektivo
+#04 som avser epilepsi
+#07 ett epileptiskt anfall
+#37 jekh epilepsiako atacko
+#47 2349
+#12 epileptiskt epileptiska
+#14 epilEp:tisk
+#98 3601
+#99 3958
+#54 
+
+#01 episk
+#31 divanosko
+#02 adj.
+#32 adjektivo
+#04 som avser epik;
+#12 episkt episka
+#14 E:pisk
+#98 3602
+#99 3959
+#54 
+
+#01 episod
+#31 episoda, historia
+#02 subst.
+#32 substantivo
+#04 (obetydlig) händelse
+#12 episoden episoder
+#14 episO:d
+#98 3603
+#99 3960
+#54 
+
+#01 epistel
+#31 lil
+#02 subst.
+#32 substantivo
+#04 brev
+#05 skämtsamt
+#35 pirasentsa
+#07 han skrev långa epistlar om mig
+#37 vo ramolas lundži lila pa mande
+#47 2350
+#12 episteln epistlar
+#14 epIs:tel
+#98 3604
+#99 3961
+#54 
+
+#01 epistel
+#31 epistolo anda e biblia
+#02 subst.
+#32 substantivo
+#04 bibeltext som läses vid gudstjänsten och som även kan utgöra själva predikan
+#11 episteltext
+#41 epistolosko texto
+#51 1588
+#12 episteln epistlar
+#14 epIs:tel
+#98 3604
+#99 3962
+#54 teksto bibliako
+
+#01 epok
+#31 jekh vriama -beršengi
+#02 subst.
+#32 substantivo
+#04 tidsålder
+#11 epok~görande
+#41 
+#51 1589
+#12 epoken epoker
+#14 epÅ:k
+#98 3605
+#99 3963
+#54 
+#97 mini
+
+#01 e-post
+#31 e pošta
+#02 subst.
+#32 substantivo
+#04 överföring av meddelande med hjälp av datorer
+#06 Det enskilda meddelandet kallas e-brev el. e-(post)meddelande.
+#36 O messago bušolpe e-lil vajke. E-(lil) messago.
+#07 hon sorterar sin e-post
+#37 voj lašarel pesko e-pošta
+#47 
+#08 skicka el. sända e-post
+#38 trade vaj. le e-pošta
+#48 
+#11 e-posta (verb)
+#41 e-pošta
+#51 
+#12 e-posten
+#14 2E:pås:t
+#54 
+
+#01 e-post~adress
+#31 e pošta adresso
+#02 subst.
+#32 substantivo
+#07 < maria@bolaget.se > är en e-postadress
+#37  HYPERLINK "mailto:maria@bolaget.se" maria@bolaget.se si jekh e-pošta adresso
+#47 
+#12 -adressen -adresser
+#13 e-adress
+#14 2E:påstadres: el. 2E:adres:
+#54 
+
+#01 er
+#31 tume
+#02 pron.
+#32 pronomeno
+#07 vi såg er inte
+#37 či diklam tumen
+#47 2351
+#07 många av er
+#37 but anda tumende
+#47 2352
+#12 e(d)ra
+#14 e:r
+#15 objekhtsform till ^ni^
+#45 
+#98 3606
+#99 3964
+#54 čire, tumari, tumen
+#97 mini
+
+#01 er
+#31 ame
+#02 pron.
+#32 pronomeno
+#07 vi åker i er bil
+#37 ame džas/tradas ande tumari matora
+#47 2353
+#07 är detta Er hatt?
+#37 si kadia čiri peliria?
+#47 2354
+#12 e(d)ra
+#14 e:r
+#15 possessiv form till ^ni^
+#45 
+#98 3606
+#99 3965
+#54 
+#97 mini
+
+#01 era
+#31 jekh vriama ande luma
+#02 subst.
+#32 substantivo
+#04 tidevarv
+#12 eran eror
+#14 2E:ra
+#98 3607
+#99 3966
+#54 
+
+#01 erbarmlig
+#31 zurales nasul 
+#02 adj.
+#32 adjektivo
+#04 mycket dålig, bedrövlig
+#05 särskilt som allmänt förstärkningsord
+#35 
+#07 utvecklingen i landet går erbarmligt långsamt
+#37 
+#47 2355
+#12 erbarmligt erbarmliga
+#14 ärbar:mlig
+#98 3608
+#99 3967
+#54 zurales čores
+
+#01 erbjudande
+#31 šinajimos
+#02 subst.
+#32 substantivo
+#04 förslag, anbud
+#07 jag fick erbjudande om ett nytt jobb
+#37 šinade mange jekh nevi buči
+#47 2356
+#07 avböja ett erbjudande
+#37 te na les jekh šinajimos
+#47 2357
+#12 erbjudandet erbjudanden erbjudandena
+#14 2E:rbju:dande el. 2Ä:-
+#98 3609
+#99 3968
+#54 
+#97 mini
+
+#01 erbjuder
+#31 šinavel
+#02 verb
+#32 verbo
+#04 säga sig vilja ge, ha att ge
+#07 skolan erbjuder yrkesinriktade kurser
+#37 
+#47 2358
+#10 A & (b) x; x & y
+#12 erbjöd erbjudit erbjud! erbjuda
+#14 2E:rbju:der el. 2Ä:-
+#98 3610
+#99 3969
+#54 
+#97 mini
+
+#01 erbjuder sig
+#31 šinavel pes
+#02 verb
+#32 verbo
+#04 förklara sig villig
+#07 han erbjöd sig att hjälpa till
+#37 vo šinadas pe te ažutil 
+#47 2359
+#10 A & att + INF
+#12 erbjöd erbjudit erbjud! erbjuda
+#14 2E:rbju:dersej el. 2Ä:-
+#98 3611
+#99 3970
+#54 
+
+#01 erektion
+#31 erektšono
+#02 subst.
+#32 substantivo
+#04 (könsorgans) ansvällning, stånd
+#11 erektions~förmåga -n
+#41 
+#51 1590
+#12 erektionen erektioner
+#14 erek$O:n
+#98 3612
+#99 3971
+#54 
+
+#01 erfar
+#31 žanav 
+#02 verb
+#32 verbo
+#04 få veta; pröva på, uppleva
+#07 enligt vad Rapport erfarit
+#37 
+#47 2360
+#07 jag har fått erfara vad fattigdom innebär
+#37 me areslem te džanav so si o čorimos te avel
+#47 2361
+#10 A & x/att + S
+#12 erfor erfarit erfar! erfara
+#14 2E:rfa:r el. 2Ä:-
+#98 3613
+#99 3972
+#54 žanel, prinžarel
+
+#01 erfaren
+#31 mai žanglo
+#02 adj.
+#32 adjektivo
+#04 kunnig (genom egna upplevelser), van, rutinerad
+#12 erfaret erfarna
+#14 2E:rfa:ren el. 2Ä:-
+#98 3614
+#99 3973
+#54 mai sicardo
+
+#01 erfarenhet
+#31 žanglimos/experianca
+#02 subst.
+#32 substantivo
+#04 upplevelse; kunskap (genom egna upplevelser)
+#07 han hade tio års erfarenhet av jobbet
+#37 leste sas 10 berš žanglimos pa e buči
+#47 2362
+#07 erfarenheterna från resan var mycket goda
+#37 
+#47 2363
+#11 livserfarenhet
+#41 trajosko žanglimos
+#51 1591
+#11 erfarenhets~mässig -t
+#41 
+#51 1592
+#12 erfarenheten erfarenheter
+#14 2E:rfa:renhe:t el. 2Ä:-
+#98 3615
+#99 3974
+#54 prinžarimos
+#97 mini
+
+#01 erforderlig
+#31 so trubul pe
+#02 adj.
+#32 adjektivo
+#04 som krävs, behövlig
+#07 erforderligt material
+#37 
+#47 2364
+#12 erforderligt erforderliga
+#14 2E:rfo:r+der+lig el. 2Ä:-
+#98 3616
+#99 3975
+#54 
+
+#01 erfordrar
+#31 mangel 
+#02 verb 
+#32 verbo
+#04 kräva
+#07 platsbiljett erfordras
+#37 
+#47 2365
+#10 x & y
+#12 erfordrade erfordrat erfordra
+#14 2E:rfo:r+drar el. 2Ä:-
+#98 3617
+#99 3976
+#54 mangav
+#97 mini
+
+#01 ergonomi
+#31 ergonomiko
+#02 subst.
+#32 substantivo
+#04 läran om samspelet mellan människan och arbetsredskapen, arbetsvetenskap
+#11 ergonomisk
+#41 
+#51 1593
+#12 ergonomi(e)n
+#14 ärgonåmI:
+#98 3618
+#99 3977
+#54 
+
+#01 erhåller
+#31 len
+#02 verb
+#32 verbo
+#04 få, ta emot
+#07 vinnarna erhåller varsin lottsedel
+#37 le neritora len pe jekh hertija
+#47 2366
+#10 A & x
+#12 erhöll erhållit erhåll! erhålla
+#14 2E:rhål:er el. 2Ä:-
+#98 3619
+#99 3978
+#54 lel, del
+#97 mini
+
+#01 eriksgata
+#31 amperatosko drom
+#02 subst.
+#32 substantivo
+#04 resa som nyvald kung gör genom landet
+#05 mest historiskt
+#35 mai but historiasko
+#12 eriksgatan eriksgator
+#14 2E:riksga:ta
+#98 3620
+#99 3979
+#54 
+
+#01 erinran
+#31 pominimos
+#02 subst.
+#32 substantivo
+#04 påminnelse
+#07 boken ger en nyttig erinran om katastrofen för femtio år sedan
+#37 e kniška del jekh pominimos pa e katastrofa de 50 berš palpale
+#47 2367
+#12 erinran erinringar
+#14 2E:rin:ran el. 2Ä:-
+#98 3621
+#99 3980
+#54 
+
+#01 erinrar
+#31 došarel
+#02 verb
+#32 verbo
+#04 anmärka
+#07 finns det något att erinra mot förslaget?
+#37 si vareso kai trubosaras te došaras?
+#47 2368
+#10 A & mot x/att + S
+#12 erinrade erinrat erinra(!)
+#14 2E:rin:rar el. 2Ä:-
+#98 3622
+#99 3981
+#54 
+
+#01 erinrar
+#31 pominil
+#02 verb
+#32 verbo
+#04 påminna
+#07 jag vill erinra om mitt tidigare förslag
+#37 kamav te pominiv muro purano gindo
+#47 2369
+#07 han erinrade om att tiderna blivit sämre
+#37 vo pominisardas te le čajtori ankliste čore
+#47 2370
+#10 A & om x/att+SATS
+#12 erinrade erinrat erinra(!)
+#14 2E:rin:rar el. 2Ä:-
+#98 3622
+#99 3982
+#54 pominiv
+
+#01 erinrar sig
+#31 serel pe
+#02 verb
+#32 verbo
+#04 komma ihåg
+#07 jag erinrar mig att jag tyckte mycket om chokladglass förr
+#37 me serav man te mange sas drago chochladosko morozo mai anglal
+#47 2371
+#07 han erinrade sig sin studenttid
+#37 vo serelas peski vriama sar disiplo/studento
+#47 2372
+#10 A & x/att + S
+#12 erinrade erinrat erinra(!)
+#14 2E:rin:rarsej el. 2Ä:-
+#98 3623
+#99 3983
+#54 
+
+#01 erkännande
+#31 preznajimos
+#02 subst.
+#32 substantivo
+#04 medgivande; uppskattning
+#12 erkännandet erkännanden erkännandena
+#14 2E:rcen:ande el. 2Ä:-
+#98 3624
+#99 3984
+#54 
+
+#01 erkänner
+#31 preznajil  
+#02 verb
+#32 verbo
+#04 hålla med om, medge; acceptera, uppskatta
+#07 han erkände sitt misstag
+#37 vo preznajisardas pesko dilimos
+#47 2373
+#07 en erkänd konstnär
+#37 
+#47 2374
+#10 A & x/att + S; A & B
+#12 erkände erkänt erkänn! erkänna
+#14 2E:rcen:er el. 2Ä:-
+#98 3625
+#99 3985
+#54 preznajiv
+#97 mini
+
+#01 erlägger
+#31 počinel 
+#02 verb
+#32 verbo
+#04 betala
+#07 erlägga böter
+#37 pučinel štrafo 
+#47 2375
+#10 A & x
+#12 erlade erlagt erlägg! erlägga
+#14 2E:r+leg:er el. 2Ä:-
+#98 3626
+#99 3986
+#54 počinav
+#97 mini
+
+#01 erotik
+#31 erotiko
+#02 subst.
+#32 substantivo
+#04 (sinnlig) kärlek, sex
+#12 erotiken
+#14 erotI:k
+#98 3627
+#99 3987
+#54 
+
+#01 ersättare
+#31 manuš kai lel pala kaver manuš
+#02 subst.
+#32 substantivo
+#04 person som ersätter någon annan
+#12 ersättar(e)n ersättare ersättarna
+#14 2E:r+set:are el. 2Ä:-
+#98 3628
+#99 3988
+#54 
+
+#01 ersätter
+#31 počinel
+#02 verb
+#32 verbo
+#04 betala
+#07 jag ska ersätta henne för skadan
+#37 site pučinav la pa malajimos
+#47 2376
+#10 A & B (för x/att +SATS)
+#12 ersatte ersatt ersätt! ersätta
+#14 2E:r+set:er el. 2Ä:-
+#98 3629
+#99 3989
+#54 počinav
+
+#01 ersätter
+#31 thol kavres
+#02 verb
+#32 verbo
+#04 vara istället för, vikariera för
+#07 inget kan ersätta levande musik
+#37 kanči šaij lel opral trajome musika
+#47 2377
+#07 han ersattes i styrelsen av en yngre kollega
+#37 
+#47 2378
+#10 A & B; x & y
+#12 ersatte ersatt ersätt! ersätta
+#14 2E:r+set:er el. 2Ä:-
+#98 3629
+#99 3990
+#54 
+
+#01 ersättning
+#31 počin
+#02 subst.
+#32 substantivo
+#04 betalning
+#07 jag fick ersättning för sveda och värk
+#37 me lem počin anda duka
+#47 2379
+#11 övertidsersättning
+#41 opral pa buči počinimos
+#51 1594
+#11 ersättnings~skyldig -t
+#41 
+#51 1595
+#12 ersättningen ersättningar
+#14 2E:r+set:ni@ el. 2Ä:-
+#98 3630
+#99 3991
+#54 počinimos
+
+#01 ersättning
+#31 reservo
+#02 subst.
+#32 substantivo
+#04 något som ersätter något, reserv
+#11 ersättnings~industri -n
+#41 
+#51 1596
+#12 ersättningen ersättningar
+#14 2E:r+set:ni@ el. 2Ä:-
+#98 3630
+#99 3992
+#54 
+
+#01 ertappar
+#31 des po gor
+#02 verb
+#32 verbo
+#04 överraska, avslöja
+#07 pojken ertappades med att stjäla en radio
+#37 dine po gor le šhavores kai čordas jekh radio
+#47 2380
+#10 A & B (med x/att + INF)
+#12 ertappade ertappat ertappa(!)
+#14 2E:r+tap:ar el. 2Ä:-
+#98 3631
+#99 3993
+#54 
+
+#01 erövrar
+#31 čor
+#02 verb
+#32 verbo
+#04 ta med våld, inta
+#05 mest bildligt
+#35 mai but patreto/figurativno
+#07 hon erövrade guldmedaljen
+#37 voj čordas o sumnakuno medaljo
+#47 2381
+#10 A & x
+#11 erövrare
+#41 čor              
+#51 1597
+#11 erövring
+#41 
+#51 1598
+#12 erövrade erövrat erövra(!)
+#14 2E:rö:vrar el. 2Ä:-
+#98 3632
+#99 3994
+#54 
+#97 mini
+
+#01 eskimå
+#31 ekiminori/eskimo
+#02 subst.
+#32 substantivo
+#04 person som tillhör ett mongoliskt polarfolk på bl a Grönland
+#12 eskimån eskimåer
+#14 eskimÅ:
+#98 3633
+#99 3995
+#54 
+
+#01 eskort
+#31 eskorto
+#02 subst.
+#32 substantivo
+#04 sällskap (som skydd)
+#12 eskorten eskorter
+#14 eskÅr+t:
+#98 3634
+#99 3996
+#54 
+
+#01 espresso
+#31 zurali kafa
+#02 subst.
+#32 substantivo
+#04 starkt italienskt kaffe
+#12 espresson
+#14 espres:o
+#98 3636
+#99 3998
+#54 espresso
+
+#01 ess
+#31 bali
+#02 subst.
+#32 substantivo
+#04 det högsta kortet i kortspel
+#05 bildligt "skicklig person"
+#35 patreto/figurativno ”godžaver manuš”
+#12 esset ess essen
+#14 es:
+#98 3637
+#99 3999
+#54 
+
+#01 esse
+#31 san ando mištimos
+#02 subst.
+#32 substantivo
+#08 vara i sitt esse ("trivas utmärkt (med en viss situation)")
+#38 
+#48 306
+#14 2Es:e
+#98 3638
+#99 4000
+#54 
+
+#01 essens
+#31 essens
+#02 subst.
+#32 substantivo
+#04 ett slags koncentrerad lösning; fruktolja
+#12 essensen essenser
+#14 esEn:s (el. -A@:s)
+#98 3639
+#99 4001
+#54 
+
+#01 essä
+#31 akademisko texto
+#02 subst.
+#32 substantivo
+#04 konstnärligt utformad uppsats
+#12 essän essäer
+#14 esÄ:
+#98 3640
+#99 4002
+#54 
+
+#01 estetisk
+#31 šukarimos
+#02 adj.
+#32 adjektivo
+#04 konstnärlig, smakfull
+#07 byggnaden har många estetiska kvaliteter
+#37 
+#47 2382
+#12 estetiskt estetiska
+#14 estE:tisk
+#98 3641
+#99 4003
+#54 
+
+#01 estnisk
+#31 estnisko/estetiko
+#02 adj.
+#32 adjektivo
+#04 som är från el. avser Estland
+#12 estniskt estniska
+#14 Es:tnisk
+#98 3642
+#99 4004
+#54 
+
+#01 estrad
+#31 estraca
+#02 subst.
+#32 substantivo
+#04 upphöjning, scen
+#11 estrad~debatt -en
+#41 
+#51 1599
+#12 estraden estrader
+#14 estrA:d
+#98 3643
+#99 4005
+#54 
+
+#01 etablerad
+#31 prinžardo
+#02 adj.
+#32 adjektivo
+#04 erkänd; som funnit sig till rätta på viss plats
+#07 en etablerad författare
+#37 
+#47 2383
+#07 etablerad på orten
+#37 prinžardo ando foro
+#47 2384
+#12 etablerat etablerade
+#14 etablE:rad
+#98 3644
+#99 4006
+#54 
+
+#01 etablerar
+#31 kerel
+#02 verb
+#32 verbo
+#04 inrätta, upprätta, grunda
+#07 etablera kontakt med
+#37 kerel kontakto 
+#47 2385
+#10 A & x
+#12 etablerade etablerat etablera(!)
+#14 etablE:rar
+#98 3645
+#99 4007
+#54 vazdel
+
+#01 etablerar sig
+#31 vazdel pes opre
+#02 verb
+#32 verbo
+#04 börja egen rörelse, slå sig ner, sätta bo
+#07 hon etablerade sig som fastighetsmäklare
+#37 
+#47 2386
+#10 A &
+#12 etablerade etablerat etablera(!)
+#14 etablE:rar+sej
+#98 3646
+#99 4008
+#54 
+
+#01 etablissemang
+#31 kheroro
+#02 subst.
+#32 substantivo
+#04 anläggning (i hotell- och restaurangbranschen)
+#12 etablissemanget etablissemang etablissemangen
+#14 etablisemA@:
+#98 3647
+#99 4009
+#54 
+
+#01 etablissemang
+#31 
+#02 subst.
+#32 substantivo
+#04 det bestående i samhället
+#07 tillhöra etablissemanget
+#37 
+#47 2387
+#12 etablissemanget etablissemang etablissemangen
+#14 etablisemA@:
+#15 i bestämd form
+#45 
+#98 3647
+#99 4010
+#54 o barimos maškar manuš
+
+#01 etage~våning
+#31 kher pe duj etažura, etažo
+#02 subst.
+#32 substantivo
+#04 lägenhet i två våningsplan
+#12 -våningen -våningar
+#14 2etA:$vå:ni@
+#98 3648
+#99 4011
+#54 
+
+#01 etapp
+#31 kotor drom
+#02 subst.
+#32 substantivo
+#04 delsträcka
+#05 även bildligt
+#35 vi patreto/figurativno
+#07 den sista etappen i utbyggnaden
+#37 
+#47 2388
+#08 etappvis ("stegvis")
+#38 
+#48 307
+#11 etapp~lopp
+#41 
+#51 1600
+#12 etappen etapper
+#14 etAp:
+#98 3649
+#99 4012
+#54 
+#97 mini
+
+#01 etc
+#31 ai mai dur
+#02 förk.
+#32 skurtsomos
+#04 etcetera, och så vidare
+#13 etc.
+#14 etsEt:era
+#98 3650
+#99 4013
+#54 
+#97 mini
+
+#01 eter
+#31 e barval
+#02 subst.
+#32 substantivo
+#04 atmosfär
+#05 särskilt som förmedlare av radiovågor
+#35 
+#07 programmet går ut i etern om en timme
+#37 
+#47 2389
+#12 etern
+#14 E:ter
+#98 3651
+#99 4014
+#54 
+
+#01 eter
+#31 etero
+#02 subst.
+#32 substantivo
+#04 en slags flyktig vätska
+#11 eterlösning
+#41 
+#51 1601
+#12 etern
+#14 E:ter
+#98 3651
+#99 4015
+#54 
+
+#01 eter~medier
+#31 eter media
+#02 subst.
+#32 substantivo
+#04 radio och teve
+#14 2E:terme:dier
+#15 plural
+#45 pluralo
+#98 3652
+#99 4016
+#54 
+
+#01 etik
+#31 moralnio
+#02 subst.
+#32 substantivo
+#04 moralregler
+#12 etiken
+#14 etI:k
+#98 3653
+#99 4017
+#54 
+
+#01 etikett
+#31 ram
+#02 subst.
+#32 substantivo
+#04 ett slags lapp med text
+#07 på flaskans etikett stod det att innehållet var vådligt
+#37 
+#47 2390
+#09 bild 6:13
+#39 patreto/figurativno
+#12 etiketten etiketter
+#14 etikEt:
+#98 3654
+#99 4018
+#54 
+#97 mini
+
+#01 etikett
+#31 zakonuri
+#02 subst.
+#32 substantivo
+#04 regler för hur man umgås med andra
+#11 etiketts~fråga -n
+#41 
+#51 1602
+#12 etiketten etiketter
+#14 etikEt:
+#98 3654
+#99 4019
+#54 
+#97 mini
+
+#01 etisk
+#31 modo
+#02 adj.
+#32 adjektivo
+#04 sedlig, moralisk
+#12 etiskt etiska
+#14 E:tisk
+#98 3655
+#99 4020
+#54 
+
+#01 etnisk
+#31 narodo
+#02 adj.
+#32 adjektivo
+#04 folk-, folklivs-
+#12 etniskt etniska
+#14 Et:nisk
+#98 3656
+#99 4021
+#54 
+
+#01 etsar
+#31 astarel
+#02 verb
+#32 verbo
+#04 med syror fräta (bilder i metall mm)
+#05 bildligt "inpränta"
+#35 patreto/figurativno
+#07 händelsen har etsat sig fast i mitt minne
+#37 e djela astardilas ande muri godji
+#47 2391
+#10 A & (x)
+#11 etsning
+#41 
+#51 1603
+#12 etsade etsat etsa(!)
+#14 2Et:sar
+#98 3657
+#99 4022
+#54 
+
+#01 ett 1
+#31 jekh
+#02 se en pron.
+#32 
+#14 et:
+#15 obestämd artikel
+#45 
+#98 3658
+#99 4023
+#54 
+#97 mini
+
+#01 ett 2
+#31 jekh
+#02 se en räkn.
+#32 
+#14 et:
+#98 3659
+#99 4024
+#54 
+#97 mini
+
+#01 etta
+#31 jekhali
+#02 subst.
+#32 substantivo
+#04 siffran 1; nummer 1 i ordningen
+#07 hon kom etta i tävlingen
+#37 voj avili jekhto ando khelimos
+#47 2392
+#12 ettan ettor
+#14 2Et:a
+#98 3660
+#99 4025
+#54 
+
+#01 etta
+#31 kheroro
+#02 subst.
+#32 substantivo
+#04 enrumslägenhet
+#07 hon ville byta sin etta mot en större lägenhet
+#37 voj kamelas te paruvel peski jekhali pe jekh mai baro kher
+#47 2393
+#12 ettan ettor
+#14 2Et:a
+#98 3660
+#99 4026
+#54 
+
+#01 ettrig
+#31 bi lašo
+#02 adj.
+#32 adjektivo
+#04 envis och ilsken
+#12 ettrigt ettriga
+#14 2Et:rig
+#98 3661
+#99 4027
+#54 
+
+#01 ett~årig
+#31 jekhe beršesko
+#02 adj.
+#32 adjektivo
+#04 som är el. varar ett år
+#07 en ettårig kurs
+#37 jekhe beršesko sičarimos
+#47 2394
+#12 -årigt -åriga
+#14 2Et:å:rig
+#98 3662
+#99 4028
+#54 
+
+#01 etui
+#31 kutia
+#02 subst.
+#32 substantivo
+#04 ask, fodral
+#12 etui(e)t etuier (el. etuin) etuierna (el. etuina)
+#14 etuI:
+#98 3663
+#99 4029
+#54 
+
+#01 europe
+#31 europako
+#02 subst.
+#32 substantivo
+#04 person som är från Europa
+#12 europen europeer
+#14 e+uropE:
+#98 3664
+#99 4030
+#54 
+
+#01 europeisk
+#31 europaki/europako
+#02 adj.
+#32 adjektivo
+#04 som är från el. avser Europa
+#12 europeiskt europeiska
+#14 e+uropE:isk
+#98 3665
+#99 4031
+#54 
+
+#01 ev
+#31 šajke
+#02 förk.
+#32 skurtsomos
+#04 eventuell(t)
+#14 eventuEl:(t)
+#98 3666
+#99 4032
+#54 
+#97 mini
+
+#01 evakuerar
+#31 nandžaren
+#02 verb
+#32 verbo
+#04 få folk att lämna ett område; utrymma
+#07 området har evakuerats efter jordbävningen
+#37 
+#47 2395
+#10 A & x
+#12 evakuerade evakuerat evakuera(!)
+#14 evakuE:rar
+#98 3667
+#99 4033
+#54 manuš kai našentar te firin pes
+
+#01 evakuering
+#31 našajimos
+#02 subst.
+#32 substantivo
+#04 utrymning
+#12 evakueringen evakueringar
+#14 evakuE:ri@
+#98 3668
+#99 4034
+#54 
+
+#01 evangelisk
+#31 evangelisko
+#02 adj.
+#32 adjektivo
+#04 överensstämmande med evangelium
+#12 evangeliskt evangeliska
+#14 evanjE:lisk
+#98 3669
+#99 4035
+#54 
+
+#01 evangelium
+#31 evangeliumo
+#02 subst.
+#32 substantivo
+#04 en av bibelns fyra berättelser om Jesu liv
+#05 bildligt "budskap, lära"
+#35 patreto/figurativno ”doktrina”
+#11 Johannesevangeliet
+#41 Johannesoskoevangelimos
+#51 1604
+#11 evangelist -en
+#41 evangelisto
+#51 1605
+#12 evangeliet evangelier
+#14 evanjE:lium
+#98 3670
+#99 4036
+#54 
+
+#01 evenemang
+#31 evenemango
+#02 subst.
+#32 substantivo
+#04 uppmärksammad händelse
+#11 idrottsevenemang
+#41 
+#51 1606
+#12 evenemanget evenemang evenemangen
+#14 evenemA@:
+#98 3671
+#99 4037
+#54 
+
+#01 eventualitet
+#31 šaj
+#02 subst.
+#32 substantivo
+#04 möjlighet, möjligen inträffande fall
+#07 för alla eventualiteters skull
+#37 
+#47 2396
+#12 eventualiteten eventualiteter
+#14 eventualitE:t
+#98 3672
+#99 4038
+#54 
+
+#01 eventuell
+#31 šaike
+#02 adj.
+#32 adjektivo
+#04 som möjligen inträffar
+#12 eventuellt eventuella
+#14 eventuEl:
+#98 3673
+#99 4039
+#54 
+#97 mini
+
+#01 ever~green
+#31 evergreen
+#02 subst.
+#32 substantivo
+#04 schlager som förblir populär
+#05 engelska
+#35 
+#14 Ev:ergri:n
+#98 3674
+#99 4040
+#54 
+
+#01 evig
+#31 sagda
+#02 adj.
+#32 adjektivo
+#04 som varar för alltid, ändlös
+#05 även om tröttsam upprepning
+#35 
+#07 för evig tid
+#37 pe sa o veko
+#47 2397
+#07 det var ett evigt tjat!
+#37 jekh diljarimos pe sa o veko sas!
+#47 2398
+#12 evigt eviga
+#14 2E:vig
+#98 3675
+#99 4041
+#54 
+
+#01 evighet
+#31 džipongodi
+#02 subst.
+#32 substantivo
+#04 oändlighet, mycket lång tid
+#07 han kan hålla på i evigheter
+#37 vo šaj kerel žipon godi
+#47 2399
+#11 evighets~maskin
+#41 
+#51 1607
+#12 evigheten evigheter
+#14 2E:vighe:t
+#98 3676
+#99 4042
+#54 
+
+#01 evinnerlig
+#31 kanagodi
+#02 adj.
+#32 adjektivo
+#04 ständig
+#05 vardagligt
+#35 džesesko
+#07 det var ett evinnerligt tjat!
+#37 
+#47 2400
+#12 evinnerligt evinnerliga
+#14 evIn:er+lig
+#98 3677
+#99 4043
+#54 
+
+#01 evolution
+#31 parajimos
+#02 subst.
+#32 substantivo
+#04 (långsam) förändring, utveckling
+#12 evolutionen evolutioner
+#14 evolu$O:n
+#98 3678
+#99 4044
+#54 
+
+#01 ex
+#31 ex
+#02 förk.
+#32 skortsomos
+#04 exempel, exemplar
+#14 eksEm:pel
+#98 3679
+#99 4045
+#54 
+
+#01 ex-
+#31 
+#02 förled
+#32 
+#04 före detta
+#07 ex~make -n
+#37 
+#47 2401
+#14 2Ek:s-
+#98 3680
+#99 4046
+#54 
+
+#01 exakt
+#31 vorta
+#02 adv.
+#32 adverbo
+#04 noga, precis, noggrant
+#07 hon kom exakt klockan tolv
+#37 
+#47 2402
+#07 på exakt samma sätt
+#37 
+#47 2403
+#14 eksAk:t
+#98 3681
+#99 4047
+#54 
+
+#01 exalterad
+#31 exalterdo
+#02 adj.
+#32 adjektivo
+#04 upphetsad, överspänd
+#07 hennes röst var exalterad
+#37 
+#47 2404
+#12 exalterat exalterade
+#14 eksaltE:rad
+#98 3682
+#99 4048
+#54 
+
+#01 examen
+#31 examen
+#02 subst.
+#32 substantivo
+#04 prov, förhör; avslutning i skolan; godkänd högre utbildning
+#07 hon tog examen vid Lunds universitet redan 1940
+#37 
+#47 2405
+#11 civilekonomexamen
+#41 
+#51 1608
+#11 examens~arbete -t
+#41 
+#51 1609
+#11 examens~dag -en
+#41 
+#51 1610
+#12 examen examina
+#14 eksA:men
+#98 3683
+#99 4049
+#54 
+#97 mini
+
+#01 excellens
+#31 excelenso
+#02 subst.
+#32 substantivo
+#04 titel för riksmarskalk
+#07 Ers excellens
+#37 
+#47 2406
+#12 excellensen excellenser
+#14 ekselEn:s
+#98 3684
+#99 4050
+#54 
+
+#01 excentrisk
+#31 originalo
+#02 adj.
+#32 adjektivo
+#04 originell
+#07 en excentrisk person
+#37 
+#47 2407
+#12 excentriskt excentriska
+#14 eksEn:trisk
+#98 3685
+#99 4051
+#54 
+
+#01 exceptionell
+#31 exeptionelnio
+#02 adj.
+#32 adjektivo
+#04 mycket ovanlig, sällsynt
+#07 exceptionella omständigheter förelåg
+#37 
+#47 2408
+#12 exceptionellt exceptionella
+#14 eksep$onEl:
+#98 3686
+#99 4052
+#54 
+
+#01 exekution
+#31 mudaripe
+#02 subst.
+#32 substantivo
+#04 avrättning
+#12 exekutionen exekutioner
+#14 ekseku$O:n
+#98 3687
+#99 4053
+#54 
+#97 mini
+
+#01 exekution
+#31 exekutiono
+#02 subst.
+#32 substantivo
+#04 genomförande (med tvång) av myndighetsbeslut
+#12 exekutionen exekutioner
+#14 ekseku$O:n
+#98 3687
+#99 4054
+#54 
+#97 mini
+
+#01 exekutiv
+#31 pe sila
+#02 adj.
+#32 adjektivo
+#04 med tvång; verkställande
+#07 huset såldes på exekutiv auktion
+#37 
+#47 2409
+#11 exekutivkommitte
+#41 
+#51 1611
+#12 exekutivt exekutiva
+#14 eksekutI:v
+#98 3688
+#99 4055
+#54 
+
+#01 exempel
+#31 patreto
+#02 subst.
+#32 substantivo
+#04 föredöme, mönster
+#07 statuera ett exempel
+#37 
+#47 2410
+#11 exemplarisk
+#41 
+#51 1612
+#12 exemplet exempel exemplen
+#14 eksEm:pel
+#98 3689
+#99 4056
+#54 
+#97 mini
+
+#01 exempel
+#31 na primer
+#02 subst.
+#32 substantivo
+#04 (typiskt) fall, belägg
+#07 till exempel
+#37 na primer
+#47 2411
+#07 han är ett levande exempel på vad jag menar
+#37 vo si jekh žuvindo eksemplo/primer pa soste phenav
+#47 2412
+#11 skräckexempel
+#41 darano primer
+#51 1613
+#12 exemplet exempel exemplen
+#14 eksEm:pel
+#98 3689
+#99 4057
+#54 exemplo
+#97 mini
+
+#01 exempellös
+#31 bi kančesko
+#02 adj.
+#32 adjektivo
+#04 som saknar motstycke
+#12 exempellöst exempellösa
+#14 2eksEm:pelö:s
+#98 3690
+#99 4058
+#54 
+
+#01 exempelvis
+#31 na primer
+#02 adv.
+#32 adverbo
+#04 till exempel
+#14 2eksEm:pelvi:s
+#98 3691
+#99 4059
+#54 
+
+#01 exemplar
+#31 kopia
+#02 subst.
+#32 substantivo
+#04 ett föremål av flera likadana, kopia
+#07 ett fint exemplar av solrosen
+#37 
+#47 2413
+#12 exemplaret exemplar exemplaren
+#14 eksemplA:r
+#98 3692
+#99 4060
+#54 
+
+#01 exemplarisk
+#31 perfekto
+#02 adj.
+#32 adjektivo
+#04 som utgör ett mönster, föredömlig
+#07 i skolan rådde en exemplarisk ordning
+#37 
+#47 12467
+#12 exemplariskt exemplariska
+#14 eksemplA:risk
+#98 19741
+#99 21912
+#54 
+
+#01 exemplifierar
+#31 del eksemplo
+#02 verb
+#32 verbo
+#04 ge exempel på
+#09 jfr ^exempel^ 2
+#39 
+#10 A & (x)
+#12 exemplifierade exemplifierat exemplifiera(!)
+#14 eksemplifiE:rar
+#98 3693
+#99 4061
+#54 
+
+#01 exercis
+#31 ketanitsko škola
+#02 subst.
+#32 substantivo
+#04 militär övning (efter kommando), drill
+#12 exercisen
+#14 ekser+sI:s
+#98 3694
+#99 4062
+#54 
+
+#01 exil
+#31 eksilo
+#02 subst.
+#32 substantivo
+#04 landsflykt, förvisning
+#07 gå i exil
+#37 
+#47 2414
+#07 leva i exil
+#37 
+#47 2415
+#11 exil~regering
+#41 
+#51 1614
+#12 exilen
+#14 eksI:l
+#98 3695
+#99 4063
+#54 
+#97 mini
+
+#01 existens
+#31 existentso
+#02 subst.
+#32 substantivo
+#04 tillvaro, liv; försörjning
+#07 de visste inget om vår existens
+#37 von či žjanenas pa amaro egzistenco
+#47 2416
+#12 existensen existenser
+#14 eksistEn:s
+#98 3696
+#99 4064
+#54 
+
+#01 existens~berättigande
+#31 slobodo te trajis
+#02 subst.
+#32 substantivo
+#04 rätt att finnas till
+#12 -berättigandet
+#14 2eksistEn:sberet:igande
+#98 3697
+#99 4065
+#54 
+
+#01 existens~minimum
+#31 trajosko minimumo
+#02 subst.
+#32 substantivo
+#04 ett (officiellt fastställt) belopp som en person behöver för att klara absolut nödvändiga utgifter för sig och sin familj
+#06 Begreppet tillämpas av sociala myndigheter och skattemyndigheter.
+#36 
+#12 -minimumet (el. -minimet) -minimum (el. -minima) -minimumen
+#14 2eksistEn:smi:nimum
+#98 3698
+#99 4066
+#54 
+#97 mini
+
+#01 existerar
+#31 trajil
+#02 verb
+#32 verbo
+#04 leva, finnas
+#07 partiet existerade redan före kriget
+#37 
+#47 2417
+#07 de existerande reglerna är inte alltid rättvisa
+#37 
+#47 2418
+#10 A/x &
+#12 existerade existerat existera
+#14 eksistE:rar
+#98 3699
+#99 4067
+#54 
+
+#01 exkl
+#31 exklusive
+#02 förk.
+#32 skurtsomos
+#04 exklusive
+#13 exkl.
+#14 eksklusI:ve
+#98 3700
+#99 4068
+#54 
+
+#01 exklusiv
+#31 sar alome/exklusivno
+#02 adj.
+#32 adjektivo
+#04 inte tillgänglig för alla; utvald
+#07 exklusiva varor
+#37 alome dželi
+#47 2419
+#12 exklusivt exklusiva
+#14 eksklusI:v
+#98 3701
+#99 4069
+#54 
+
+#01 exklusive
+#31 bi te avel džindo andre
+#02 prep.
+#32 prepositiono
+#04 utan att räkna med, utom
+#14 eksklusI:ve
+#98 3702
+#99 4070
+#54 
+
+#01 exlibris
+#31 anaveski stampla
+#02 subst.
+#32 substantivo
+#04 märke med bokägarens namn el. symbol
+#12 exlibriset exlibris exlibrisen
+#14 ekslIb:ris
+#98 3703
+#99 4071
+#54 
+
+#01 exotisk
+#31 anda dur strino them
+#02 adj.
+#32 adjektivo
+#04 från fjärran land, främmande
+#12 exotiskt exotiska
+#14 eksÅ:tisk
+#98 3704
+#99 4072
+#54 
+
+#01 exp
+#31 expeditiono
+#02 förk.
+#32 skurtsomos
+#04 expedition
+#09 el. ^exp.^
+#39 
+#14 ekspedi$O:n
+#98 3705
+#99 4073
+#54 
+
+#01 expanderar
+#31 barol
+#02 verb
+#32 verbo
+#04 breda ut sig, utvidgas, växa
+#07 världshandeln expanderar kraftigt
+#37 La lumiako bičinimos bariol zurales
+#47 2420
+#10 x &
+#12 expanderade expanderat expandera
+#14 ekspandE:rar
+#98 3706
+#99 4074
+#54 
+
+#01 expansion
+#31 bariol
+#02 subst.
+#32 substantivo
+#04 utvidgning, tillväxt
+#11 expansions~möjlighet -en
+#41 
+#51 1615
+#12 expansionen
+#14 ekspan$O:n
+#98 3707
+#99 4075
+#54 
+
+#01 expansiv
+#31 sigo bariol
+#02 adj.
+#32 adjektivo
+#04 som växer snabbt
+#07 den expansiva förskolesektorn
+#37 
+#47 2421
+#12 expansivt expansiva
+#14 ekspansI:v (el. Ek:-)
+#98 3708
+#99 4076
+#54 
+
+#01 expedierar
+#31 kerel
+#02 verb
+#32 verbo
+#04 verkställa, utföra
+#07 ärendet expedierades mycket snabbt
+#37 
+#47 2422
+#10 A & x
+#12 expedierade expedierat expediera(!)
+#14 ekspediE:rar
+#98 3709
+#99 4077
+#54 
+#97 mini
+
+#01 expedierar
+#31 bičinel
+#02 verb
+#32 verbo
+#04 betjäna (i affär)
+#10 A & B
+#12 expedierade expedierat expediera(!)
+#14 ekspedjE:rar
+#98 3709
+#99 4078
+#54 
+#97 mini
+
+#01 expedit
+#31 manuš kai bičinel
+#02 subst.
+#32 substantivo
+#04 butiksbiträde, försäljare i affär
+#12 expediten expediter
+#14 ekspedI:t
+#98 3710
+#99 4079
+#54 
+#97 mini
+
+#01 expedition
+#31 expeditiono
+#02 subst.
+#32 substantivo
+#04 kontor där man blir mottagen och betjänad
+#11 pastorsexpedition
+#41 
+#51 1616
+#12 expeditionen expeditioner
+#14 ekspedi$O:n
+#98 3711
+#99 4080
+#54 
+#97 mini
+
+#01 expedition
+#31 
+#02 subst.
+#32 substantivo
+#04 (forsknings)resa
+#11 djungelexpedition
+#41 
+#51 1617
+#11 räddningsexpedition
+#41 
+#51 1618
+#12 expeditionen expeditioner
+#14 ekspedi$O:n
+#98 3711
+#99 4081
+#54 
+#97 mini
+
+#01 experiment
+#31 zumajimos
+#02 subst.
+#32 substantivo
+#04 prov, försök
+#07 många är emot medicinska experiment på människor
+#37 
+#47 2423
+#11 tankeexperiment
+#41 
+#51 1619
+#11 vätebombsexperiment
+#41 
+#51 1620
+#11 experimentell -t
+#41 
+#51 1621
+#12 experimentet experiment experimenten
+#14 eksperimEn:t
+#98 3712
+#99 4082
+#54 
+
+#01 experimenterar
+#31 experimenteril
+#02 verb
+#32 verbo
+#04 göra experiment, undersöka
+#07 man experimenterade med olika lösningar
+#37 
+#47 2424
+#10 A & med x/ att + INF
+#12 experimenterade experimenterat experimentera(!)
+#14 eksperimentE:rar
+#98 3713
+#99 4083
+#54 
+
+#01 expert
+#31 harnjiko
+#02 subst.
+#32 substantivo
+#04 sakkunnig person, kännare
+#07 hon var partiets expert på jordbruksfrågor
+#37 
+#47 2425
+#07 medicinsk expert
+#37 
+#47 12468
+#11 expert~utlåtande -t
+#41 
+#51 1622
+#12 experten experter
+#14 ekspÄr+t:
+#98 3714
+#99 4084
+#54 
+#97 mini
+
+#01 expertis
+#31 manuš sičarde/experturi
+#02 subst.
+#32 substantivo
+#04 sakkunniga personer, sakkunskap
+#07 den tillkallade expertisen var inte så imponerad som väntat
+#37 
+#47 2426
+#12 expertisen
+#14 ekspär+tI:s
+#98 3715
+#99 4085
+#54 experturia, manuš kai si godžaver
+
+#01 explicit
+#31 jazno
+#02 adj.
+#32 adjektivo
+#04 uttalad, tydlig
+#12 explicit a
+#14 eksplisI:t
+#98 3716
+#99 4086
+#54 
+
+#01 exploaterar
+#31 lel hasna
+#02 verb
+#32 verbo
+#04 utnyttja, bearbeta
+#07 området är redan hårt exploaterat
+#37 
+#47 2427
+#10 A & x
+#12 exploaterade exploaterat exploatera(!)
+#14 eksploatE:rar
+#98 3717
+#99 4087
+#54 
+
+#01 exploatering
+#31 lel hasna
+#02 subst.
+#32 substantivo
+#04 utnyttjande
+#07 exploateringen av älvarna måste stoppas!
+#37 
+#47 2428
+#12 exploateringen
+#14 eksploatE:ri@
+#98 3718
+#99 4088
+#54 
+
+#01 exploatör
+#31 manuš kai anzarel/bufliarel
+#02 subst.
+#32 substantivo
+#04 person som exploaterar
+#12 exploatören exploatörer
+#14 eksploatÖ:r
+#98 3719
+#99 4089
+#54 
+
+#01 exploderar
+#31 paradžol
+#02 verb
+#32 verbo
+#04 sprängas, flyga i luften
+#05 även bildligt
+#35 vi patreto/figurativno
+#07 granaten exploderade
+#37 
+#47 2429
+#07 hon exploderade av ilska
+#37 voj paradžili ando xoljarimos/ande xoli)
+#47 2430
+#10 x/A &
+#12 exploderade exploderat explodera(!)
+#14 eksplodE:rar
+#98 3720
+#99 4090
+#54 
+#97 mini
+
+#01 explosion
+#31 parajipe
+#02 subst.
+#32 substantivo
+#04 knall, sprängning
+#07 vid den häftiga explosionen dödades tre personer
+#37 
+#47 2431
+#11 befolkningsexplosion
+#41 
+#51 1623
+#11 explosions~artad ~artat
+#41 
+#51 1624
+#12 explosionen explosioner
+#14 eksplo$O:n
+#98 3721
+#99 4091
+#54 
+#97 mini
+
+#01 explosiv
+#31 eksplozivo
+#02 adj.
+#32 adjektivo
+#04 som lätt exploderar
+#12 explosivt explosiva
+#14 eksplosI:v (el. Ek:-)
+#98 3722
+#99 4092
+#54 
+
+#01 expo
+#31 sikajimos
+#02 subst.
+#32 substantivo
+#04 utställning
+#11 frimärksexpo
+#41 
+#51 1625
+#12 expon expor
+#14 Ek:spo
+#98 3723
+#99 4093
+#54 
+
+#01 exponerar
+#31 sikavel
+#02 verb
+#32 verbo
+#04 utställa, utsätta, blotta
+#07 exponerad för gifter
+#37 
+#47 2432
+#10 A & B/x (för y)
+#12 exponerade exponerat exponera(!)
+#14 eksponE:rar
+#98 3724
+#99 4094
+#54 
+
+#01 export
+#31 bišavel avri
+#02 subst.
+#32 substantivo
+#04 utförsel
+#07 exporten av trävaror ökar
+#37 
+#47 2433
+#11 veteexport
+#41 
+#51 1626
+#11 export~avgift -en
+#41 
+#51 1627
+#12 exporten exporter
+#14 ekspÅr+t:
+#98 3725
+#99 4095
+#54 
+#97 mini
+
+#01 exporterar
+#31 ingerel avri anda them
+#02 verb
+#32 verbo
+#04 föra ut (ur landet)
+#10 A & x
+#12 exporterade exporterat exportera(!)
+#14 ekspår+tE:rar
+#98 3726
+#99 4096
+#54 
+
+#01 express 1
+#31 po mai sigo
+#02 adv.
+#32 adverbo
+#04 på snabbaste sätt
+#07 brevet skickades express
+#37 o lil bišadilas po mai sigo
+#47 2434
+#11 express~fart -en
+#41 
+#51 1628
+#11 express~gods
+#41 
+#51 1629
+#14 eksprEs:
+#98 3727
+#99 4097
+#54 
+#97 mini
+
+#01 express 2
+#31 džedžeš kai tradel sigo
+#02 subst.
+#32 substantivo
+#04 expresståg
+#11 nattexpress
+#41 račako džedžeš
+#51 1630
+#12 expressen expresser
+#14 eksprEs:
+#98 3728
+#99 4098
+#54 
+#97 mini
+
+#01 express~brev
+#31 lil kai avel sigo
+#02 subst.
+#32 substantivo
+#04 brev som bärs ut till mottagaren el. adressaten så fort det kommer till adressorten
+#06 Ett expressbrev är något dyrare att skicka än ett vanligt brev och bärs inte ut på söndagar och helgdagar.
+#36 Jekh lil kai avel mai sigo si cera mai kuči te bišaves sar jekh normalno lil ai či bišadol avri kurke vaj aver praznikori.
+#12 -brevet -brev -breven
+#14 2eksprEs:bre:v
+#98 3729
+#99 4099
+#54 
+#97 mini
+
+#01 expressiv
+#31 sikavel
+#02 adj.
+#32 adjektivo
+#04 uttrycksfull
+#07 han talade med expressiva gester
+#37 vo delas duma ando sikajimos 
+#47 2435
+#12 expressivt expressiva
+#14 ekspresI:v (el. Ek:-)
+#98 3730
+#99 4100
+#54 manuš kai del duma le vastenca
+
+#01 expropriation
+#31 exproperationo
+#02 subst.
+#32 substantivo
+#04 förvärv till förmån för det allmänna, tvångsinlösen
+#12 expropriationen expropriationer
+#14 ekspropria$O:n
+#98 3731
+#99 4101
+#54 
+
+#01 extas
+#31 extaso
+#02 subst.
+#32 substantivo
+#04 hänryckning
+#07 vara i extas
+#37 
+#47 2436
+#12 extasen
+#14 ekstA:s
+#98 3732
+#99 4102
+#54 
+
+#01 extatisk
+#31 radojime
+#02 adj.
+#32 adjektivo
+#04 hänryckt, hänförd
+#12 extatiskt extatiska
+#14 ekstA:tisk
+#98 3733
+#99 4103
+#54 
+
+#01 exteriör
+#31 avrial
+#02 subst.
+#32 substantivo
+#04 utsida, yttre
+#12 exteriören exteriörer
+#14 eksteriÖ:r
+#98 3734
+#99 4104
+#54 
+
+#01 extern
+#31 avrial
+#02 adj.
+#32 adjektivo
+#04 yttre, utvärtes
+#07 budgeten förutsätter extern finansiering
+#37 
+#47 2437
+#12 externt externa
+#14 ekstÄ:r+n
+#98 3735
+#99 4105
+#54 
+
+#01 extra 1
+#31 mai 
+#02 adj.
+#32 adjektivo
+#04 särskild, tilläggs-
+#07 man kallade till en extra kongress
+#37 akarde kai mai jekh congresso
+#47 2438
+#14 2Ek:stra
+#15 oböjligt
+#45 
+#98 3736
+#99 4106
+#54 
+#97 mini
+
+#01 extra 2
+#31 mai but sar normalno
+#02 adv.
+#32 adverbo
+#04 mer än vanligt, ovanligt
+#07 köttet är extra billigt idag
+#37 o mas mai but lesni lo adžes
+#47 2439
+#14 2Ek:stra
+#98 3737
+#99 4107
+#54 
+#97 mini
+
+#01 extra~knäck
+#31 buči opral
+#02 subst.
+#32 substantivo
+#04 extraarbete (med extrainkomst)
+#05 vardagligt
+#35 džesesko
+#12 -knäcket -knäck -knäcken
+#14 2Ek:straknek:
+#98 3738
+#99 4108
+#54 
+#97 mini
+
+#01 extra~knäcker
+#31 kerel buči opral
+#02 verb
+#32 verbo
+#04 ha extraknäck
+#05 vardagligt
+#35 džesesko
+#08 han extraknäcker som brevsorterare
+#38 
+#48 308
+#10 A &
+#12 -knäckte -knäckt -knäck! -knäcka
+#14 2Ek:straknek:er
+#98 3739
+#99 4109
+#54 
+
+#01 extrakt
+#31 extrakto
+#02 subst.
+#32 substantivo
+#04 koncentrat (av en lösning)
+#11 likörextrakt
+#41 
+#51 1631
+#12 extraktet extrakt extrakten
+#14 ekstrAk:t
+#98 3740
+#99 4110
+#54 
+
+#01 extra~pris
+#31 mai lesni
+#02 subst.
+#32 substantivo
+#04 nedsatt pris under kortare tid
+#12 -priset -pris (el. -priser) -prisen (el. -priserna)
+#14 2Ek:strapri:s
+#98 3741
+#99 4111
+#54 
+
+#01 extrem
+#31 opral
+#02 adj.
+#32 adjektivo
+#04 överdriven, ytterlig
+#07 extrema åsikter
+#37 
+#47 2440
+#11 extrem~fall -et
+#41 
+#51 1632
+#12 extremt extrema
+#14 ekstrE:m
+#98 3742
+#99 4112
+#54 
+
+#01 extremist
+#31 extremisto
+#02 subst.
+#32 substantivo
+#04 person med extrema (politiska) åsikter
+#12 extremisten extremister
+#14 ekstremIs:t
+#98 3743
+#99 4113
+#54 zurales politikako opiniako manuš
+
+#01 eye~liner
+#31 farba pel jakha
+#02 subst.
+#32 substantivo
+#04 färg för sminkning av ögonen
+#05 engelska
+#35 engelšitsko/engležisko
+#12 eyelinern
+#14 Aj:lajner
+#98 3744
+#99 4114
+#54 
+
