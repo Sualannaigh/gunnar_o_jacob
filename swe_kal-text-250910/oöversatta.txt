@@ -1,0 +1,3089 @@
+#01 ABC-stridsmedel
+#01 AD 1
+#01 AD 2
+#01 ad notam
+#01 ADB
+#01 adderar
+#01 adoptiv~barn
+#01 adoptiv~förälder
+#01 adverbial
+#01 affektion
+#01 agar
+#01 AGB
+#01 agent
+#01 agerar
+#01 agn
+#01 agnar
+#01 AGS
+#01 aha-upplevelse
+#01 A-inkomst
+#01 ajö
+#01 A-kassa
+#01 akilles~häl
+#01 akne
+#01 aktar
+#01 akter
+#01 akter~seglad
+#01 aktie~bolag
+#01 aktivitets~ersättning
+#01 akuten
+#01 al
+#01 alabaster
+#01 Albanien
+#01 albanska
+#01 albanska
+#01 albino
+#01 alg
+#01 alias
+#01 alienation
+#01 alienerad
+#01 alkemi
+#01 alkov
+#01 all round
+#01 allegori
+#01 allemans~rätt
+#01 allena~rådande
+#01 allians~fri
+#01 allmosa
+#01 allmän
+#01 allmän
+#01 allmän advokatbyrå
+#01 allmän försäkring
+#01 allmän rättshjälp
+#01 allmän röstlängd
+#01 allmän tilläggspension
+#01 allmän~bildad
+#01 allmän~bildning
+#01 allmän~farlig
+#01 allmän~giltig
+#01 allmän~gods
+#01 Allmänna arvsfonden
+#01 Allmänna försäkringskassan
+#01 Allmänna reklamationsnämnden
+#01 allmänning
+#01 allmän~nyttig
+#01 allround
+#01 all~sidig
+#01 allsköns
+#01 allsvensk
+#01 Allsvenskan
+#01 allt 2
+#01 allt 3
+#01 allteftersom
+#01 alltiallo
+#01 alltid
+#01 alltifrån
+#01 alltjämt
+#01 alltnog
+#01 alltsamman(s)
+#01 allvarlig
+#01 allvarlig
+#01 alm
+#01 alpin
+#01 altare
+#01 alter ego
+#01 alternativ 2
+#01 alternativt
+#01 altruist
+#01 amason
+#01 amerikanare
+#01 amning
+#01 ampel 2
+#01 ampere
+#01 ampull
+#01 amulett
+#01 an
+#01 anakronism
+#01 analog
+#01 analogi
+#01 analys
+#01 anal~öppning
+#01 anamma
+#01 anamnes
+#01 anbelangar
+#01 andas
+#01 andas
+#01 andels~lägenhet
+#01 andemening
+#01 and~hämtning
+#01 and~lös
+#01 andning
+#01 andnings~organ
+#01 and~nöd
+#01 andrahands~värde
+#01 andrar
+#01 androgyn
+#01 anekdot
+#01 anemi
+#01 anfader
+#01 anfaller
+#01 anfang
+#01 an~fordran
+#01 anföll
+#01 ang
+#01 angelägen
+#01 angelägenhet
+#01 anger 1
+#01 anger 2
+#01 angett
+#01 angick
+#01 angiven
+#01 angriper
+#01 angör
+#01 anhopning
+#01 anhöll
+#01 animerad
+#01 anka
+#01 ankar
+#01 ankare
+#01 ank~damm
+#01 ankel
+#01 anklang
+#01 ankn
+#01 anknytnings~fall
+#01 ankrar
+#01 anlete
+#01 anländer
+#01 anlöper
+#01 anmäler
+#01 anmäler
+#01 anmälning
+#01 anmärker
+#01 annalkande 2
+#01 annekterar
+#01 annorlunda 2
+#01 annorstädes
+#01 anorak
+#01 anpassning
+#01 anpassnings~bidrag
+#01 anpassnings~grupp
+#01 anrikar
+#01 anseende
+#01 ansenlig
+#01 anslag
+#01 anslår
+#01 anslår
+#01 anslår
+#01 anspråkslös
+#01 anställnings~stöd
+#01 ansvars~frihet
+#01 ansökning
+#01 antagande~poäng
+#01 antagonist
+#01 antar 2
+#01 antar 3
+#01 anti~hjälte
+#01 antiken
+#01 anti~klimax
+#01 anti~kropp
+#01 antikvariat
+#01 antikverad
+#01 anti~semit
+#01 anti~septisk
+#01 antog
+#01 antologi
+#01 antropologi
+#01 antydan
+#01 anvisar
+#01 anvisning
+#01 användar~namn
+#01 användbar
+#01 apar efter
+#01 apparatur
+#01 appellerar
+#01 appendicit
+#01 appendix 1
+#01 appendix 2
+#01 applicerar
+#01 applikation
+#01 applikation
+#01 apport 2
+#01 apporterar
+#01 arab 2
+#01 Arabförbundet
+#01 arabiska
+#01 arbetar in
+#01 arbetar in
+#01 arbetar över
+#01 arbetar~kommun
+#01 arbetar~rörelse
+#01 arbetar~skydd
+#01 Arbetarskyddsnämnden
+#01 arbete
+#01 arbete
+#01 arbete
+#01 arbetsam
+#01 arbetsam
+#01 arbets~biträde
+#01 Arbetsdomstolen
+#01 arbets~för
+#01 arbets~förmedling
+#01 arbetsgivar~avgift
+#01 arbets~givare
+#01 Arbetsgivarverket
+#01 arbets~grupp
+#01 arbets~kraft
+#01 arbetslivs~erfarenhet
+#01 arbetslös~het
+#01 arbetslöshets~försäkring
+#01 arbetslöshets~kassa
+#01 arbets~marknad
+#01 arbetsmarknads~institut (AMI)
+#01 Arbetsmarknadsstyrelsen
+#01 arbetsmarknads~stöd
+#01 arbetsmarknads~utbildning
+#01 arbetsmiljölagen
+#01 Arbetsmiljöverket
+#01 arbets~namn
+#01 arbets~nedläggelse
+#01 arbets~plats
+#01 arbets~prövning
+#01 arbets~skada
+#01 arbetsskade~försäkring
+#01 arbets~skygg
+#01 arbets~styrka
+#01 arbets~tagare
+#01 arbets~terapeut
+#01 arbets~terapi
+#01 Arbetstidslagen
+#01 arbets~tillstånd
+#01 arbets~träning
+#01 arbets~vecka
+#01 arbets~vård
+#01 arbets~vägledare
+#01 arbets~vägledning
+#01 areal
+#01 arena
+#01 argumentation
+#01 argumenterar
+#01 aristokrati
+#01 ark 2
+#01 arkad
+#01 arkeologi
+#01 arketyp
+#01 arkitekt
+#01 arrangemang
+#01 arrangerar
+#01 arrangör
+#01 arrende
+#01 arrogant
+#01 art director
+#01 artificiell
+#01 artikel
+#01 art~namn
+#01 arvinge
+#01 arvlös
+#01 Arvsfonden
+#01 arv~skifte
+#01 arv~synd
+#01 arvtagare
+#01 as 2
+#01 asbest
+#01 asjett
+#01 ask
+#01 askar
+#01 A-skatt
+#01 asket
+#01 ask~fat
+#01 askonsdagen
+#01 asp
+#01 ass
+#01 assistent
+#01 aster
+#01 asterisk
+#01 AT
+#01 atlant-
+#01 Atlant~pakten
+#01 atmosfär
+#01 atom~kraft
+#01 atom~vapen
+#01 ATP
+#01 ATP-grundande inkomst
+#01 ATP-poäng
+#01 att.
+#01 attiralj
+#01 audio~visuell
+#01 auktoritär
+#01 automat~låda
+#01 autoritär
+#01 av 1
+#01 av 1
+#01 av 1
+#01 av 2
+#01 av 2
+#01 av 2
+#01 av 2
+#01 avbeställnings~sedel
+#01 avbetalnings~köp
+#01 avbräck
+#01 av~bytare
+#01 avd
+#01 avger
+#01 avgick
+#01 avgjorde
+#01 avgjort
+#01 AV-hjälpmedel
+#01 avig~sida
+#01 avklarar
+#01 avklädning
+#01 avkunnar
+#01 avlade
+#01 avlagt
+#01 avlat
+#01 avlelse
+#01 avslagit
+#01 avslog
+#01 avstänger
+#01 avsåg
+#01 avtackar
+#01 avtals~förhandling
+#01 avvänjning
+#01 avväpnar
+#01 babord
+#01 bad 1
+#01 bajonett~fattning
+#01 ballast
+#01 band~vagn
+#01 ban~hoppning
+#01 bank 1
+#01 bank 1
+#01 bank 1
+#01 bankett
+#01 bank~fack
+#01 bank~giro
+#01 bankrutt 2
+#01 bann~bulla
+#01 bannor
+#01 bar 1
+#01 barkass
+#01 barkis
+#01 barlast
+#01 barna~vård
+#01 barnavårds~central
+#01 barn~begränsning
+#01 barn~daghem
+#01 barn~förlamning
+#01 barn~koloni
+#01 barn~morska
+#01 barn~omsorg
+#01 barn~pension
+#01 barn~stuga
+#01 barn~tillsyn
+#01 barn~tillägg
+#01 barock 1
+#01 barock 1
+#01 barock 2
+#01 barometer
+#01 bas 2
+#01 bas~belopp
+#01 bas~fiol
+#01 bas~linje
+#01 bast
+#01 bastion
+#01 batik
+#01 batist
+#01 beatnik
+#01 becquerel (Bq)
+#01 bed
+#01 bedragit
+#01 bedrog
+#01 befann
+#01 befunnit
+#01 befäl
+#01 befästning
+#01 begett
+#01 begivenhet
+#01 begonia
+#01 begravnings~byrå
+#01 behandlar
+#01 behandlar
+#01 behandling
+#01 behandling
+#01 behaviorism
+#01 behovs~prövning
+#01 behållare
+#01 behöll
+#01 bekämpnings~medel
+#01 belackare
+#01 belastar
+#01 belastar
+#01 belgier
+#01 belyser
+#01 belysning
+#01 belägrar
+#01 belägrings~tillstånd
+#01 bemyndigande
+#01 berest
+#01 berg- och dal~bana
+#01 berg~rum
+#01 bergs~kedja
+#01 bergs~predikan
+#01 bergsprängare
+#01 bergsprängare
+#01 berlock
+#01 berså
+#01 berättare
+#01 berättigande
+#01 besittnings~skydd
+#01 beskattar
+#01 beskattning
+#01 beskrev
+#01 beslår
+#01 beslöt
+#01 bestiger
+#01 bestod
+#01 bestrålar
+#01 bestående
+#01 bestånd
+#01 bestånds~del
+#01 bet
+#01 betal~kurs
+#01 betalnings~föreläggande
+#01 betar
+#01 bete 1
+#01 betingad
+#01 betjänt 1
+#01 betjänt 2
+#01 betraktar
+#01 beträngd
+#01 bets
+#01 bett 1
+#01 betäcker
+#01 betäckning
+#01 betänklighet
+#01 bevis~börda
+#01 bevis~föring
+#01 bevänt
+#01 beväpnar
+#01 bh
+#01 bi~sexuell
+#01 biblio~grafi
+#01 bifokal~glas
+#01 billion
+#01 bit 2
+#01 bit~vis
+#01 bjälke
+#01 bjöd
+#01 björn~tjänst
+#01 black
+#01 blad
+#01 blasé
+#01 blaserad
+#01 blast
+#01 bleck
+#01 blev
+#01 blind~bock
+#01 blind~gångare
+#01 blind~skär
+#01 blind~tarm
+#01 blivit
+#01 blixt
+#01 blixtrar
+#01 block
+#01 block
+#01 block~flöjt
+#01 blod~hund
+#01 blod~pudding
+#01 bloss
+#01 blottare
+#01 blåsa
+#01 blå~sippa
+#01 blås~katarr
+#01 bläck
+#01 bo
+#01 bo
+#01 boa~orm
+#01 boarding~card
+#01 bobin
+#01 bock
+#01 bock
+#01 bock
+#01 bock
+#01 bockar
+#01 bockar
+#01 bockar
+#01 bod
+#01 bo~delning
+#01 body~building
+#01 boende
+#01 boett
+#01 bo~fast
+#01 bo~fink
+#01 bog 1
+#01 bog 2
+#01 bogserar
+#01 bohag
+#01 bohem
+#01 Bohuslän
+#01 boj
+#01 boja
+#01 bojkott
+#01 bojkottar
+#01 bok 1
+#01 bok 2
+#01 bok 2
+#01 bokar
+#01 bokar om
+#01 bok~buss
+#01 bokför
+#01 bok~föring
+#01 bok~handel
+#01 bok~hylla
+#01 bok~märke
+#01 bok~slut
+#01 bokstav
+#01 bokstaverar
+#01 bokstavlig
+#01 bokstavs~tro
+#01 bok~stöd
+#01 bolag
+#01 boliner
+#01 boll
+#01 bollar
+#01 boll~sinne
+#01 bolmar
+#01 bolm~ört
+#01 bolsjevik
+#01 bolster
+#01 bom
+#01 bom
+#01 bomb
+#01 bombar
+#01 bombarderar
+#01 bombastisk
+#01 bomb~matta
+#01 bombning
+#01 bomb~säker
+#01 bomb~säker
+#01 bommar
+#01 bommar
+#01 bomull
+#01 bonad
+#01 bonar
+#01 bonde
+#01 bonde
+#01 bond~fångare
+#01 bond~gård
+#01 bond~permis
+#01 bond~permission
+#01 bondsk
+#01 bond~vischan
+#01 boning
+#01 bonus
+#01 boom
+#01 boots
+#01 bor
+#01 bord
+#01 bordar
+#01 borde
+#01 bordell
+#01 bord~lägger
+#01 bord~läggning
+#01 bord~tennis
+#01 boren
+#01 borg
+#01 borgar
+#01 borgare
+#01 borgare
+#01 borgar~råd
+#01 borgen
+#01 borgenär
+#01 borgerlig
+#01 borgerlig
+#01 borgerlig
+#01 borg~mästare
+#01 borr
+#01 borrar
+#01 borrigg
+#01 borrning
+#01 borr~plattform
+#01 borr~torn
+#01 borst
+#01 borstar
+#01 borste
+#01 bort 1
+#01 bort 2
+#01 borta
+#01 bort~blåst
+#01 borterst
+#01 bort~fall
+#01 bort~förklarar
+#01 bort~gång
+#01 bort~kastad
+#01 bort~kommen
+#01 bortom
+#01 borto~varo
+#01 bortre
+#01 bort~rest
+#01 bort~ser
+#01 bort~skämd
+#01 bortåt 1
+#01 bortåt 2
+#01 bo~satt
+#01 boskap
+#01 bo~skifte
+#01 bo~skillnad
+#01 Bosnien
+#01 bosnier
+#01 bosnisk
+#01 bosniska
+#01 bosniska
+#01 bo~sparar
+#01 boss
+#01 bostad
+#01 bostads~anpassnings~bidrag
+#01 bostads~bidrag
+#01 bostads~domstol
+#01 bostads~förmedling
+#01 bostads~lån
+#01 bostads~rätt
+#01 bostadsrätts~förening
+#01 bostadsrätts~lägenhet
+#01 bostads~sparande
+#01 bostads~tillägg
+#01 bo~sätter sig
+#01 bo~sättning
+#01 bot 1
+#01 bot 2
+#01 botanik
+#01 botar
+#01 bote~medel
+#01 bot~färdig
+#01 botten
+#01 botten~lån
+#01 botten~napp
+#01 botten~skrap
+#01 botten~skrapar
+#01 bottnar
+#01 boulevard
+#01 bo~uppteckning
+#01 bo~utredning
+#01 bov
+#01 Boverket
+#01 bovete
+#01 bowling
+#01 box
+#01 boxare
+#01 boxas
+#01 boxning
+#01 bra 1
+#01 bra 2
+#01 bracka
+#01 bragd
+#01 brak
+#01 brakar
+#01 bralla
+#01 brallor
+#01 brand
+#01 brand~fackla
+#01 brand~försvar
+#01 brand~gul
+#01 brand~kår
+#01 brand~post
+#01 brand~tal
+#01 brand~varnare
+#01 brand~vägg
+#01 brann
+#01 bransch
+#01 brant 1
+#01 brant 2
+#01 braskande
+#01 brask~lapp
+#01 brass
+#01 brast
+#01 bravad
+#01 bredd
+#01 bred~sida
+#01 brer
+#01 briljans
+#01 briljant 1
+#01 briljant 2
+#01 briljerar
+#01 brillor
+#01 bringa
+#01 bringar
+#01 brink
+#01 brinner
+#01 BRIS
+#01 bris
+#01 briserar
+#01 brist
+#01 brister 1
+#01 brister 2
+#01 brist~fällig	
+#01 brist~yrke
+#01 brits
+#01 britt
+#01 brittisk
+#01 brittsommar
+#01 bro
+#01 broccoli
+#01 broder
+#01 broderar
+#01 broderskap
+#01 broiler
+#01 brokig
+#01 broms
+#01 broms
+#01 bromsar
+#01 bronkit
+#01 brons
+#01 brons~ålder
+#01 bror
+#01 brorsa
+#01 bror~son
+#01 brosch
+#01 broschyr
+#01 brosk
+#01 brott
+#01 brott
+#01 brott
+#01 brottare
+#01 brottas
+#01 brottning
+#01 brotts~balken
+#01 brottslighet
+#01 brott~stycke
+#01 brudtärna
+#01 bruk
+#01 brukar
+#01 bruklig
+#01 bruks~värde
+#01 bruna bönor
+#01 brunn
+#01 brunn
+#01 brunnit
+#01 brunst
+#01 brus~tablett
+#01 brusten
+#01 brustit
+#01 bruten
+#01 brutit
+#01 brutto~lön
+#01 brutto~nationalprodukt
+#01 brygga
+#01 brygga
+#01 bryggeri
+#01 brygg~malen
+#01 bryter 4
+#01 brytning
+#01 bråck
+#01 bräcker
+#01 bräck~järn
+#01 bräckt
+#01 bräd~seglar
+#01 brännboll
+#01 bränning
+#01 bränn~märker
+#01 bräsch
+#01 bröd~föda
+#01 bröt
+#01 bubbel~pool
+#01 bubbla
+#01 bucklig
+#01 bud~kavle
+#01 buffert
+#01 bukig
+#01 buk~landar
+#01 bukt 1
+#01 bukt 2
+#01 bulla
+#01 buller
+#01 buller~matta
+#01 bulletin
+#01 bullrig
+#01 bult
+#01 bulvan
+#01 bundit
+#01 bundsförvant
+#01 bunke
+#01 bunker
+#01 bunkrar
+#01 bunt
+#01 bur
+#01 burit
+#01 burlesk
+#01 burspråk
+#01 bush
+#01 buska~blyg
+#01 buskis
+#01 by
+#01 byffé
+#01 bygd
+#01 bygel
+#01 byggnads~förbud
+#01 byggnads~nämnd
+#01 byggnation
+#01 byig
+#01 bylte
+#01 byråkrati
+#01 byst
+#01 byte 1
+#01 byte 2
+#01 bytes~balans
+#01 bådar
+#01 båge
+#01 båge
+#01 båg~fil
+#01 bål 1
+#01 bålverk
+#01 bång
+#01 bås
+#01 bäbis
+#01 bäcken
+#01 bänder
+#01 bär 1
+#01 bär 2
+#01 bärgar
+#01 bärgar
+#01 bärgnings~bil
+#01 bärighet
+#01 bärighet
+#01 bäring
+#01 bärnsten
+#01 bärs
+#01 bärsärka~gång
+#01 bävan
+#01 bäver
+#01 böckling
+#01 bödel
+#01 böjlig
+#01 böjning
+#01 börd
+#01 bördig
+#01 bördig
+#01 börs 2
+#01 böter
+#01 bövel
+#01 cancerogen
+#01 cell~stoff
+#01 cirkel
+#01 civil
+#01 clipper
+#01 collect call
+#01 collie
+#01 copyright
+#01 copywriter
+#01 cykel 2
+#01 dags~böter
+#01 dag~traktamente
+#01 dag~understöd
+#01 dan
+#01 dar
+#01 data-, dator- 3
+#01 datt
+#01 de
+#01 debet~sedel
+#01 delta
+#01 del~tog
+#01 dem
+#01 dessa
+#01 detta
+#01 devis
+#01 dia
+#01 diafragma
+#01 diapositiv
+#01 diarium
+#01 dig
+#01 dill
+#01 dille
+#01 dipp
+#01 diskus
+#01 dobbleri
+#01 dolde
+#01 dolt
+#01 dom~kapitel
+#01 Downs syndrom
+#01 drager
+#01 dragg
+#01 draggar
+#01 dragit
+#01 dragnings~kraft
+#01 drev 1
+#01 driv~bänk
+#01 drivit
+#01 drupit
+#01 dykt
+#01 dyning
+#01 däck 1
+#01 dög
+#01 dök
+#01 döttrar
+#01 eder
+#01 eftersläntrare
+#01 eftersläpning
+#01 ego~tripp
+#01 eko-
+#01 element
+#01 ellips
+#01 enhet
+#01 etablissemang
+#01 ex-
+#01 expedition
+#01 familje~pension
+#01 fanfar
+#01 fantast
+#01 fantom
+#01 fars
+#01 fasett
+#01 fasetterad
+#01 fastighets~mäklare
+#01 fastlags~bulle
+#01 fastlags~söndagen
+#01 ferie~hem
+#01 fettisdag
+#01 fia
+#01 fisk~mås
+#01 fission
+#01 fjor
+#01 fjädring
+#01 fjäll
+#01 fjärd
+#01 fjärr~styrd
+#01 fjärr~värme
+#01 fjäskig
+#01 flagar
+#01 flagg~skepp
+#01 flagnar
+#01 flagrant
+#01 flammig
+#01 flamsk~vävnad
+#01 flat
+#01 flat
+#01 flata
+#01 flest(a)
+#01 flexar
+#01 flex~tid
+#01 flora
+#01 flotta
+#01 flottar
+#01 flottilj
+#01 flugit
+#01 flutit
+#01 flygel
+#01 flyttlass~politik
+#01 flöt
+#01 flöte
+#01 fnöske
+#01 fodral
+#01 fog 1
+#01 fog 2
+#01 fogde
+#01 fokus
+#01 folk~rörelse
+#01 for
+#01 formel
+#01 formell
+#01 fortplantar sig
+#01 fortskaffnings~medel
+#01 fosfat
+#01 fosfor
+#01 foster~barn
+#01 foster~förälder
+#01 foster~hem
+#01 foto-
+#01 foto~sättning
+#01 foxterrier
+#01 framfart
+#01 framfusig
+#01 framhärdar
+#01 framhäver
+#01 framkallning
+#01 frammarsch
+#01 framställning
+#01 framsynt
+#01 framträdande 2
+#01 framtvingar
+#01 framåtskridande
+#01 frans
+#01 frasar
+#01 frasig
+#01 freds~plikt
+#01 frekvens
+#01 friar
+#01 friggebod
+#01 fri~herre
+#01 fri~idrott
+#01 frikadeller
+#01 fri~kort
+#01 friktion
+#01 Frilufts~främjandet
+#01 frilufts~område
+#01 frimurare
+#01 frist
+#01 fritids~nämnd
+#01 fritis
+#01 fruktbar
+#01 fruktsam
+#01 frusit
+#01 Frälsningsarmen
+#01 fräs
+#01 fuffens
+#01 fullföljds~hänvisning
+#01 fullmakt
+#01 fullmäktige
+#01 funkis
+#01 funnit
+#01 fur
+#01 fura
+#01 furu
+#01 fusion
+#01 fyllnads-
+#01 fyr
+#01 fång
+#01 fält-
+#01 fält~assistent
+#01 fänrik
+#01 färd~tjänst
+#01 fästing
+#01 följe~slagare
+#01 föll
+#01 förankring
+#01 förband 1
+#01 förbaskat
+#01 förbjöd
+#01 förblev
+#01 förbundit
+#01 föregångare
+#01 föreslog
+#01 föreställning
+#01 företags~hälsovård
+#01 företrädesvis
+#01 förfrusit
+#01 förfrös
+#01 förföll
+#01 förgätmigej
+#01 förhåller sig
+#01 förkalkning
+#01 förkroppsligar
+#01 förlät
+#01 förmyndare
+#01 förnimmelse
+#01 förspel 1
+#01 förspel 2
+#01 försprång
+#01 förspänt
+#01 förstod
+#01 förstone
+#01 förstått
+#01 förstärkare
+#01 försurning
+#01 försvann
+#01 försvar
+#01 försvar
+#01 försvarlig
+#01 försvars~advokat
+#01 försvunnit
+#01 försynt
+#01 försåt
+#01 försåtlig
+#01 försäger sig
+#01 försäkran
+#01 försäkrar
+#01 försäkrings~besked
+#01 försäkrings~bolag
+#01 försäkrings~kassa
+#01 försäkrings~premie
+#01 försändelse
+#01 förtar sig
+#01 förtecken
+#01 förti
+#01 förtroende~uppdrag
+#01 förträngd
+#01 förtvivlan
+#01 förutfattad
+#01 förutsättning
+#01 förutsättnings~lös
+#01 förvalt värde
+#01 förvisning
+#01 förvärvs~källa
+#01 förvärvs~tillstånd
+#01 förväxling
+#01 förädling
+#01 föräldra~försäkring
+#01 föräldra~ledighet
+#01 föräldra~möte
+#01 föräldra~penning
+#01 förödande
+#01 fötter
+#01 gav
+#01 geniknöl
+#01 genomgick
+#01 gett
+#01 gick
+#01 Giftinformations~centralen
+#01 gifto~rätt
+#01 giftorätts~gods
+#01 ginväg
+#01 givit
+#01 gjort
+#01 gladde
+#01 gled
+#01 gniden
+#01 go 1
+#01 gol
+#01 gott 1
+#01 grannlåt
+#01 Granskningsnämnden
+#01 grekiska
+#01 gren
+#01 grensle
+#01 grep 1
+#01 grod~man
+#01 grod~perspektiv
+#01 grov~kök
+#01 grundvux
+#01 grynna
+#01 grå~daskig
+#01 gråtit
+#01 gräns~snitt
+#01 gräns~värde
+#01 gräs~rot
+#01 grät
+#01 gröt
+#01 grövre
+#01 grövst
+#01 gunga
+#01 gymping
+#01 gått
+#01 gänga
+#01 gängar
+#01 gäst~spel
+#01 göt
+#01 hackare
+#01 haft
+#01 handdator
+#01 hann
+#01 hanne
+#01 hans
+#01 harang
+#01 helst 1
+#01 hemsida
+#01 henne
+#01 hetat
+#01 hette
+#01 honom
+#01 horn
+#01 humle
+#01 hund~öra
+#01 hunnit
+#01 Hyresgästernas riksförbund
+#01 hyresgäst~förening
+#01 Hälso- och sjukvårdens ansvarsnämnd
+#01 händer 1
+#01 häst~väg
+#01 högg
+#01 högre
+#01 högst
+#01 hög~talare
+#01 höll
+#01 ibland 1
+#01 idag
+#01 ID-kort
+#01 ifrån 1
+#01 igenom 1
+#01 IKC
+#01 inbjöd
+#01 Industritjänstemannaförbundet
+#01 inga
+#01 inget
+#01 ingick
+#01 ingrep
+#01 ingått
+#01 in~lagd 1
+#01 innevånare
+#01 inräknad
+#01 inskriver
+#01 insåg
+#01 intagen 1
+#01 intog
+#01 intra~nät
+#01 invandrar
+#01 IT
+#01 jaha 1
+#01 jaha 2
+#01 jante~lag
+#01 jfr
+#01 jodå
+#01 jord~klot
+#01 jos
+#01 jovisst
+#01 jul~tomte
+#01 just 1
+#01 jäkel 1
+#01 jäkla
+#01 jäklar
+#01 jävla
+#01 jävlig
+#01 kafeteria
+#01 kallar in
+#01 kampar
+#01 kand
+#01 kavalkad
+#01 kex
+#01 kilo~gram
+#01 klev
+#01 klibbar
+#01 klibbig
+#01 kliche
+#01 klick 2
+#01 klickar
+#01 klient-server
+#01 klimakterium
+#01 klimp
+#01 klimpar sig
+#01 klingar
+#01 klirrar
+#01 klitoris
+#01 klocka
+#01 klorofyll
+#01 kloss
+#01 kloster
+#01 kluvit
+#01 klyscha
+#01 kläd~nypa
+#01 kläm~dag
+#01 klämmer
+#01 klämmer i
+#01 klämmig
+#01 klämtar
+#01 klänger
+#01 klänning
+#01 klättrar
+#01 klöv 1
+#01 klöv 2
+#01 klöver
+#01 klöver
+#01 knep 1
+#01 knutit
+#01 knåpar
+#01 knäck 1
+#01 knäck 2
+#01 knöt
+#01 koalition
+#01 kobbe
+#01 kobent
+#01 kodar
+#01 kodein
+#01 koffert
+#01 ko~fot
+#01 ko~fångare
+#01 ko~handel
+#01 kokett
+#01 kokong
+#01 kokos~flingor
+#01 kok~punkt
+#01 koks
+#01 kok~vrå
+#01 kol
+#01 kol~dioxid
+#01 kol~hydrat
+#01 kollegium 1
+#01 kollegium 2
+#01 kollektiv 1
+#01 kollektiv~anslutning
+#01 kollektiv~avtal
+#01 kollo
+#01 kolon
+#01 koloni~lott
+#01 kolonn
+#01 kolumn
+#01 kolv
+#01 kolv
+#01 kolv
+#01 kom
+#01 komma
+#01 kommando
+#01 kommunal rösträtt
+#01 kommunal~råd
+#01 kommun~fullmäktige
+#01 kommunikation
+#01 kommunikations~medel
+#01 kommunike
+#01 kommun~styrelse
+#01 komp
+#01 kompani 1
+#01 komparation
+#01 kompenserar
+#01 kompledig
+#01 komplex 2
+#01 komplott
+#01 komposition
+#01 komposition
+#01 kompromiss
+#01 komvux
+#01 koncentrat
+#01 koncern
+#01 kondens
+#01 kondenserar
+#01 kondis 2
+#01 kondom
+#01 konduktör
+#01 konfetti
+#01 konfirmand
+#01 konformism
+#01 konjunktur
+#01 konkav
+#01 konsekvent
+#01 konspiration
+#01 konspirerar
+#01 konst~hantverk
+#01 konstitution
+#01 konstitution
+#01 konstnärlig
+#01 Konsum
+#01 Konsumenternas försäkringsbyrå
+#01 konsumentköp~lagen
+#01 konsument~ombudsman
+#01 konsument~upplysning
+#01 kontakt~lins
+#01 kontenta
+#01 kontrabas
+#01 kontrahent
+#01 kontroll~besiktning
+#01 kontroll~uppgift
+#01 kontrovers
+#01 kontur
+#01 konvex
+#01 Kooperativa förbundet
+#01 koppar
+#01 koppel
+#01 koppling
+#01 koppor
+#01 kordong
+#01 kork
+#01 korn
+#01 Korpen
+#01 korp~idrott
+#01 korporation
+#01 korpral
+#01 korrektur
+#01 korrespondent
+#01 korrosion
+#01 korrugerad
+#01 korrupt
+#01 kors 2
+#01 kors~förhör
+#01 kors~ord
+#01 korta
+#01 kortege
+#01 korv~stoppning
+#01 kosmonaut
+#01 kotte
+#01 krabat
+#01 krabba
+#01 kraft
+#01 krage
+#01 krans
+#01 krasse
+#01 kratta
+#01 krattar
+#01 kravlar
+#01 kreatur
+#01 kredit 2
+#01 krematorium
+#01 kremering
+#01 kreti
+#01 krets~lopp
+#01 kring~går
+#01 kringgärdar
+#01 kristen
+#01 kristendom
+#01 kriterium
+#01 krok~ben
+#01 krom
+#01 kromosom
+#01 kronärt~skocka
+#01 kropp~kaka
+#01 kropps~byggare
+#01 kruka
+#01 kruk~växt
+#01 krumelur
+#01 krupit
+#01 krupp
+#01 krusbär
+#01 krusidull
+#01 krustad
+#01 krut~durk
+#01 kryllar
+#01 kryptisk
+#01 kryss
+#01 kryssar
+#01 kråka
+#01 krälar
+#01 kräpp
+#01 kräsen
+#01 kröker
+#01 krön
+#01 kröner
+#01 krönika
+#01 kröp
+#01 kub
+#01 kubb
+#01 kuk
+#01 kull
+#01 kul~lager
+#01 kuller~sten
+#01 kull~kastar
+#01 kul~penna
+#01 kul~ram
+#01 kulspets~penna
+#01 kul~spruta
+#01 kul~stötning
+#01 kulturminnes~märker
+#01 kultur~nämnd
+#01 kulvert
+#01 kummin
+#01 kunde
+#01 kunna
+#01 kunnat
+#01 kupa
+#01 kuperad
+#01 kupol
+#01 kurd
+#01 kurdisk
+#01 kurdiska
+#01 kurdiska
+#01 kurrar
+#01 kust
+#01 kutar
+#01 kuttrar
+#01 kuvert
+#01 kvackar
+#01 kvack~salvare
+#01 kvalificerad
+#01 kvalitativ
+#01 kvantitativ
+#01 kvarg
+#01 kvark
+#01 kvar~leva
+#01 kvar~skatt
+#01 kvart 1
+#01 kved
+#01 kvick~silver
+#01 kviga
+#01 kvinnosaks~kvinna
+#01 kvirr
+#01 kvist
+#01 kvitterar
+#01 kvittrar
+#01 kväker
+#01 kväve
+#01 kyrklig
+#01 kysk
+#01 kål~rot
+#01 kånkar
+#01 kåpa
+#01 kåpa
+#01 kåseri
+#01 kåsör
+#01 kåt
+#01 kåta
+#01 kägla
+#01 kälke
+#01 källare
+#01 kände
+#01 känne~tecknar
+#01 känning
+#01 känt
+#01 käpp~häst
+#01 kärl
+#01 kärn-
+#01 kärn~mjölk
+#01 käromål
+#01 kärring
+#01 kärve
+#01 kättare
+#01 kö
+#01 köns~organ
+#01 köns~sjukdom
+#01 köns~umgänge
+#01 köpe~avtal
+#01 körde
+#01 kört
+#01 körtel
+#01 la
+#01 labb 2
+#01 labb 3
+#01 labil
+#01 laboration
+#01 laboratorium
+#01 laborerar
+#01 labyrint
+#01 lack
+#01 lackar
+#01 lackerar
+#01 lacknafta
+#01 lada
+#01 laddning
+#01 lade
+#01 lag 3
+#01 lager 1
+#01 lager~blad
+#01 lager~krans
+#01 lagfart
+#01 lag~lott
+#01 lagning 1
+#01 lagt
+#01 lagård
+#01 land~krabba
+#01 Landsorganisationen
+#01 lapskojs
+#01 later
+#01 lathund
+#01 latin
+#01 lav
+#01 laxer~medel
+#01 leasar
+#01 leasing
+#01 led 1
+#01 leda
+#01 ledare
+#01 ledsagar
+#01 legat
+#01 lejd
+#01 lek
+#01 lek~man
+#01 lem
+#01 lett 1
+#01 lett 2
+#01 levat
+#01 levde
+#01 levt
+#01 lierar sig
+#01 ligg
+#01 like
+#01 likhet
+#01 liknande
+#01 liktorn
+#01 liktydig
+#01 likvärdig
+#01 lilja
+#01 lilla
+#01 lin
+#01 linda
+#01 lins
+#01 lirkar
+#01 listig
+#01 litet 1
+#01 litet 2
+#01 liv
+#01 Livsmedelsverket
+#01 ljumske
+#01 ljöd
+#01 ljög
+#01 lock 1
+#01 lockar
+#01 lock~bete
+#01 lockout
+#01 lod~streck
+#01 loft~gång
+#01 log
+#01 loge 2
+#01 lopp
+#01 lott 1
+#01 lotta
+#01 lov
+#01 lovande
+#01 LP
+#01 LRF
+#01 luddig
+#01 luftig
+#01 luft~rör
+#01 luft~strupe
+#01 luft~värn
+#01 lummig
+#01 lump
+#01 lumpen 1
+#01 lunta
+#01 lur 1
+#01 lur 2
+#01 lurvig
+#01 lussar
+#01 lusse~katt
+#01 lusta
+#01 lut 1
+#01 lut 2
+#01 luttrad
+#01 LVM
+#01 LVU
+#01 lydde
+#01 lydelse
+#01 lyhörd
+#01 lynnig
+#01 lyra
+#01 lyrisk
+#01 lyrisk
+#01 lyser
+#01 lyser
+#01 lysten
+#01 lyster
+#01 lystring
+#01 lytt
+#01 låg 1
+#01 låglöne~yrke
+#01 lång~grund
+#01 lång~körare
+#01 lång~randig
+#01 lång~vård
+#01 lä
+#01 läck
+#01 lägre
+#01 lägst
+#01 längd~hopp
+#01 längre 1
+#01 längre 2
+#01 längre 3
+#01 längst 1
+#01 längst 2
+#01 längst 3
+#01 länsar
+#01 läns~arbetsnämnd
+#01 läns~styrelse
+#01 lärka
+#01 läro~plan
+#01 läsk~papper
+#01 lät
+#01 läte
+#01 lättillgänglig
+#01 lättja
+#01 löd
+#01 löder
+#01 löje
+#01 löjtnant
+#01 löne~glidning
+#01 löning
+#01 lönlös
+#01 lönn
+#01 lönn-
+#01 löpare
+#01 löpeld
+#01 löper
+#01 lös~egendom
+#01 löss
+#01 mag
+#01 malm
+#01 mark 1
+#01 markis
+#01 Marknadsdomstolen
+#01 marknadsförings~lagen
+#01 marknads~pris
+#01 mark~tjänst
+#01 marsch
+#01 marskalk
+#01 marsvin
+#01 marxism
+#01 maska
+#01 maskara
+#01 maskros
+#01 masochist
+#01 massa
+#01 massaker
+#01 massakrerar
+#01 masserar
+#01 masturberar
+#01 matjessill
+#01 mat~rätt
+#01 matt 1
+#01 matte
+#01 MBL
+#01 med 2
+#01 med 2
+#01 medbestämmande~lagen
+#01 medelst
+#01 Medel~svensson
+#01 medfaren
+#01 medfödd
+#01 medför
+#01 medgörlig
+#01 medinflytande
+#01 meditation
+#01 medljud
+#01 medvetande
+#01 mej
+#01 mejeri
+#01 mejslar
+#01 melankoli
+#01 mellan~skillnad
+#01 mellan~ting
+#01 melodramatisk
+#01 mening
+#01 menings~skiljaktighet
+#01 mens
+#01 menstruation
+#01 mera
+#01 meriterar
+#01 mervärde~skatt
+#01 mesta
+#01 mestadels
+#01 metar
+#01 Migrationsverket
+#01 mikrovågs~ugn
+#01 militär~tjänstgöring
+#01 miljö
+#01 Miljöpartiet de Gröna
+#01 milli-
+#01 mil~stolpe
+#01 min 2
+#01 mindervärdes~komplex
+#01 mink
+#01 minspel
+#01 minst 2
+#01 minus 2
+#01 minut 2
+#01 missfoster
+#01 missgrepp
+#01 missgärning
+#01 missleder
+#01 misslyckande
+#01 missminner sig
+#01 misstroende~förklaring
+#01 misströstar
+#01 misstänksam
+#01 missuppfattning
+#01 mitella
+#01 mitt 1
+#01 mjugg
+#01 mjälte
+#01 mobb
+#01 mobiliserar
+#01 mockar
+#01 mode~lejon
+#01 modell
+#01 moderat 1
+#01 Moderata samlingspartiet
+#01 moder~bolag
+#01 moders~mål 2
+#01 moders~målselev
+#01 moders~målslärare
+#01 mod~fälld
+#01 molekyl
+#01 monogami
+#01 monoton
+#01 montage
+#01 moral
+#01 moralisk
+#01 moralkaka
+#01 morrar
+#01 morse~alfabet
+#01 mortel
+#01 morötter
+#01 mosaisk
+#01 mossa
+#01 mosse
+#01 mot
+#01 mot
+#01 motbjudande
+#01 motbok
+#01 motgift
+#01 motsols
+#01 motsvarighet
+#01 motsägelse
+#01 motsättning
+#01 mottagnings~bevis
+#01 motvind
+#01 mot~åtgärd
+#01 MS
+#01 MSU
+#01 muddrar
+#01 mule
+#01 mull
+#01 mullvad
+#01 multipel skleros
+#01 multiplicerar
+#01 mungiga
+#01 mungipa
+#01 murar
+#01 murgröna
+#01 mus
+#01 muskel
+#01 muskulatur
+#01 mygg
+#01 myntar
+#01 myr
+#01 myser
+#01 mysli
+#01 mystisk
+#01 mål~sättning
+#01 mån 1
+#01 månads~lön
+#01 månatlig
+#01 måne
+#01 mås
+#01 måste 1
+#01 mått
+#01 måtta
+#01 måtte
+#01 måtto
+#01 män
+#01 märke
+#01 märklig
+#01 mässing
+#01 mässings~instrument
+#01 mät
+#01 mödoms~hinna
+#01 mödrar
+#01 mödravårds~central
+#01 möglig
+#01 mönstrar
+#01 mört
+#01 möss
+#01 napalm
+#01 natt~kröken
+#01 natura~förmån
+#01 naturalisation
+#01 Naturvårdsverket
+#01 nav
+#01 navel~skådare
+#01 navel~sträng
+#01 nedlägger
+#01 nedläggning
+#01 nedstoppad
+#01 nedtrappning
+#01 nedärvd
+#01 neg
+#01 nejd
+#01 nejlika
+#01 nejlika
+#01 nektarin
+#01 ner
+#01 nervkittlande
+#01 neuro-
+#01 neuros
+#01 neurotisk
+#01 neutron~bomb
+#01 neutrum
+#01 niar
+#01 nid~bild
+#01 nidings~dåd
+#01 nisch
+#01 nisch
+#01 nisse
+#01 nit 2
+#01 nit 3
+#01 nitisk
+#01 nitning
+#01 nock
+#01 nod
+#01 noggrann
+#01 noll~taxerar
+#01 nomad
+#01 nomenklatur
+#01 nominell
+#01 nordan
+#01 normaliserar
+#01 norr~sken
+#01 not
+#01 not
+#01 notam
+#01 notarius publicus
+#01 noterar
+#01 notering
+#01 notis
+#01 nubbe
+#01 nudlar
+#01 numerär
+#01 numrerar
+#01 nunna
+#01 nupit
+#01 nyck
+#01 nyckel~ben
+#01 nylon
+#01 nyser
+#01 nystan
+#01 nystar
+#01 nåd
+#01 nådde
+#01 nådig
+#01 nådig
+#01 något 1
+#01 några
+#01 nånsin
+#01 nånstans
+#01 nånting
+#01 nått
+#01 nåväl
+#01 nä
+#01 näck 2
+#01 näck~ros
+#01 näktergal
+#01 nämnd
+#01 nämnde~man
+#01 nämn~värd
+#01 näpen
+#01 näppe
+#01 närapå
+#01 närgången
+#01 näring
+#01 närings~hjälp
+#01 närings~liv
+#01 närings~tillstånd
+#01 Närke
+#01 närmar sig
+#01 närmast 1
+#01 närvarande
+#01 näs
+#01 näs~borre
+#01 näs~bränna
+#01 nässla
+#01 näste
+#01 nästlar sig in
+#01 nätter
+#01 nät~etikett
+#01 nät~verk
+#01 nät~vett
+#01 nöd~bedd
+#01 nöd~fall
+#01 nöp
+#01 nös
+#01 nöt 1
+#01 nöter
+#01 nöt~knäckare
+#01 nöt~knäppare
+#01 nöt~skal
+#01 obelisk
+#01 obeställbar
+#01 obesvärad
+#01 obevandrad
+#01 obeveklig
+#01 oblat
+#01 obligation
+#01 oborstad
+#01 oborstad
+#01 observatör
+#01 ob-tillägg
+#01 obönhörlig
+#01 ocker
+#01 ockult
+#01 oefterhärmlig
+#01 oegentlighet
+#01 oerhört
+#01 oersättlig
+#01 ofantlig
+#01 offentligt biträde
+#01 offset
+#01 offshore
+#01 ofrånkomlig
+#01 oförenlig
+#01 oförmåga
+#01 oförställd
+#01 oförutsedd
+#01 ogenomtränglig
+#01 ohm
+#01 ohyra
+#01 ohämmad
+#01 ojämförlig
+#01 ojämn
+#01 ojävig
+#01 oklar
+#01 okonventionell
+#01 oktan~tal
+#01 oktan~värde
+#01 oktav
+#01 okuvlig
+#01 okynne
+#01 okänd
+#01 olag
+#01 olaga
+#01 olaglig
+#01 olidlig
+#01 olje~bälte
+#01 olje~plattform
+#01 ollon
+#01 ollon
+#01 olycks~bådande
+#01 olycks~fågel
+#01 olycks~korp
+#01 om 1
+#01 ombedes
+#01 ombildar
+#01 ombrytning
+#01 ombytlig
+#01 omdebatterad
+#01 omen
+#01 omgivning
+#01 omgång
+#01 omhuldar
+#01 omklädd
+#01 omkrets
+#01 omkväde
+#01 omröstning
+#01 omslag
+#01 omsorg
+#01 omsorgs~full
+#01 omsorgs~nämnd
+#01 omständighet
+#01 omstörtar
+#01 omsätter
+#01 omsättning
+#01 omtvistad
+#01 omvittnad
+#01 omvälver
+#01 omvänt sned~streck
+#01 omvärderar
+#01 omöblerad
+#01 onanerar
+#01 onani
+#01 ondo
+#01 onekligen
+#01 onåd
+#01 oomtvistlig
+#01 operatör
+#01 opium
+#01 opp
+#01 oppe
+#01 opponent
+#01 opportunist
+#01 opposition
+#01 opraktisk
+#01 orden
+#01 ord~följd
+#01 ord~klass
+#01 ordnings~vakt
+#01 oresonlig
+#01 organisk
+#01 orgasm
+#01 orientering
+#01 orientering
+#01 orienterings~ämne
+#01 ornament
+#01 oros~härd
+#01 orre
+#01 ortodox
+#01 ortoped
+#01 orörlig
+#01 osaklig
+#01 osammanhängande
+#01 oskuld
+#01 oskuld
+#01 oskälig
+#01 ost 1
+#01 ost 2
+#01 ostadig
+#01 ostlig
+#01 ostädad
+#01 osund
+#01 osv
+#01 osviklig
+#01 osvuren
+#01 osynlig
+#01 osäker
+#01 osäker
+#01 otakt
+#01 otalt
+#01 otillräknelig
+#01 otröstlig
+#01 otukt
+#01 otyg
+#01 oundgänglig
+#01 oundviklig
+#01 outhärdlig
+#01 outsider
+#01 oval
+#01 ovana
+#01 ovan~nämnd
+#01 ovation
+#01 overhead
+#01 overhead~projektor
+#01 overksam
+#01 ovetande
+#01 ozon
+#01 oä
+#01 oöverkomlig
+#01 oöverstiglig
+#01 pack 2
+#01 packning
+#01 paddel
+#01 paddlar
+#01 palaver
+#01 palisander
+#01 pall 1
+#01 pall 2
+#01 palsternacka
+#01 pamflett
+#01 panter
+#01 pantomim
+#01 pappers~exercis
+#01 pappers~kvarn
+#01 pappers~tiger
+#01 parabel
+#01 parad-
+#01 paradigm
+#01 paradox
+#01 paradoxal
+#01 parafras
+#01 paranoia
+#01 paraply
+#01 paraply~organisation
+#01 parodi
+#01 paroll
+#01 parti~färg
+#01 pass 2
+#01 passare
+#01 pass~form
+#01 passus
+#01 pastill
+#01 Patent- och registreringsverket
+#01 patiens
+#01 patriark
+#01 patriark
+#01 patriarkalisk
+#01 patron 2
+#01 patrullerar
+#01 PBU
+#01 PC
+#01 pedagogik
+#01 pedal
+#01 pediatrisk
+#01 pejlar
+#01 pelargonia
+#01 pendel
+#01 pendlar
+#01 pendyl
+#01 penetrerar
+#01 pennalism
+#01 pensionsgrundande inkomst
+#01 pensions~poäng
+#01 pensions~tillskott
+#01 pensionärs~biljett
+#01 pensionärs~hem
+#01 pep
+#01 permanent uppehållstillstånd
+#01 permittering
+#01 persedel
+#01 persienn
+#01 persiska
+#01 personal~omsättning
+#01 person~bevis
+#01 person~galleri
+#01 person~kemi
+#01 person~undersökning
+#01 pervers
+#01 pessar
+#01 petita
+#01 pH-värde
+#01 pick
+#01 pickar
+#01 piedestal
+#01 pietet
+#01 pigment
+#01 pikant
+#01 piket
+#01 pilgrim
+#01 pilot-
+#01 pimplar
+#01 pingla 1
+#01 pingla 2
+#01 pingst~lilja
+#01 pinn~hål
+#01 pion
+#01 pip 1
+#01 pipa
+#01 pipa
+#01 pipeline
+#01 pippar
+#01 pir
+#01 pirrar
+#01 pissoar
+#01 pistasch
+#01 pitt
+#01 pjoskar
+#01 pjäs
+#01 pladdrar
+#01 plagiat
+#01 plan 1
+#01 plank
+#01 plankton
+#01 plan~lösning
+#01 plansch
+#01 plask
+#01 plaskar
+#01 platonisk
+#01 platsar
+#01 platt
+#01 platt~form
+#01 platå
+#01 plenar~sammanträde
+#01 plenum
+#01 pliktar
+#01 pliktskyldigast
+#01 plisserad
+#01 ploj
+#01 plomb
+#01 plommonstop
+#01 plottrar
+#01 plottrig
+#01 plugg 1
+#01 plugg 2
+#01 plump 1
+#01 plunta
+#01 pluralism
+#01 pluralistisk
+#01 Plus~giro
+#01 plutonium
+#01 plysch
+#01 plån
+#01 plåt
+#01 plåt~slagare
+#01 pläd
+#01 plätt
+#01 pm
+#01 pneumatisk
+#01 pocket
+#01 pocket~bok
+#01 pol
+#01 pol
+#01 pol mag
+#01 polariserar
+#01 polemiserar
+#01 polemisk
+#01 polerad
+#01 polerar
+#01 poliklinik
+#01 polis~man
+#01 polisong
+#01 politiker~förakt
+#01 politruk
+#01 polityr
+#01 pollen
+#01 polo~tröja
+#01 polyglott
+#01 pomerans
+#01 pomp
+#01 populariserar
+#01 por
+#01 pormask
+#01 pornografi
+#01 pornografisk
+#01 porr
+#01 porslin
+#01 portfölj
+#01 portier
+#01 portmonnä
+#01 porträtt
+#01 porös
+#01 pose
+#01 positiv 2
+#01 positiv 3
+#01 possessiv
+#01 post 2
+#01 postering
+#01 post~förskott
+#01 postgymnasial
+#01 postogram
+#01 postorder~företag
+#01 postskriptum
+#01 postverket
+#01 potens
+#01 potential
+#01 potpurri
+#01 poäng 2
+#01 poäng~år
+#01 p-piller
+#01 PR
+#01 predikat
+#01 prefekt
+#01 preferens
+#01 prefix
+#01 prejudicerande
+#01 prejudikat
+#01 premie~obligation
+#01 premiss
+#01 premium 2
+#01 preparat
+#01 press
+#01 pressombudsmannen
+#01 press~release
+#01 prestige
+#01 pretendent
+#01 preventiv
+#01 prilla
+#01 primitiv
+#01 primör
+#01 principiell
+#01 prioritet
+#01 pris 2
+#01 pris~värd
+#01 PRO
+#01 produkt
+#01 produktivitet
+#01 profylaktisk
+#01 profylax
+#01 program~förklaring
+#01 programmerar
+#01 programmerare
+#01 progressiv
+#01 progressiv beskattning
+#01 projekterar
+#01 projektion
+#01 proklamerar
+#01 proletariat
+#01 proletär 2
+#01 promemoria
+#01 proportion
+#01 proportionell beskattning
+#01 prospekt
+#01 prostata
+#01 protege
+#01 protein
+#01 protektionism
+#01 prototyp
+#01 proviant
+#01 provinsiell
+#01 prov~rör
+#01 prov~stopp
+#01 prutmån
+#01 PRV
+#01 pryd
+#01 pryder
+#01 prydnad
+#01 prål
+#01 pråm
+#01 prånglar ut
+#01 präglar
+#01 prärie
+#01 präst~krage
+#01 präst~viger
+#01 prövande
+#01 PS
+#01 psoriasis
+#01 psykiska barn- och ungdomsvården
+#01 psyko~farmaka
+#01 psykosomatisk
+#01 psykoterapi
+#01 pubertet
+#01 public relations
+#01 publicist
+#01 publik~friande
+#01 puckel
+#01 pulka
+#01 pumpa
+#01 pumps
+#01 pung
+#01 pung
+#01 punk
+#01 punkt~skatt
+#01 punkt~skrift
+#01 puppa
+#01 puss
+#01 pussel~bit
+#01 pusslar
+#01 pustar
+#01 PUT
+#01 puts
+#01 pyroman
+#01 pyser
+#01 pyttipanna
+#01 påbrå
+#01 påbud
+#01 pådrag
+#01 påfallande
+#01 påfågel
+#01 påhäng
+#01 pålaga
+#01 pålar
+#01 pålägg
+#01 påminnelse
+#01 påpekar
+#01 påringning
+#01 påseende
+#01 påskina
+#01 påsk~lilja
+#01 påskrift
+#01 pås~lakan
+#01 pås~sjuka
+#01 påstridig
+#01 påtar sig
+#01 pärlemo(r)
+#01 rabies
+#01 rack
+#01 rackare
+#01 rackar~tyg
+#01 rad
+#01 ragnarök
+#01 raid
+#01 rama
+#01 ram~lag
+#01 ranger~bangård
+#01 ranka 1
+#01 ranka 2
+#01 rann
+#01 rannsakan
+#01 rappning
+#01 rebus
+#01 recension
+#01 recession
+#01 red
+#01 redd
+#01 rederi
+#01 referensränta
+#01 reflektion
+#01 reformation
+#01 refug
+#01 regal~skepp
+#01 regent
+#01 regerings~förklaring
+#01 register
+#01 reglage
+#01 regn~båge
+#01 rek
+#01 reklamationsnämnd
+#01 rekreations~hem
+#01 relativt
+#01 relik
+#01 reling
+#01 ren 2
+#01 rentav
+#01 repertoar
+#01 representation
+#01 reprimand
+#01 repro
+#01 reptil
+#01 resning
+#01 resonabel
+#01 respass
+#01 resår
+#01 reva
+#01 revelj
+#01 revisionism
+#01 revs
+#01 revy
+#01 RFSU
+#01 ribba
+#01 ridå
+#01 RIFFI
+#01 rigg
+#01 Riksförbundet för Sexuell Upplysning
+#01 Rikspolisstyrelsen
+#01 ringlar
+#01 ring~mur
+#01 ris 2
+#01 rit
+#01 rivalitet
+#01 rivit
+#01 rodde
+#01 roder
+#01 roffar
+#01 rom 3
+#01 romb
+#01 romsk
+#01 rondell
+#01 rosen~krans
+#01 rost 1
+#01 rost 2
+#01 rostig
+#01 rot~frukt
+#01 rott
+#01 rotting
+#01 rova
+#01 royalty
+#01 ruff 1
+#01 rulle
+#01 rull~skida
+#01 rums~ren
+#01 runnit
+#01 rustar
+#01 rustning
+#01 rustning
+#01 ruter
+#01 rutit
+#01 ruvar
+#01 rygg~tavla
+#01 Ryssland
+#01 RÅ
+#01 räddnings~planka
+#01 rädisa
+#01 räfst
+#01 räls~buss
+#01 ränn
+#01 ränn~sten
+#01 ränte~sats
+#01 rätte~snöre
+#01 rätt~skipning
+#01 rätts~medicin
+#01 räv~spel
+#01 röd~beta
+#01 rök 1
+#01 rön
+#01 rönn~bär
+#01 rör 1
+#01 rös 1
+#01 rös 2
+#01 röt
+#01 röt~månad
+#01 rött
+#01 rötter
+#01 S:t
+#01 sade
+#01 sagt
+#01 saknar
+#01 sakteliga
+#01 saktmod
+#01 salongs~fähig
+#01 salva
+#01 sam
+#01 sammanbrott
+#01 sammanfattningsvis
+#01 samvets~öm
+#01 sanitets-
+#01 sanktion
+#01 sannings~försäkran
+#01 satin
+#01 sats
+#01 sats~lära
+#01 satt 1
+#01 satte
+#01 sav
+#01 scenario
+#01 scenografi
+#01 scen~skola
+#01 schablon
+#01 schablon~avdrag
+#01 schabrak
+#01 schacknings~period
+#01 schal
+#01 schalett
+#01 scharlakans~feber
+#01 schottis
+#01 schyst
+#01 scooter
+#01 sedd
+#01 sedesam
+#01 sedlig
+#01 seedar
+#01 segdragen
+#01 segdragning
+#01 segel~bräda
+#01 segel~flyg
+#01 seglar
+#01 seglare
+#01 seglats
+#01 seg~livad
+#01 segnar
+#01 sej
+#01 sejour
+#01 sekret
+#01 semantisk
+#01 sen 1
+#01 sensation
+#01 sensmoral
+#01 sentens
+#01 sergeant
+#01 servar
+#01 service~bostad
+#01 service~näring
+#01 sesam
+#01 set
+#01 sett
+#01 sexa
+#01 shampo
+#01 shejk
+#01 showbusiness
+#01 sid~led
+#01 signalement
+#01 silhuett
+#01 simmig 2
+#01 singlar
+#01 sinne~lag
+#01 sinnes~frånvaro
+#01 sinnrik
+#01 sitt
+#01 sitter
+#01 sjok
+#01 sjuk~anmälan
+#01 sjuk~anmäler
+#01 sjuk~frånvaro
+#01 sjuk~försäkring
+#01 sjuk~gymnast
+#01 sjuk~gymnastik
+#01 sjukhus~sjuka
+#01 sjuk~intyg
+#01 sjuk~kassa
+#01 sjukpenning~försäkring
+#01 sjukpenning~grundande inkomst
+#01 sjukvårds~biträde
+#01 sjukvårds~ersättning
+#01 sjukvårds~huvudman
+#01 sjukvårds~tolk
+#01 sjutillhållar~lås
+#01 själv~deklaration
+#01 själv~förverkligande
+#01 själv~hävdelse
+#01 självkostnads~pris
+#01 själv~ständighet
+#01 självs~våld
+#01 själv~uppfyllande
+#01 själv~upptagen
+#01 själv~ändamål
+#01 sjöd
+#01 Sjöfartssektionen vid försäkringskassan
+#01 sjö~man
+#01 sjö~mil
+#01 sjöng
+#01 sjönk
+#01 skabb
+#01 skada
+#01 skadeslös
+#01 skadlig
+#01 skall 1
+#01 skalv 1
+#01 skam~påle
+#01 skandal
+#01 skandalös
+#01 skanderar
+#01 skanner
+#01 skar
+#01 skare
+#01 skarf
+#01 skarpen
+#01 skarp~sinne
+#01 skattar
+#01 skatte~kolumn
+#01 skatte~krona
+#01 skatte~medel
+#01 skatte~myndighet
+#01 skatte~planerar
+#01 skattepliktig inkomst
+#01 skatte~utjämning
+#01 skatte~återbäring
+#01 skatt~sedel
+#01 skedde
+#01 sken 1
+#01 sken 2
+#01 skenar
+#01 skenbar
+#01 skepnad
+#01 skepp
+#01 skeppar
+#01 skeppare
+#01 skepps~brott
+#01 skepps~bruten
+#01 skett
+#01 skida
+#01 skikt
+#01 skilde
+#01 skildes
+#01 skilje~dom
+#01 skilje~man
+#01 skilje~nämnd
+#01 skiljer sig 1
+#01 skiljer sig 2
+#01 skillnad
+#01 skilt
+#01 skilts
+#01 skinit
+#01 skinnar
+#01 skit-
+#01 skjutit
+#01 skock
+#01 skockar sig
+#01 skockas
+#01 skogsmulle~skola
+#01 skola 1
+#01 skolk
+#01 skolkar
+#01 skol~tandvård
+#01 skopa
+#01 skorpa
+#01 skorrar
+#01 skorv 2
+#01 skraltig
+#01 skrank
+#01 skrapa
+#01 skratt~retande
+#01 skred 2
+#01 skrek
+#01 skrev 1
+#01 skrev 2
+#01 skrikit
+#01 skrin
+#01 skritt
+#01 skrivit
+#01 skrock
+#01 skrot 1
+#01 skrotar
+#01 skrovlig
+#01 skrupel~fri
+#01 skrupler
+#01 skrutit
+#01 skrymmer
+#01 skrymsle
+#01 skrå
+#01 skrål
+#01 skrålar
+#01 skräck~slagen
+#01 skräder
+#01 skröna
+#01 skröt
+#01 skuld~satt
+#01 skull
+#01 skulle
+#01 skumpar
+#01 skurit
+#01 skvalp
+#01 skydds~instruktion
+#01 skyddsling
+#01 skydds~ombud
+#01 skydds~tillsyn
+#01 skyggar
+#01 skyldrar
+#01 skymtar
+#01 skyttel
+#01 skyttel~trafik
+#01 skämmer bort
+#01 skänk 1
+#01 skär 2
+#01 skär~gård
+#01 skärmar av
+#01 skärpa
+#01 skärs~eld
+#01 skönjer
+#01 skörde~tröska
+#01 skört
+#01 sköt
+#01 skötare
+#01 slagit
+#01 slagits
+#01 slag~kraft
+#01 slag~nummer
+#01 slag~verk
+#01 slank 1
+#01 slant 1
+#01 slapp 1
+#01 slem~hinna
+#01 slet
+#01 snutit
+#01 snår
+#01 snäpp
+#01 snärtig
+#01 snörper
+#01 snörvlar
+#01 snöt
+#01 soare
+#01 social~utskott
+#01 socken
+#01 sol-och-vår
+#01 som 2
+#01 sond
+#01 sond
+#01 sop~skyffel
+#01 sotare 2
+#01 sov
+#01 spann 1
+#01 spar
+#01 specimen
+#01 spene
+#01 spetsfundig
+#01 spinner
+#01 spirituell
+#01 sporre
+#01 sprack
+#01 sprang
+#01 spratt 1
+#01 spray
+#01 sprayar
+#01 spred
+#01 sprider
+#01 spritt 1
+#01 spruckit
+#01 sprungit
+#01 spunnit
+#01 spår~ämne
+#01 spått
+#01 spänner 1
+#01 spänst
+#01 spänstig
+#01 spär
+#01 stack 1
+#01 stal
+#01 stam-
+#01 stan
+#01 stank 1
+#01 stank 2
+#01 stare
+#01 Statens järnvägar
+#01 Statens naturvårdsverk
+#01 status
+#01 steg 1
+#01 sten~gods
+#01 steriliserar
+#01 stil
+#01 stil~enlig
+#01 stim 2
+#01 stint
+#01 stockning
+#01 stod 1
+#01 stod 2
+#01 stor~drift
+#01 strand~hugg
+#01 strandskydds~område
+#01 streber
+#01 streck
+#01 stred
+#01 strids~spets
+#01 stritt
+#01 strukit
+#01 stråk
+#01 stråke
+#01 strålning
+#01 sträck~bänk
+#01 strö~bröd
+#01 strök
+#01 strömlinje~formad
+#01 strömming
+#01 ströp
+#01 stubb 1
+#01 stubb 2
+#01 stuckit
+#01 studie~cirkel
+#01 studie~förbund
+#01 stulit
+#01 styrbord
+#01 styrman
+#01 ståndsmässig
+#01 stått
+#01 städer
+#01 stäm~band
+#01 stänger 1
+#01 stöp 1
+#01 stöp~sleven
+#01 störning
+#01 större
+#01 störst
+#01 stört~lopp
+#01 stött 1
+#01 stött 2
+#01 succession
+#01 sugit
+#01 summit
+#01 suttit
+#01 svada
+#01 svalde
+#01 svale
+#01 svalt 1
+#01 svalt 2
+#01 svamp
+#01 svarv
+#01 svarvar
+#01 sved
+#01 svek 1
+#01 sviker
+#01 svin~päls
+#01 svor
+#01 svultit
+#01 svurit
+#01 svärjer
+#01 svärm
+#01 svärmar
+#01 svärmar
+#01 syltar
+#01 symbol
+#01 synda~bock
+#01 synthesizer
+#01 syo-funktionär
+#01 syra
+#01 syren
+#01 syrsa
+#01 Systemet
+#01 syster~fartyg
+#01 syvende
+#01 såg 1
+#01 sålde
+#01 sålt
+#01 såtillvida
+#01 säjer
+#01 säl
+#01 sämre
+#01 sämst
+#01 sänder 1
+#01 särart
+#01 särling
+#01 särprägel
+#01 särpräglad
+#01 särskilt
+#01 sätt
+#01 sög
+#01 söner
+#01 söp
+#01 sörplar
+#01 tablå
+#01 talja
+#01 tandem~cykel
+#01 tand~lossning
+#01 tasslar
+#01 teg
+#01 telefon~kö
+#01 telefon~svarare
+#01 telefon~väktare
+#01 telning
+#01 tenta
+#01 test 2
+#01 text-TV
+#01 tigrinsk
+#01 tigrinska
+#01 tillflöde
+#01 tillfällighet
+#01 tillförsel
+#01 tillnärmelsevis
+#01 tillskyndare
+#01 tillsyns~lärare
+#01 tillval
+#01 tinne
+#01 tinner
+#01 tjatig
+#01 tjatter
+#01 tjattrar
+#01 tjyv 
+#01 tjänst~gjorde
+#01 tjänstgjort
+#01 tjöt
+#01 tomt~kö
+#01 tonnare
+#01 tonsill
+#01 ton~sättare
+#01 topografi
+#01 tork~huv
+#01 torpare
+#01 tova
+#01 transistor
+#01 travers
+#01 trissa
+#01 tron~följd
+#01 tryck~frihet
+#01 tråg
+#01 träda
+#01 trängst
+#01 tröskar
+#01 tröskel
+#01 tröt
+#01 Turkiet
+#01 tvär~snitt
+#01 täljare
+#01 tänder 1
+#01 tändning
+#01 tänd~stift
+#01 tänger
+#01 tänke~språk
+#01 täppa
+#01 tät 1
+#01 tätar
+#01 tätting
+#01 tö
+#01 töcken
+#01 törn
+#01 umgicks
+#01 umgänges~rätt
+#01 understatement
+#01 undgick
+#01 ungdoms~gård
+#01 ungdoms~vård
+#01 universal~arvinge
+#01 upparbetning
+#01 uppföljning
+#01 uppskruvad
+#01 upptagnings~område
+#01 uppvaktar
+#01 urladdning
+#01 ursprungligen
+#01 utlöpare
+#01 utpost
+#01 utsatte
+#01 utspädd
+#01 Valborg
+#01 Valborgsmässoafton
+#01 val~byrå
+#01 val~distrikt
+#01 val~fläsk
+#01 val~fri
+#01 valla
+#01 vallar
+#01 vallar
+#01 vallfart
+#01 valt
+#01 vande
+#01 vanföreställning
+#01 vant
+#01 var sin
+#01 varelse
+#01 varp
+#01 varslar
+#01 vartannat
+#01 varu~deklaration
+#01 vass 2
+#01 vatten~koppor
+#01 vatten~pass
+#01 vatten~stånd
+#01 vederlägger
+#01 vegetation
+#01 vek 1
+#01 velat
+#01 ven 1
+#01 Verkstadsindustrierna
+#01 vers
+#01 vessla
+#01 ville
+#01 visst 1
+#01 vore
+#01 vräker sig
+#01 våg~mästare
+#01 våras
+#01 vår~dagjämning
+#01 vårdnad
+#01 vårdnads~havare
+#01 vårdnads~utredning
+#01 vädur
+#01 vägnar
+#01 vägran
+#01 Vägverket
+#01 väldeliga
+#01 väljare
+#01 väljer
+#01 välkomst
+#01 välsorterad
+#01 vältrar
+#01 väluppfostrad
+#01 välvd
+#01 välver
+#01 välver sig
+#01 välvillig
+#01 vämjelig
+#01 väsen
+#01 väsensskild
+#01 västern
+#01 västgöte
+#01 väte
+#01 yngre
+#01 yrkes~orientering
+#01 yrkes~skada
+#01 yrkesskade~försäkring
+#01 ånger~blankett
+#01 åtagit
+#01 återbud
+#01 återstod 1
+#01 åtog
+#01 äldre, äldst
+#01 ämnes~omsättning
+#01 äntrar
+#01 öppen~vård
+#01 öppet köp
+#01 örlogs 
+#01 överbyggnad
+#01 överföll
+#01 överförmyndare
+#01 övergår
+#01 överliggare
+#01 överliggare
+#01 överljuds 
+#01 överraskning
+#01 överraskning
+#01 översikt
+#01 överskjutande skatt
+#01 översvämmar
+#01 översyn
+#01 översättning
+#01 övertagit
+#01 överträder
+#01 övertygande
+#01 övertygelse
+#01 övervarar
+#01 övervägande 2
