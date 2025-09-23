@@ -845,3 +845,27 @@ egrep -h -A1  -f /tmp/oöver.regex kelderasch/kelderasch_filer/text/*.txt | raku
 :   55 Array (= oöversatt)
 :    1 "#31 " ???
 
+*** viggo-kal.txt
+
+Ord där jag fick lägga till tomma metafält:
+!!! Sameland
+!!! samiska
+!!! SCB
+!!! Serbien
+!!! serbiska
+!!! Skkatteverket
+!!! snusar 
+!!! Socialdepartementet
+!!! Somalia
+!!! somalier
+!!! somalisk
+!!! somaliska
+!!! somaliska
+!!! Spanien
+!!! spanjorska
+!!! Statens livsmedelsverk (SLV)
+!!! svenska
+!!! Svenskt Näringsliv
+!!! Sverige 
+!!! Sveriges Radio AB 
+!!! Sveriges Television AB 
